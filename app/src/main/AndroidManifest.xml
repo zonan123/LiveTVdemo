@@ -1,8 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.mediatek.wwtv.tvcenter"
     xmlns:tools="http://schemas.android.com/tools"
-    android:versionCode="5"
-    android:versionName="2.30.5 build 18321512"
     android:sharedUserId="android.uid.system">
 
     <permission
