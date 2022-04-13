@@ -1,4 +1,0 @@
-#Wed Apr 13 13:50:44 CST 2022
-base.0=D\:\\zhounan\\zhounan_work\\M22\\LiveTV\\app\\build\\intermediates\\dex\\OptomaRelease\\mergeDexOptomaRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
