@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 30
-
+    buildToolsVersion "30.0.2"
     defaultConfig {
         applicationId "com.mediatek.wwtv.tvcenter"
         minSdkVersion 30
@@ -20,7 +20,6 @@ android {
     }
 
     signingConfigs {
-
         releaseConfig_Optoma {
             keyAlias "platform"
             keyPassword "android"
@@ -38,7 +37,6 @@ android {
 
     }
     productFlavors {
-
         Optoma {
             signingConfig signingConfigs.releaseConfig_Optoma
         }
@@ -56,15 +54,13 @@ android {
     sourceSets {
         main {
             res.srcDirs += "src/main/resources"
-            jniLibs.srcDirs = ['libs']
+//            jniLibs.srcDirs = ['libs']
         }
     }
-
 }
 
-
 dependencies {
-    implementation fileTree(include: ['*.aar'], dir: 'libs')
+//    implementation fileTree(include: ['*.aar'], dir: 'libs')
     implementation 'androidx.appcompat:appcompat:1.0.0'
 //    implementation 'androidx.leanback:leanback:1.0.0'
     implementation 'androidx.leanback:leanback-preference:1.0.0'
@@ -74,19 +70,37 @@ dependencies {
     implementation 'androidx.preference:preference:1.0.0'
     // alternatively - without Android dependencies for tests
     implementation 'androidx.paging:paging-runtime:2.1.0'
-    implementation files('libs\\systemui_lib-core.jar')
+
+    compileOnly project(path: ':framework')
+
+//    implementation files('libs\\systemui_lib-core.jar')
+    implementation project(path: ':systemui_lib-core')
     implementation 'androidx.palette:palette:1.0.0'
-    compileOnly files('libs\\MtkTvApiAidl.jar')
-    compileOnly files('libs\\mediatek_tv_ini.jar')
-    compileOnly files('libs\\mediatek_support_tv.jar')
-    compileOnly files('libs\\LiveTVRecommendation.jar')
-    compileOnly files('libs\\mediatek_support_sharecode.jar')
-    compileOnly files('libs\\mediatek_support_fvp.jar')
-    compileOnly files('libs\\mediatek_tv_ui.jar')
-    compileOnly files('libs\\internal_i_solution.jar')
-    compileOnly files('libs\\mediatek_mmp.jar')
-    compileOnly files('libs\\mtkaudiopatchmanager.jar')
-    compileOnly files('libs\\RxMdsClientNew.jar')
-    compileOnly files('libs\\squareup_leakcanary.jar')
-    compileOnly files('libs\\squareup_leakcanary_android_intermediates.jar')
+//    compileOnly files('libs\\MtkTvApiAidl.jar')
+    implementation project(path: ':MtkTvApiAidl')
+//    compileOnly files('libs\\mediatek_tv_ini.jar')
+    compileOnly project(path: ':mediatek_tv_ini')
+//    compileOnly files('libs\\mediatek_support_tv.jar')
+    compileOnly project(path: ':mediatek_support_tv')
+//    compileOnly files('libs\\LiveTVRecommendation.jar')
+    compileOnly project(path: ':LiveTVRecommendation') // FIXME WTF!! Android R.class !!
+//    compileOnly files('libs\\mediatek_support_sharecode.jar')
+//    implementation project(path: ':mediatek_support_sharecode')
+//    compileOnly files('libs\\mediatek_support_fvp.jar')
+    compileOnly project(path: ':mediatek_support_fvp')
+//    compileOnly files('libs\\mediatek_tv_ui.jar')
+    compileOnly project(path: ':mediatek_tv_ui')
+//    compileOnly files('libs\\internal_i_solution.jar')
+    implementation project(path: ':internal_i_solution')
+//    compileOnly files('libs\\mediatek_mmp.jar')
+    compileOnly project(path: ':mediatek_mmp')
+//    compileOnly files('libs\\mtkaudiopatchmanager.jar')
+    compileOnly project(path: ':mtkaudiopatchmanager')
+//    compileOnly files('libs\\RxMdsClientNew.jar')
+    compileOnly project(path: ':RxMdsClientNew')
+//    compileOnly files('libs\\squareup_leakcanary.jar')
+    compileOnly project(path: ':squareup_leakcanary')
+//    compileOnly files('libs\\squareup_leakcanary_android_intermediates.jar')
+    compileOnly project(path: ':squareup_leakcanary_android_intermediates')
+    implementation project(path: ':tvappview')
 }

@@ -7,6 +7,28 @@ dependencyResolutionManagement {
         maven {
             url = uri('https://repo.maven.apache.org/maven2/')
         }
+        fileTree(
+                dir: './app/libs', include: ['*.jar','*.aar']
+        )
     }
 }
+
 include ':app'
+include ':framework'
+include ':internal_i_solution'
+include ':LiveTVRecommendation'
+include ':mediatek_mmp'
+include ':mediatek_support_fvp'
+include ':mediatek_support_sharecode'
+include ':mediatek_support_tv'
+include ':mediatek_tv_ini'
+include ':mediatek_tv_ui'
+include ':mediatek_tvinputservice'
+include ':mtkaudiopatchmanager'
+include ':mtktvapi_agent_lib'
+include ':RxMdsClientNew'
+include ':squareup_leakcanary'
+include ':squareup_leakcanary_android_intermediates'
+include ':systemui_lib-core'
+include ':tvappview'
+include ':MtkTvApiAidl'
