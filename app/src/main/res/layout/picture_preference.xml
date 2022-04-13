@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="true"
+    android:orientation="horizontal"
+    android:paddingEnd="@dimen/lb_preference_item_padding_start"
+    android:paddingStart="@dimen/lb_preference_item_padding_start" 
+    android:minHeight="48dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="@dimen/lb_preference_item_icon_size"
+        android:layout_height="@dimen/lb_preference_item_icon_size"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/m7_logo_red_negativ"/>
+
+    <TextView
+        android:id="@+id/title_tx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textSize="14sp" 
+        android:textColor="@color/white"
+        android:text="@string/dvbs_operator_name_m7_fast_scan"/>
+
+</LinearLayout>

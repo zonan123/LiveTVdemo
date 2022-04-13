@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/simple_dialog_background" >
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/oad_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="112dp"
+            android:layout_marginTop="184dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/nav_oad_dialog_title"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="36sp" />
+
+        <TextView
+            android:id="@+id/oad_version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/oad_title"
+            android:layout_marginStart="112dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="Version"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <com.mediatek.wwtv.tvcenter.commonview.Loading
+            android:id="@+id/nav_oad_processing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/oad_title"
+            android:layout_toEndOf="@id/oad_title"
+            android:lineSpacingExtra="@dimen/setup_wizard_pad_foot"
+            android:minWidth="50dp"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/oad_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/oad_title"
+            android:layout_below="@id/oad_version"
+            android:layout_marginEnd="80dp"
+            android:layout_marginTop="16dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-condensed"
+            android:lineSpacingExtra="6dp"
+            android:text="description"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/gray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/oad_download_propgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@id/oad_title"
+            android:layout_below="@id/oad_description"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-condensed"
+            android:text="progress"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="232dp"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="112dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="184dp"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/oad_action_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:listSelector="@drawable/oad_action_list_background"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

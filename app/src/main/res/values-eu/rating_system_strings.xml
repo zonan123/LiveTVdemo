@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"<xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> urtetik gorakoentzat da gomendagarria."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Egokia ikus-entzule guztientzat. Programek indarkeria eta hizkera arina eta helduentzako egoerak izan ditzakete."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Egokia 13 urtetik gorakoentzat. Programek hizkera arina edo ertaina, indarkeria arina eta erreferentzia sexualak izan ditzakete."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Egokia 16 urtetik gorakoentzat. Baliteke programek indarkeria bortitzagoa, hizkera zakarragoa, biluztasun partziala eta sexu-erreferentzia moderatuak izatea."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Helduentzat bakarrik. Programek indarkeria bortitza, hizkera zakarra eta sexu-erreferentzia esplizituak dituzte."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Drogak"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sexu-harremanak"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Indarkeria"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"P gisa sailkatutako materiala Haur-hezkuntzako haurrei dago zuzenduta."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"C gisa sailkatutako materiala 14 urteko edo beherako haurrei dago zuzenduta (Haur-hezkuntzako haurrak ez direnak)."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Berez, G gisa sailkatutako materiala ez dago zuzenduta haurrei, baina arina izan behar du eta ezin du eduki haurrek gainbegiratzerik gabe ikusteko modukoa ez den gairik."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Baliteke PG gisa sailkatutako materialek helduen gaiak edo kontzeptuak izatea, baina arinak izan behar dira, haurrek gainbegiratuta ikusteko modukoak."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"M gisa sailkatutako materiala helduentzat da. 15 urtetik gorakoek soilik ikustea gomendatzen da."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"MA gisa sailkatutako materiala 15 urtetik gorakoentzat da egokia soilik, indarkeriaren, sexuaren, hizkera zakarraren, helduen gaien edo drogen erabileraren intentsitatea edota maiztasuna dela eta. Eragin handia izan lezake 15 urtetik beherakoengan."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"AV gisa sailkatutako materiala egokia da 15 urtetik gorakoentzat. Sailkapen hau duen materiala ezin da sailkatu MA gisa indarkeria bortitzegia edo maiztasun handiegiarekin duelako edo indarkeria oinarrizkoa delako traman. Gainerako alderdietan, sailkapenerako baldintzak MA sailkapenaren berak dira."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"R gisa sailkatutako materiala helduentzat da soilik, legez. Baliteke horrela sailkatutako material batzuk iraingarriak izatea heldu batzuentzat."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Ikusle orokorrak"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Ez da gomendagarria <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> urtetik beherakoentzat"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Drogak"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sexu-harremanak"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Indarkeria"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Sailkapenik behar ez duten programen adibideak: albisteak, kirolak, dokumentalak eta bestelako informazio-programak, elkarrizketa-programak, musika-bideoak eta barietate-programak."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"8 urtetik beherako ikusleei dago zuzenduta programa."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"8 urtetik gorako haurrei dago zuzenduta programa. 8 urtetik beherako haurrek sailkapen hau duten programak ikusiko badituzte, guraso edo tutore batekin batera ikustea gomendatzen da."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Adin-talde guztientzat da egokia programa, eta familia osoak ikus dezake."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Programa hau ikus-entzule guztientzat oro har egokia bada ere, baliteke ez izatea egokia haur gazteenentzat (8 urtetik beherakoak). Guraso eta tutoreek kontuan izan behar dute balitekeela 8-13 urteko haurrek gainbegiratzerik gabe ikusteko modukoa ez den edukia ere egotea."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Sailkapen hau duten programek 14 urtetik beherako ikusleentzat desegokiak izan daitezkeen gaiak edo edukia izan ditzakete. Gurasoei biziki gomendatzen zaie kontuz ibiltzeko halako programak guraso edo tutoreen gainbegiratzerik gabe ikusteko baimena ematean gaztetxoei; izan ere, programok modu oso errealistan trata ditzakete helduentzako gaiak edo gizarteko gaiak."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"18 urtetik gorako ikusleei dago zuzenduta programa hau."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Sailkapenetik salbuetsita dauden programak."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Programa egokia da edozein adinetako pertsonentzat. Baliteke G sailkapena duten programek 8 urtetik beherakoengan eragina izatea."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Programa egokia da ikus-entzule guztientzat, baina baliteke indarkeria arina edo aldizkakoa agertzea eta horrek haur txikiengan eragina izatea. Hori dela eta, gomendagarria da helduek haur txikiak (8 urtetik beherakoek) gainbegiratzea programok ikusten dituztenean."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Programa egokia da 13 urtetik gorakoentzat haurrentzat. 13 urtetik beherakoek ere ikus dezakete heldu batekin ikusten badute."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Programa egokia da 16 urtetik gorakoentzat. Sailkapen hau duten programek gai, egoera edo portaera arazotsuak dituzte, eta gauzekiko ikuspegi zorrotzagoa irudikatzen dute."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Programa egokia da 18 urtetik gorakoentzat. Helduentzako programek sexu-harreman esplizituak irudikatu ohi dituzte. Horrez gain, baliteke indarkeria handikoa, krudelkeria, tortura eta beldurrezko eszena hiperrealistak izatea."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Adin guztientzat gomendagarria da."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Haurrentzat gomendagarria da."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Helduentzat gomendagarria da."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programek ez dute eduki desegokirik; beraz, adin guztietakoek ikus dezakete."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programetako materiala desegokia izan liteke 7 urtetik beherakoentzat. Gurasoek erabaki beharko dute beren umeek ikus dezaketen ala ez."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programetako materiala desegokia izan liteke 12 urtetik beherakoentzat. Gurasoek erabaki beharko dute beren umeek ikus dezaketen ala ez."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programetako materiala desegokia izan liteke 15 urtetik beherakoentzat. Gurasoek erabaki beharko dute beren umeek erabil dezaketen ala ez."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programetako materiala desegokia izan liteke 19 urtetik beherakoentzat. Beraz, ez da egokitzat jotzen adin horretatik beherako gaztetxoentzat."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Egokia adin guztietako jendearentzat."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Egokia denentzat, baina gurasoek haurrak gainbegiratu beharko dituzte."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Egokia 13 urtetik gorakoentzat, baina gurasoek gainbegiratu egin beharko dituzte 13 urtetik beherakoak."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Egokia 16 urtetik gorakoentzat."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Egokia 18 urtetik gorakoentzat."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Egokia 21 urtetik gorakoentzat."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Egokia 3 eta 6 urte bitarteko haurrentzat."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Egokia 6 eta 12 urte bitarteko haurrentzat."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Egokia ikus-entzule guztientzat."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Egokia 13 urtetik gorakoentzat."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Egokia da 18 urtetik gorakoentzat. Gurasoen gainbegiratzea behar da 18 urtetik beherakoentzat."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Egokia helduentzat"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Elkarrizketa limurtzailea"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Hizkera zakarra"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Sexu-edukia"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Indarkeria"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Fantasiazko indarkeria"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Haur orok ikusteko diseinatuta dago programa."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"7 urtetik gorako haurrek ikusteko dago diseinatuta programa."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Guraso gehienek egokitzat joko lukete programa edozein adineko haurrentzat."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Programa honen edukia desegokitzat jo lezakete gurasoek gazteenentzat. Guraso askok haur gazteekin batera ikusi nahiko dute."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Programako materiala desegokitzat joko lukete guraso askok 14 urtetik beherako haurrentzat."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Helduentzat berariaz diseinatuta dago programa hau; beraz, baliteke desegokia izatea 17 urtetik beherako haurrentzat."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Ikusle guztientzat: gurasoak ez dira irainduta sentituko haurrek ikusten dutelako."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Gurasoak bertan egotea gomendatzen da. Gurasoek haur txikiek ikustea nahi ez duten edukia egon daiteke."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Gurasoentzako abisu garrantzitsua: baliteke zenbait eduki desegokiak izatea nerabeak baino gazteagoak diren haurrentzat."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Murriztuta. Helduentzako zenbait eduki ditu. Haurrak eraman aurretik, filmari buruzko informazioa lortzea gomendatzen zaie gurasoei."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Ezin da sartu 17 urtetik beherako inor. Helduentzat soilik. Ezin da sartu haurrik."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Egokia helduentzat"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"10 urtetik beherakoek ezin dute ikusi programa edo film hau."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Egokia adin guztietako jendearentzat."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"10 urtetik beherako haurrek programa edo film hau ikus dezakete, heldu batek lagunduta."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"13 urtetik beherakoek programa edo film hau ikus dezakete, baina heldu batekin ikusi behar dute."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"13 urtetik beherakoek ezin dute ikusi programa edo film hau."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"16 urtetik beherakoek ezin dute ikusi programa edo film hau."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"18 urtetik beherakoek ezin dute ikusi programa edo film hau."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"aukera hau muturreko sexu-izaera duten filmetarako da (pornografia)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Desaktibatuta"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blokeatu"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Urteak"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Adinaren araberako sailkapenak"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Edukien sailkapenak"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Zehaztu gabe"</string>
+</resources>

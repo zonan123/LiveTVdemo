@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingStart="30dp"
+	tools:ignore="RtlSymmetry">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:paddingEnd="10dp"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+		android:layout_marginEnd="10dp"
+		android:layout_toStartOf="@id/check_box"
+		tools:ignore="RtlSymmetry">
+
+	    <TextView
+	        android:id="@+id/epg_type_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+	        android:singleLine="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="2"
+	        android:textColor="@color/nav_channel_list_txt"
+	        android:textSize="@dimen/epg_type_item_ts" >
+	    </TextView>
+
+	    <TextView
+	        android:id="@+id/epg_sub_type_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+	        android:textColor="@color/epg_ts_grey_white"
+	        android:textSize="12sp"
+	        android:singleLine="true"
+	        android:ellipsize="marquee"
+	        android:marqueeRepeatLimit="2"
+	        android:visibility="gone" />
+
+    </LinearLayout>
+    
+   <CheckBox
+	       android:id="@+id/check_box"
+	       android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginEnd="40dp"
+	        android:button="@drawable/nav_epg_event_type_checkbox_selector"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+	        android:focusable="false"
+	        android:checked="false"
+	        android:scaleX="0.5"
+	        android:scaleY="0.5" />
+    
+</RelativeLayout>

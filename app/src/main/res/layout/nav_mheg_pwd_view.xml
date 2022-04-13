@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nav_infobar_basic_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/nav_mheg5_pwd_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="@dimen/nav_textsize_normal"
+        android:textColor="@color/white"/>
+
+    <LinearLayout
+    	android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        >
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:text="@string/nav_parent_psw"
+            android:textSize="@dimen/nav_textsize_normal"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_weight="2" />
+
+        <TextView
+            android:id="@+id/nav_mheg5_pwd_value"
+            android:background="@color/nav_parental_ed"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:gravity="center"
+            android:textSize="@dimen/nav_tv_pwd_ts"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_weight="5" />
+    </LinearLayout>
+</LinearLayout>

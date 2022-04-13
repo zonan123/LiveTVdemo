@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Диск није спреман!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Покретање личног видео рекордера није успело. Диск није спреман!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Датотека је направљена"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Покретање личног видео рекордера није успело. Прво изађите из режима слика у слици!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Покретање личног видео рекордера није успело. Прво промените дигитални ТВ избор!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Покретање личног видео рекордера није успело. Сигнал није пронађен!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Покретање личног видео рекордера није успело. Покренута је контрола времена."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV стрим није доступан!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Немате овлашћење за стрим!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Унос је закључан!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Грешка са резолуцијом видеа!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Интерна грешка!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Контрола времена није доступна. Прво изађите из личног видео рекордера."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Нема уређаја или уређаји нису доступни. Пробајте касније!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Зауставите лични видео рекордер, па сачувајте снимак."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Диск је искључен"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Пажња: Не искључујте уређај јер могу да се јаве неодређене грешке!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Нема довољно простора. Диск треба да има најмање 1 GB слободног простора."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Функција није подржана."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Узастопно премотавање није подржано."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Датотека није подржана."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Форматирањем се бришу сви подаци"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Да ли сте сигурни?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Датотека ће се избрисати."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Проверава се брзина"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Не искључујте уређај"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Форматирање диска је завршено"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Форматирање диска није успело"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Тест брзине је завршен"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Максимална брзина је "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Снима се!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Репродукција на личном видео рекордеру"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Контрола времена"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Започни снимање"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Заустави снимање"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Лични видео рекордер је покренут!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Желите ли да зауставите процес снимања \n и да уђете у водич за електронско програмирање?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Желите ли да зауставите контролу времена \n и да уђете у водич за електронско програмирање?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Желите ли да зауставите процес снимања \n и да промените канал?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Желите ли да зауставите процес снимања \n и да промените извор?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Желите ли да зауставите контролу времена \n и да промените канал?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Желите ли да зауставите контролу времена \n и да промените извор?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Желите ли да зауставите процес снимања \n и да уђете у PIP/POP режим?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Желите ли да зауставите контролу времена \n и да уђете у PIP/POP режим?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Желите ли да зауставите репродукцију на личном видео рекордеру \n и да уђете у PIP/POP режим?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Желите ли да зауставите контролу времена \n и да уђете на листу снимака?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Желите ли да уђете у PIP/POP режим?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Постоји заказано снимање"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"желите ли да зауставите снимање?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"желите ли да зауставите контролу времена?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Могло би доћи до прекида у приказу декодираног канала. Желите ли да наставите?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Упозорење"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Подешавање информација о уређају"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Форматирање брише све податке. Да ли сте сигурни?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Контрола времена снима."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Лични видео рекордер је покренут!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Репродукција на личном видео рекордеру је покренута!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Контрола времена није доступна"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Програм за тестирање брзине читања и писања за меморијски простор је покренут."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Заказано је снимање садржаја [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Желите ли да започнете снимање?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Име:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Имате подсетник за заказано снимање."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"желите ли да гледате тај канал?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Покушај снимања садржаја [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] није успео"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Снимање канала [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] није довршено. Недостаје <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> сек"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Део снимка је сачуван. Напајање је искључено током снимања."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Модел догађаја"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Временско програмирање"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Снимање путем сигнала"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"„Снимање путем сигнала“ не може да се измени"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Контрола времена је заустављена."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Снима се. Тест брзине није успео."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Контрола времена је покренута. Тест брзине није успео."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Приступ је одбијен. Тест брзине није успео."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Недовољно простора на диску. Тест брзине није успео."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Тест брзине није успео."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Премотавање унапред и уназад није подржано"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Дошло је до грешке током брисања ставке. Канал се снима"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Покренут је лични видео рекордер (PVR) или се репродукује његова датотека.\nЗауставите је, па пробајте поново."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Контрола времена је покренута.\nЗауставите је, па пробајте поново."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Тренутни канал није важећи."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Прослеђује се! Пробајте поново касније."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Премотава се уназад. Пробајте поново касније."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Запис контроле времена је пун и репродукција је аутоматска."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Није могуће пребацити се на претходни канал. \n Контрола времена и даље снима."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Неуспели или непотпуни снимци"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Делимично снимање, делимични снимак због губитка сигнала."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Делимично снимање, делимични снимак јер нема EIT-а."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Делимично снимање, делимични снимак јер нема EIT-а и дошло је до губитка сигнала."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Грешка у времену почетка. Садашње време је пре тренутног времена."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Недовољна дужина датотеке."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Тражено додавање распореда премашује максимални дозвољени број."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Желите ли да зауставите процес снимања \n и да промените тип канала?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Желите ли да зауставите контролу времена \n и да промените тип канала?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Током припреме снимања промена канала није дозвољена."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Форматирање"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Форматирање диска није успело. Снима се."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Форматирање диска није успело. Покренута је контрола времена."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Брзина је неважећа."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Форматира се. Сачекајте..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Премотавање унапред није подржано"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Премотавање уназад није подржано"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Брзина диска је ниска и подаци се одбацују"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"Нека заказана снимања нису успела или нису довршена."</string>
+</resources>

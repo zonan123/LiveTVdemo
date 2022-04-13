@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Dysk nie jest gotowy."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Nie udało się uruchomić nagrywarki. Dysk nie jest gotowy."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Plik został utworzony"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Nie udało się uruchomić nagrywarki. Najpierw wyłącz tryb PIP."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Nie udało się uruchomić nagrywarki. Zmień źródło sygnału na telewizję cyfrową."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Nie udało się uruchomić nagrywarki. Nie znaleziono sygnału."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Nie udało się uruchomić nagrywarki. Włączone jest przesunięcie w czasie."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Strumień audio/wideo nie jest gotowy."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Nieautoryzowany strumień."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Źródło sygnału jest zablokowane."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Błąd rozdzielczości wideo."</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Błąd wewnętrzny."</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Przesunięcie w czasie jest niedostępne. Najpierw wyłącz nagrywarkę."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Brak urządzeń lub urządzenia są niedostępne. Spróbuj później."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Zatrzymaj nagrywarkę, a potem zapisz nagranie."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Dysk został odłączony"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Uwaga: nie odłączaj urządzenia, w przeciwnym razie mogą wystąpić nieokreślone błędy."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Brak wystarczającej ilości miejsca. Na dysku powinien być co najmniej 1 GB wolnego miejsca."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Funkcja nie jest obsługiwana."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Ciągłe przewijanie nie jest obsługiwane."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Plik nie jest obsługiwany."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Formatowanie spowoduje usunięcie wszystkich danych."</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Na pewno?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Ten plik zostanie usunięty."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Trwa test szybkości"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Nie odłączaj urządzenia"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Dysk został sformatowany"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Nie udało się sformatować dysku"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Test szybkości został zakończony"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Maksymalna prędkość to "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Już to nagrywam."</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Odtwarzanie z nagrywarki"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Przesunięcie w czasie"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Rozpocznij nagrywanie"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Zatrzymaj nagrywanie"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Nagrywarka jest włączona."</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Czy chcesz zatrzymać nagrywanie\ni otworzyć elektroniczny przewodnik po programach?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Czy chcesz zatrzymać przesunięcie w czasie\ni otworzyć elektroniczny przewodnik po programach?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Czy chcesz zatrzymać nagrywanie\ni zmienić kanał?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Czy chcesz zatrzymać nagrywanie\ni zmienić źródło?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Czy chcesz zatrzymać przesunięcie w czasie\ni zmienić kanał?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Czy chcesz zatrzymać przesunięcie w czasie\ni zmienić źródło?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Czy chcesz zatrzymać nagrywanie\ni włączyć tryb PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Czy chcesz zatrzymać przesunięcie w czasie\ni włączyć tryb PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Czy chcesz zatrzymać odtwarzanie z nagrywarki\ni włączyć tryb PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Czy chcesz zatrzymać przesunięcie w czasie\ni otworzyć listę nagrań?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Włączyć tryb PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Jest zaplanowane nagrywanie"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"Czy chcesz rozpocząć nagrywanie?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"Czy chcesz zatrzymać przesunięcie w czasie?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Odkodowany kanał mógł spowodować przerwanie. Czy chcesz kontynuować?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Ostrzeżenie"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Ustawienie dotyczące informacji o urządzeniu"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Formatowanie spowoduje usunięcie wszystkich danych. Czy na pewno chcesz to zrobić?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Przesunięcie w czasie właśnie nagrywa."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Nagrywarka jest włączona."</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Uruchomione jest odtwarzanie z nagrywarki."</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Przesunięcie w czasie jest niedostępne"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Jest uruchomiony program testujący prędkość zapisu i odczytu na dysku."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Masz zaplanowane nagrywanie: [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Czy chcesz je rozpocząć?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Nazwa:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Istnieje zaplanowane przypomnienie."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"Czy chcesz oglądać ten kanał?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Próba nagrywania [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] się nie powiodła"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Nagrywanie kanału [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] skończyło się za wcześnie o <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> s"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Zapisano część nagrania. Podczas nagrywania zostało wyłączone zasilanie."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Model zdarzeń"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Programowanie czasowe"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Nagranie według sygnału"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Nie udało się zmodyfikować nagrania według sygnału"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Zatrzymano przesunięcie w czasie."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Obecnie trwa nagrywanie. Nie udało się przeprowadzić testu szybkości."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Włączone jest przesunięcie w czasie. Nie udało się przeprowadzić testu szybkości."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Odmowa dostępu. Nie udało się przeprowadzić testu szybkości."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Za mało miejsca na dysku. Nie udało się przeprowadzić testu szybkości."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Nie udało się przeprowadzić testu szybkości."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Przewijanie do przodu i do tyłu nie jest obsługiwane"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Podczas usuwania elementu wystąpił błąd. Trwa nagrywanie kanału."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Włączona jest nagrywarka lub trwa odtwarzanie nagranego pliku.\nZatrzymaj nagrywarkę i spróbuj ponownie."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Włączone jest przesunięcie w czasie.\nZatrzymaj tę funkcję i spróbuj ponownie."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Bieżący kanał jest nieprawidłowy."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Trwa przekazywanie. Spróbuj ponownie później."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Trwa przewijanie. Spróbuj ponownie później."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Pamięć na nagranie z przesunięciem w czasie jest pełna. Odtwarzam automatycznie."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Nie można zmienić kanału na wcześniejszy. \n Poza tym przesunięcie w czasie nadal nagrywa."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Nieudane lub niekompletne nagrania"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Częściowe nagranie – nie ukończono nagrywania z powodu utraty sygnału."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Częściowe nagranie – nie ukończono nagrywania z powodu braku EIT."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Częściowe nagranie – nie ukończono nagrywania z powodu braku EIT i utraty sygnału."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Błąd godziny rozpoczęcia. Godzina jest wcześniejsza niż aktualna."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Plik jest zbyt krótki."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Przekroczono dozwoloną liczbę harmonogramów, które można dodać."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Czy chcesz zatrzymać nagrywanie\ni zmienić typ kanału?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Czy chcesz zatrzymać przesunięcie w czasie\ni zmienić typ kanału?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Przełączanie kanałów jest niedozwolone podczas przygotowań do nagrywania."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formatuję"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Nie udało się sformatować dysku. Obecnie trwa nagrywanie."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Nie udało się sformatować dysku. Włączone jest przesunięcie w czasie."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Nieprawidłowa szybkość."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Zaczekaj, formatuję…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Przewijanie do przodu nie jest obsługiwane"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Przewijanie do tyłu nie jest obsługiwane"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Wolny dysk, odrzucenie danych"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"Niektóre zaplanowane nagrania nie powiodły się lub są niedokończone."</string>
+</resources>

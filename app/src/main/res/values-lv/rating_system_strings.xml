@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Ieteicams personām no <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> gadu vecuma."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Piemērots visām mērķauditorijām. Programmas var saturēt vieglas ietekmes vardarbību un rupju valodu, kā arī pieaugušajiem piemērotas situācijas."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Piemērots personām no 13 gadu vecuma. Programmas var saturēt viegli vai vidēji rupju valodu, kā arī vieglas ietekmes vardarbību un norādes uz seksuālu saturu."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Piemērots personām no 16 gadu vecuma. Programmas var saturēt intensīvāku vardarbību un rupju valodu, kā arī daļēju kailuma attēlojumu un mērenas ietekmes norādes uz seksuālu saturu."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Piemērots tikai pieaugušajiem. Pārraides satur spēcīgu vardarbību un rupju valodu, kā arī atklātu seksuālu saturu."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Narkotiskās vielas"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sekss"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Vardarbība"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Materiāls ar vērtējumu “P” ir domāts pirmsskolas vecuma bērniem."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Materiāls ar vērtējumu “C” ir paredzēts bērniem (kas nav pirmsskolas vecuma bērni), kas jaunāki par 14 gadiem."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Materiāls ar vērtējumu “G” nav īpaši paredzēts bērniem, taču tam ir ļoti vājas ietekmes saturs, kurā nevajadzētu būt nekam tādam, kādēļ bērni to nevarētu skatīties bez uzraudzības."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Materiāls ar vērtējumu “PG” var saturēt pieaugušajiem domātas tēmas vai jēdzienus, taču tam ir ļoti vājas ietekmes saturs, tādēļ pieaugušo uzraudzībā to var skatīties bērni."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Materiāls ar vērtējumu “M” ir domāts pieaugušajiem. Tas ir piemērots tikai skatītājiem, kas sasnieguši 15 gadu vecumu."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Materiāls ar vērtējumu “MA” ir piemērots skatītājiem, kas vecāki par 15 gadiem, jo tas satur spēcīgu un/vai biežu vardarbību, seksuālas ainas vai rupju valodu, kā arī pieaugušajiem domātas tēmas vai narkotiku lietošanu. Var būt spēcīga ietekme."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Materiāls ar vērtējumu “AV” ir piemērots tikai skatītājiem, kas vecāki par 15 gadiem. Tas neatbilst vērtējumam “MA” vardarbības ainu intensitātes un/vai biežuma dēļ vai arī tādēļ, ka vardarbība ir galvenā pārraides tēma. Citādā ziņā vērtējuma prasības ir tieši tādas pašas kā “MA” vērtējumam."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Materiālu ar vērtējumu “R” ar likumu atļauts demonstrēt tikai pieaugušajiem. Daļa materiāla ar vērtējumu “R” noteiktām pieaugušo kopienas daļām var šķist aizvainojoša."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Jebkurai auditorijai"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Nav ieteicams personām, kuras ir jaunākas par <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> gadiem."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Narkotiskās vielas"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sekss"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Vardarbība"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Šādas pārraides netiek klasificētas: ziņas, sporta pārraides, dokumentālās filmas un citas informatīvas pārraides, sarunu šovi, mūzikas videoklipi un varietē šovi."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Šī pārraide ir paredzēta bērniem, kas nav sasnieguši 8 gadu vecumu."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Šī pārraide ir paredzēta pusaudžiem no 8 gadu vecuma. Bērniem, kuri ir jaunāki par 8 gadiem, šādas klasifikācijas pārraidi ieteicams skatīties vecāku vai aizbildņa uzraudzībā."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Šī pārraide ir paredzēta visām vecuma grupām un ģimenēm."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Kaut gan šī pārraide ir paredzēta vispārējai mērķauditorijai, tā var nebūt piemērota maziem bērniem (jaunākiem par 8 gadiem). Vecākiem un aizbildņiem jāņem vērā, ka pārraides saturā var būt iekļauti tādi elementi, kurus noteikti skatītāji var uzskatīt par nepiemērotiem 8–13 gadus veciem bērniem bez pieaugušo uzraudzības."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Šajā klasifikācijā iekļauto pārraižu tēmas un saturs var nebūt piemērots skatītājiem, kas jaunāki par 14 gadiem. Vecākiem stingri ieteicams mazgadīgiem bērniem un bērniem agrā pusaudžu vecumā šādas pārraides ļaut skatīties tikai vecāka vai aizbildņa uzraudzībā, jo šīs klasifikācijas pārraidēs var tikt iekļautas pieaugušajiem paredzētas tēmas un sociāli jautājumi, kas atspoguļoti reālistiskā veidā."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Šī pārraide ir paredzēta skatītājiem no 18 gadu vecuma."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Pārraides nav klasificētas."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Pārraide ir piemērota visu vecuma grupu skatītājiem. Pārraides saturs ar vērtējumu “G” var būt aizvainojošs bērniem, kas jaunāki par 8 gadiem."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Šī pārraide ir piemērota plašai sabiedrībai, taču tā var saturēt vieglas ietekmes vai neregulāru vardarbību, kas var būt traucējoša bērniem. Šī iemesla dēļ bērniem (jaunākiem par 8 gadiem) to ieteicams skatīties vecāku uzraudzībā."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Šī pārraide ir piemērota skatītājiem, kas sasnieguši 13 gadu vecumu. Bērni, kas jaunāki par 13 gadiem, to var skatīties tikai pieaugušo uzraudzībā."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Šī pārraide ir piemērota skatītājiem, kas sasnieguši 16 gadu vecumu. Pārraides ar šo vērtējumu atspoguļo satraucošas tēmas, situācijas vai uzvedību, un tajās pausts tiešs viedoklis."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Šī pārraide ir piemērota skatītājiem, kas sasnieguši 18 gadu vecumu. Pārraides, kas paredzētas pieaugušajiem, visbiežāk satur necenzētas seksuālas ainas. Tāpat tās var saturēt īpaši vardarbīgas ainas, kurās rādīta pārspīlēta nežēlība, spīdzināšana un šausmas."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Ieteicams visām vecuma grupām."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Ieteicams bērniem."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Ieteicams pieaugušajiem."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Pārraides neietver noteiktām vecuma grupām nepiemērotu materiālu, tādējādi tās ir piemērotas visām vecuma grupām."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Pārraides var ietvert materiālu, kas nav piemērots bērniem līdz 7 gadu vecumam, tādējādi bērni drīkst tās skatīties pēc vecāku ieskatiem."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Pārraides var ietvert materiālu, kas nav piemērots bērniem līdz 12 gadu vecumam, tādējādi bērni drīkst tās skatīties pēc vecāku ieskatiem."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Pārraides var ietvert materiālu, kas nav piemērots personām līdz 15 gadu vecumam, tādējādi bērni un pusaudži drīkst tās skatīties pēc vecāku ieskatiem."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Pārraides var ietvert materiālu, kas nav piemērots personām līdz 19 gadu vecumam, tādējādi pārraides nav piemērotas pusaudžiem, kuri nav sasnieguši 19 gadu vecumu."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Piemērots visām vecuma grupām."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Piemērots visām mērķauditorijām, taču vecākiem ieteicams uzraudzīt bērnus."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Piemērots personām, kas ir sasniegušas 13 gadu vecumu. Bērniem, kas ir jaunāki par 13 gadiem, ieteicama vecāku uzraudzība."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Piemērots tikai personām, kas ir sasniegušas 16 gadu vecumu."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Piemērots tikai personām, kas ir sasniegušas 18 gadu vecumu."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Piemērots pieaugušajiem, kas ir sasnieguši 21 gada vecumu."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Piemērots bērniem no 3 līdz 6 gadu vecumam."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Piemērots bērniem no 6 līdz 12 gadu vecumam."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Piemērots visām mērķauditorijām."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Piemērots tikai personām, kas ir sasniegušas 13 gadu vecumu."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Piemērots personām, kuras ir sasniegušas 18 gadu vecumu. Personām, kuras nav sasniegušas 18 gadu vecumu, nepieciešama pieaugušo uzraudzība."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Piemērots pieaugušajiem"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Divdomīgs dialogs"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Rupja valoda"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Seksuāla rakstura saturs"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Vardarbība"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Fantāzijas veida vardarbība"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Šī pārraide ir paredzēta visu vecumu bērniem."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Šī pārraide ir paredzēta bērniem, kuri ir vismaz 7 gadus veci."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Lielākajai daļai vecāku šī pārraide var šķist piemērota visu vecumu bērniem."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Šajā programmā tiek rādīti materiāli, kas vecākiem var šķist nepiemēroti maziem bērniem. Vecākiem ieteicams to skatīties kopā ar bērniem."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Šajā pārraidē ir ietverti noteikti materiāli, kas daudziem vecākiem varētu šķist nepiemēroti bērniem līdz 14 gadu vecumam."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Šī pārraide ir paredzēta tikai pieaugušajiem, tādējādi tā var nebūt piemērota bērniem un pusaudžiem līdz 17 gadu vecumam."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Universāla auditorija. Vecāki neiebilstu, ka bērni redz šo saturu."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Ieteicama vecāku uzraudzība. Daļa materiālu var nebūt piemērota maziem bērniem."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Ļoti ieteicama vecāku uzraudzība. Daļa materiālu var nebūt piemērota bērniem, kas nav sasnieguši pusaudžu vecumu."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Ierobežots, ietver pieaugušajiem paredzētu materiālu. Vecākiem ieteicams izpētīt filmu, pirms ļaut bērniem to skatīties."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Nav paredzēts personām līdz 17 gadu vecumam. Tikai pieaugušajiem, noteikti nav paredzēts bērniem."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Piemērots pieaugušajiem"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Bērniem, kas jaunāki par 10 gadiem, ir aizliegts skatīties šo pārraidi/filmu."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Piemērots visām vecuma grupām."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Bērni, kas jaunāki par 10 gadiem, var skatīties šo pārraidi, taču tiem jābūt pieaugušo uzraudzībā."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Bērni, kas jaunāki par 13 gadiem, var skatīties šo pārraidi, taču tiem jābūt pieaugušo uzraudzībā."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Bērniem, kas jaunāki par 13 gadiem, ir aizliegts skatīties šo pārraidi/filmu."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Bērniem, kas jaunāki par 16 gadiem, ir aizliegts skatīties šo pārraidi/filmu."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Bērniem, kas jaunāki par 18 gadiem, ir aizliegts skatīties šo pārraidi/filmu."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"Šis ir paredzēts īpaši seksuāla rakstura filmām un pārraidēm (pornogrāfijai)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Izsl."</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Bloķēt"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Gadi"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Vecuma ierobežojumi"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Satura vērtējumi"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Nav noteikts"</string>
+</resources>

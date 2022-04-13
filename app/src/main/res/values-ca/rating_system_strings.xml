@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Recomanat per a majors de <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> anys."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Apte per a tots els públics. Pot ser que els programes continguin violència lleu, llenguatge moderat i alguna situació per a adults."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Apte per a majors de 13 anys. Els programes poden contenir llenguatge inadequat o moderat, a més de violència i referències sexuals lleus."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Apte per a majors de 16 anys. Els programes poden contenir violència més intensa, llenguatge vulgar, nuesa parcial i referències sexuals moderades."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"No apte per a menors. Els programes contenen violència dura, llenguatge vulgar i referències sexuals explícites."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Drogues"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sexe"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Violència"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"El material que es classifica com a P està pensat per a nens de preescolar."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"El material que es classifica com a C està pensat per a nens menors de 14 anys, però no per a preescolars."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"El material que es classifica com a G no està pensat necessàriament per a nens, però ha de tenir un impacte molt lleu i no pot tractar cap tema que pugui no ser adequat per als nens que el vegin sense supervisió."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"El material classificat com a PG pot contenir temes o conceptes per a adults, però ha de tenir un impacte lleu i ser adequat perquè el vegin nens sota la supervisió d\'un adult."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"El material que es classifica com a M està dirigit a un públic madur. Es recomana que només el vegin majors de 15 anys."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"El material classificat com a MA només és apte per als majors de 15 anys a causa de la intensitat o la freqüència amb què hi apareix contingut violent, escenes sexuals, llenguatge vulgar, temes per a adults o consum de drogues. És possible que produeixi un fort impacte."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"El material que es classifica com a AV només és apte per a majors de 15 anys. No entra dins de la classificació MA a causa de la intensitat o la freqüència amb què s\'hi mostra violència, o perquè la violència n\'és un dels eixos principals. Pel que fa a la resta d\'aspectes, els requisits són els mateixos que els de la classificació MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"El material classificat com a R està restringit legalment als adults. És possible que part d\'aquest material sigui ofensiu per a determinats sectors de la comunitat adulta."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Apte per a tots els públics"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"No recomanats per a menors de <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Drogues"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sexe"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Violència"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"La programació sense restricció d\'edat inclou: les notícies, els esports, els documentals i altres programes informatius, així com programes d\'entrevistes, vídeos musicals i programació variada."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Aquesta programació està pensada per a nens menors de 8 anys."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Aquesta programació està pensada per a nens a partir dels 8 anys. En cas que els nens siguin menors de 8 anys, es recomana que un dels pares o el tutor vegi amb ells la programació que tingui assignada a aquesta classificació."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Aquesta programació està pensada per a tots els grups d\'edat i perquè la pugui veure tota la família."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Aquesta programació, malgrat que està pensada per a un públic general, pot ser no apte per a nens petits (menors de 8 anys). Els pares o tutors han de tenir en compte que pot incloure contingut que es podria considerar inadequat per als nens d\'entre 8 i 13 anys sense supervisió."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"La programació amb aquesta classificació conté temes o contingut que poden no ser aptes per a espectadors menors de 14 anys. Es recomana que els pares decideixin si els preadolescents i els adolescents poden veure aquests continguts sense la supervisió dels pares o els tutors legals, ja que aquesta programació podria tractar temes per a adults i problemes socials d\'una manera realista."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Aquesta programació està pensada per a espectadors majors de 18 anys."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programes que no necessiten classificació."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"El programa és adequat per a persones de totes les edats. És possible que els programes classificats com a G fereixin la sensibilitat dels menors de 8 anys."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"El programa és apte per a tots els públics, però pot ser que de vegades s\'hi mostri violència lleu que pot molestar els nens. Per tant, es recomana que els menors de 8 anys els vegin sota la supervisió d\'un adult."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"El programa és adequat per a majors de 13 anys. Els menors d\'aquesta edat poden veure\'l si estan acompanyats d\'un adult."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"El programa és adequat per a majors de 16 anys. Els programes amb aquesta classificació contenen temes, situacions o comportaments problemàtics, que s\'aborden amb una perspectiva directa."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"El programa és adequat per a majors de 18 anys. Els programes per a adults sovint representen relacions amb contingut sexual explícit. També és possible que siguin extremament violents i mostrin escenes hiperreals de crueltat, tortura i terror."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Recomanat per a totes les edats."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Recomanat per als nens."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Recomanat per als adults."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Els programes no contenen material inadequat per a cap edat i, per tant, són aptes per a tothom."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Els programes poden contenir material inadequat per a nens menors de 7 anys i, per tant, els pares han de decidir si els menors d\'aquesta edat els poden mirar."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Els programes poden contenir material inadequat per a menors de 12 anys i, per tant, els pares han de decidir si els menors d\'aquesta edat els poden mirar."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Els programes poden contenir material inadequat per a menors de 15 anys i, per tant, els pares han de decidir si els menors d\'aquesta edat els poden mirar."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Els programes poden contenir material inadequat per a menors de 19 anys i, per tant, no són aptes per a menors d\'aquesta edat."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Apte per a totes les edats."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Apte per a tots els públics, però els pares han de supervisar els fills."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Apte per a majors de 13 anys, però es recomana la supervisió parental per als menors d\'aquesta edat."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Apte per a majors de 16 anys."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Apte per a majors de 18 anys."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Apte per a majors de 21 anys."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Apte per a nens de 3 a 6 anys."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Apte per a nens de 6 a 12 anys."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Apte per a tots els públics."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Apte per a majors de 13 anys."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Apte per a majors de 18 anys, però es necessita supervisió parental per als menors d\'aquesta edat."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Apte per a adults"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Diàlegs suggeridors"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Llenguatge vulgar"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Contingut sexual"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Violència"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Violència fantàstica"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"El programa està concebut perquè el puguin mirar nens de totes les edats."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"El programa està concebut perquè el mirin nens a partir dels 7 anys."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"La majoria dels pares poden considerar que el programa és apte per a totes les edats."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"El programa conté material que els pares poden considerar poc adequat per als nens petits. És possible que molts pares el vulguin veure amb ells."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"El programa conté material que molts pares poden considerar inadequat per als menors de 14 anys."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"El programa s\'ha concebut específicament per al públic adult i, per tant, es pot considerar poc adequat per als nens menors de 17 anys."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Tots els públics. No té contingut que pugui resultar ofensiu per al públic menor d\'edat."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Es recomana supervisió parental. Pot contenir material que no sigui adequat per al públic infantil."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Es recomana supervisió parental. És possible que contingui material inadequat per al públic preadolescent."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Contingut restringit; conté material per a adults. Cal que els pares s\'informin sobre el contingut de la pel·lícula abans d\'anar-la a veure amb menors d\'edat."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"No apte per a menors de 17 anys. Contingut clarament per a adults i no apte per a nens."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Apte per a adults"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Està prohibit que els menors de 10 anys vegin aquest programa o pel·lícula."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Apte per a totes les edats."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Els menors de 10 anys poden veure aquest programa o pel·lícula, però els ha d\'acompanyar un adult."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Els menors de 13 anys poden veure aquest programa o pel·lícula, però els ha d\'acompanyar un adult."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Està prohibit que els menors de 13 anys vegin aquest programa o pel·lícula."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Està prohibit que els menors de 16 anys vegin aquest programa o pel·lícula."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Està prohibit que els menors de 18 anys vegin aquest programa o pel·lícula."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"es reserva per a pel·lícules de naturalesa extremament sexual (és a dir, pornografia)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Desactivat"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Bloqueja"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Anys"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Classificacions per edat"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Classificacions del contingut"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Sense definir"</string>
+</resources>

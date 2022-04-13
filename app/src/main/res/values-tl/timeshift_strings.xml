@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Hindi handa ang disk!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Hindi nasimulan ang PVR. Hindi handa ang disk!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Matagumpay na Nagawa ang File"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Hindi nasimulan ang PVR. Lumabas Muna sa PIP!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Hindi nasimulan ang PVR. Lumipat Muna sa Source na Digital TV!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Hindi nasimulan ang PVR. Walang Nahanap na Signal!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Hindi nasimulan ang PVR. Tumatakbo ang Timeshift!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Hindi Available ang AV Stream!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Hindi Pinapahintulutan ang Stream!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Naka-lock ang Input!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Error sa Resolution ng Video!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Internal na Error!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Hindi Available ang Timeshift. Lumabas Muna sa PVR!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Walang Device o Hindi Available ang Mga Device. Subukan sa Ibang Pagkakataon!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Ihinto ang PVR at pagkatapos ay i-save ang record."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Nadiskonekta ang Disk"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Paunawa: Huwag i-unplug ang device, o baka magdulot ito ng mga hindi natukoy na error!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Walang sapat na espasyo. Dapat ay may hindi bababa sa 1 GB ng bakanteng espasyo ang disk."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Hindi sinusuportahan ang feature."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Hindi sinusuportahan ang pagpapatuloy sa pag-seek."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Hindi sinusuportahan ang file."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Mabubura ang lahat ng data kapag nag-format"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Sigurado ka ba?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Made-delete ang file na ito."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Kasalukuyang Sinusuri ang Bilis"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Huwag i-unplug ang device"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Tapos na ang Pag-format sa Disk"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Hindi Na-format ang Disk"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Tapos na ang Pagsusuri sa Bilis"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Ang maximum na bilis ay "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Nagre-record!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Pag-playback ng PVR"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Timeshift"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Simulan ang Pag-record"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Ihinto ang Pag-record"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Tumatakbo ang PVR!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Gusto mo bang ihinto ang proseso ng pag-record,\n at buksan ang EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa EPG?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Gusto mo bang ihinto ang proseso ng pag-record, \n at lumipat ng channel?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Gusto mo bang ihinto ang proseso ng pag-record,\n at palitan ang source?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Gusto mo bang ihinto ang Timeshift,\n at lumipat ng channel?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Gusto mo bang ihinto ang Timeshift,\n at palitan ang source?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Gusto mo bang ihinto ang proseo ng pag-record,\n at pumasok sa PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Gusto mo bang ihinto ang pag-playback ng PVR,\n at pumasok sa PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa listahan ng record?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Gusto mo bang pumasok sa PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"May nakaiskedyul na record"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"gusto mo bang simulan ang pag-record?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"gusto mo bang ihinto ang Timeshift?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Puwedeng makaabala ang naka-descramble na channel, gusto mo bang magpatuloy?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Babala"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Setting ng Impormasyon ng Device"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Buburahin ng pag-format ang lahat ng data, Sigurado ka ba?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Nagre-record ang Timeshift!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Gumagana ang PVR!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Gumagana ang pag-playback ng PVR!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Hindi available ang Timeshift"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Gumagana ang programa para subukan ang bilis ng pag-read at pag-write ng storage."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"May nakaiskedyul na pag-record [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>], gusto mo bang magsimula ng pag-record?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Pangalan:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"May nakaiskedyul na paalala."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"gusto mo bang panoorin ang channel na iyon?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Hindi nagtagumpay ang pagsubok na pag-record sa [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>]"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Hindi natapos ang pag-record ng [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] nang <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> (na) segundo"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Na-save ang bahagi ng recording. Na-off ang power habang nagre-record."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Modelo ng Event"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Pagtatakda ng Oras ng Programming"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Pag-record na Sinusuportahan ng Signal"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Hindi mae-edit ang \'Pag-record na Sinusuportahan ng Signal\'"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Huminto ang Timeshift."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Nagre-record! Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Tumatakbo ang Timeshift! Hindi naisagawa ang Speed Test!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Tinanggihan ang access. Hindi naisagawa ang speed test!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Hindi sapat na espasyo ng disk! Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Hindi sinusuportahan ang fastforward at rewind"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Nagka-error habang nagde-delete ng item, nagre-record ang channel."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Tumatakbo ang PVR o may nagpe-play na PVR file.\nPakihinto ito, pagkatapos ay subukan ito ulit!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Tumatakbo ang Timeshift.\nPakihinto ito, pagkatapos ay subukan ito ulit!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Invalid ang kasalukuyang channel."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Ipinapasa! Pakisubukan ulit sa ibang pagkakataon."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Nire-rewind! Pakisubukan ulit sa ibang pagkakataon."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Puno na ang record ng Timeshift, at auto play."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Walang pre-channel na puwedeng ilipat! \n At nagre-record pa ang Timeshift."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Mga pumalya o hindi kumpletong recording"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Putol ang recording, naputol ang pag-record dahil nawalan ng signal!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Putol ang recording, naputol ang pag-record dahil walang EIT!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Putol ang recording, naputol ang pag-record dahil walang EIT at nawalan ng signal!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Nagka-error sa oras ng pagsisimula, ang oras ngayon ay nauuna sa kasalukuyang oras!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Kulang ang haba ng file!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Lumampas na sa maximum na pinapayagan ang hinihiling na pagdaragdag ng iskedyul!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Gusto mo bang ihinto ang proseso ng pag-record, \n at baguhin ang uri ng channel?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Gusto mo bang ihinto ang Timeshift,\n at baguhin ang uri ng channel?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Hindi pinapayagan ang paglipat ng channel habang naghahandang mag-record."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Pag-format"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Hindi Na-format ang Disk. Nagre-record!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Hindi Na-format ang Disk. Tumatakbo ang Timeshift!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Invalid ang bilis!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Nagfo-format! Maghintay..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Hindi sinusuportahan ang pag-fastforward"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Hindi sinusuportahan ang pag-rewind"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Mabagal ang disk at i-discard ang data"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"hindi nagtagumpay o hindi natapos ang ilang nakaiskedyul na pag-record!"</string>
+</resources>

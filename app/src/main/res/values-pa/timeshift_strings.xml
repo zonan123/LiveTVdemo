@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"ਡਿਸਕ ਤਿਆਰ ਨਹੀਂ ਹੈ!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਡਿਸਕ ਤਿਆਰ ਨਹੀਂ ਹੈ!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ਫ਼ਾਈਲ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਈ ਗਈ"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਪਹਿਲਾਂ PIP ਮੋਡ ਤੋਂ ਬਾਹਰ ਜਾਓ!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਪਹਿਲਾਂ ਡਿਜੀਟਲ ਟੀਵੀ ਸਰੋਤ ਨੂੰ ਬਦਲੋ!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਕੋਈ ਸਿਗਨਲ ਨਹੀਂ ਮਿਲਿਆ!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਚੱਲ ਰਹੀ ਹੈ!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV ਸਟ੍ਰੀਮ ਉਪਲਬਧ ਨਹੀਂ ਹੈ!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"ਸਟ੍ਰੀਮ ਨੂੰ ਰਿਕਾਰਡ ਕਰਨ ਦਾ ਅਧਿਕਾਰ ਨਹੀਂ ਹੈ!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"ਇਨਪੁੱਟ ਨੂੰ ਲਾਕ ਕੀਤਾ ਗਿਆ!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"ਵੀਡੀਓ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਗੜਬੜ!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"ਅੰਦਰੂਨੀ ਗੜਬੜ!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਪਹਿਲਾਂ PVR ਤੋਂ ਬਾਹਰ ਜਾਓ!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"ਕੋਈ ਡੀਵਾਈਸ ਨਹੀਂ ਜਾਂ ਡੀਵਾਈਸ ਉਪਲਬਧ ਨਹੀਂ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR ਨੂੰ ਬੰਦ ਕਰਕੇ ਰਿਕਾਰਡ ਨੂੰ ਰੱਖਿਅਤ ਕਰੋ।"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"ਡਿਸਕ ਨੂੰ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਗਿਆ"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ਧਿਆਨ ਦਿਓ: ਡੀਵਾਈਸ ਨੂੰ ਬੰਦ ਨਾ ਕਰੋ, ਨਹੀਂ ਤਾਂ ਅਨਿਸ਼ਚਿਤ ਗੜਬੜਾਂ ਹੋ ਸਕਦੀਆਂ ਹਨ!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"ਲੋੜੀਂਦੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ। ਡਿਸਕ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1GB ਖਾਲੀ ਜਗ੍ਹਾ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"ਖੋਜ ਜਾਰੀ ਰੱਖਣਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ਫ਼ਾਈਲ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ।"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ਵੰਨਗੀਕਰਨ ਕਰਨ ਨਾਲ ਸਾਰਾ ਡਾਟਾ ਮਿਟ ਜਾਵੇਗਾ"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"ਪੱਕਾ?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"ਫ਼ਾਈਲ ਮਿਟਾ ਦਿੱਤੀ ਜਾਵੇਗੀ।"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"ਗਤੀ ਜਾਂਚ ਚੱਲ ਰਹੀ ਹੈ"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"ਡੀਵਾਈਸ ਨੂੰ ਬੰਦ ਨਾ ਕਰੋ"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"ਡਿਸਕ ਦਾ ਵੰਨਗੀਕਰਨ ਪੂਰਾ ਹੋਇਆ"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"ਡਿਸਕ ਦਾ ਵੰਨਗੀਕਰਨ ਅਸਫਲ ਰਿਹਾ"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"ਗਤੀ ਜਾਂਚ ਪੂਰੀ ਹੋਈ"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"ਵੱਧ ਤੋਂ ਵੱਧ ਗਤੀ ਇਹ ਹੈ "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR ਪਲੇਬੈਕ"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰੋ"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR ਚੱਲ ਰਿਹਾ ਹੈ!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਪ੍ਰਕਿਰਿਆ ਬੰਦ ਕਰਨਾ\n ਅਤੇ  EPG ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ EPG ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਪ੍ਰਕਿਰਿਆ ਬੰਦ ਕਰਨਾ \n ਅਤੇ ਚੈਨਲ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਪ੍ਰਕਿਰਿਆ ਬੰਦ ਕਰਨਾ\n ਅਤੇ ਸਰੋਤ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ ਚੈਨਲ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ ਸਰੋਤ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਪ੍ਰਕਿਰਿਆ ਬੰਦ ਕਰਨਾ\n ਅਤੇ PIP/POP ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ PIP/POP ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"ਕੀ ਤੁਸੀਂ PVR ਪਲੇਬੈਕ ਬੰਦ ਕਰਨਾ\n ਅਤੇ PIP/POP ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ ਰਿਕਾਰਡ ਸੂਚੀ ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"ਕੀ ਤੁਸੀਂ PIP/POP ਦਾਖਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"ਇਹ ਨਿਯਤ ਕੀਤਾ ਰਿਕਾਰਡ ਹੈ"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"ਡਿਸਕ੍ਰੈਂਬਲ ਚੈਨਲ ਰੁਕਾਵਟ ਪਾ ਸਕਦਾ ਹੈ, ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"ਚਿਤਾਵਨੀ"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"ਡੀਵਾਈਸ ਜਾਣਕਾਰੀ ਸੈਟਿੰਗ"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ਫਾਰਮੈਟਿੰਗ ਨਾਲ ਸਾਰਾ ਡਾਟਾ ਮਿਟ ਜਾਵੇਗਾ, ਪੱਕਾ?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਚੱਲ ਰਹੀ ਹੈ!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR ਚੱਲ ਰਿਹਾ ਹੈ!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR ਪਲੇਬੈਕ ਚੱਲ ਰਿਹਾ ਹੈ!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਉਪਲਬਧ ਨਹੀਂ ਹੈ"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"ਸਟੋਰੇਜ ਦੀ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਦੀ ਗਤੀ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਪ੍ਰੋਗਰਾਮ ਚੱਲ ਰਿਹਾ ਹੈ।"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/ਸਕਿੰਟ"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"[<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] ਲਈ ਰਿਕਾਰਡਿੰਗ ਨਿਯਤ ਕੀਤੀ ਗਈ ਹੈ, ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"ਨਾਮ:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"ਇੱਕ ਨਿਯਤ ਕੀਤੀ ਯਾਦ-ਸੂਚਨਾ ਹੈ।"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"ਕੀ ਤੁਸੀਂ ਉਸ ਚੈਨਲ ਨੂੰ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] ਲਈ ਰਿਕਾਰਡਿੰਗ ਦੀ ਕੋਸ਼ਿਸ਼ ਅਸਫਲ ਹੋਈ"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] ਦੀ ਰਿਕਾਰਡਿੰਗ <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> ਸਕਿੰਟਾਂ ਲਈ ਅਧੂਰੀ ਹੈ"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"ਰਿਕਾਰਡਿੰਗ ਦੇ ਹਿੱਸੇ ਨੂੰ ਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ। ਰਿਕਾਰਡਿੰਗ ਦੌਰਾਨ ਪਾਵਰ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਸੀ।"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"ਇਵੈਂਟ ਮਾਡਲ"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"ਟਾਈਮਿੰਗ ਪ੍ਰੋਗਰਾਮਿੰਗ"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"ਸਿਗਨਲ ਸਮਰਥਿਤ ਰਿਕਾਰਡਿੰਗਾਂ"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'ਸਿਗਨਲ ਸਮਰਥਿਤ ਰਿਕਾਰਡਿੰਗ\' ਦਾ ਸੰਪਾਦਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕੀਤੀ ਗਈ।"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ! ਗਤੀ ਟੈਸਟ ਅਸਫਲ ਰਿਹਾ!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਚੱਲ ਰਹੀ ਹੈ! ਗਤੀ ਟੈਸਟ ਅਸਫਲ ਰਿਹਾ!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"ਪਹੁੰਚ ਅਸਵੀਕਾਰ ਕੀਤੀ ਗਈ। ਗਤੀ ਟੈਸਟ ਅਸਫਲ ਰਿਹਾ!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"ਡਿਸਕ ਵਿੱਚ ਲੋੜੀਂਦੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ! ਗਤੀ ਟੈਸਟ ਅਸਫਲ ਰਿਹਾ!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"ਗਤੀ ਟੈਸਟ ਅਸਫਲ ਰਿਹਾ!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"ਤੇਜ਼ੀ ਨਾਲ ਅੱਗੇ ਅਤੇ ਪਿੱਛੇ ਕਰਨਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"ਆਈਟਮ ਮਿਟਾਉਣ ਦੌਰਾਨ ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ, ਚੈਨਲ ਰਿਕਾਰਡਿੰਗ ਕਰ ਰਿਹਾ ਹੈ"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR ਚੱਲ ਰਿਹਾ ਹੈ ਜਾਂ ਕੋਈ PVR ਫ਼ਾਈਲ ਚੱਲ ਰਹੀ ਹੈ।\nਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਬੰਦ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਚੱਲ ਰਹੀ ਹੈ।\nਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਬੰਦ ਕਰੋ ਫਿਰ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"ਮੌਜੂਦਾ ਚੈਨਲ ਅਵੈਧ ਹੈ।"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"ਅੱਗੇ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ! ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"ਪਿੱਛੇ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ! ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਪੂਰੀ ਹੋਈ ਅਤੇ ਸਵੈਚਲਿਤ ਤੌਰ \'ਤੇ ਚੱਲੇਗੀ।"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"ਕਿਸੇ ਵੀ ਪਿਛਲੇ ਚੈਨਲ \'ਤੇ ਨਹੀਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ! \n ਅਤੇ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਅਜੇ ਵੀ ਚੱਲ ਰਹੀ ਹੈ।"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"ਅਸਫਲ ਜਾਂ ਅਧੂਰੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"ਅੰਸ਼ਕ ਰਿਕਾਰਡਿੰਗ, ਸਿਗਨਲ ਜਾਣ ਕਾਰਨ ਅੰਸ਼ਕ ਰਿਕਾਰਡ ਹੋਇਆ!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"ਅੰਸ਼ਕ ਰਿਕਾਰਡਿੰਗ, EIT ਦੀ ਅਣਹੋਂਦ ਕਾਰਨ ਅੰਸ਼ਕ ਰਿਕਾਰਡ ਹੋਇਆ!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"ਅੰਸ਼ਕ ਰਿਕਾਰਡਿੰਗ, EIT ਦੀ ਅਣਹੋਂਦ ਅਤੇ ਸਿਗਨਲ ਜਾਣ ਕਾਰਨ ਅੰਸ਼ਕ ਰਿਕਾਰਡ ਹੋਇਆ!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"ਸ਼ੁਰੂਆਤ ਦੇ ਸਮੇਂ ਵਿੱਚ ਗੜਬੜ, ਦਾਖਲ ਕੀਤਾ ਸਮਾਂ ਮੌਜੂਦਾ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"ਫ਼ਾਈਲ ਦੀ ਲੰਬਾਈ ਵਿੱਚ ਕਮੀ!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਬੇਨਤੀ ਕੀਤੀਆਂ ਸਮਾਂ-ਸੂਚੀਆਂ ਅਧਿਕਤਮ ਇਜਾਜ਼ਤ ਤੋਂ ਵੱਧ ਹਨ!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"ਕੀ ਤੁਸੀਂ ਰਿਕਾਰਡਿੰਗ ਪ੍ਰਕਿਰਿਆ ਬੰਦ ਕਰਨਾ \n ਅਤੇ ਚੈਨਲ ਦੀ ਕਿਸਮ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"ਕੀ ਤੁਸੀਂ ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰਨਾ\n ਅਤੇ ਚੈਨਲ ਦੀ ਕਿਸਮ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"ਰਿਕਾਰਡ ਕਰਨ ਦੀ ਤਿਆਰੀ ਕੀਤੇ ਜਾਣ ਦੌਰਾਨ ਚੈਨਲ ਬਦਲਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"ਫਾਰਮੈਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"ਡਿਸਕ ਨੂੰ ਫਾਰਮੈਟ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"ਡਿਸਕ ਨੂੰ ਫਾਰਮੈਟ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ। ਟੀਵੀ ਰਿਕਾਰਡਿੰਗ ਚੱਲ ਰਹੀ ਹੈ!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"ਗਤੀ ਅਵੈਧ ਹੈ!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"ਫਾਰਮੈਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ! ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"ਤੇਜ਼ੀ ਨਾਲ ਅੱਗੇ ਕਰਨਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"ਪਿੱਛੇ ਕਰਨਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"ਡਿਸਕ ਦੀ ਗਤੀ ਹੌਲੀ ਹੈ ਅਤੇ ਡਾਟੇ ਨੂੰ ਬਰਖਾਸਤ ਕਰੋ"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"ਕੁਝ ਨੀਯਤ ਕੀਤੀਆਂ ਰਿਕਾਰਡਿੰਗਾਂ ਅਸਫਲ ਜਾਂ ਅਧੂਰੀਆਂ ਰਹੀਆਂ!"</string>
+</resources>

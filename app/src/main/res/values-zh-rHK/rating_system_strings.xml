@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"適合 <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> 歲或以上觀眾觀看。"</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"適合所有觀眾。節目可能含有輕微暴力、不雅用語及成人情節。"</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"適合 13 歲或以上人士。節目可能含有輕微至中度不雅用語、輕微暴力和色情內容。"</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"適合 16 歲或以上觀眾。節目可能含有較激烈的暴力和粗俗語言、部分裸露鏡頭和中度色情內容。"</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"只適合成人，節目含有明顯暴力、粗俗語言和露骨色情內容。"</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"藥物使用"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"色情"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"暴力"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"分類為 P 級的內容專為學前兒童而設。"</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"分類為 P 級的內容專為未滿 14 歲兒童而設 (學前兒童除外)。"</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"分類為 G 級的內容未必專為兒童而設，但內容的影響非常輕微，且不能包含不適合兒童獨自觀看的內容。"</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"分類為 PG 級的內容可能包含成人題材或概念，但內容的影響輕微，仍適合兒童在成人陪同下觀看。"</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"分類為 M 級的內容只適合成年觀眾。建議僅限 15 歲或以上觀眾觀看。"</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"分類為 MA 級的內容只適合 15 歲或以上觀眾觀看，因其內容包含明顯及/或大量暴力場面、色情內容或粗俗語言、成人題材或藥物使用場面，可能對觀眾造成重大影響。"</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"分類為 AV 級的內容只適合 15 歲或以上觀眾觀看。由於其內容包含明顯及/或大量暴力場面，或以暴力為主要題材，因此不適合分類為 MA 級。在其他方面，此評級的分類要求與 MA 級一樣。"</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"分類為 R 級的內容根據法律規定，只適合成人觀看。部分評級為 R 的內容可能會令某些成人社群感到反感。"</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"適合一般觀眾觀看"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"不建議未滿 <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> 歲觀眾觀看。"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"藥物使用"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"色情"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"暴力"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"無分級限制的節目包括：新聞、體育賽事、紀錄片、其他資訊類節目、清談節目、音樂影片和綜藝節目。"</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"此節目適合未滿 8 歲的兒童觀看。"</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"此節目適合 8 歲或以上青少年觀看。建議家長/監護人陪同未滿 8 歲的兒童觀看屬於此分級的節目。"</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"此節目適合所有年齡層觀眾觀看，亦適合全家一起觀看。"</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"此節目適合一般觀眾觀看，但不建議未滿 8 歲的兒童觀看。家長/監護人請注意，此節目可能包含不適合 8 至 13 歲兒童在未受監督下觀看的內容。"</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"屬於此分級的節目可能包含不適合未滿 14 歲觀眾的主題或內容元素。此分級的節目可能會以寫實手法處理成人主題和社會議題，因此強烈建議家長自行斟酌，決定是否讓未滿 14 歲的青少年或兒童在沒有家長或監護人陪同下觀看這類節目。"</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"此節目適合 18 歲或以上觀眾觀看。"</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"無分級限制的節目。"</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"此節目適合所有年齡層觀眾觀看。G 級的節目可能包含對未滿 8 歲兒童敏感的內容。"</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"此節目適合一般觀眾觀看，但可能包含輕微或偶爾的暴力內容，或會令幼童感到不安。因此，建議成人陪同 8 歲或以下的幼童觀看。"</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"此節目適合 13 歲或以上觀眾觀看。未滿 13 歲的兒童需有成人陪同方可觀看。"</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"此節目適合 16 歲或以上觀眾觀看。此評級的節目以較直接的角度探討令人不安的題材、場面或行為。"</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"此節目適合 18 歲或以上觀眾觀看。節目為成人而設，通常包含露骨的性愛場面，亦可能包含極度暴力內容以及超乎現實的殘暴、虐待和恐怖畫面。"</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"適合所有年齡層觀眾觀看。"</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"適合兒童觀看。"</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"適合成人觀看。"</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"節目沒有包含不適合任何年齡層觀眾的內容，因此適合所有人觀看。"</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"節目可能包含不適合未滿 7 歲兒童的內容，家長應酌情決定是否讓子女觀看。"</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"節目可能包含不適合未滿 12 歲兒童觀看的內容，家長應酌情決定是否讓子女觀看。"</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"節目內容可能不適合未滿 15 歲觀眾，因此家長應酌情決定是否讓他們觀看。"</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"節目內容可能不適合未滿 19 歲觀眾，因此未滿 19 歲青少年不宜觀看。"</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"適合所有年齡層觀眾觀看。"</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"適合所有年齡層觀眾，但兒童應在家長指引下觀看。"</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"適合 13 歲或以上人士觀看，而 13 歲以下兒童則應在家長指引下觀看。"</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"適合 16 歲或以上觀眾觀看。"</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"適合 18 歲或以上觀眾觀看。"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"適合 21 歲或以上成人觀看。"</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"適合 3 歲至 6 歲兒童觀看。"</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"適合 6 歲至 12 歲兒童觀看。"</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"適合一般觀眾觀看。"</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"適合 13 歲以上觀眾觀看。"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"適合 18 歲或以上觀眾觀看，未滿 18 歲兒童需要家長指引"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"適合成人觀看"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"性暗示對話"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"粗俗語言"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"色情內容"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"暴力"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"虛構暴力內容"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"此節目適合所有兒童觀看。"</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"此節目適合 7 歲或以上兒童觀看。"</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"大部分家長認為此節目適合所有年齡層觀眾觀看。"</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"此節目含有家長可能認為不適合幼童觀看的內容。很多家長可能會陪同幼童觀看。"</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"此節目含有許多家長認為不適合未滿 14 歲兒童觀看的內容。"</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"此節目特別為成人而設，因此可能不適合未滿 17 歲兒童觀看。"</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"一般觀眾。家長可安心讓兒童觀看。"</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"建議家長指引。可能含有不宜幼童觀看的內容。"</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"強烈建議家長陪同，部分內容可能不適合 13 歲以下青少年觀看。"</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"限制級，含有成人內容。家長應瞭解這部電影的詳情，才與幼童一同觀看。"</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"僅限 18 歲或以上觀眾觀看。此乃成人內容，禁止兒童觀看。"</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"適合成人觀看"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"禁止未滿 10 歲兒童觀看此節目/電影。"</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"適合所有年齡層觀眾觀看。"</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"未滿 10 歲兒童可觀看此節目/電影，但必須由成人陪同。"</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"未滿 13 歲兒童可觀看此節目/電影，但必須由成人陪同。"</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"禁止未滿 13 歲兒童觀看此節目/電影。"</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"禁止未滿 16 歲兒童觀看此節目/電影。"</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"禁止未滿 18 歲兒童觀看此節目/電影。"</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"此評級專為包含極端色情內容的電影而設 (色情電影)。"</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"關閉"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"封鎖"</string>
+    <string name="rating_years" msgid="2286124473198629391">"年齡"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"年齡分級"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"內容分級"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"未定義"</string>
+</resources>

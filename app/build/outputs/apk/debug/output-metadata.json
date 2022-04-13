@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mediatek.wwtv.tvcenter",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 5,
+      "versionName": "2.30.5 build 18321512",
+      "outputFile": "_LiveTV.apk"
+    }
+  ],
+  "elementType": "File"
+}

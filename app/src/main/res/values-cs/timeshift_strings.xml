@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Disk není připraven."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Spuštění PVR se nezdařilo. Disk není připraven."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Soubor byl úspěšně vytvořen"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Spuštění PVR se nezdařilo. Nejdříve ukončete režim PIP."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Spuštění PVR se nezdařilo. Nejdříve přejděte na zdroj digitální televize."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Spuštění PVR se nezdařilo. Nebyl nalezen žádný signál."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Spuštění PVR se nezdařilo. Je spuštěný časový posun."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Audiovizuální stream není k dispozici."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Stream není autorizován."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Vstup je uzamčen."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Chyba rozlišení videa."</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Interní chyba!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Časový posun není k dispozici. Nejdříve ukončete PVR."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Žádná zařízení nebo zařízení nejsou k dispozici. Zkuste to později."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Zastavte zařízení PVR a poté nahrávku uložte."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Disk byl odpojen"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Pozor: Neodpojujte zařízení, mohlo by to vést k nespecifikovaným chybám."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Není k dispozici dostatek místa. Na disku je potřeba alespoň 1 GB volného místa."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Funkce není podporována."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Pokračování v hledání není podporováno."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Soubor není podporován."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Formátováním vymažete všechna data"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Jste si jisti?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Tento soubor bude vymazán."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Probíhá test rychlosti"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Neodpojujte zařízení"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Formátování disku je dokončeno"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Formátování disku se nezdařilo"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Test rychlosti byl dokončen"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Maximální rychlost je "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Probíhá nahrávání."</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Přehrávání PVR"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Časový posun"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Spustit nahrávání"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Zastavit nahrávání"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Modul PVR je spuštěný."</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Chcete ukončit nahrávání\n a přejít do EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Chcete ukončit časový posun\n a přejít do EPG?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Chcete ukončit nahrávání \n a změnit kanál?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Chcete ukončit nahrávání\n a změnit zdroj?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Chcete ukončit časový posun\n a změnit kanál?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Chcete ukončit časový posun\n a změnit zdroj?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Chcete ukončit nahrávání\n a přejít do režimu PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Chcete ukončit časový posun\n a přejít do režimu PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Chcete ukončit přehrávání PVR\n a přejít do režimu PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Chcete ukončit časový posun\n a otevřít seznam nahrávek?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Chcete přejít do režimu PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Je naplánováno nahrávání"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"chcete zahájit nahrávání?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"chcete ukončit časový posun?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Dekódovaný kanál může způsobit poškození, chcete pokračovat?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Upozornění"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Nastavení Informace o zařízení"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Formátováním vymažete veškerá data. Jste si jisti?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Časový posun právě nahrává!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Modul PVR je spuštěný."</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Je spuštěno přehrávání PVR!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Časový posun není k dispozici"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Je spuštěn program k otestování rychlosti čtení a zápisu do úložiště."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Je naplánováno nahrávání [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Chcete ho spustit?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Název:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Je naplánováno připomenutí."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"Chcete tento kanál sledovat?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Pokus o nahrávání [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] se nezdařil"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Nahrávání [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] nebylo dokončeno, chybí <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> s"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Část nahrávky byla uložena. Během nahrávání bylo vypnuto napájení."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Modelovat události"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Program časování"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Signálem řízené nahrávání"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Úprava signálem řízeného nahrávání se nezdařila"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Časový posun byl zastaven."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Probíhá nahrávání. Test rychlosti se nezdařil."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Je spuštěn časový posun. Test rychlosti se nezdařil."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Přístup byl odepřen. Test rychlosti se nezdařil."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Nedostatek místa na disku. Test rychlosti se nezdařil."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Test rychlosti se nezdařil."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Přetáčení vpřed a zpět není podporováno"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Při mazání položky došlo k chybě, kanál je nahráván"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Je spuštěno PVR nebo se přehrává soubor PVR.\nUkončete PVR a zkuste to znovu!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Je spuštěn časový posun.\nUkončete ho a zkuste to znovu."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Aktuální kanál je neplatný."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Probíhá přetáčení vpřed. Zkuste to později."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Probíhá přetáčení zpět. Zkuste to později."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Úložiště pro nahrávání v časovém posunu je plné, bude spuštěno automatické přehrávání."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Na předchozí kanál nelze přepnout. \n Stále probíhá nahrávání v časovém posunu."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Neúspěšné nebo nedokončené nahrávky"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Částečná nahrávka, nahrání bylo částečné kvůli ztrátě signálu!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Částečná nahrávka, nahrání bylo částečné kvůli chybějícímu EIT!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Částečná nahrávka, nahrání bylo částečné kvůli chybějícímu EIT a ztrátě signálu!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Chyba času zahájení, čas předchází aktuálnímu času."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Vada délky souboru."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Požadovaný plán přesahuje povolené maximum."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Chcete ukončit nahrávání \n a změnit typ kanálu?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Chcete ukončit časový posun\n a změnit typ kanálu?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Během přípravy na nahrávání je přepínání kanálů zakázáno."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formátování"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Formátování disku se nezdařilo. Probíhá nahrávání."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Formátování disku se nezdařilo. Je spuštěný časový posun."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Rychlost je neplatná!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Probíhá formátování. Čekejte prosím…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Přetáčení vpřed není podporováno"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Přetáčení zpět není podporováno"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Disk je pomalý a data budou zahozena"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"některé naplánované nahrávky se nezdařily nebo jsou neúplné!"</string>
+</resources>

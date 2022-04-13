@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/epg_channel_item"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/epg_channel_bg_icon"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/epg_radio_icon"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:paddingStart="20dp"
+        android:layout_marginStart="30dp"
+        android:src="@drawable/epg_channel_icon"/>
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical">
+        
+    <TextView
+        android:id="@+id/epg_channel_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:layout_gravity="center|start"
+        android:singleLine="true"
+        android:textColor="@drawable/epg_channel_font"
+        android:textSize="@dimen/epg_ts_mini"
+        android:paddingTop="@dimen/epg_list_item_padding_top_bottom" />
+
+    <TextView
+        android:id="@+id/epg_channel_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start"
+        android:ellipsize="marquee"
+        android:fontFamily="sans-serif-condensed"
+        android:marqueeRepeatLimit="1"
+        android:singleLine="true"
+        android:textColor="@drawable/epg_channel_font"
+        android:textSize="@dimen/epg_ts_mini"
+        android:paddingBottom="@dimen/epg_list_item_padding_top_bottom" />
+    
+    </LinearLayout>
+</LinearLayout>

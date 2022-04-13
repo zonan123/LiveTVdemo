@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/nav_volume_tv_model" android:layout_width="fill_parent"
+	android:gravity="center_vertical" android:layout_height="50dp"
+	android:background="@drawable/info_banner_background">
+ <LinearLayout 
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:gravity="center_vertical"
+     >
+	<TextView android:id="@+id/nav_volume_tv_itemname"
+		android:layout_width="0dip" 
+		android:layout_height="wrap_content"
+		android:text="@string/nav_volume_main"
+	    android:textSize="@dimen/nav_textsize_normal"
+	    android:layout_weight="3"
+		android:textColor="@color/white" 
+		android:paddingLeft="10dp"/>
+	<ImageView android:src="@drawable/nav_audio_adjust_arrow_left"
+		android:layout_width="0dip" 
+		android:layout_height="wrap_content"
+		android:layout_weight="2"
+		android:visibility="invisible"/>
+	<ProgressBar android:id="@+id/nav_volume_progressbar"
+		android:layout_width="300dp"
+		android:layout_height="wrap_content" 
+		style="?android:attr/progressBarStyleHorizontal"
+        android:progressDrawable="@drawable/progressbar_style"  
+		android:max="100" 
+		/>
+	<ImageView android:src="@drawable/nav_audio_adjust_arrow_right"
+		 android:layout_width="0dip"
+		android:layout_height="wrap_content" 
+		android:layout_weight="2"
+		android:scaleType="centerInside"
+		android:visibility="invisible"/>
+	<TextView android:id="@+id/nav_volume_tv_itemvalue"
+		android:layout_width="0dip"
+		android:layout_height="wrap_content" 
+		android:layout_weight="3"
+		 android:textSize="@dimen/nav_textsize_normal"
+		android:textColor="@color/white" 
+		android:layout_marginRight="10dp"/>
+	</LinearLayout>
+</LinearLayout>

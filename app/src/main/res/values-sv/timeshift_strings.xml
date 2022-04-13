@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Hårddisken är inte klar."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Det gick inte att starta hårddiskinspelaren. Hårddisken är inte klar."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Filen har skapats"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Det gick inte att starta hårddiskinspelaren. Avsluta BIB först."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Det gick inte att starta hårddiskinspelaren. Byt till en digital tv-källa först."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Det gick inte att starta hårddiskinspelaren. Ingen signal hittades."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Det gick inte att starta hårddiskinspelaren. Tidsförskjutning körs."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV-ström är inte tillgängligt."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Strömmen är inte auktoriserad."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Ingången är låst."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Fel med videoupplösning."</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Internt fel."</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Tidsförskjutning är inte tillgängligt. Avsluta hårddiskinspelaren först."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Inga enheter eller enheterna är inte tillgängliga. Försök igen."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Avsluta hårddiskinspelaren och spara inspelningen."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Hårddisken har kopplats från"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"OBS! Ospecificerade fel kan uppstå om du kopplar från enheten."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Det finns inte tillräckligt med utrymme. Det måste finnas minst 1 GB ledigt utrymme på hårddisken."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Funktionen stöds inte."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Fortsatt sökning stöds inte."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Filen stöds inte."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"All data tas bort vid formatering"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Är du säker?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Filen raderas."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Hastighetstest pågår"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Koppla inte från enheten"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Hårddisken har formaterats"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Det gick inte att formatera hårddisken"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Hastighetstestet har slutförts"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Maxhastigheten är "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Inspelning pågår"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Uppspelning från hårddiskinspelare"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Tidsförskjutning"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Starta inspelning"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Stoppa inspelning"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Hårddiskinspelaren körs."</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Vill du avsluta inspelningen\noch öppna EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Vill du avsluta tidsförskjutning\noch öppna EPG?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Vill du avsluta inspelningen\noch byta kanal?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Vill du avsluta inspelningen\noch byta källa?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Vill du avsluta tidsförskjutning\noch byta kanal?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Vill du avsluta tidsförskjutning\noch byta källa?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Vill du avsluta inspelningen och starta\nBIB-/POP-läget?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Vill du avsluta tidsförskjutning\noch starta BIB-/POP-läget?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Vill du avsluta uppspelningen på hårddiskinspelaren\noch starta BIB-/POP-läget?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Vill du avsluta tidsförskjutning\noch ange inspelningslista?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Vill du starta BIB-/POP-läge?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Det finns en schemalagd inspelning"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"vill du starta inspelningen?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"vill du avsluta tidsförskjutning?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Den avkrypterade kanalen kan avbryta. Vill du fortsätta?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Varning"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Inställningen Enhetsinformation"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"All data försvinner vid formatering. Är du säker?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Inspelning pågår med tidsförskjutning."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Hårddiskinspelaren körs."</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Uppspelning körs på hårddiskinspelare."</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Tidsförskjutning är inte tillgängligt"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Programmet för test av lagringsutrymmets skriv- och läshastighet körs."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"En inspelning har schemalagts: [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Vill du starta inspelningen?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Namn:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Det finns en schemalagd påminnelse."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"Vill du titta på den kanalen?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Inspelningsförsöket misslyckades för [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>]"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Inspelningen av [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] är ofullständig, <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> sek saknas"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Inspelningen har delvis sparats. Strömmen bröts under inspelningen."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Händelsemodell"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Tidsprogrammering"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Signalstödd inspelning"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Det gick inte att ändra signalstödd inspelning"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Tidsförskjutning har stoppats."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Inspelning pågår. Hastighetstestet misslyckades."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Tidsförskjutning körs. Hastighetstestet misslyckades."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Åtkomst nekad. Hastighetstestet misslyckades."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Det finns inte tillräckligt med diskutrymme. Hastighetstestet misslyckades."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Hastighetstestet misslyckades."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Det finns inte stöd för framåt- och tillbakaspolning"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Ett fel uppstod när objektet togs bort. Kanalen spelas in."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Hårddiskinspelaren körs eller så spelas en fil upp på hårddiskinspelaren.\nAvsluta uppspelningen eller körningen och försök igen."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Tidsförskjutning körs.\nAvsluta och försök igen."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Det aktuella kanalen är ogiltig."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Vidarebefordran. Försök igen senare."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Spolar tillbaka. Försök igen senare."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Inspelningsutrymmet för tidsförskjutning är fullt och spelas upp automatiskt."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Det går inte att byta till föregående kanal. \nTidsförskjutning spelar fortfarande in."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Misslyckade eller ofullständiga inspelningar"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Ofullständig inspelning. Ofullständig inspelning på grund av att signal saknas."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Ofullständig inspelning. Ofullständig inspelning på grund av att EIT saknas."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Ofullständig inspelning. Ofullständig inspelning på grund av att EIT och signal saknas."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Fel starttid. Den angivna tiden infaller före den aktuella tiden."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Ogiltig fillängd."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Antalet scheman du vill lägga till överstiger det högsta tillåtna antalet."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Vill du avsluta inspelningen\noch byta kanaltyp?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Vill du avsluta tidsförskjutning\noch byta kanaltyp?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Det går inte att byta kanal medan inspelning förbereds."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formatering"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Det gick inte att formatera hårddisken. Inspelning pågår."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Det gick inte att formatera hårddisken. Tidsförskjutning körs."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Ogiltig hastighet."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Formaterar. Vänta …"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Framåtspolning stöds inte"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Tillbakaspolning stöds inte"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Långsam diskhastighet och data går förlorad"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"några schemalagda inspelningar misslyckades eller är ofullständiga."</string>
+</resources>

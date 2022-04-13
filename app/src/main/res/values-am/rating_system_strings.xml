@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"ለ <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> ዕድሜ እና ከዚያ በላይ የሚመከር።"</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"ለሁሉም ታዳሚዎች ተገቢ የሆነ። ፕሮግራሞች መለስተኛ ጥቃት፣ ቋንቋ እና ለአዋቂ ብቻ የሚሆኑ ሁኔታዎች ሊይዙ ይችላሉ።"</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"ዕድሜያቸው 13 እና ከዚያ በላይ ለሆኑ ተገቢ። ፕሮግራሞች ከመለስተኛ እስከ መጠነኛ ቋንቋ እና መለስተኛ ጥቃት እና ወሲባዊ ጥቅሶች ሊይዙ ይችላሉ።"</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"ዕድሜያቸው 16 እና ከዚያ በላይ ለሆኑ ተገቢ። ፕሮግራሞች ይበልጥ ጫን ያለ ጥቃት እና ከባድ ቋንቋ፣ ከፊል እርቃንነት እና መጠነኛ ወሲባዊ ጥቅሶች ሊይዙ ይችላሉ።"</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"ለዐዋቂዎች ብቻ ተገቢ። ፕሮግራሞች ጠንካራ ጥቃት፣ ከባድ ቋንቋ እና ግልጽ ወሲባዊ ጥቅሶች ሊይዙ ይችላሉ።"</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"ዕጾች"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"ወሲብ"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"ዐመጽ"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"P ተብሎ የተመደበ ማቴሪያል ለቅድመ ትምህርት ቤት ሕፃናት የታለመ ነው።"</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"C ተብሎ የተመደበ ማቴሪያል ዕድሜያቸው ከ14 ዓመት በታች ለሆኑ ሕፃናት (ዕድሜያቸው ለትምህርት ቤት ያልደረሱትን ሳይጨምር) የታሰበ ነው።"</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"G ተብሎ የተመደበ ማቴሪያል የግድ ለሕፃናት ተብሎ የታሰበ ባይሆንም በሚያሳድረው ተጽዕኖ በጣም መካከለኛ መሆን አለበት እንዲሁም ያለ ዐዋቂ ክትትልና ቁጥጥር ሕፃናት ቢያዩት ተስማሚ ያልሆነ ማናቸውንም ነገር በውስጡ መያዝ የለበትም።"</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"PG ተብሎ የተመደበ ማቴሪያል የዐዋቂ ገጽታዎች ወይም ፅንሰ ሐሳቦችን ሊይዝ ይችላል ሆኖም ግን የሚያሳርፈው ተፅዕኖ መካከለኛ የሆነ እና ከክትትልና ቁጥጥር ጋር ሕፃናት ቢመለከቱት ተስማሚ የሆነ መሆን አለበት።"</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"M ተብሎ የተመደበ ማቴሪያል ምራቃቸውን ለዋጡ ታዳሚዎች የሚሆን ነው። ዕድሜያቸው 15 ወይም ከዚያ በላይ ለሆኑ ግለሰቦች ብቻ እንዲመለከቱት ይመከራል።"</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"MA ተብሎ የተመደበ ማቴሪያል በዐመጽ፣ በወሲባዊ መግለጫዎች፣ ወይም ከባድ ቋንቋ፣ የዐዋቂ ይዘት ገጽታዎች ወይም የእጽ መጠቀም ምክንያት ዕድሜያቸው 15 ወይም በላይ በሆኑ ግለሰቦች ብቻ እንዲታይ ተስማሚ የሆነ ነው። ተጽዕኖው ከባድ ሊሆን ይችላል።"</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"AV ተብሎ የተመደበ ማቴሪያል ዕድሜያቸው 15 ወይም በላይ በሆኑ ግለሰቦች ብቻ እንዲታይ ተስማሚ የሆነ ነው። ለ MA ምደባ የማይስማማ የሆነበት ምክንያት በዐመጽ ብዛት እና/ወይም ድግምግሞሽ ወይም ዐመጽ የጭብጡ ማዕከላዊ ይዘት ስለሆነ ነው። በሌሎች መልኮች፣ ለምደባ የተቀመጡት መስፈርቶች ከ MA ምደባ ጋር ተመሳሳይ ናቸው።"</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"R ተብሎ የተመደበ ማቴሪያል በሕግ ለዐዋቂዎች ብቻ የተገደበ ነው። አንዳንድ የ R ምደባ የተሰጣቸው ይዘቶች ለተወሰኑ የአዋቂው ማኅበረሰብ ክፍሎች የሚያስከፋ ሊሆን ይችላል።"</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"አጠቃላይ ታዳሚዎች"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"ዕድሜያቸው ከ<xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> ዓመት በታች ለሆኑ አይመከርም።"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"ዕጾች"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"ወሲብ"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"ዐመጽ"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"የማይካተቱ ፕሮግራሞች እነዚህን ያካትታል፦ ዜና፣ ስፖርት፣ ጥናታዊ ፊልሞች እና ሌሎች የመረጃ ፕሮግራሞች፤ የውይይት ትርዒቶች፣ የሙዚቃ ቪዲዮዎች እና ኅብረ ትርዒት ፕሮግራሞች።"</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"ይህ ፕሮግራም ዕድሜያቸው ከ8 ዓመት በታች ለሆኑ ታዳጊ ሕፃናት የታለመ ነው።"</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"ይህ ፕሮግራም ዕድሜያቸው 8 ዓመት እና ከዚያ በላይ ለሆኑ ታዳጊዎች የታለመ ነው። ዕድሜያቸው ከ8 ዓመት በታች ለሆኑ ታዳጊ ሕጻናት ይህ ምደባ ከወላጅ/ሞግዚት ጋር አብረው የመመልከት ፕሮግራም እንዲመደብለት ይመከራል።"</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"ይህ ፕሮግራም ለሁሉም የዕድሜ ቡድኖች የታለመ ነው፣ እና በመላው ቤተሰብ ለመታየት አግባብነት አለው።"</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"ይህ ፕሮግራም ለአጠቃላይ ታዳሚ የታለመ ሆኖ ሳለ ዕድሜያቸው ገና ለሆኑ ሕፃናት (ከ8 ዓመት በታች የሆኑ) አግባብ ላይሆን ይችላል። ዕድሜያቸው ከ8-13 የዕድሜ ክልል ውስጥ ላሉ ሕፃናት አንዳንድ ክትትል ሳይደረግባቸው ቢታዩ ተገቢነት የሌላቸው ሆነው ሊገኙ የሚችሉ ይዘቶች ሊኖሩ እንደሚችሉ ወላጆች/ሞግዚቶች ማወቅ አለባቸው።"</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"በዚህ ምደባ ሥር ያሉ ፕሮግራሞች ዕድሜያቸው ከ14 በታች ለሆኑ ተመልካቾች የማይስማሙ ጉዳዮች ወይም ይዘቶችን ሊይዙ ይችላሉ። በዚህ ምደባ ሥር ያሉ ፕሮግራሞች ለዐዋቂዎች የሆኑ ይዘቶችን እና ማኅበራዊ ጉዳዮችን የእውነተኛነት ስሜት ባለው ሁኔታ ሊያሳዩ ስለሚችሉ ወላጆች ዕድሜያችው በዐሥራዎቹ ያልገቡ እና በመጀመሪያዎቹ የዐሥራዎቹ ውስጥ ያሉ ታዳጊ ወጣቶች ያለወላጅ/ሞግዚት የቅርብ ክትትል እንዲመለከቱ ከመፍቀዳቸው በፊት አግባብነቱ በደንብ እንዲያስቡበት በጽኑ ይመከራሉ።"</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"ይህ ፕሮግራም ዕድሜያቸው 18 ዓመት እና ከዚያ በላይ ለሆኑ ተመልካቾች የታለመ ነው።"</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"ከምደባ ነጻ የተደረጉ ፕሮግራሞች።"</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"ፕሮግራሙ በሁሉም ዕድሜ ላሉ ሰዎች በሚመለከቱት አግባብነት ያለው ነው። G ደረጃ አሰጣጥ ያለው ፕሮግራም ዕድሜያቸው ከስምንት ዓመት በታች የሆኑ ሕፃናትን ስሜት ሊጎዳ ይችላል።"</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"ይህ ፕሮግራም ለአጠቃላዩ ሕዝብ ተስማሚ ነው ሆኖም ግን መካከለኛ ወይም አልፎ፣ አልፎ የሚታይ ዐመፅ በውስጡ ሊኖርበት ስለሚችል ታዳጊ ሕፃናትን ሊረብሽ ይችል ይሆናል። በመሆኑም ለታዳጊ ሕፃናት (ዕድሜያቸው 8 እና ከዚያ በታች ለሆኑ) ከዐዋቂ ሰው ክትትልና ምክር ጋር መመልከት ይመከራል።"</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"ፕሮግራሙ ዕድሜያቸው 13 ዓመት ወይም ከዚያ በላይ በሆኑ ግለሰቦች ለመታየት ተገቢነት ያለው ነው። ዕድሜያቸው ከ13 ዓመት በታች የሆኑ ሕፃናት ከዐዋቂ ጋር ከሆኑ ብቻ እንዲገቡ ይፈቀድላቸዋል።"</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"ፕሮግራሙ ዕድሜያቸው 16 ዓመት ወይም ከዚያ በላይ በሆኑ ግለሰቦች ለመታየት ተገቢነት ያለው ነው። ይህ ደረጃ አሰጣጥ ያላቸው ፕሮግራሞች አስቸጋሪ ገጽታዎች፣ ሁኔታዎች ወይም ባህሪያት ያቀርባሉ እና ስለ ነገሮች አመለካከት ይበልጥ ቀጥተኛ አቀራረብን ያቀርባሉ።"</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"ፕሮግራሙ ዕድሜያቸው 18 ዓመት ወይም ከዚያ በላይ በሆኑ ግለሰቦች ለመታየት ተገቢነት ያለው ነው። ለዐዋቂዎች ብቻ የተለዩ ፕሮግራሞች ብዙውን ጊዜ ልቅ የሆነ የወሲብ ድርጊቶች ውከላ ጋር በቀጥታ የተገናኙ ናቸው። በተጨማሪ ከልክ በላይ ዐመጽ የተሞሉ፣ ከእውነታው ዓለም በእጅጉ የራቀ ጭካኔ፣ ሰውን ማሰቃየት እና ዘግናኝ አስፈሪ ትርዒት የተሞሉ ሊሆኑ ይችላሉ።"</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"ለሁሉም ዕድሜ የሚመከር።"</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"ለሕፃናት የተመከረ።"</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"ለዐዋቂዎች የሚመከር።"</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"ፕሮግራሞች ለሁሉም ዕድሜዎች ተገቢነት የሌላቸው ይዘቶች የላቸውም፣ እና ስለዚህ ለሁሉም ዕድሜ ተስማሚ ናቸው።"</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"ፕሮግራሞች ዕድሜያቸው ከ7 ዓመት በታች ለሆኑ ሕፃናት ተገቢ ያልሆኑ ይዘቶችን ሊይዙ ይችላል፣ ስለዚህ ለእነሱ ወላጅ አስቦ/ባበት መወሰን ያስፈልጋል።"</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"ፕሮግራሞች ዕድሜያቸው ከ12 ዓመት በታች ለሆኑ ሕፃናት ተገቢ ያልሆኑ ይዘቶችን ሊይዙ ይችላል፣ ስለዚህ ለእነሱ ወላጅ አስቦ/ባበት መወሰን ያስፈልጋል።"</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"ፕሮግራሞች ዕድሜያቸው ከ15 ዓመት በታች ለሆኑ ታዳሚዎች ተገቢ ያልሆኑ ማቴሪያሎችን ይዘው ሊሆን ይችላል፣ ስለዚህ ለእነርሱ የወላጅ ፈቃድ መጠቀም ያስፈልጋል።"</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"ፕሮግራሞች ዕድሜያቸው ከ19 ዓመት በታች ለሆኑ ታዳሚዎች ተገቢነት የሌላቸው ማቴሪያል ይዘው ሊሆን ይችላል፣ እና ስለዚህ ዕድሜያቸው ከ19 ዓመት በታች ለሆኑ ተስማሚ አይደሉም።"</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"ለሁሉም ዕድሜ ተገቢ።"</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"ለሁሉም ተገቢ ነገር ግን ወላጆች ህጻናትን መከታተል አለባቸው።"</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"ዕድሜያቸው 13 እና ከዚያ በላይ ለሆኑ አግባብ ነው፣ ነገር ግን ከ13 በታች ለሆኑ ህጻናት የወላጅ ክትትል ይመከራል።"</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"ዕድሜያቸው 16 እና ከዚያ በላይ ለሆኑ ሰዎች ተገቢ።"</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"ዕድሜያቸው 16 እና ከዚያ በላይ ለሆኑ ሰዎች ተገቢ።"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"ዕድሜያቸው 21 እና ከዚያ በላይ ለሆኑ አዋቂዎች ተገቢ።"</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"ዕድሜያቸው ከ 3 እስከ 6 ለሆኑ ሕፃናት ተስማሚ።"</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"ዕድሜያቸው ከ 6 እስከ 12 ለሆኑ ሕፃናት ተስማሚ።"</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"ለአጠቃላይ ታዳሚዎች ተስማሚ።"</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"ዕድሜያቸው 13 እና ከዚያ በላይ ለሆኑ ተስማሚ።"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"ዕድሜያቸው 18 እና በላይ ለሆኑ ተስማሚ። እና የወላጅ ምክርና ክትትል ዕድሜያቸው ከ18 ዓመት በታች ለሆኑ ሕፃናት"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"ለዐዋቂ ተስማሚ"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"ስሜት ቀስቃሽ ንግግር"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"ከባድ ቋንቋ"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"ወሲባዊ ይዘት"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"ዐመጽ"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"ምናባዊ ጥቃት"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"ይህ ፕሮግራም ለሁሉም ልጆች ተገቢ እንዲሆን የተነደፈ ነው።"</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"ይህ ፕሮግራም ዕድሜያቸው 7 ዓመት እና ከዚያ በላይ ለሆኑ ልጆች ተገቢ እንዲሆን የተነደፈ ነው።"</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"አብዛኛዎቹ ወላጆች ይህ ፕሮግራም ለሁሉም ዕድሜ ተገቢ ሆኖ ያገኙታል።"</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"ይህ ፕሮግራም ወላጆች ለህጻናት ተገቢ እንደማይሆን የሚያገኙት ይዘት አለው። ብዙ ወላጆች ከታዳጊ ልጆቻቸው ጋር አብረው ሆነው ማየት ሊፈልጉ ይችላሉ።"</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"ይህ ፕሮግራም ብዙ ወላጆች ዕድሜያቸው ከ14 ዓመት በታች ለሆኑ ልጆች ተገቢ እንደማይሆኑ የሚያገኟቸው አንዳንድ ይዘቶች አሉት።"</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"ይህ ፕሮግራም በአዋቂዎች ለመታየት ተብሎ የተነደፈ ነው፣ ስለዚህ ዕድሜያቸው ከ17 ዓመት በታች ለሆኑ ልጆች ተገቢ ላይሆን ይችላል።"</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"አጠቃላይ ታዳሚዎች። ልጆች ቢያዩት ወላጆችን የማያስቀይም።"</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"የወላጅ ክትትል ይመከራል። ወላጆች ታዳጊ ልጆቻቸው እንዲያዩት የማይፈልጉት ይዘቶችን አካትቶ ሊሆን ይችላል።"</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"ወላጆች በጥብቅ ይጠንቀቁ። ጥቂት ይዘቶች ለታዳጊዎች ተገቢ ያልሆኑ ሊሆኑ ይችላሉ።"</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"የተገደበ፣ የተወሰነ የአዋቂ ይዘትን ያካተተ። ወላጆች ልጆቻቸውን ይዘው ከመሄዳቸው በፊት ስለፊልሙ የበለጠ እንዲያውቁ አበክረው ይመከራሉ።"</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"ዕድሜው 17 እና ከዚያ በታች የሆነ ማንም ሰው መግባት አይችልም። በግልፅ የአዋቂዎች ነው። ልጆች አይፈቀድላቸውም።"</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"ለዐዋቂ ተስማሚ"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"ዕድሜያቸው ከ 10 በታች የሆኑ ሕፃናት ይህን ፕሮግራም/ፊልም እንዳይመለከቱ ይከለከላሉ።"</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"ለሁሉም ዕድሜ ተገቢ።"</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"ዕድሜያቸው ከ 10 ዓመት በታች የሆኑ ሕፃናት ይህን ፕሮግራም ሊመለከቱት ይችላሉ ሆኖም ግን በዐዋቂ መታጀብ አለባቸው።"</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"ዕድሜያቸው ከ 13 ዓመት በታች የሆኑ ሕፃናት ይህን ፕሮግራም ሊመለከቱት ይችላሉ ሆኖም ግን በዐዋቂ መታጀብ አለባቸው።"</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"ዕድሜያቸው ከ 13 በታች የሆኑ ሕፃናት ይህን ፕሮግራም/ፊልም እንዳይመለከቱ ይከለከላሉ።"</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"ዕድሜያቸው ከ 16 በታች የሆኑ ሕፃናት ይህን ፕሮግራም/ፊልም እንዳይመለከቱ ይከለከላሉ።"</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"ዕድሜያቸው ከ 18 በታች የሆኑ ሕፃናት ይህን ፕሮግራም/ፊልም እንዳይመለከቱ ይከለከላሉ።"</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"ይህ በከፍተኛ ደረጃ ወሲባዊ ይዘት (ወሲብ ቀስቃሽ ፊልም) ለሆኑ ፊልሞች የተያዘ ቦታ ነው።"</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"አጥፋ"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"አግድ"</string>
+    <string name="rating_years" msgid="2286124473198629391">"ዓመታት"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"የዕድሜ ደረጃዎች"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"የይዘት ደረጃዎች"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"አልተገለጸም"</string>
+</resources>

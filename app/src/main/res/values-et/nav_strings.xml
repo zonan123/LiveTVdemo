@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"Tagasi"</string>
+    <string name="setup_select" msgid="1270661539800592611">"Vali"</string>
+    <string name="setup_next" msgid="4079616525492116810">"Järgmine"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"Välju"</string>
+    <string name="satellites" msgid="2437056584091944552">"Satelliidid"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"Sisendid"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"Alamkuva"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"Kanali allikad"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"Skannige kanaleid."</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"Funktsioon puudub"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"Vali loend"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"Tehke valik Rohkem"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"Vali"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"Sordi"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"Vaikimisi"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"Nime järgi kasvavas järjekorras"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"Nime järgi kahanevas järjekorras"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"Krüpteeritud"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"Otsi"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"Sisestage kanali number või nimi."</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"Ülekanne"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"Kategooriad"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"Paketid"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"Digitaalne"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"Sellel tüübil ei ole ühtki kanalit. Valige muud tüübid."</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"Raadio"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"Analoog"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"Tasuta"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"Krüpteeritud"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"Võrk"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"Vali tüüp"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"Laadimine, oodake …"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"Lehe võrra üles"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"Lehe võrra alla"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"Liiguta üles"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"Liiguta allapoole"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"Lemmikute loend"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"Kustuta"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"Satelliidiloend"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"Vali satelliit"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"Kanalite loend"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"Leiti uusi kanaleid, mis lisati kanalite loendisse."</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"Kategooriad –"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"Paketid –"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"Kanaliloendi valik"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"Lemmikute loendi valik"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"Kanali üksikasjad"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"Põhihelitugevus"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"Sisestage parool"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"Sisestasite kolm korda vale parooli.\nOodake ligikaudu 15 minutit …"</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"Vale parool. Sisestage uuesti."</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"Antenn"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(Programmi pealkiri puudub.)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(Programmi üksikasjad puuduvad.)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(Kanali üksikasjad puuduvad.)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"Signaal puudub."</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"Tugi puudub."</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"Kanal on lukustatud."</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"Sisend on lukustatud."</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"Programm on lukustatud."</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"Peidetud kanal"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"Šifreeritud heli"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"Šifreeritud Video"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"Unerežiim:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"Väljas"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"Minutid"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"Video puudub"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"Andmete toomine …"</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"Teadmata heli"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"Teadmata stereo"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"Teadmata"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"Heli puudub"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"Tüüp"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"Alamtüüp"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"Broneeritud kanalite loend"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"Broneeritud sündmuste loend"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"Kas soovite programmi broneerida?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"Programm on juba broneeritud, kas soovite selle tühistada?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"algab, kas soovite kanali aktiveerida?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"Hindamata"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(Programmi üksikasjad puuduvad.)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"(Programmi andmed puuduvad.)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(Programmi pealkiri puudub.)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(pealkiri puudub)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"Ava"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"Eemalda ajakavast"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"Ajakava"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"Klassifitseerimata"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"Ei toetata"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"OK"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"Tühista"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"Täisekraan"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"Eripiirkond"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"Ei"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"Kohanda"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"Kas soovite jäädvustada terve kuva või konkreetse piirkonna?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"Kas soovite ekraanikuva jäädvustada?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"Valige asukoht, kuhu logo salvestada."</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"Jäädvustamine …"</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"Jäädvustamine õnnestus"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"Jäädvustamine nurjus, proovige uuesti."</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"Toiming on tühistatud."</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"Signaal puudub. Toide lülitatakse välja."</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"Vajutage jätkamiseks mis tahes klahvi."</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"Eelmine päev"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"Järgmine päev"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"Kuva üksikasjad"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"Tüübifilter"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"Lehe võrra üles"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"Lehe võrra alla"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"SISESTA"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"Klassifitseerimata"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"Puudub"</string>
+    <string name="epg_password" msgid="8012355648918471162">"Parool"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"Vale parool"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"Andmete toomine …"</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"jaanuar"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"veebruar"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"märts"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"aprill"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"mai"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"juuni"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"juuli"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"august"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"september"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"oktoober"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"november"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"detsember"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"pühapäev"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"Esmaspäev"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"teisipäev"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"Kolmapäev"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"neljapäev"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"reede"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"laupäev"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"Rakenduste loend"</string>
+    <string name="nav_select" msgid="990203763701782141">"Vali"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"Rakendus puudub."</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Ginga rakendus laadib …"</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"Kas soovite CC peatada ja Ginga rakenduse käivitada?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"Viisardi värskendamine"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"Lisateave."</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"Püsivara kujutisefail on sobimatu."</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"Värskendamine …"</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"Püsivara värskendamise ajal ÄRGE eemaldage USB-tonglit ega lülitage telerit välja."</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"Püsivara kontrollimine …"</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"Kas soovite kindlasti püsivara värskendada?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"Püsivara värskendamine õnnestus.\nUue püsivara aktiveerimiseks taaskäivitage teler."</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"Värskendamine nurjus.\nTaaskäivitage teler, et püsivara uuesti alla laadida."</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"Värskendamine nurjus.\nKas soovite uuesti proovida?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"Värskendamine ebaõnnestus. Sisestage USB.\nKas soovite uuesti proovida?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"USB-tonglil ei ole piisavalt vaba ruumi."</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB-tongel ei ole valmis, ühendage see ja proovige uuesti."</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"Sisemine viga."</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"Ühtki püsivara versiooni ei ole saadaval."</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"Dekrüpteerimine ebaõnnestus."</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"Püsivara on kehtetu."</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"Värskendamiseks ei ole püsivara saadaval."</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"Uue püsivara otsimine nurjus."</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"Püsivara allalaadimine võrgust ebaõnnestus."</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB-tongliga ilmnes probleem."</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"Toide"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"SUBTIITRID tuleb enne digitaalse TEKSTI lubamist sulgeda. Kas nõustute jätkama?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"JAH"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"EI"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"Kas soovite aktiveerida EWS-i teenuse?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"Kas soovite eriteenuse aktiveerida?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"algab. Kas soovite selle aktiveerida?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Kas soovite Ginga rakenduse peatada ja avada subtiitrid?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"BLOKEERI"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"RÜHM"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"LEHT"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"Ülaosata"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"Lemmiklehtede loend"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"Hindamata"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plusi võrk on muutunud. Võite värskendatud võrku otsida."</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"Võrk CI Plus pole saadaval. Otsige värskendatud võrku."</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plusi võrk on lähtestamata. Otsige värskendatud võrku."</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plusi võrgu otsingu aeg on käes. Võite värskendatud võrku otsida."</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"Valige oma riik:"</string>
+    <string name="setup_country" msgid="629173256579318536">"Kantri"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"Seadistage kaabli teave."</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"Ajavöönd"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"Skannimisrežiim"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"Sagedus (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"Modulatsioon"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"Modulatsioonikiirus (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"Võrgu ID"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"Sihtnumber"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"Uus parool"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"Kinnitage parool"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"Vali operaator"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"Satelliidi tüüp"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"Valige satelliidi tüüp."</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"Vali operaator"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"Võite järgmisest loendist valida ainult ühe operaatori."</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"Seadistage kaabli teave."</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"Seadistage skannimise teave."</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"Valige skannitavad satelliidid või muutke valitud satelliiti."</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"Määrake antenni tüübi seadistus."</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"Antenni seadistamine"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"Määrake satelliidi parameetrid."</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"Määrake transponderi parameetrid."</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"Määra"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"Õhu kaudu allalaadimine"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"Skannimine"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"Eetrist ei leitud uut tarkvara."</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"Programmeerimine"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"Allalaadimine"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"Protsess võib võtta aega kuni 25 minutit"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"Tarkvara allalaadimine õnnestus. Kas soovite ülekirjutamist alustada?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"Programmeerimine nurjus. Kas soovite uuesti proovida?\n\nHelistage teeninduskeskusesse."</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"Tarkvara allalaadimine õnnestus. Kas soovite teleri kohe taaskäivitada?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"Hoiatus. Ärge eemaldage protsessi ajal teleri toitejuhet pistikupesast, kuna see põhjustab teleri väärtalitlust."</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"Tarkvaravärskendus. Saadaval on uus soovitatav tarkvaravärskendus. Värskendamiseks võib pisut aega kuluda ja ekraan võib mustaks muutuda. Ärge lülitage telerit värskendamise ajal välja. Kas soovite kohe värskendada?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"Tarkvara ei saa alla laadida. Kas soovite uuesti proovida?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"Tarkvaravärskendus. Saadaval on uus soovitatav tarkvaravärskendus. Värskendamiseks võib pisut aega kuluda ja ekraan võib mustaks muutuda. Ärge lülitage telerit värskendamise ajal välja. Kas soovite kohe värskendada? Värskendus algab automaatselt <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> sekundi pärast"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"Tarkvaravärskendus. Uus soovitatav tarkvara tuleb saadavale <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>. Värskendamiseks võib pisut aega kuluda ja ekraan võib mustaks muutuda. Ärge lülitage värskendamise ajal vastuvõtjat välja. Kui võtate värskenduse vastu, jätke teler määratud ajal sisselülitatuks või ooterežiimi. Kas soovite värskenduse vastu võtta?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"Tarkvaravärskendus. Muul kanalil võib saadaval olla uus soovitatav tarkvaravärskendus. Kui nõustute selle alla laadima, võidakse kanal automaatselt aktiveerida. Kas soovite seda kohe teha? See algab <xliff:g id="AUTOMATICALLY">%s</xliff:g> sekundi pärast automaatselt"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"Leiti uus tarkvara.\nKas lubate teleri ooterežiimis tarkvara automaatselt alla laadida?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"Programmeerimine"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"Austria"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"Belgia"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"Šveits"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"Tšehhi"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"Saksamaa"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"Taani"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"Hispaania"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"Soome"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"Prantsusmaa"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"Ühendkuningriik"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"Itaalia"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"Luksemburg"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"Holland"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"Norra"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"Rootsi"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"Bulgaaria"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"Horvaatia"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"Kreeka"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"Ungari"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"Iirimaa"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"Poola"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"Portugal"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"Rumeenia"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"Venemaa"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"Serbia"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"Slovakkia"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"Sloveenia"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"Türgi"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"Eesti"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"Austraalia"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"Uus-Meremaa"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"Indoneesia"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"Valige oma ajavöönd:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"Määrake parool. 0000 ei ole sobiv parool"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"Sisestage sihtnumber."</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"Parooli määramine õnnestus."</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"Mõned kanalid muutuvad võrgu muudatuste tõttu inaktiivseks. Kas soovite need kohe eemaldada?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"Telekanalid on muutunud, värskenduste skannimiseks vajutage OK."</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"Antenni seadistamine"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"Satelliit"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"Satelliidi nimi"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"Positsioon orbiidil"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"Liikumise juhtimine"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"Keela piirangud"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"Piira idasuunas liikumist"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"Piira läänesuunas liikumsit"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"Salvesta positsioon"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Liigu positsioonile"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Ava viide"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"Sammu suurus"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"Ajalõpp/ajalõpud"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"Liiguta itta"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"Teisalda läände"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"Katkesta liikumine"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"Keela"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"Toon 22 KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"Väljas"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"Sees"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"Automaatne"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"Transponder"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"Sagedus"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"Modulatsioonikiirus (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"Polarisatsioon"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"Teadmata"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"Horisontaalne"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"Vertikaalne"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"Vasak"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"Parem"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"Lisa uued satelliidid"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"Lisa uued transponderid"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"Satelliidi häälestamine"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"Skannimise tüüp"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"Poe tüüp"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"Skannimisrežiim"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"Võrguotsing"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"Otsing"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"Automaatne"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"Eelseadistus"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"Ainult krüpteeritud kanalid"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"Ainult tasuta kanalid"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"Kõik"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"Ainult digitaalsed kanalid"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"Ainult raadiokanalid"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(Satelliit puudub.)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"Satelliidi käsitsi häälestamine"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(Transponder puudub.)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"Satelliidi nimi on tühi.\nSisestage see."</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"Satelliidi uuesti skannimine"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"Lisa satelliit"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"Satelliidi värskendamine"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"Satelliidi olek"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"Võrk"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"Täielik"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"Satelliidid"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"Positsioon"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB toide"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"Antenni tüüp"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"Universaalne"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"Üks kaabel"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"Tuuner"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"Alamtuuner"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"Kasutaja sagedus: <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"Sagedus"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"Kasutaja määratletud"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"Positsioon"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"Kaabel"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"Eelistatud satelliit"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"Satelliidi üldseaded"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"Universaalne"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"Tooniimpulss"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"Keela"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"Tooniimpulss A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"Tooniimpulss B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"Sees"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"Väljas"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"Allikas on allikaga <xliff:g id="CONFLICTS">%s</xliff:g> vastuolus."</string>
+    <string name="ews_status" msgid="451574410866097453">"OLEK <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"Allika seadistamine"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"Kanalite automaatne järjestamine"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"Tasulise TV-teenuse tellimine"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(Programmi pealkiri puudub.)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"Sisend ei toeta automaatset skannimist."</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"Sisendi „<xliff:g id="TV_INPUT">%s</xliff:g>” automaatset skannimist ei saa alustada"</string>
+    <string name="str" msgid="4738306056683483195">"Lemmikud<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"Kõik"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"Raadio"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"Unerežiim: väljas"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"Unerežiim: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> minuti pärast"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"Suum × 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"Suum × 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"Suum × 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"Külmutamine: sees"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"Külmutamine: väljas"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"Kategooria puudub"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"Film/draama"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"Uudised/päevakajaline"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"saated/telemängud"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"Sport"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"sport (üldine)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"Laste-/noorteprogrammid"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"Muusika/ballett/tants"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"Kunst/kultuur (muusikata)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"Sotsiaalteemad/poliitika/majandus"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"Haridus / teadus / faktilised teemad"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"Vaba aeg ja hobid"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"Eriparameetrid"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"Lapsed"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"Erootika"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"Muu"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"Meelelahutus"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"Päevakajaline"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"Meelelahutuslik teave"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"Huumor"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"Draama"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"Dokumentaal"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"Uudised ja faktid"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"Sport"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"Elustiil"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"Uudised ja faktid"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"ei toetata"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"Sari"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"Variant"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"Teave"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"Komöödia"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"romantika"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"tõsine/klassika/religioon/ajaloofilm/draama"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"klassikaline/süvamuusika"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"täiskasvanute filmid/draama"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"uudised/päevakajaline (üldine)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"uudised/ilmateade"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"uudisteajakiri"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"dokumentaal"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"diskussioon/intervjuu/arutelu"</string>
+    <string name="nav_News" msgid="3663290212801352195">"Uudised"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"saade/telemäng (üldine)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"telemäng/mälumäng/võistlus"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"varieteesaated"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"jutusaade"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"spordiajakirjad"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"jalgpall / Ameerika jalgpall"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"tennis/seinatennis"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"tiimisport (v.a jalgpall)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"kergejõustik"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"motosport"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"veesport"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"talispordialad"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"ratsasport"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"võitlussport"</string>
+    <string name="nav_Children" msgid="873820541320552860">"laste-/noorteprogrammid"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"eelkooliealiste laste programmid"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"meelelahutusprogrammid 6–14-aastastele"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"meelelahutusprogrammid 10–16-aastastele"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"teabe-/haridus-/kooliprogrammid"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"nuku-/multifilmid"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"muusika/ballett/tants (üldine)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"rokk-ja popmuusika"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"folk- ja pärimusmuusika"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"džäss"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"muusikal/ooper"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"ballett"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"kunst/kultuur (muusikata)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"näitekunst"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"kaunid kunstid"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"usk"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"popkultuur / traditsiooniline kunst"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"kirjandus"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"film/kino"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"eksperimentaalfilmid/-videod"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"ringhääling/press"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"otseülekanne"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"uus meedia"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"kunstiajakirjad"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"mood"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"Keeldu"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"sotsiaalteemad/poliitika/majandus (üldine)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"ajakirjad/reportaažid/dokumentaalid"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"majandus-/sotsiaalnõustamine"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"tähelepanuväärsed isikud"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"haridus / teadus / faktilised teemad"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"loodus/loomad/keskkond"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"tehnoloogia/loodusteadused"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"meditsiin/füsioloogia/psühholoogia"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"välisriigid/ekspeditsioonid"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"vaimsed/ühiskonnateadused"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"täiendav haridus"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"keeled"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"Film"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"vaba aeg ja hobid (üldine)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"turism/reisimine"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"käsitöö"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"autosport"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"treening ja tervis"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"reklaam/ostlemine"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"aiandus"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"algkeel"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"mustvalge"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"avaldamata"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"tasapinnaline/stereoskoopiline"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"kohalik või piirkondlik"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"TEADMATA"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"Mono"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"Stereo"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam Mono"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam Stereo"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM mono"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM-stereo"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"Kahe kanaliga mono"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"Ruumiline kahekanaliline heli"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"Ruumiline heli"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> kanalit"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"pühapäev"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"esmaspäev"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"teisipäev"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"kolmapäev"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"neljapäev"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"reede"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"laupäev"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"Tühista"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"Nõustu"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"Tuleta hiljem meelde"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"Signaal puudub."</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"Skannige kanaleid."</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"Andmete toomine"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"Lastele mõeldud"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"Kanal on lukustatud."</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"Programm on lukustatud."</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"Sisend on lukustatud!"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(Programmi pealkiri puudub.)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"Peidetud kanal."</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"Heliprogramm"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"Heli ja video puudub"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(Programmi üksikasjad puuduvad.)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(Kanali üksikasjad puuduvad.)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"Helivoog puudub"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"Videovoog puudub"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"Oodake …"</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"Videot ei toetata"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"Ei toetata"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"Ülekanne puudub"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"Kanal puudub"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"Teie teenusepakkuja on selle sisu blokeerinud."</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"Šifreeritud"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"Asendiregulaatori teisaldamine …"</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"Teenus ei tööta"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"Keela"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"Pidev"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"Toiming"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"Paus"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"Suum"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"Lisati <xliff:g id="MSG_CHANNEL">%1$d</xliff:g> kanal"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> kanalit on lisatud"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"Ühtegi kanalit ei lisatud"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB-seade on ühendatud"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"KANAL <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"Uudislood"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"Tavalised, üldised"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"Ilmateade"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"Eriprogramm, dokumentaalid"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"Poliitika, valitsus"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"Majandus, turuaruanne"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"Välismaa, rahvusvahelised uudised"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"Uudiste analüüs"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"Arutelu, konverents"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"Eriuudised"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"Kohalik programm"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"Liiklusteave"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"Muud"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"Sport"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"Spordiuudised"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"Pesapall"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"Jalgpall"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"Golf"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"Muud pallimängud"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"Sumo, võitlussport"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"Olümpiamängud, rahvusvahelised mängud"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"Maraton, kergejõustik, ujumine"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"Mootorisport"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"Meresport, talisport"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"Hobuste võidujooks, avalik võidujooks"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"Teave/kõmusaated"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"Kuulujutud/kõmusaated"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"Mood"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"Igapäevaelu, kodu"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"Tervis, meditsiiniline ravi"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"Ostlemine, postimüük"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"Gurmeetoidud, kokandus"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"Sündmused"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"Saatekava, teave"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"Draama"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"Jaapani draamad"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"Välismaa draama"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"Ajaloolised draamad"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"Muusika"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"Jaapani rokk, popmuusika"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"Välismaa rokk, popmuusika"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"Klassika, ooper"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"Džäss, fusion"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"Populaarsed laulud, Jaapani populaarsed laulud (enka)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"Reaalajas kontsert"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"Edetabelid, soovilood"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"Karaoke, amatööride laulmisvõistlused"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"Jaapani ballaad, Jaapani traditsiooniline muusika"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"Lastelaulud"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"Folkmuusika, maailmamuusika"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"Varieteesaated"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"Viktoriinid"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"Mäng"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"Jutusaated"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"Komöödiaprogramm"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"Mitmekesine muusika"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"Reisid"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"Kokasaated"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"Filmid"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"Välismaa filmid"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"Jaapani filmid"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"Animatsioon"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"Animatsioon / eriefektidega filmid"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"Jaapani animatsioon"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"Välismaa animatsioon"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"Eriefektid"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"Dokumentaal/kultuur"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"Ühiskondlikud teemad, päevasündmused"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"Ajalugu, reisilood"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"Loodus, loomad, keskkond"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"Kosmos, teadus, meditsiiniteadus"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"Kultuur, traditsiooniline kultuur"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"Kirjandus, sõnakunst"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"Sport"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"Ainult dokumentaalid"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"Intervjuud, arutelud"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"Teater / avalik esinemine"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"Tänapäevane draama, läänemaailma draama"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"Muusikal"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"Tants, ballett"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"Humoorikas lugu, meelelahutus"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"Kabuki, klassikaline draama"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"Hobid/haridus"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"Matkamine, kalastamine, vabaõhutegevused"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"Aiandus, lemmikloomad, käsitöö"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"Muusika, kunst, tööstuskunst"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"Jaapani male (shogi) ja go"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"Mahjong, flipper"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"Autod, mootorrattad"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"Arvuti- ja telerimängud"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"Vestlus, keeled"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"Väikesed lapsed, koolilapsed"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"Põhikooli lõpuklasside ja keskkooli õpilased"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"Üliõpilased, eksamid"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"Elukestev õpe, kvalifikatsioonid"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"Haridusprobleemid"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"Heaolu"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"Vanemad inimesed"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"Puudega inimesed"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"Sotsiaalhoolekanne"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"Vabatahtlikud"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"Viipekeel"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"Tekst (subtiitrid)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"Heli multipleks-edastuse selgitus"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"Reserveeritud"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"Reserveeritud"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"Laienduseks"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"Satelliidi/maapealse digilevi programmi lisateave"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"Lairiba-CS-digilevi laiendus"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"Satelliidi kaudu edastatava digiheli laiendus"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"Lisateave server-tüüpi programmi kohta"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"Muud"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"Eelmine"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV avakuva"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"Pole"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"Selle saate reiting on <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"Sisend on lukustatud"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"Sisendi allikas on lukustatud teie määratud sisendi allika luku tõttu. Seda saate muuta teleri menüü kaudu. Ekraani avamiseks vajutage nuppu ENTER."</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"Kontrollige välist sisendit või valige INPUT-nupuga teine sisend."</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"Seadistatud pole ühtegi kanalit. Skannige kanaleid teleri menüü kaudu."</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"Sisu on varsti saadaval. Oodake veidi."</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"Kanal pole praegu saadaval. Lisateabe saamiseks võtke ühendust oma teenusepakkujaga."</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"Kanalil on ainult heliprogramm."</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"Kanalil pole video- ega helisisu."</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"Laadimine"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"Laaditakse kanali andmeid Oodake veidi."</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"Teler ei toeta seda videovormingut."</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"Teie teenusepakkuja on selle sisu peatanud."</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"Praeguses kanalite loendis pole ühtegi kanalit."</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"Teie teenusepakkuja on selle sisu blokeerinud."</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"Asendiregulaatori liigutamine"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"Asendiregulaator pöörab ennast satelliidi leidmiseks. Oodake veidi."</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"Pole ühtegi aktiivset kanaliteenust."</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"Programm on lukustatud"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"Skannige kanaleid"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"Sisu on varsti saadaval. Oodake veidi."</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP-kanalid"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"Elustiil / vaba aja hobid"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"Valige kanalite järjestamise viis. Vaikeviisiks on kanalite automaatne järjestamine.\n        Pay TV järjestamine võimaldab Pay TV klientidel mugavalt neile sobivat järjestust kasutada.\n        Kui Pay TV järjestamisega ei õnnestu kanaleid seadistada, kasutage kanalite automaatset järjestamist."</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"sule"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"Õige!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"Vale sisestus!"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"Ei saa olla tühi."</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"Kuva tühjendamise teenus on käivitunud, kuva on tühjendatud olekus <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> minuti pärast"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"Kuva tühjendamise teenus on peatunud."</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"Kas olete kindel, et on vaja skannida? Kõik installitud kanalid eemaldatakse."</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Malai keel"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"Kohalik"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"Algne"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"Muu keel"</string>
+</resources>

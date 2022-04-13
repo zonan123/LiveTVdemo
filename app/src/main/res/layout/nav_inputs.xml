@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/side_panel_width"
+    android:layout_height="match_parent"
+    android:layout_gravity="end"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/decor_title_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/input_panel_top_background"
+        android:elevation="@dimen/input_title_container_elevation"
+        android:transitionGroup="false" >
+
+        <TextView
+            android:id="@+id/side_panel_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/side_panel_header_height"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:importantForAccessibility="no"
+            android:paddingEnd="@dimen/side_panel_padding_end"
+            android:paddingStart="@dimen/input_icon_margin_start"
+            android:paddingTop="@dimen/side_panel_header_padding_top"
+            android:singleLine="true"
+            android:text="@string/nav_source_main_title"
+            android:textColor="@color/option_item_text_color"
+            android:textSize="@dimen/input_title_font_size"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/side_panel_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/input_label_unselected_background"
+        android:focusable="true"
+        android:importantForAccessibility="no" />
+
+</LinearLayout>

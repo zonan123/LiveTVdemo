@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- this string appears within the left bottom of menu [CHAR LIMIT=30] -->
+    <string name="pager_left">Previous Page</string>
+
+    <!-- Content of button [CHAR LIMIT=20] -->
+    <string name="pager_mid">Delete</string>
+
+    <!-- this string appears within the right bottom of menu [CHAR LIMIT=30] -->
+    <string name="pager_right">Next Page</string>
+
+    <!-- this sentence appears within the bottom of scan dialog, inform user to scan via press right key [CHAR LIMIT = NONE]  -->
+    <string name="dvbs_scan_tip">Please press the right key to scan</string>
+
+    <!-- this sentence appears within the warning dialog [CHAR LIMIT = NONE]  -->
+    <string name="schedulelist_nofiles">There is no recorded schedule! Please press "Record" key to add one.</string>
+
+    <!-- this sentence appears within the warning dialog [CHAR LIMIT = NONE]  -->
+    <string name="schedulelist_nofiles_disable_add">There is no recorded schedule!</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="exit">Exit</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="selected">Selected</string>
+
+    <!-- this word appears within the title of dialog, title name [CHAR LIMIT = 30]  -->
+    <string name="add_schedule">PVR</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedule_replace">Replace</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedule_add">Add</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedule_cancel">Cancel</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedule_ok">OK</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedule_edit">Edit</string>
+
+    <!-- this string appears within the title of dialog, this dialog will show the the detail information of external storage [CHAR LIMIT = 30]  -->
+    <string name="pvr_title_device_info">Device Info</string>
+
+    <!-- this word appears within list view, title of device info [CHAR LIMIT = 15]  -->
+    <string name="pvr_deviceinfo_info">Info</string>
+
+    <!-- this string appears within button, after press button, storage will be used for Timeshift [CHAR LIMIT = 30]  -->
+    <string name="pvr_deviceinfo_set_timeshift">Set Timeshift</string>
+
+    <!-- this string appears within button, after press button, storage will be used for PVR [CHAR LIMIT = 30]  -->
+    <string name="pvr_deviceinfo_set_pvr">Set PVR</string>
+
+    <!-- this word appears within button, after press button, storage will be formatted [CHAR LIMIT = 30]  -->
+    <string name="pvr_deviceinfo_format">Format</string>
+
+    <!-- this string appears within button, after press button, the speed test for storage will be launched [CHAR LIMIT = 30]  -->
+    <string name="pvr_deviceinfo_speed_test">Speed Test</string>
+
+    <!-- Label for external storage if there is not specific name [CHAR LIMIT=20] -->
+    <string name="pvr_disk_no_name">No Name</string>
+
+    <!-- demo Label  -->
+    <string name="pvr_disk_size_temp_3_8_3_8gb" translatable="false">3.8/3.8GB</string>
+
+    <!-- Label for Storage Configuration, the storage is configured for PVR or Timeshift [CHAR LIMIT=40] -->
+    <string name="pvr_disk_ispvr_pvr_tshift">PVR/Timeshift</string>
+
+    <!-- demo Label  -->
+    <string name="pvr_disk_na" translatable="false">NA</string>
+
+    <!-- demo Label  -->
+    <string name="pvr_nf_info" translatable="false">00:00:00</string>
+
+    <!-- demo Label  -->
+    <string name="pvr_play_info" translatable="false">/</string>
+
+    <!-- Title of dialog for list recorded files. [CHAR LIMIT = 30]  -->
+    <string name="pvr_playlist_record_list">Record List</string>
+
+    <!-- this string appears within the bottom of list, switch to previous page [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_page_up">Page Up</string>
+
+    <!-- this string appears within the bottom of list, switch to next page [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_page_down">Page Down</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_playlist_info">Info</string>
+
+    <!-- Title of dialog for list the detail info of file. [CHAR LIMIT = 30]  -->
+    <string name="pvr_playlist_record_detail">Record Detail</string>
+
+    <!-- Label for record detail, show channel program info [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_programe_info">Program Info</string>
+
+    <!-- Label for record detail, show channel number [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_channel_num">Channel Number</string>
+
+    <!-- Label for record detail, show channel name [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_channel_name">Channel Name</string>
+
+    <!-- Label for record detail, show file number [CHAR LIMIT=30] -->
+    <string name="pvr_playlist_program_name">File Name</string>
+
+    <!-- Label for record detail, show the date that file created [CHAR LIMIT=20] -->
+    <string name="pvr_playlist_date">Date</string>
+
+    <!-- Label for record detail, show the week that file created [CHAR LIMIT=20] -->
+    <string name="pvr_playlist_week">Week</string>
+
+    <!-- Label for record detail, show the time that file created [CHAR LIMIT=20] -->
+    <string name="pvr_playlist_time">Time</string>
+
+    <!-- Label for record detail, show the video duration [CHAR LIMIT=20] -->
+    <string name="pvr_playlist_duration">Duration</string>
+
+    <string name="pvr_tshift_working_rec_time" translatable="false">[00:00:03/00:00]</string>
+    <string name="pvr_tshift_working_cur_time" translatable="false">13:02:28</string>
+    <string name="pvr_tshift_offset_time" translatable="false">-00:00:00</string>
+    <string name="pvr_tshift_13_00" translatable="false">13:00</string>
+    <string name="pvr_tshift_13_30" translatable="false">13:30</string>
+
+    <!-- Title of dialog for storage setup [CHAR LIMIT=30] -->
+    <string name="pvr_disksetup_disk_setup">Disk Setup</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_disksetup_select">Select</string>
+
+    <string name="pvr_schedulepvr_ch41" translatable="false">CH41</string>
+    <string name="pvr_schedulepvr_date" translatable="false">2013/01/04 13:22 Tue</string>
+    <string name="pvr_schedulepvr_time" translatable="false">00hr 00min</string>
+
+    <!-- Label for schedule record edit dialog, configure which day the record should be start [CHAR LIMIT=20] -->
+    <string name="pvr_schedulepvr_week">Week</string>
+
+    <!-- Label for schedule record edit dialog, configure the record type (record or remind) [CHAR LIMIT=20] -->
+    <string name="pvr_schedulepvr_record">Record</string>
+
+    <!-- Title of dialog for schedule record list dialog, use to list the added list [CHAR LIMIT=30] -->
+    <string name="pvr_schedulepvr_schedule_list">Schedule List</string>
+
+    <string name="pvr_schedulepvr_diskinfo" translatable="false">No Name: 3.8/3.8 GB</string>
+
+    <!-- this string appears within button [CHAR LIMIT = 40]  -->
+    <string name="pvr_schedulepvr_add_schedule">Add Schedule</string>
+
+    <!-- this string appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_schedulepvr_selected">Selected</string>
+
+    <!-- Title of dialog for schedule record list dialog, use to list the added list [CHAR LIMIT=30] -->
+    <string name="pvr_schedulepvr_schedule_list2">Schedule List</string>
+    <string name="pvr_schedulepvr_disk_info" translatable="false">No Name: 3.8/3.8 GB</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_confirm_yes">Yes</string>
+
+    <!-- this word appears within button [CHAR LIMIT = 15]  -->
+    <string name="pvr_confirm_no">No</string>
+
+    <!-- Title of dialog which is used to show progress of loading. [CHAR LIMIT = 15]  -->
+    <string name="pvr_dialog_Loadding">Loading</string>
+
+    <!-- demo string, donot translate  -->
+    <string name="pvr_schedulelist_wednesday" translatable="false">Wednesday</string>
+
+    <!-- this sentence is the content of warnning dialog, it will be display when user add the scheduled record conflict in exited items  [CHAR LIMIT = NONE]  -->
+    <string name="pvr_schedulelist_replace_line1">Schedules overlapped!</string>
+
+    <!-- this sentence is the content of warnning dialog, if user accepted, this new schedule will be added, and the conflict items will be removed  [CHAR LIMIT = NONE]  -->
+    <string name="pvr_schedulelist_replace_line2">Do you want to replace these schedules?</string>
+
+    <!-- this sentence is the content of confirm dialog, it will be display when user try to delete scheduled record  [CHAR LIMIT=NONE] -->
+    <string name="pvr_schedulelist_delete_line1">Delete schedule!</string>
+
+    <!-- this sentence is the content of confirm dialog, it will be display when user try to delete scheduled record  [CHAR LIMIT=NONE] -->
+    <string name="pvr_schedulelist_delete_line2">Do you want to delete these schedules?</string>
+
+    <!-- Title of common option. [CHAR LIMIT=20] -->
+    <string name="menu_settings">Settings</string>
+
+    <!-- this sentence is the content of warnning dialog, it will be display when user want to add favorite channel but list is full. [CHAR LIMIT=NONE] -->
+    <string name="fav_list_is_full">Favorites list is full.</string>
+
+    <!-- AM is Ante Meridiem, before noon; PM is post Meridiem, after noon. [CHAR LIMIT=20] -->
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+     <!-- Separator for date picker [CHAR LIMIT=2] -->
+    <string name="date_separator" translatable="false">/</string>
+    <!-- Separator for time picker [CHAR LIMIT=2] -->
+    <string name="time_separator" translatable="false">:</string>
+
+    <!-- this sentence is the content of warnning dialog [CHAR LIMIT=NONE] -->
+    <string name="power_on_off_time_same">Two timers can\'t be the same. Please reset</string>
+
+    <!-- this sentence is the content of info dialog, it will be display before tv go to sleep [CHAR LIMIT=NONE] -->
+    <string name="sleep_timer_tip_text">The Power will be turned off.</string>
+
+    <!-- this sentence appears within info dialog, it will be display before tv go to sleep [CHAR LIMIT=NONE] -->
+    <string name="sleep_timer_btn_text">Press any key to continue</string>
+
+    <!-- this sentence is the content of warnning dialog, it will be display when user input invalid channel number [CHAR LIMIT=NONE] -->
+    <string name="menu_dialog_numzero">Channel Number can\'t be 0!</string>
+
+    <!-- this sentence is the content of confirm dialog [CHAR LIMIT=NONE] -->
+    <string name="menu_delete_biss_key_tip">Are you sure you want to delete this BISS key?</string>
+
+    <!-- font name  -->
+    <string name="font" translatable="false">sans-serif</string>
+
+    <!-- Default string for unknown language used in "Closed Caption" options. [CHAR LIMIT=30] -->
+    <string name="closed_caption_unknown_language">Closed captions <xliff:g id="unknown_language_index" example="1">%1$d</xliff:g></string>
+
+    <!-- Error message when Live TV app cannnot launch the system-wide preferences for closed captions. [CHAR LIMIT=NONE] -->
+    <string name="msg_unable_to_start_system_captioning_settings">Unable to start the system-wide preferences for closed captions.</string>
+
+    <!-- Title of "Closed captions" option. [CHAR LIMIT=30] -->
+    <string name="side_panel_title_closed_caption">Closed Captions</string>
+
+    <!-- Label of an option item for Closed Caption "off" [CHAR LIMIT=30] -->
+    <string name="closed_caption_option_item_off">Off</string>
+
+    <!-- Label of an option item to launch system closed caption settings [CHAR LIMIT=30] -->
+    <string name="closed_caption_system_settings">Customize Formatting</string>
+
+    <!-- Description for "System Caption Settings" option [CHAR LIMIT=NONE] -->
+    <string name="closed_caption_system_settings_description">Set system-wide preferences for closed captions</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_ac3" translatable="false">AC3</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_mpeg1l2" translatable="false">MPEG1-L2</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_aac" translatable="false">AAC</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_he_aac" translatable="false">HE_AAC</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_he_aacv2" translatable="false">HE_AACv2</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_dts" translatable="false">DTS</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_dts_express" translatable="false">DTS_EXPRESS</string>
+
+    <!-- audio type name  -->
+    <string name="audio_type_dts_hd">DTS_HD Master Audio</string>
+
+    <!-- this sentence appears within warnning dialog which display after user press Guide key and EPG function is not support  [CHAR LIMIT=NONE] -->
+    <string name="no_support_epg">EPG is not supported!</string>
+
+    <!-- this sentence appears within warnning dialog which display after user press Guide key and EPG function is not support (only for UK) -->
+    <string name="fvp_alert_dialog"  translatable="false">Internet access is required for Freeview Play, would you please connect Internet?</string>
+
+    <!-- this is title of warnning dialog (only for UK) -->
+    <string name="fvp_alert_title"  translatable="false">Warning</string>
+
+    <!-- this is title of warnning dialog [CHAR LIMIT=30] -->
+    <string name="hbbtv_failed_title">Warning</string>
+
+    <!-- this sentence appears within warnning dialog which display after user select unavailable content [CHAR LIMIT=NONE] -->
+    <string name="hbbtv_failed_message">The show that you have chosen is currently not available</string>
+
+    <!-- warning message, there is not any connnected CEC devices. [CHAR LIMIT=50] -->
+    <string name="dvr_device_no">No Device</string>
+
+    <!-- this is title of subtitle tracks list [CHAR LIMIT=50] -->
+    <string name="menu_subtitle_track">Subtitle Tracks</string>
+
+    <!-- this sentence appears within warnning dialog [CHAR LIMIT=NONE] -->
+    <string name="divx_dialog_warning">Your device is already registered.\nAre you sure you wish to unregister the device?</string>
+
+    <!-- this sentence appears within warnning dialog, there is not specific device found. [CHAR LIMIT=NONE] -->
+    <string name="special_input_toast">No <xliff:g id="input_name">%1$s</xliff:g> device found!</string>
+
+    <!-- this is title of second favorite audio language list, the audio will be default playback if matched [CHAR LIMIT=50] -->
+    <string name="menu_arrays_second_audio">Second audio</string>
+
+    <!-- this is title of third favorite audio language list, the audio will be default playback if matched [CHAR LIMIT=50] -->
+    <string name="menu_arrays_third_audio">Third audio</string>
+
+    <!-- this is status name, means current program info [CHAR LIMIT=30] -->
+    <string name="detail_banner_now">Now</string>
+
+    <!-- this is status name, means next program info [CHAR LIMIT=30] -->
+    <string name="detail_banner_next">Next</string>
+
+    <!-- Title for Menu Dialog [CHAR LIMIT=30] -->
+    <string name="one_key_title">Function Key Menu</string>
+
+    <!-- Button Name, to power off/power on TV [CHAR LIMIT=30] -->
+    <string name="one_key_power_off">Power</string>
+
+    <!-- Button Name, to change channel + [CHAR LIMIT=30] -->
+    <string name="one_key_ch_next">CH +</string>
+
+    <!-- Button Name, to change channel - [CHAR LIMIT=30] -->
+    <string name="one_key_ch_last">CH -</string>
+
+    <!-- Button Name, to change volume + [CHAR LIMIT=30] -->
+    <string name="one_key_volume_increase">Vol +</string>
+
+    <!-- Button Name, to change volume - [CHAR LIMIT=30] -->
+    <string name="one_key_volume_decrease">Vol -</string>
+
+    <!-- Button Name, to change source [CHAR LIMIT=30] -->
+    <string name="one_key_source_control">Source</string>
+
+    <!-- Title for favorite channel to move [CHAR LIMIT=20] -->
+    <string name="nav_fav_list_move">Move</string>
+
+    <!-- Title for banner description [CHAR LIMIT=30] -->
+    <string name="detail_banner_dis">Description: </string>
+
+    <!-- Title for Genre message [CHAR LIMIT=20] -->
+    <string name="detail_banner_category">Genre: </string>
+
+    <!-- this sentence appears within the firmware version is latest [CHAR LIMIT=NONE] -->
+    <string name="menu_dvbs_antenna_type_tip">Press RED color key to show band and frequency settings.</string>
+
+    <!-- this sentence appears within the firmware version is latest [CHAR LIMIT=NONE] -->
+    <string name="dvbt_single_rf_frequency"><xliff:g id="frequency_name">%1$s</xliff:g> (<xliff:g id="frequency">%2$s</xliff:g> KHz)</string>
+
+    <!-- this sentence appears within some ports of satellites are the same [CHAR LIMIT=NONE] -->
+    <string name="dvbs_same_port_lnb_toast">Some ports of satellites can\'t be the same, please check DiSEqC settings.</string>
+
+    <!-- title for setting to display region, e.g. Region England [CHAR LIMIT=50] -->
+    <string name="scan_trd_uk_reg_reg_x">Region <xliff:g id="select_region_detail">%1$s</xliff:g></string>
+
+    <!-- title for setting to display user defined band frequency [CHAR LIMIT=50] -->
+    <string name="dvbs_band_freq_user_define">User Defined</string>
+
+    <!-- title for setting to display satellite antenna type [CHAR LIMIT=50] -->
+    <string name="dvbs_satellite_antenna_type">Satellite Antenna Type</string>
+
+    <!-- title for setting to modify second level band frequency [CHAR LIMIT=50] -->
+    <string name="dvbs_sub_band_frequency">Sub Band Frequency</string>
+
+    <!-- title for setting to modify user defined frequency [CHAR LIMIT=50] -->
+    <string name="dvbs_user_define_frequency">User Defined Frequency</string>
+
+    <!-- title for setting to modify second level user defined frequency [CHAR LIMIT=50] -->
+    <string name="dvbs_sub_user_define_frequency">Sub User Defined Frequency</string>
+
+    <!-- title for setting to display low frequency [CHAR LIMIT=30] -->
+    <string name="dvbs_satellite_detail_low_freq">Low frequency</string>
+
+    <!-- title for setting to display high frequency [CHAR LIMIT=30] -->
+    <string name="dvbs_satellite_detail_high_freq">High frequency</string>
+
+    <!-- title for setting to switch frequency [CHAR LIMIT=30] -->
+    <string name="dvbs_satellite_detail_switch_freq">Switch frequency</string>
+
+    <!-- description for config longitude [CHAR LIMIT=50] -->
+    <string name="dvbs_diseqc12_movement_longitude">My longitude</string>
+
+    <!-- description for config latitude [CHAR LIMIT=50] -->
+    <string name="dvbs_diseqc12_movement_latitude">My latitude</string>
+
+    <!-- title for Satellite setting, to change position of receiver [CHAR LIMIT=80] -->
+    <string name="dvbs_diseqc12_movement_orbit_position">Satellite orbit position</string>
+
+    <!-- Driver motor to angular position(°) [CHAR LIMIT=50] -->
+    <string name="dvbs_diseqc12_movement_GotoXX">Goto x.x°</string>
+
+    <!-- Title for favorites channel list [CHAR LIMIT=30] -->
+    <string name="str_Fav_x">Favorites<xliff:g id="fav_index">%d</xliff:g></string>
+
+    <!-- Title for detail info for satellite [CHAR LIMIT=30] -->
+    <string name="dvbs_satellite_detail">Satellite Detail</string>
+
+    <!-- Title for channel list skip [CHAR LIMIT=30] -->
+    <string name="dvbs_lnb_skip_scan">Skip scan</string>
+
+    <!-- Title for information message [CHAR LIMIT=20] -->
+    <string name="simple_dialog_title_info">Info</string>
+
+    <!-- Title for warning message [CHAR LIMIT=20] -->
+    <string name="simple_dialog_title_warning">Warning</string>
+
+    <!-- Title for error message [CHAR LIMIT=20] -->
+    <string name="simple_dialog_title_error">Error</string>
+
+    <!-- this sentence appears within the firmware version is latest [CHAR LIMIT=NONE] -->
+    <string name="nav_oad_latest_version_already">Your system is up to date.</string>
+
+    <!-- Title for physical TV source [CHAR LIMIT=30] -->
+    <string name="tuner_tv">Tuner(TV)</string>
+
+    <!-- Title for channel number [CHAR LIMIT=50] -->
+    <string name="menu_system_info_channel_title">RF Channel Number</string>
+
+    <!-- this sentence appears within we cannot find any channels [CHAR LIMIT=NONE] -->
+    <string name="nav_select_find_no_channel">No channels found.</string>
+
+    <!-- this sentence appears within skipped channel is added into favorite channel [CHAR LIMIT=NONE] -->
+    <string name="nav_fav_skip_flow">The channel is skipped, and current operation is not allowed.</string>
+
+    <!-- Title for channel edit dialog [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_edit_info">Channel Edit Info</string>
+
+    <!-- Setting item to display channel type (Analog Channel or Digital Channel) [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_type">Channel Type</string>
+
+    <!-- Setting item to delete channels  [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_delete">Channel Delete</string>
+
+    <!-- this sentence appears within scan OAD new firmware [CHAR LIMIT=NONE] -->
+    <string name="oad_scanning_tip">OAD scan may take a while to complete</string>
+
+    <!-- status for failed to update new firmware [CHAR LIMIT=30] -->
+    <string name="oad_flash_failed_title">Upgrade failed</string>
+
+    <!-- Setting item for OAD(Over Air Download), support OAD Schedule or not [CHAR LIMIT=30] -->
+    <string name="oad_schedule_title">OAD Schedule</string>
+
+    <!-- Setting item for OAD(Over Air Download), support Tune the channel with OAD or not [CHAR LIMIT=80] -->
+    <string name="oad_channel_jump_title">Tune the channel with OAD</string>
+
+    <!-- Title for OAD(Over Air Download) Dialog, inform to install new firmware after restart [CHAR LIMIT=50] -->
+    <string name="oad_restart_to_proceed_title">Restart to install</string>
+
+    <!-- Setting item for OAD(Over Air Download), to download under background mode(power off mode) [CHAR LIMIT=50] -->
+    <string name="oad_download_bgm_title">Download with BGM</string>
+
+    <!-- this sentence appears within scan new firmware package [CHAR LIMIT=NONE] -->
+    <string name="oad_scan_failed_description">Failed to Scan, would you like to retry?</string>
+
+    <!-- status for download file [CHAR LIMIT=30] -->
+    <string name="oad_downloading_title">Downloading</string>
+
+    <!-- progress info [CHAR LIMIT=30] -->
+    <string name="nav_oad_progress">Progress: <xliff:g id="oad_propgress">%1$s %%</xliff:g></string>
+
+    <!-- this sentence appears within new OAD package found [CHAR LIMIT=NONE] -->
+    <string name="oad_linkage_found">OAD Linkage found, would you like to tune the channel?</string>
+
+    <!-- Title for network name [CHAR LIMIT=30] -->
+    <string name="menu_net_name">Network Name</string>
+
+    <!-- Button Name, application link [CHAR LIMIT=30] -->
+    <string name="menu_app_link">App Link</string>
+
+    <!-- status message for none channels installed [CHAR LIMIT=NONE] -->
+    <string name="dvbt_ita_no_channels">No digital channels were installed, press OK to do automatic channel ordering scan.</string>
+
+    <!-- settings name for block third part cookies [CHAR LIMIT=60] -->
+    <string name="menu_string_block_3rd_new">Blocker 3rd party cookies</string>
+
+    <!-- status message for install channels [CHAR LIMIT=NONE] -->
+    <string name="insert_Cam_Select_Canscan">Do you want to load operator channels?</string>
+
+    <!-- status message for install channels [CHAR LIMIT=NONE] -->
+    <string name="uninsert_Cam_Select_broadcast">Do you want to load broadcast channels?</string>
+
+    <!-- status message for install channels [CHAR LIMIT=NONE] -->
+    <string name="cam_scan_set_satellte">Do you want to set the satellite? Or you can use the default settings to install cam channels?</string>
+
+    <!-- Button Name for install channel via normal method [CHAR LIMIT=30] -->
+    <string name="dvbs_scan_type_normal" >Normal Scan</string>
+
+    <!-- Button Name for install channel via SatcoDX file [CHAR LIMIT=30] -->
+    <string name="dvbs_scan_type_sdx" >SatcoDX Scan</string>
+
+    <!-- Button Name for downloas SatcoDX file  [CHAR LIMIT=50] -->
+    <string name="dvbs_scan_download_sdx" >Download SatcoDX</string>
+
+    <!-- status for store SatcoDX to database [CHAR LIMIT=50] -->
+    <string name="dvbs_status_storing" >Status: Storing</string>
+
+    <!-- warning message for number of locators are out of range [CHAR LIMIT=NONE] -->
+    <string name="tkgs_less_than_toast" >Locators should be less than 5 items.</string>
+
+    <!-- warning message for the existed locator [CHAR LIMIT=NONE] -->
+    <string name="tkgs_existed_toast" >TKGS locator existed!</string>
+
+    <!-- Button Name for save locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_save_locator" >Save Locator</string>
+
+    <!-- Button Name for update locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_update_locator" >Update Locator</string>
+
+    <!-- Button Name for delete locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_delete_locator" >Delete Locator</string>
+
+    <!-- setting Name for auto enable/disable TKGS [CHAR LIMIT=50] -->
+    <string name="tkgs_mode_auto" >Automatic</string>
+
+    <!-- Button Name for disable TKGS [CHAR LIMIT=50] -->
+    <string name="tkgs_off" >TKGS Off</string>
+
+    <!-- setting for customize locators  [CHAR LIMIT=50] -->
+    <string name="tkgs_mode_customisable" >Customisable</string>
+
+    <!-- setting for TKGS operate mode  [CHAR LIMIT=50] -->
+    <string name="tkgs_operator_mode" >Operate Mode</string>
+
+    <!-- warning message to clear all locators  [CHAR LIMIT=NONE] -->
+    <string name="tkgs_reset_hidden_msg" >Do you want to clear all hidden locators?</string>
+
+    <!-- warning message to reset table version [CHAR LIMIT=NONE] -->
+    <string name="tkgs_reset_table_msg" >Do you want to reset table version?</string>
+
+    <!-- Button Name for add locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_click_add_locator" >Click to Add Locator</string>
+
+    <!-- Button Name for clear locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_clear_all_locators" >Clear All Locators</string>
+
+    <!-- status info for empty locations  [CHAR LIMIT=80] -->
+    <string name="tkgs_hidden_lacator_empty" >Hidden TKGS Locators Empty</string>
+
+    <!-- Button Name for delete locator  [CHAR LIMIT=50] -->
+    <string name="tkgs_no_hidden_locator" >No Hidden TKGS Locators</string>
+
+    <!-- status info to request user to select service list  [CHAR LIMIT=NONE] -->
+    <string name="tkgs_select_service_list" >Please select a service list</string>
+
+    <!-- setting for TKGS User Message  [CHAR LIMIT=50] -->
+    <string name="tkgs_user_msg" >TKGS User Message</string>
+
+    <!-- setting for TKGS Locator item  [CHAR LIMIT=50] -->
+    <string name="tkgs_locator_item" >TKGS Locator item</string>
+
+    <!-- Label for band width [CHAR LIMIT = 50]-->
+    <string name="menu_band_width">Bandwidth</string>
+
+    <!-- One of menu option item, it will enter sub page of digital subtitle settings when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_digital_subtitle">Digital Subtitle</string>
+
+    <!-- Label for favorite channel list [CHAR LIMIT = 30]-->
+    <string name="nav_channel_list_type_favs">Favorite</string>
+
+    <!-- Title for hearing impaired setting, enable/disable settings for Hearing Impaired [CHAR LIMIT=50] -->
+    <string name="audio_hi">Hearing impaired</string>
+
+    <!-- Title for Visually Impaired setting, contains all sub settings for Visually Impaired [CHAR LIMIT=50] -->
+    <string name="audio_vi">Visually impaired</string>
+
+    <!-- Title for a kind of sound effect [CHAR LIMIT=50] -->
+    <string name="dobly_audio">Dolby Audio</string>
+
+    <!-- Label for favorite channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_type_fav">Favourites</string>
+
+    <!-- Label for high resolution channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_type_hd">HD Channels</string>
+
+    <!-- Label for interactive channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_type_interactive">Interactive Channels</string>
+
+    <!-- Label for the channels from internet or 3rd apps [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_type_ipapp">IP App Channels</string>
+
+    <!-- Label for radio channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_type_radio">Radio Channels</string>
+
+    <!-- Label for player [CHAR LIMIT=20] -->
+    <string name="nav_uk_channellist_player">Players</string>
+
+    <!-- infor for requset user to input channel number [CHAR LIMIT=NONE] -->
+    <string name="nav_dialog_input_channel">"Please input the channel number :"</string>
+
+    <!-- infor for change channel via channel number directly [CHAR LIMIT=50] -->
+    <string name="nav_dialog_go_page" >Go To Channel</string>
+
+    <!-- warning message [CHAR LIMIT=NONE] -->
+    <string name="nav_ci_dns_text">"Something went wrong, please visit the website!"</string>
+
+    <!-- warning message for remove channels [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_keep_least_one_channel">Keep at least one channel</string>
+
+    <!-- Label for channel swap function [CHAR LIMIT=50] -->
+    <string name="menu_c_chanel_swap" >Channel Swap</string>
+
+    <!-- Label for function status [CHAR LIMIT=50] -->
+    <string name="nav_dialog_no_available" >Not Available</string>
+
+    <!-- warning message for remove channels [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_delete_loading">Deleting. Please wait...</string>
+
+    <!-- Label for power off tv [CHAR LIMIT=50] -->
+    <string name="one_key_powered_off">Power Off</string>
+
+    <!-- Label for add favourite channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_add_fav">Add Favourite</string>
+
+    <!-- Label for remove favourite channels [CHAR LIMIT=50] -->
+    <string name="nav_uk_channellist_remove_fav">Remove Favourite</string>
+
+    <!-- status information for DVBC channels installation [CHAR LIMIT = NONE] -->
+    <string name="cable_advance_scan_message">Please tune to your country home mux transponder frequency.</string>
+
+    <!-- status information for channel scan UI [CHAR LIMIT = NONE] -->
+    <string name="scan_exit_tip">Press [back/exit] to exit scan page.</string>
+
+    <!-- Label for channel list name, to show all channels from network services [CHAR LIMIT=50] -->
+    <string name="ip_channels">IP Channels:</string>
+
+    <!-- status information for channel scan UI [CHAR LIMIT = NONE] -->
+    <string name="fvp_advise_scan_msg">Channels may have been updated in your region.\nIt is recommended to rescan your TV.\nPress OK to update channel list.\nPress Exit to ignore at this time. </string>
+
+    <!-- error information for channel scan UI [CHAR LIMIT = NONE] -->
+    <string name="fvp_scan_error_msg">The Freeview Play channel list is unavailable at this time.\nThe TV will now continue with the broadcast channel list. \nPress OK to continue.</string>
+
+    <!-- error information for channel scan UI [CHAR LIMIT = NONE] -->
+    <string name="fvp_scan_timeout_tip">It takes <xliff:g id="fvp_scan_tip_msg_wait_time_first">%1$d</xliff:g> seconds to connect server but no response from network, you can press exit to cancel Freeview Play channel list installation.</string>
+
+    <!-- setting name for channel switch, video always is display during channel switch.  [CHAR LIMIT = 50]-->
+    <string name="menu_channel_freeze_switch">Freeze Switch</string>
+
+    <!-- Option list of audio list.  [CHAR LIMIT = 50]-->
+    <string name="menu_arrays_Narrative" >Narrative</string>
+
+    <!-- Option list of audio list.  [CHAR LIMIT = 50]-->
+    <string name="menu_arrays_narrator" >Narrator</string>
+
+    <!-- Option list of audio list.  [CHAR LIMIT = 50]-->
+    <string name="default_audio">Default Audio</string>
+
+    <!-- one option of satellite antenna type [CHAR LIMIT=30] -->
+    <string name="dvbs_antenna_type_single" >Single</string>
+
+    <!-- Title for LNB Configurations [CHAR LIMIT=50] -->
+    <string name="dvbs_lnb_configration" >LNB Configurations</string>
+
+    <!-- setting name to select the specific DiSEqC port [CHAR LIMIT = 30] -->
+    <string name="diseqc_port" >DiSEqC Port</string>
+
+    <!-- one option of LNB port for satellite channels installation [CHAR LIMIT=50] -->
+    <string name="tone_burst_port">Tone Burst Port</string>
+
+    <!-- Title for motor settings dialog to configure longitude and grandeur [CHAR LIMIT=30] -->
+    <string name="motor_settings" >Motor Settings</string>
+
+    <!-- setting name for open more detail settings [CHAR LIMIT = 30] -->
+    <string name="dvbs_rescan_more" >More</string>
+
+    <!-- Title for satellites list [CHAR LIMIT=50] -->
+    <string name="dvbs_satellite_selection" >Satellite Selection</string>
+
+    <!-- warning message to scan all satellites again [CHAR LIMIT=NONE] -->
+    <string name="dvbs_rescan_dialog_title" >Are you sure to re-scan all the satellites? All the installed channels will be removed.</string>
+
+    <!-- one of subtitle type [CHAR LIMIT=50] -->
+    <string name="sound_tracks_hoh">Hard of Hearing</string>
+
+    <!-- warning message for CAM card plugin [CHAR LIMIT=60] -->
+    <string name="ci_inserted_msg">CAM inserted.</string>
+
+    <!-- warning message for CAM card unplugin [CHAR LIMIT=60] -->
+    <string name="ci_removed_msg">CAM removed.</string>
+
+    <!-- warning message, donot allow to skip all channels [CHAR LIMIT=NONE] -->
+    <string name="keep_least_one_channel_skip">Please don\'t skip all channels.</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 30]-->
+    <string name="nav_au_MUSIC">Music</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 30]-->
+    <string name="nav_au_ARTS">Arts/culture</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 60]-->
+    <string name="nav_au_EDUCATION_INFORMATION">Education/information</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 30]-->
+    <string name="nav_au_SPECIAL">Special</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 30]-->
+    <string name="nav_uk_EDUCATION">Education</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 50]-->
+    <string name="nav_au_undefined">Undefined content</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 80]-->
+    <string name="banner_category_reserved_for_future_use">Reserved for future use</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 80]-->
+    <string name="banner_category_user_defined">user defined</string>
+
+    <!-- chanenl program type  [CHAR LIMIT = 80]-->
+    <string name="banner_category_reservd_not_defined">Reserved-not defined</string>
+
+    <!-- warning message after app loss audio focus.  [CHAR LIMIT = NONE]-->
+    <string name="audio_focus_lost_warnning_info">Audio focus is lost. do you want to request it again?</string>
+
+    <!-- EPG main type -->
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_MINI_SERIES">Mini series</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_REALITY_SHOW">Reality show</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_DEBATE_INTERVIEW">Debate/Interview</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_SOAP_OPERA">Soap opera</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_MUSIC_AUS">Music</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_ARTS_AUS">Arts/culture</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_CURRENT_AFFAIRS_AUS">Current affairs</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_EDUCATION_AUS">Education/information</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_SPECIAL_AUS">Special</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_EDUCATION_UK">Education</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_ADULT_UK">Adult</string>
+
+    <!-- epg sub type -->
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_News_Epg">news</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Drama">movie/drama (general)</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Detective">detective/thriller</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Adventure">adventure/westem/war</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Science_Fiction">science fiction/fantasy/horror</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Comedy">comedy</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Soap">soap/melodrama/folkloric</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Special_Events">special events (olympic games,world cup,etc.)</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Cooking">cooking</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Report">report</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Biography">biography</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Educative">educative</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Mini_series">mini-series</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Series">series</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Auditorium">auditorium</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Making_of">making of</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Feminine">feminine</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Game_show">game show</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Reality_show">reality show</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Country">country</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Health">health</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Travel">travel</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Comical">comical</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Erotic">erotic</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_movie">movie</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Raffle">raffle</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Television_sales">television sales</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Prizing">prizing</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Interview">interview</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Adult_cartoon">adult cartoon</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Interactive">interactive</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Policy">policy</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Martial_Sport">martial sport</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Entertainment_for_10_to">entertainment for 10 and above</string>
+
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_USER_DEFINED">User defined</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_UNDEFINED">Undefined content</string>
+
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_RESERVED_NOT_DEFINED_AUS">Reserved-not defined</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_RESERVED_FOR_FUTURE_USE">Reserved for future use</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Reserved_for_future_use">reserved for future use</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_ADULT">Adult</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Adult">adult (general)</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_User_defined">user defined</string>
+    <!-- Option list of channel category.  [CHAR LIMIT = 50]-->
+    <string name="nav_Undefined">undefined content</string>
+
+    <!--  warning message for terms and conditions of DAI service [CHAR LIMIT=NONE] -->
+    <string name="dai_hdmi_dialog_msg">The Additional Feature Agreement has been updated. View it?</string>
+
+    <!-- tips for network not connected  [CHAR LIMIT=NONE] -->
+    <string name="network_not_avaiable">Network not available</string>
+
+    <!-- Name of favorite channel list [CHAR LIMIT=30] -->
+    <string name="nav_select_type_fav">Favourites</string>
+
+    <!-- Name of button to open the kinds of channel list [CHAR LIMIT=30] -->
+    <string name="nav_channel_list_options">Operation</string>
+
+    <!-- Name of audio type for DTS Express [CHAR LIMIT=30] -->
+    <string name="audio_type_dts_express_p">DTS Express</string>
+
+    <!-- Name of the DTS-HD master audio setting [CHAR LIMIT=80] -->
+    <string name="audio_type_dts_hd_master_audio">DTS-HD Master Audio</string>
+
+    <!-- Name of the DTS-HD surround sound format that is displayed to the user [CHAR LIMIT=50] -->
+    <string name="audio_type_dts_hd_p">DTS-HD</string>
+
+    <!-- label for hour [CHAR LIMIT = 20] -->
+    <plurals name="duration_hour">
+        <item quantity="one"><xliff:g id="one">%1$d</xliff:g> hour</item>
+        <item quantity="other"><xliff:g id="other">%1$d</xliff:g> hours</item>
+    </plurals>
+
+    <!-- label for minute [CHAR LIMIT = 20] -->
+    <plurals name="duration_minute">
+        <item quantity="one"><xliff:g id="one">%1$d</xliff:g> minute</item>
+        <item quantity="other"><xliff:g id="other">%1$d</xliff:g> minutes</item>
+    </plurals>
+
+    <!-- label for second [CHAR LIMIT = 20] -->
+    <plurals name="duration_second">
+        <item quantity="one"><xliff:g id="one">%1$d</xliff:g> second</item>
+        <item quantity="other"><xliff:g id="other">%1$d</xliff:g> seconds</item>
+    </plurals>
+
+    <!-- Option list of audio info [CHAR LIMIT = 60] -->
+    <string name="nav_A2_DUAL1_DUAL2">Dual I+II</string>
+
+    <!-- Option list of audio info [CHAR LIMIT = 60] -->
+    <string name="nav_NICAM_DUAL1_DUAL2">NICAM Dual I+II</string>
+
+    <!-- warning message after channel signal loss.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_no_signal_title">No Signal</string>
+
+    <!-- detail warning message after channel signal loss.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_no_signal_msg">Signal is being searched for, or no signal is found. Please check if the antenna cable has been connected properly.</string>
+
+    <!-- warning message after channel scrambled.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_scrambled_title">Channel coded</string>
+
+    <!-- detail warning message after channel scrambled.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_scrambled_msg">(Channel scrambled \\ Content scrambled). Please check if the CI + module and the smart card have been inserted correctly.</string>
+
+    <!-- warning message after channel locked.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_channel_lock_title">Channel locked</string>
+
+    <!-- detail warning message after channel locked.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_channel_lock_msg">The channel has been locked because of a channel locking defined by you. This can be changed via the TV menu. Press OK to unlock the screen.</string>
+
+    <!-- warning message after program locked.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_program_lock_title">Program has been blocked</string>
+
+    <!-- detail warning message after program locked.  [CHAR LIMIT = NONE]-->
+    <string name="twinkle_dialog_program_lock_msg">This program has been blocked because of an age blocking defined by you. This can be changed via the TV menu. Press OK to unlock the screen.</string>
+
+    <!-- Label for tuner info, Ber is "Bit error rate" [CHAR LIMIT = 50] -->
+    <string name="menu_system_info_ber">Ber</string>
+	
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_one" translatable="false">1</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_two" translatable="false">2</string>
+    <!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+	<string name="soft_key_three" translatable="false">3</string>
+    <!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+	<string name="soft_key_four" translatable="false">4</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_five" translatable="false">5</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_six" translatable="false">6</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_seven" translatable="false">7</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_eight" translatable="false">8</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_nine" translatable="false">9</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_zero" translatable="false">0</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_chplus" translatable="false">CH+</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_chminus" translatable="false">CH-</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_info" translatable="false">Info</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_subtitle" translatable="false">Subtitle</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_ttx" translatable="false">TTX</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_audio" translatable="false">Audio</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_epg" translatable="false">Guide</string>
+	<!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_etc" translatable="false">-/-</string>
+    <!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_input" translatable="false">Input</string>
+    <!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_exit" translatable="false">Exit</string>
+    <!-- Label for soft_key_board [CHAR LIMIT = 10] -->
+    <string name="soft_key_mts" translatable="false">MTS</string>
+
+</resources>

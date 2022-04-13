@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"디스크가 준비되지 않았습니다."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR을 시작하지 못했습니다. 디스크가 준비되지 않았습니다."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"파일 생성 완료"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR을 시작하지 못했습니다. 먼저 PIP를 종료하세요."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR을 시작하지 못했습니다. 먼저 디지털 TV 소스로 바꿔주세요."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR을 시작하지 못했습니다. 신호가 없습니다."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR을 시작할 수 없습니다. 타임시프트가 실행되고 있습니다."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV 스트림을 사용할 수 없습니다."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"스트림 권한이 없습니다."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"입력 소스가 잠겼습니다."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"동영상 해상도 오류입니다."</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"내부 오류"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"타임시프트를 사용할 수 없습니다. 먼저 PVR를 종료하세요."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"기기를 찾을 수 없거나 사용할 수 없습니다. 나중에 다시 시도해 주세요."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR을 중지하고 녹화 파일을 저장합니다."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"디스크 분리됨"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"주의: 기기를 분리하지 마세요. 기기를 분리하면 명시되지 않은 오류가 발생할 수 있습니다."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"공간이 부족합니다. 디스크에 최소한 1GB의 여유 공간이 있어야 합니다."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"지원되지 않는 기능입니다."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"계속 찾기 기능은 지원되지 않습니다."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"지원되지 않는 파일입니다."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"포맷하면 모든 데이터가 삭제됩니다."</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"계속하시겠습니까?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"파일이 삭제됩니다."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"속도 테스트 진행 중"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"기기를 분리하지 마세요."</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"디스크 포맷 완료"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"디스크 포맷 실패"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"속도 테스트 완료"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"최대 속도: "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"녹화 중"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR 재생"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"타임시프트"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"녹화 시작"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"녹화 중지"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR이 실행되고 있습니다"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"녹화 프로세스를 중단하고\n EPG를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"타임시프트를 중지하고\n EPG를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"녹화 프로세스를 중단하고 \n 채널을 변경하시겠습니까?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"녹화 프로세스를 중지하고\n 소스를 변경하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"타임시프트를 중지하고\n 채널을 변경하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"타임시프트를 중지하고\n 소스를 변경하시겠습니까?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"녹화 프로세스를 중지하고\n PIP/POP를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"타임시프트를 중지하고\n PIP/POP를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"PVR 재생을 중지하고\n PIP/POP를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"타임시프트를 중지하고\n 녹화 목록을 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"PIP/POP를 입력하시겠습니까?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"예정된 녹화가 있습니다."</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"녹화를 시작하시겠습니까?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"타임시프트를 중단하시겠습니까?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"디스크램블된 채널은 중단될 수 있습니다. 계속하시겠습니까?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"경고"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"기기 정보 설정"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"포맷하면 모든 데이터가 삭제됩니다. 계속하시겠습니까?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"타임시프트가 녹화 중입니다."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR이 실행되고 있습니다."</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR 재생이 실행되고 있습니다."</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"타임시프트를 사용할 수 없습니다."</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"저장용량의 읽기 및 쓰기 속도를 테스트하는 프로그램이 실행되고 있습니다."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/초"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"예약된 녹화([<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>])가 있습니다. 녹화를 시작하시겠습니까?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"이름:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"예약된 리마인더가 있습니다."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"이 채널을 시청하시겠습니까?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] 녹화 시도가 실패했습니다."</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] 채널이 <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g>초 동안 제대로 녹화되지 않았습니다."</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"녹화의 일부분만 저장되었습니다. 녹화 중에 전원이 꺼졌습니다."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"이벤트 모델"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"시간 프로그래밍"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"녹화를 지원하는 신호"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'녹화를 지원하는 신호\'는 수정할 수 없습니다."</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"타임시프트가 중지되었습니다."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"녹화 중입니다. 속도를 테스트할 수 없습니다."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"타임시프트를 실행 중입니다. 속도를 테스트할 수 없습니다."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"액세스가 거부되었습니다. 속도를 테스트할 수 없습니다."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"디스크 공간이 부족합니다. 속도를 테스트할 수 없습니다."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"속도를 테스트할 수 없습니다."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"빨리감기와 되감기가 지원되지 않습니다."</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"항목 삭제 중 오류가 발생하였습니다. 채널을 녹화 중입니다."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR이 실행되고 있거나 PVR 파일이 재생되고 있습니다.\n중단한 후 다시 시도해 보세요."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"타임시프트를 실행 중입니다.\n중단한 후 다시 시도해 보세요."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"현재 채널은 유효하지 않습니다."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"빨리감기 중입니다. 나중에 다시 시도해 보세요."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"되감기 중입니다. 나중에 다시 시도해 보세요."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"타임시프트가 모두 녹화되었으며 자동 재생됩니다."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"이전 채널로 전환할 수 없습니다. \n 또한 타임시프트가 계속 녹화 중입니다."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"녹화가 실패했거나 완료되지 않았습니다."</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"부분 녹화 중입니다. 신호가 사라져 부분 녹화합니다."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"부분 녹화 중입니다. EIT가 없기 때문에 부분 녹화합니다."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"부분 녹화 중입니다. EIT가 없고 신호가 사라져 부분 녹화합니다."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"시작 시간 오류입니다. 시작 시간이 현재 시간보다 이전입니다."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"파일 길이에 문제가 있습니다."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"요청하신 일정 추가가 허용되는 한도를 초과합니다."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"녹화 프로세스를 중단하고 \n 채널 유형을 변경하시겠습니까?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"타임시프트를 중지하고\n 채널 유형을 변경하시겠습니까?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"녹화를 준비하는 중에는 채널 전환이 허용되지 않습니다."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"포맷 중입니다."</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"디스크를 포맷할 수 없습니다. 녹화 중입니다."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"디스크를 포맷할 수 없습니다. 타임시프트가 실행 중입니다."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"속도가 잘못되었습니다."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"포맷 중입니다. 잠시만 기다려 주세요..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"빨리감기가 지원되지 않습니다."</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"되감기가 지원되지 않습니다."</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"디스크 속도가 느려서 데이터를 삭제합니다."</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"일부 예약된 녹화가 완료되지 않았습니다."</string>
+</resources>

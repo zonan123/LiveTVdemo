@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#171717"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_marginLeft="100dp">
+
+        <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_versioninfo_name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_tv_single_signal_level" />
+
+            <ProgressBar
+                android:id="@+id/common_ps_signal_level"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="12dip"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:gravity="center" />
+
+            <TextView
+                android:id="@+id/common_tv_signal_level"
+                style="@style/listitem_normal_tv"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_signal_qua"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_tv_single_signal_quality" />
+
+            <ProgressBar
+                android:id="@+id/common_ps_signal_qua"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="12dip"
+                android:layout_weight="1"
+                android:clickable="false"
+                android:enabled="false"
+                android:focusable="false"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/common_tv_signal_qua"
+                style="@style/listitem_normal_tv"
+                android:layout_weight="1" />
+        </TableRow>
+          <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_channel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_channel" />
+
+            <TextView
+                android:id="@+id/common_system_info_channel_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+			<!--  
+            <TextView
+                android:id="@+id/common_system_info_freq1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                 />
+
+            <TextView
+                android:id="@+id/common_system_info_freq_value1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+            -->
+            <TextView
+                android:id="@+id/common_system_info_freq"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_setup_biss_key_freqency" />
+
+            <TextView
+                android:id="@+id/common_system_info_freq_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+        <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_pre"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_pre" />
+
+            <TextView
+                android:id="@+id/common_system_info_pre_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_prog"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_prog" />
+
+            <TextView
+                android:id="@+id/common_system_info_prog_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+         <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_cn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_cn" />
+
+            <TextView
+                android:id="@+id/common_system_info_cn_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_service_id"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_service_id" />
+
+            <TextView
+                android:id="@+id/common_system_info_service_id_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+         <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_uec"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_uec" />
+
+            <TextView
+                android:id="@+id/common_system_info_uec_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_tsid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_tsid" />
+
+            <TextView
+                android:id="@+id/common_system_info_tsid_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+         <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_sysbolrate"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_tv_rf_sym_rate" />
+
+            <TextView
+                android:id="@+id/common_system_info_sysbolrate_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_onid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_onid" />
+
+            <TextView
+                android:id="@+id/common_system_info_onid_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+         <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_modulation"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_tv_sigle_modulation" />
+
+            <TextView
+                android:id="@+id/common_system_info_modulation_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_networkid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_c_net" />
+
+            <TextView
+                android:id="@+id/common_system_info_networkid_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+         <TableRow android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/common_system_info_agc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_agc" />
+
+            <TextView
+                android:id="@+id/common_system_info_agc_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_lnb"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_lnb"
+                 />
+
+            <TextView
+                android:id="@+id/common_system_info_lnb_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                 android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            <TextView
+                android:id="@+id/common_system_info_svctype_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_svctype"
+                android:visibility="gone"
+                 />
+
+            <TextView
+                android:id="@+id/common_system_info_svctype_value_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                 android:textSize="@dimen/small_text_size"
+                android:layout_weight="1"
+                android:visibility="gone" />
+        </TableRow>
+        <TableRow 
+            android:layout_marginTop="20dp" 
+            android:id="@+id/tablerow_for_svctype"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/common_system_info_empty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"/>
+
+            <TextView
+                android:id="@+id/common_system_info_empty_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+            
+            <TextView
+                android:id="@+id/common_system_info_svctype"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textSize="@dimen/small_text_size"
+                android:text="@string/menu_system_info_symbol_svctype"
+                 />
+
+            <TextView
+                android:id="@+id/common_system_info_svctype_value"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                 android:textSize="@dimen/small_text_size"
+                android:layout_weight="1" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pager_left" msgid="5916835708420351938">"На папярэднюю старонку"</string>
+    <string name="pager_mid" msgid="4968062902568815399">"Выдаліць"</string>
+    <string name="pager_right" msgid="7603224449754953394">"На наступную старонку"</string>
+    <string name="dvbs_scan_tip" msgid="4028961194688664591">"Каб сканіраваць, націсніце правую кнопку"</string>
+    <string name="schedulelist_nofiles" msgid="1102370370491303160">"Няма запісаных раскладаў! Каб дадаць расклад, націсніце кнопку \"Запісаць\"."</string>
+    <string name="schedulelist_nofiles_disable_add" msgid="188335947614278738">"Няма запісаных раскладаў!"</string>
+    <string name="exit" msgid="7630821608627714353">"Выйсці"</string>
+    <string name="selected" msgid="4653062046959284678">"Выбрана"</string>
+    <string name="add_schedule" msgid="2486894067451814589">"Прылада запісу"</string>
+    <string name="pvr_schedule_replace" msgid="5856456294154475187">"Замяніць"</string>
+    <string name="pvr_schedule_add" msgid="6110852830700398259">"Дадаць"</string>
+    <string name="pvr_schedule_cancel" msgid="3135146425081661396">"Скасаваць"</string>
+    <string name="pvr_schedule_ok" msgid="7896175252425269525">"ОК"</string>
+    <string name="pvr_schedule_edit" msgid="6869378196887302864">"Змяніць"</string>
+    <string name="pvr_title_device_info" msgid="5062139540953124754">"Інфармацыя пра прыладу"</string>
+    <string name="pvr_deviceinfo_info" msgid="8686619785147159232">"Інфармацыя"</string>
+    <string name="pvr_deviceinfo_set_timeshift" msgid="638982818771137638">"Задаць зрух часу"</string>
+    <string name="pvr_deviceinfo_set_pvr" msgid="1812035881698409659">"Задаць прыладу запісу"</string>
+    <string name="pvr_deviceinfo_format" msgid="732207163687513098">"Фармаціраваць"</string>
+    <string name="pvr_deviceinfo_speed_test" msgid="1705696933436508819">"Праверка хуткасці"</string>
+    <string name="pvr_disk_no_name" msgid="8895833207517205045">"Без назвы"</string>
+    <string name="pvr_disk_ispvr_pvr_tshift" msgid="6695036643563889270">"Прылада для запісу відэа/Зрух часу"</string>
+    <string name="pvr_playlist_record_list" msgid="6385411317725709030">"Спіс запісаў"</string>
+    <string name="pvr_playlist_page_up" msgid="7872028984404843967">"Уверх старонкі"</string>
+    <string name="pvr_playlist_page_down" msgid="462603358423284402">"Уніз старонкі"</string>
+    <string name="pvr_playlist_info" msgid="2832544805028365267">"Інфармацыя"</string>
+    <string name="pvr_playlist_record_detail" msgid="6676719393966953458">"Падрабязныя звесткі пра запіс"</string>
+    <string name="pvr_playlist_programe_info" msgid="7464433327310697729">"Інфармацыя пра праграму"</string>
+    <string name="pvr_playlist_channel_num" msgid="7441439086772670454">"Нумар канала"</string>
+    <string name="pvr_playlist_channel_name" msgid="2700249281983575436">"Назва канала"</string>
+    <string name="pvr_playlist_program_name" msgid="7787340288465263048">"Назва файла"</string>
+    <string name="pvr_playlist_date" msgid="5088425874562384948">"Дата"</string>
+    <string name="pvr_playlist_week" msgid="3866986988910255809">"Тыдзень"</string>
+    <string name="pvr_playlist_time" msgid="7665349581842466301">"Час"</string>
+    <string name="pvr_playlist_duration" msgid="8154163383737436183">"Працягласць"</string>
+    <string name="pvr_disksetup_disk_setup" msgid="5047713114089933131">"Наладка дыску"</string>
+    <string name="pvr_disksetup_select" msgid="2027643471229072718">"Выбраць"</string>
+    <string name="pvr_schedulepvr_week" msgid="5040919860922460694">"Тыдзень"</string>
+    <string name="pvr_schedulepvr_record" msgid="3263076279672391726">"Запіс"</string>
+    <string name="pvr_schedulepvr_schedule_list" msgid="319347236544867326">"Спіс раскладаў"</string>
+    <string name="pvr_schedulepvr_add_schedule" msgid="5117651242858869047">"Дадаць расклад"</string>
+    <string name="pvr_schedulepvr_selected" msgid="2575698815926464983">"Выбрана"</string>
+    <string name="pvr_schedulepvr_schedule_list2" msgid="7027839432116753202">"Спіс раскладаў"</string>
+    <string name="pvr_confirm_yes" msgid="1960977629850737637">"Так"</string>
+    <string name="pvr_confirm_no" msgid="1743483596922267494">"Не"</string>
+    <string name="pvr_dialog_Loadding" msgid="473183767606082352">"Ідзе загрузка"</string>
+    <string name="pvr_schedulelist_replace_line1" msgid="1964336334167319443">"Расклады часткова супадаюць!"</string>
+    <string name="pvr_schedulelist_replace_line2" msgid="3784414124800559080">"Замяніць гэтыя расклады?"</string>
+    <string name="pvr_schedulelist_delete_line1" msgid="3584652870083785079">"Выдаліце расклад!"</string>
+    <string name="pvr_schedulelist_delete_line2" msgid="1095814224051622093">"Выдаліць гэтыя расклады?"</string>
+    <string name="menu_settings" msgid="8629595673599201848">"Налады"</string>
+    <string name="fav_list_is_full" msgid="4210998606974173799">"Спіс абраных перапоўнены."</string>
+  <string-array name="ampm">
+    <item msgid="2147250436361165525">"раніцы"</item>
+    <item msgid="2143773709656890302">"вечара"</item>
+  </string-array>
+    <string name="power_on_off_time_same" msgid="4986405808790790433">"Два таймеры не могуць быць аднолькавымі. Скіньце налады"</string>
+    <string name="sleep_timer_tip_text" msgid="3481648915016121208">"Сілкаванне будзе выключана."</string>
+    <string name="sleep_timer_btn_text" msgid="7541760001731796341">"Каб працягнуць, націсніце любую кнопку"</string>
+    <string name="menu_dialog_numzero" msgid="6992271585072387734">"Нумар канала не можа мець значэнне 0!"</string>
+    <string name="menu_delete_biss_key_tip" msgid="270119160492034920">"Сапраўды хочаце выдаліць гэты ключ BISS?"</string>
+    <string name="closed_caption_unknown_language" msgid="3850169022645102998">"Субцітры <xliff:g id="UNKNOWN_LANGUAGE_INDEX">%1$d</xliff:g>"</string>
+    <string name="msg_unable_to_start_system_captioning_settings" msgid="2023371839435704614">"Не ўдалося запусціць агульнасістэмныя параметры для субцітраў."</string>
+    <string name="side_panel_title_closed_caption" msgid="7448337163528445810">"Субцітры"</string>
+    <string name="closed_caption_option_item_off" msgid="9001413346969647308">"Выключыць"</string>
+    <string name="closed_caption_system_settings" msgid="2542348141320667250">"Наладзіць фармаціраванне"</string>
+    <string name="closed_caption_system_settings_description" msgid="7265197580579923226">"Усталяваць агульнасістэмныя параметры для субцітраў"</string>
+    <string name="audio_type_dts_hd" msgid="1262425049351310424">"DTS_HD Master Audio"</string>
+    <string name="no_support_epg" msgid="2138706123507764923">"Электронны тэлегід не падтрымліваецца!"</string>
+    <string name="hbbtv_failed_title" msgid="1707645071224134304">"Папярэджанне"</string>
+    <string name="hbbtv_failed_message" msgid="734528083985709244">"Шоу, якое вы выбралі, цяпер недаступнае"</string>
+    <string name="dvr_device_no" msgid="4638709416180940311">"Няма прылад"</string>
+    <string name="menu_subtitle_track" msgid="6783272571611214508">"Дарожкі з субцітрамі"</string>
+    <string name="divx_dialog_warning" msgid="3199049722134706179">"Ваша прылада ўжо зарэгістравана.\nСкасаваць рэгістрацыю?"</string>
+    <string name="special_input_toast" msgid="8622200974026625558">"Прылада \"<xliff:g id="INPUT_NAME">%1$s</xliff:g>\" не знойдзена!"</string>
+    <string name="menu_arrays_second_audio" msgid="5252553235566818161">"Другое аўдыя"</string>
+    <string name="menu_arrays_third_audio" msgid="8451764896926365139">"Трэцяе аўдыя"</string>
+    <string name="detail_banner_now" msgid="7869959253865544969">"Зараз"</string>
+    <string name="detail_banner_next" msgid="4575884876693300911">"Наступная"</string>
+    <string name="one_key_title" msgid="8730424095805619277">"Меню функцыянальных клавіш"</string>
+    <string name="one_key_power_off" msgid="4009784748638794309">"Сілкаванне"</string>
+    <string name="one_key_ch_next" msgid="209588048760330201">"CH +"</string>
+    <string name="one_key_ch_last" msgid="4850983469749879770">"CH -"</string>
+    <string name="one_key_volume_increase" msgid="8173734395735427399">"Гучнасць +"</string>
+    <string name="one_key_volume_decrease" msgid="2022523121682095052">"Гучнасць -"</string>
+    <string name="one_key_source_control" msgid="6554721728000374639">"Крыніца"</string>
+    <string name="nav_fav_list_move" msgid="1059045593510301629">"Перамясціць"</string>
+    <string name="detail_banner_dis" msgid="5996262731054423895">"Апісанне:"</string>
+    <string name="detail_banner_category" msgid="6144499940145005003">"Жанр:"</string>
+    <string name="menu_dvbs_antenna_type_tip" msgid="4953749502243337505">"Націсніце ЧЫРВОНУЮ кнопку, каб убачыць налады дыяпазону і частаты."</string>
+    <string name="dvbt_single_rf_frequency" msgid="27559318606000652">"<xliff:g id="FREQUENCY_NAME">%1$s</xliff:g> (<xliff:g id="FREQUENCY_0">%2$s</xliff:g> кГц)"</string>
+    <string name="dvbs_same_port_lnb_toast" msgid="951113880294713457">"Некалькі партоў у спадарожніках не могуць быць аднолькавымі. Праверце налады DiSEqC."</string>
+    <string name="scan_trd_uk_reg_reg_x" msgid="7011732649786693105">"Рэгіён <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="dvbs_band_freq_user_define" msgid="707512341400473759">"Вызначана карыстальнікам"</string>
+    <string name="dvbs_satellite_antenna_type" msgid="3895707561303710877">"Тып спадарожнікавай антэны"</string>
+    <string name="dvbs_sub_band_frequency" msgid="6486203450059492940">"Частата субдыяпазону"</string>
+    <string name="dvbs_user_define_frequency" msgid="1929522613437163818">"Вызначаная карыстальнікам частата"</string>
+    <string name="dvbs_sub_user_define_frequency" msgid="7874453770844029312">"Вызначаная субкарыстальнікам частата"</string>
+    <string name="dvbs_satellite_detail_low_freq" msgid="362470160273770698">"Нізкая частата"</string>
+    <string name="dvbs_satellite_detail_high_freq" msgid="3859616799929488652">"Высокая частата"</string>
+    <string name="dvbs_satellite_detail_switch_freq" msgid="7011227087621403482">"Пераключыць частату"</string>
+    <string name="dvbs_diseqc12_movement_longitude" msgid="3678228778221741011">"Мая даўгата"</string>
+    <string name="dvbs_diseqc12_movement_latitude" msgid="6733476973734632871">"Мая шырата"</string>
+    <string name="dvbs_diseqc12_movement_orbit_position" msgid="7793161872139465990">"Пазіцыя спадарожніка на арбіце"</string>
+    <string name="dvbs_diseqc12_movement_GotoXX" msgid="7047409663259036827">"Goto x.x°"</string>
+    <string name="str_Fav_x" msgid="7459990367583595146">"Абраныя<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="dvbs_satellite_detail" msgid="4776876001455788631">"Звесткі пра спадарожнік"</string>
+    <string name="dvbs_lnb_skip_scan" msgid="3743833568050427349">"Прапусціць пошук"</string>
+    <string name="simple_dialog_title_info" msgid="6154915111682423960">"Інфармацыя"</string>
+    <string name="simple_dialog_title_warning" msgid="3614091485269772625">"Заўвага"</string>
+    <string name="simple_dialog_title_error" msgid="2187576517473489816">"Памылка"</string>
+    <string name="nav_oad_latest_version_already" msgid="2156547052157466619">"Ваша сістэма абноўлена."</string>
+    <string name="tuner_tv" msgid="5613585390434807631">"Цюнер (ТБ)"</string>
+    <string name="menu_system_info_channel_title" msgid="3452677003187359490">"Колькасць каналаў ВЧ"</string>
+    <string name="nav_select_find_no_channel" msgid="4955181758886475830">"Каналы не знойдзены."</string>
+    <string name="nav_fav_skip_flow" msgid="177926793187779212">"Канал прапушчаны, і цяперашняя аперацыя забаронена."</string>
+    <string name="menu_tv_channel_edit_info" msgid="3520189529118882493">"Інфармацыя пра змяненне канала"</string>
+    <string name="menu_tv_channel_type" msgid="4660659962974681532">"Тып канала"</string>
+    <string name="menu_tv_channel_delete" msgid="7669615966645353924">"Выдаленне канала"</string>
+    <string name="oad_scanning_tip" msgid="4968696677300239126">"Пошук спампоўкі бесправадным спосабам зойме некаторы час"</string>
+    <string name="oad_flash_failed_title" msgid="7192443817118007645">"Збой абнаўлення"</string>
+    <string name="oad_schedule_title" msgid="1737670690057789082">"Расклад бесправадной спампоўкі"</string>
+    <string name="oad_channel_jump_title" msgid="2577844873443781633">"Рэдагаваць канал праз спампоўванне бесправадным спосабам"</string>
+    <string name="oad_restart_to_proceed_title" msgid="6948481951924283977">"Перазапусціце для ўсталёўкі"</string>
+    <string name="oad_download_bgm_title" msgid="3047029303285767785">"Спампаваць у фонавым рэжыме"</string>
+    <string name="oad_scan_failed_description" msgid="7014087140650340990">"Не ўдалося знайсці. Паўтарыць спробу?"</string>
+    <string name="oad_downloading_title" msgid="4877708338250766856">"Ідзе спампоўванне"</string>
+    <string name="nav_oad_progress" msgid="4544167256333729358">"Ход працэсу: <xliff:g id="OAD_PROPGRESS">%1$s %%</xliff:g>"</string>
+    <string name="oad_linkage_found" msgid="2410275374412762890">"Знойдзена сувязь с бесправадной спампоўкай. Рэдагаваць канал?"</string>
+    <string name="menu_net_name" msgid="1005475185681009858">"Назва сеткі"</string>
+    <string name="menu_app_link" msgid="2607530786101957614">"Спасылка на праграму"</string>
+    <string name="dvbt_ita_no_channels" msgid="6838309354217896476">"Лічбавыя каналы не ўсталяваны. Націсніце \"ОК\" для аўтаматычнага пошуку каналаў."</string>
+    <string name="menu_string_block_3rd_new" msgid="1614323014281173540">"Блакіраваць староннія файлы cookie"</string>
+    <string name="insert_Cam_Select_Canscan" msgid="8986022644010668512">"Хочаце загрузіць каналы аператара?"</string>
+    <string name="uninsert_Cam_Select_broadcast" msgid="4175870482702986083">"Хочаце загрузіць тэлевізійныя каналы?"</string>
+    <string name="cam_scan_set_satellte" msgid="1298120559959087457">"Хочаце задаць спадарожнік? Або будзеце выкарыстоўваць стандартныя налады для ўсталёўкі каналаў праз CAM-модуль?"</string>
+    <string name="dvbs_scan_type_normal" msgid="8431491600467381774">"Звычайны пошук"</string>
+    <string name="dvbs_scan_type_sdx" msgid="8828241765191566761">"Пошук SatcoDX"</string>
+    <string name="dvbs_scan_download_sdx" msgid="1637251811528417434">"Спампаваць SatcoDX"</string>
+    <string name="dvbs_status_storing" msgid="7107319723055117254">"Стан: ідзе захаванне"</string>
+    <string name="tkgs_less_than_toast" msgid="7250647197764179059">"У сродках пошуку павінна быць не больш за 5 элементаў."</string>
+    <string name="tkgs_existed_toast" msgid="4911249617100313929">"Сродак пошуку TKGS ужо існуе!"</string>
+    <string name="tkgs_save_locator" msgid="4579987253675950461">"Захаваць сродак пошуку"</string>
+    <string name="tkgs_update_locator" msgid="1121387555194711910">"Абнавіць сродак пошуку"</string>
+    <string name="tkgs_delete_locator" msgid="3067365535557983232">"Выдаліць сродак пошуку"</string>
+    <string name="tkgs_mode_auto" msgid="231010818430260587">"Аўтаматычны"</string>
+    <string name="tkgs_off" msgid="8002424289283210812">"TKGS выключаны"</string>
+    <string name="tkgs_mode_customisable" msgid="6743227536838884132">"Карыстальніцкі"</string>
+    <string name="tkgs_operator_mode" msgid="6577111553169632650">"Рэжым кіравання"</string>
+    <string name="tkgs_reset_hidden_msg" msgid="1689980875904912549">"Хочаце ачысціць усе схаваныя сродкі пошуку?"</string>
+    <string name="tkgs_reset_table_msg" msgid="8525335849959453030">"Хочаце скінуць версію табліцы?"</string>
+    <string name="tkgs_click_add_locator" msgid="7141140606539254579">"Націсніце, каб дадаць сродак пошуку"</string>
+    <string name="tkgs_clear_all_locators" msgid="7480797400286747706">"Ачысціць усе сродкі пошуку"</string>
+    <string name="tkgs_hidden_lacator_empty" msgid="8923722375264827912">"Схаваныя сродкі пошуку TKGS пустыя"</string>
+    <string name="tkgs_no_hidden_locator" msgid="4777378373695625922">"Няма схаваных сродкаў пошуку TKGS"</string>
+    <string name="tkgs_select_service_list" msgid="4847872721021191404">"Выберыце спіс службаў"</string>
+    <string name="tkgs_user_msg" msgid="6255941735525243539">"Карыстальніцкае паведамленне TKGS"</string>
+    <string name="tkgs_locator_item" msgid="318185164149893952">"Элемент сродку пошуку TKGS"</string>
+    <string name="menu_band_width" msgid="6345177090175746888">"Паласа прапускання"</string>
+    <string name="menu_setup_digital_subtitle" msgid="3126491673293834539">"Лічбавыя субцітры"</string>
+    <string name="nav_channel_list_type_favs" msgid="3435097407068737744">"Абранае"</string>
+    <string name="audio_hi" msgid="7132239122157461543">"Для гледачоў з праблемамі слыху"</string>
+    <string name="audio_vi" msgid="1683045038949751116">"Для гледачоў са слабым зрокам"</string>
+    <string name="dobly_audio" msgid="4782613096912733081">"Dolby Audio"</string>
+    <string name="nav_uk_channellist_type_fav" msgid="7303511441302991257">"Абранае"</string>
+    <string name="nav_uk_channellist_type_hd" msgid="5986175772967350438">"HD-каналы"</string>
+    <string name="nav_uk_channellist_type_interactive" msgid="2219677295274235253">"Інтэрактыўныя каналы"</string>
+    <string name="nav_uk_channellist_type_ipapp" msgid="3901748556238195401">"Каналы з праграм праз IP-сетку"</string>
+    <string name="nav_uk_channellist_type_radio" msgid="3039380889608556576">"Радыёканалы"</string>
+    <string name="nav_uk_channellist_player" msgid="8496350159150880462">"Гульцы"</string>
+    <string name="nav_dialog_input_channel" msgid="9049343424723101309">"Увядзіце нумар канала :"</string>
+    <string name="nav_dialog_go_page" msgid="1099353673572719034">"Перайсці да канала"</string>
+    <string name="nav_ci_dns_text" msgid="4815143002852141012">"Нешта пайшло не так. Наведайце вэб-сайт!"</string>
+    <string name="menu_tv_keep_least_one_channel" msgid="1747546514998305717">"Захавайце мінімум адзін канал"</string>
+    <string name="menu_c_chanel_swap" msgid="6359117351919737306">"Пераключэнне каналаў"</string>
+    <string name="nav_dialog_no_available" msgid="4057770614821115856">"Недаступна"</string>
+    <string name="menu_tv_delete_loading" msgid="8422587329057147750">"Ідзе выдаленне. Пачакайце…"</string>
+    <string name="one_key_powered_off" msgid="79156765527125949">"Выключыць"</string>
+    <string name="nav_uk_channellist_add_fav" msgid="5030403358718427171">"Дадаць у абранае"</string>
+    <string name="nav_uk_channellist_remove_fav" msgid="219791164528735785">"Выдаліць з абранага"</string>
+    <string name="cable_advance_scan_message" msgid="2654494463009417197">"Пераключыцеся на частату мультыплекснага рэтранслятара, які дзейнічае ў вашай краіне."</string>
+    <string name="scan_exit_tip" msgid="4703140098131614774">"Каб закрыць старонку пошуку, націсніце [back/exit]."</string>
+    <string name="ip_channels" msgid="8306486065781450378">"IP-каналы:"</string>
+    <string name="fvp_advise_scan_msg" msgid="2659951684849881728">"Магчыма, каналы ў вашым рэгіёне былі абноўлены.\nРэкамендуецца выканаць іх паўторны пошук на тэлевізары.\nНацісніце \"ОК\", каб абнавіць спіс каналаў.\nНацісніце \"Выйсці\", каб прапусціць у гэты раз."</string>
+    <string name="fvp_scan_error_msg" msgid="3800139600742058804">"Спіс каналаў Freeview Play цяпер недаступны.\nТэлевізар працягне працаваць са спісам каналаў трансляцыі. \nКаб працягнуць, націсніце \"ОК\"."</string>
+    <string name="fvp_scan_timeout_tip" msgid="1348613590087653692">"Падключэнне да сервера займае <xliff:g id="FVP_SCAN_TIP_MSG_WAIT_TIME_FIRST">%1$d</xliff:g> с, аднак сетка не адказвае, і таму вы можаце скасаваць усталёўку спіса каналаў Freeview Play, націснуўшы клавішу \"Выйсці\"."</string>
+    <string name="menu_channel_freeze_switch" msgid="7576326090930705049">"Замацаваць пераключальнік"</string>
+    <string name="menu_arrays_Narrative" msgid="8364326211751387772">"Апавяданне"</string>
+    <string name="menu_arrays_narrator" msgid="5277088484737758554">"Апавядальнік"</string>
+    <string name="default_audio" msgid="6674628934134075536">"Стандартнае аўдыя"</string>
+    <string name="dvbs_antenna_type_single" msgid="8699988951473827384">"Адзіночная"</string>
+    <string name="dvbs_lnb_configration" msgid="4612812454674154948">"Канфігурацыі спадарожнікавага канвертара"</string>
+    <string name="diseqc_port" msgid="7659644073053777732">"Порт DiSEqC"</string>
+    <string name="tone_burst_port" msgid="1064813271461583443">"Порт пакета танальных сігналаў"</string>
+    <string name="motor_settings" msgid="1823379068466406534">"Налады рухавіка"</string>
+    <string name="dvbs_rescan_more" msgid="8182980047456997930">"Яшчэ"</string>
+    <string name="dvbs_satellite_selection" msgid="4720894419273187517">"Выбар спадарожнікаў"</string>
+    <string name="dvbs_rescan_dialog_title" msgid="3116396672861528026">"Выканаць паўторны пошук усіх спадарожнікаў? Усе ўсталяваныя каналы будуць выдалены."</string>
+    <string name="sound_tracks_hoh" msgid="6145194094666622568">"Праблемы са слыхам"</string>
+    <string name="ci_inserted_msg" msgid="3135386254291939864">"Модуль CAM устаўлены."</string>
+    <string name="ci_removed_msg" msgid="7732383317221505376">"Модуль CAM выдалены."</string>
+    <string name="keep_least_one_channel_skip" msgid="5735084199521518293">"Не прапускайце ўсе каналы."</string>
+    <string name="nav_au_MUSIC" msgid="7535536656101098890">"Музыка"</string>
+    <string name="nav_au_ARTS" msgid="1423416146353180751">"Мастацтва/Культура"</string>
+    <string name="nav_au_EDUCATION_INFORMATION" msgid="8175958670018776911">"Адукацыя/Інфармацыя"</string>
+    <string name="nav_au_SPECIAL" msgid="8557902401422354877">"Асаблівае змесціва"</string>
+    <string name="nav_uk_EDUCATION" msgid="6769591863518754361">"Адукацыя"</string>
+    <string name="nav_au_undefined" msgid="2373226362601702644">"Нявызначанае змесціва"</string>
+    <string name="banner_category_reserved_for_future_use" msgid="640307599005724967">"Зарэзервавана для выкарыстання ў будучыні"</string>
+    <string name="banner_category_user_defined" msgid="8321549590622504362">"вызначана карыстальнікам"</string>
+    <string name="banner_category_reservd_not_defined" msgid="1088782448904712799">"Зарэзервавана – не вызначана"</string>
+    <string name="audio_focus_lost_warnning_info" msgid="4992829616135797253">"Аўдыяфокус страчаны. Запытаць зноў?"</string>
+    <string name="nav_MINI_SERIES" msgid="67683936489138963">"Міні-серыялы"</string>
+    <string name="nav_REALITY_SHOW" msgid="2122184619914848507">"Рэаліці-шоу"</string>
+    <string name="nav_DEBATE_INTERVIEW" msgid="1732520131708701722">"Дэбаты/Інтэрв\'ю"</string>
+    <string name="nav_SOAP_OPERA" msgid="2915219109639202163">"Мыльныя оперы"</string>
+    <string name="nav_MUSIC_AUS" msgid="3808874808023664795">"Музыка"</string>
+    <string name="nav_ARTS_AUS" msgid="8238446431321376675">"Мастацтва/Культура"</string>
+    <string name="nav_CURRENT_AFFAIRS_AUS" msgid="7485655405127911626">"Бягучыя падзеі"</string>
+    <string name="nav_EDUCATION_AUS" msgid="5056937358866165681">"Адукацыя/Інфармацыя"</string>
+    <string name="nav_SPECIAL_AUS" msgid="5227083605335899206">"Асаблівае змесціва"</string>
+    <string name="nav_EDUCATION_UK" msgid="653065048554614545">"Адукацыя"</string>
+    <string name="nav_ADULT_UK" msgid="3292151116834016023">"Для дарослых"</string>
+    <string name="nav_News_Epg" msgid="7736306538834483698">"навіны"</string>
+    <string name="nav_Drama" msgid="8593035086403306433">"фільмы/драмы (агульнае)"</string>
+    <string name="nav_Detective" msgid="6944832467084835207">"дэтэктывы/трылеры"</string>
+    <string name="nav_Adventure" msgid="2020233948494351594">"прыгоды/вестэрны/ваенная тэматыка"</string>
+    <string name="nav_Science_Fiction" msgid="5515239166867063341">"навуковая фантастыка/фэнтэзі/жахі"</string>
+    <string name="nav_Comedy" msgid="7487834454945416514">"камедыі"</string>
+    <string name="nav_Soap" msgid="5834787426533334001">"мыльныя оперы/меладрамы/фальклор"</string>
+    <string name="nav_Special_Events" msgid="2277333606337532836">"асаблівыя падзеі (алімпійскія гульні, кубкі свету)"</string>
+    <string name="nav_Cooking" msgid="6317662479870562229">"гатаванне ежы"</string>
+    <string name="nav_Report" msgid="8158583781925215416">"рэпартажы"</string>
+    <string name="nav_Biography" msgid="8166473152648563258">"біяграфіі"</string>
+    <string name="nav_Educative" msgid="6376185534207789971">"адукацыйнае змесціва"</string>
+    <string name="nav_Mini_series" msgid="1992816844029786986">"міні-серыялы"</string>
+    <string name="nav_Series" msgid="1509682219514074688">"серыялы"</string>
+    <string name="nav_Auditorium" msgid="4569731673631345789">"лекцыі"</string>
+    <string name="nav_Making_of" msgid="1478304511748361803">"гісторыі стварэння"</string>
+    <string name="nav_Feminine" msgid="7060627966765049296">"жаночае змесціва"</string>
+    <string name="nav_Game_show" msgid="6322886775783788914">"тэлегульні"</string>
+    <string name="nav_Reality_show" msgid="6822104968805792840">"рэаліці-шоу"</string>
+    <string name="nav_Country" msgid="4774122318391503820">"краіна"</string>
+    <string name="nav_Health" msgid="459265531175632531">"здароўе"</string>
+    <string name="nav_Travel" msgid="6590886423819622433">"падарожжы"</string>
+    <string name="nav_Comical" msgid="3706642553609961619">"гумар"</string>
+    <string name="nav_Erotic" msgid="1046901442635212556">"эротыка"</string>
+    <string name="nav_movie" msgid="585210386773818333">"фільмы"</string>
+    <string name="nav_Raffle" msgid="9145757814283258059">"латарэі"</string>
+    <string name="nav_Television_sales" msgid="280610584178386772">"тэлегандаль"</string>
+    <string name="nav_Prizing" msgid="6378939082932407980">"узнагароды"</string>
+    <string name="nav_Interview" msgid="5936247805082909748">"інтэрв\'ю"</string>
+    <string name="nav_Adult_cartoon" msgid="1562432260333771131">"мультфільмы для дарослых"</string>
+    <string name="nav_Interactive" msgid="4944475415599607499">"інтэрактыўнае змесціва"</string>
+    <string name="nav_Policy" msgid="611381502727473653">"палітыка"</string>
+    <string name="nav_Martial_Sport" msgid="2430164779675552067">"баявыя мастацтвы"</string>
+    <string name="nav_Entertainment_for_10_to" msgid="4955515426374623029">"забавы для дзяцей ад 10 гадоў"</string>
+    <string name="nav_USER_DEFINED" msgid="8325702713371074686">"Вызначана карыстальнікам"</string>
+    <string name="nav_UNDEFINED" msgid="3061043482995318058">"Нявызначанае змесціва"</string>
+    <string name="nav_RESERVED_NOT_DEFINED_AUS" msgid="2550264511464017973">"Зарэзервавана – не вызначана"</string>
+    <string name="nav_RESERVED_FOR_FUTURE_USE" msgid="4287254519782291875">"Зарэзервавана для выкарыстання ў будучыні"</string>
+    <string name="nav_Reserved_for_future_use" msgid="3701653096900603586">"зарэзервавана для выкарыстання ў будучыні"</string>
+    <string name="nav_ADULT" msgid="6067522758623414409">"Для дарослых"</string>
+    <string name="nav_Adult" msgid="4892417368489212947">"для дарослых (агульнае)"</string>
+    <string name="nav_User_defined" msgid="7464246612076601850">"вызначана карыстальнікам"</string>
+    <string name="nav_Undefined" msgid="7618135808979427930">"нявызначанае змесціва"</string>
+    <string name="dai_hdmi_dialog_msg" msgid="2684054899428450899">"Абноўлена пагадненне пра дадатковыя функцыі. Паказаць?"</string>
+    <string name="network_not_avaiable" msgid="6176108713668500983">"Сетка недаступная"</string>
+    <string name="nav_select_type_fav" msgid="4515366205034945174">"Абранае"</string>
+    <string name="nav_channel_list_options" msgid="8360955300780574598">"Дзеянні з каналамі"</string>
+    <string name="audio_type_dts_express_p" msgid="5066803905413664431">"DTS Express"</string>
+    <string name="audio_type_dts_hd_master_audio" msgid="584091497939463376">"DTS-HD Master Audio"</string>
+    <string name="audio_type_dts_hd_p" msgid="3720443854736419512">"DTS-HD"</string>
+    <plurals name="duration_hour" formatted="false" msgid="837834894451191902">
+      <item quantity="one"><xliff:g id="OTHER">%1$d</xliff:g> гадзіна</item>
+      <item quantity="few"><xliff:g id="OTHER">%1$d</xliff:g> гадзіны</item>
+      <item quantity="many"><xliff:g id="OTHER">%1$d</xliff:g> гадзін</item>
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> гадзіны</item>
+    </plurals>
+    <plurals name="duration_minute" formatted="false" msgid="5333672761360360608">
+      <item quantity="one"><xliff:g id="OTHER">%1$d</xliff:g> хвіліна</item>
+      <item quantity="few"><xliff:g id="OTHER">%1$d</xliff:g> хвіліны</item>
+      <item quantity="many"><xliff:g id="OTHER">%1$d</xliff:g> хвілін</item>
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> хвіліны</item>
+    </plurals>
+    <plurals name="duration_second" formatted="false" msgid="1668086011878312925">
+      <item quantity="one"><xliff:g id="OTHER">%1$d</xliff:g> секунда</item>
+      <item quantity="few"><xliff:g id="OTHER">%1$d</xliff:g> секунды</item>
+      <item quantity="many"><xliff:g id="OTHER">%1$d</xliff:g> секунд</item>
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> секунды</item>
+    </plurals>
+    <string name="nav_A2_DUAL1_DUAL2" msgid="5362034951962029463">"Dual I+II"</string>
+    <string name="nav_NICAM_DUAL1_DUAL2" msgid="4001223863545237570">"NICAM Dual I+II"</string>
+    <string name="twinkle_dialog_no_signal_title" msgid="8796759935438013210">"Няма сігналу"</string>
+    <string name="twinkle_dialog_no_signal_msg" msgid="3366899141486631222">"Выконваецца пошук сігналу ці сігнал не знойдзены. Праверце правільнасць падключэння кабелю антэны."</string>
+    <string name="twinkle_dialog_scrambled_title" msgid="5263822605368775113">"Канал закадзіраваны"</string>
+    <string name="twinkle_dialog_scrambled_msg" msgid="1534072239248375213">"(Канал зашыфраваны, змесціва зашыфравана). Праверце правільнасць устаўкі модуля CI + і разумнай карткі."</string>
+    <string name="twinkle_dialog_channel_lock_title" msgid="5649175070655221463">"Канал заблакіраваны"</string>
+    <string name="twinkle_dialog_channel_lock_msg" msgid="1451097148130839000">"Канал заблакіраваны, бо вы ўнеслі яго ў спіс блакіроўкі каналаў. Адмяніць блакіроўку можна праз меню ТБ. Каб разблакіраваць экран, націсніце \"ОК\"."</string>
+    <string name="twinkle_dialog_program_lock_title" msgid="646673269791532919">"Праграма заблакіравана"</string>
+    <string name="twinkle_dialog_program_lock_msg" msgid="4569115641534788884">"Гэта праграма заблакіравана праз вызначаную вамі блакіроўку па ўзросце. Адмяніць блакіроўку можна праз меню ТБ. Каб разблакіраваць экран, націсніце \"ОК\"."</string>
+    <string name="menu_system_info_ber" msgid="6958085423021208435">"Каэфіцыент бітавых памылак"</string>
+</resources>

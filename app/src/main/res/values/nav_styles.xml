@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- textView style -->
+    <style name="textViewStyle">
+        <item name="android:textSize">@dimen/setup_wizard_common_textsize</item>
+    </style>
+
+    <!-- style for setup_textView -->
+    <style name="setup_textView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/setup_wizard_common_textsize</item>
+    </style>
+
+    <!-- style for setup_top_textView -->
+    <style name="setup_top_textView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/setup_wizard_textsize</item>
+    </style>
+
+    <!-- style for setup_textView,only to holder place,has no text -->
+    <style name="setup_null_textView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="Theme.Translucent">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="android:windowBackground">@drawable/translucent_background</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <!--
+            Note that we use the base animation style here (that is no
+            animations) because we really have no idea how this kind of activity
+            will be used.
+        -->
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <style name="BottomTipBanner">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_marginBottom">@dimen/nav_aspect_mar</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/nav_textSize</item>
+    </style>
+
+    <style name="BottomTipBanner.ShortLeft" parent="BottomTipBanner">
+        <item name="android:layout_width">@dimen/nav_parental_width</item>
+        <item name="android:layout_height">@dimen/nav_parental_height</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginLeft">@dimen/nav_parental_height</item>
+    </style>
+
+    <style name="BottomList">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginLeft">@dimen/channelList_leftright_marginSize</item>
+        <item name="android:layout_marginRight">@dimen/channelList_leftright_marginSize</item>
+        <item name="android:layout_marginTop">@dimen/channelList_top_marginSize</item>
+    </style>
+
+    <style name="Theme.EpgSubTypeDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!-- style for epg bottom -->
+    <style name="epg_bottom_textView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">top|left</item>
+        <item name="android:textColor">@color/epg_ts_bright_white</item>
+        <item name="android:textSize">@dimen/epg_ts_mini</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingTop">3dip</item>
+        <item name="android:drawablePadding">@dimen/epg_for_bootom_drawable_padding</item>
+    </style>
+
+    <!-- style for epg bottom eu 0909 -->
+    <style name="epg_bottom_textView_eu">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/epg_ts_bright_white</item>
+        <item name="android:textSize">@dimen/epg_ts_mini</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginLeft">@dimen/epg_for_bootom_drawable_padding</item>
+    </style>
+
+   <!-- style for epg bottom eu color key 0909 -->
+     <style name="epg_bottom_eu_color_key">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/epg_color_icon_padding</item>
+        <item name="android:layout_gravity">center_vertical</item>
+      </style>
+
+    <!-- style for epg bottom ENTER or 0-->
+    <style name="epg_bottom_textView_ENTER">
+        <!--
+        <item name="android:layout_width">match_parent</item> -->
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textColor">@color/lightblue</item>
+        <item name="android:textSize">@dimen/epg_bottom_ts_enter</item>
+    </style>
+
+    <style name="epg_time_zoom_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingStart">@dimen/epg_title_rpadding</item>
+    </style>
+
+    <style name="epg_list_layout_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!--         <item name="android:layout_marginLeft">@dimen/epg_title_lmargin</item>
+        <item name="android:layout_marginRight">@dimen/epg_title_rmargin</item> -->
+
+    <style name="epg_small_title_text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="epg_TextAppearance_StatusBarTitle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/epg_ts_grey_white</item>
+        <item name="android:textSize">@dimen/epg_ts_mini</item>
+    </style>
+        <style name="nav_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@style/nav_nonanimation</item>
+    </style>
+        <style name="nav_nonanimation">
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+    <style name="loadding_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="custom_progressBar" parent="Base.Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateTint">@color/nav_list_common_title_color</item>
+        <item name="android:indeterminateTintMode">src_atop</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:maxWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:maxHeight">48dp</item>
+    </style>
+    <!-- DTV00672458 style can't change -->
+    <style name="oadTheme" parent="@style/Theme.Leanback">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="NoneAnimation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+
+    <style name="Theme.Picker" parent="Theme.Leanback.GuidedStep">
+        <item name="android:windowAnimationStyle">@style/NoneAnimation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textSize">@dimen/side_panel_header_text_size</item>
+        <item name="android:paddingStart">@dimen/picker_separator_horizontal_padding</item>
+        <item name="android:paddingEnd">@dimen/picker_separator_horizontal_padding</item>
+    </style>
+
+    <style name="Theme.TV" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:colorAccent">@color/accent_color</item>
+        <item name="android:colorControlActivated">@color/control_activated_color</item>
+        <item name="android:colorPrimary">@color/primary_color</item>
+        <item name="android:windowBackground">@color/black</item>
+
+        <!-- From Theme.Leanback to use Leanback library without applying Theme. -->
+        <!-- For SearchFragment -->
+        <item name="browsePaddingStart">@dimen/lb_browse_padding_start</item>
+        <item name="browsePaddingEnd">@dimen/lb_browse_padding_end</item>
+        <item name="browsePaddingBottom">@dimen/lb_browse_padding_bottom</item>
+        <item name="rowHorizontalGridStyle">@style/Widget.Leanback.Row.HorizontalGridView</item>
+        <item name="rowsVerticalGridStyle">@style/Widget.Leanback.Rows.VerticalGridView</item>
+
+        <!-- For ImageCardView -->
+        <item name="imageCardViewStyle">@style/Widget.Leanback.ImageCardViewStyle</item>
+    </style>
+
+    <style name="Theme.TV.GuidedStep" parent="Theme.Setup.GuidedStep">
+        <item name="guidedActionsBackground">@color/setup_actions_background</item>
+    </style>
+
+    <style name="NavTheme" parent="@style/Theme.TV">
+        <item name="android:windowNoTitle">true</item>
+        <!-- <item name="setupCommonGuidanceBackground">@color/setup_background</item> -->
+        <!-- <item name="doneButtonContainerStyle">@style/TV.DoneButtonContainerStyle</item> -->
+        <item name="guidedStepTheme">@style/Theme.TV.GuidedStep</item>
+    </style>
+    <style name="TranslucentGrayProgressDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/translucent_gray</item>
+    </style>
+
+    <!-- style for ews title textview -->
+    <style name="ews_item_title_textView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">6</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/nav_ews_textsize_large</item>
+    </style>
+     <!-- style for ews content textview -->
+    <style name="ews_item_content_textView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/nav_ews_textsize_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:focusable">false</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <!-- <item name="android:background">@drawable/ews_item_bg_icon</item> -->
+</resources>

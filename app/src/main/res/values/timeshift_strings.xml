@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--this sentence appears within the warning dialog of record module, it means that the external storage is not connected to TV successfully. [CHAR LIMIT = NONE]-->
+    <string name="pro_time_shift_disk_not_ready">"Disk is not ready!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, it means that the action to start record is failed after user press record key, the reason is that disk is not ready.[CHAR LIMIT = NONE]-->
+    <string name="disk_not_ready">"Failed to start PVR. Disk is not ready!"</string>
+
+    <!--this sentence appears within the warning dialog of timeshift module, it means that the timeshift file is created successfully during the initial setup.[CHAR LIMIT = NONE]-->
+    <string name="create_tshift_file_success">"File Created Successfully"</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display when user try to start PVR under PIP mode, because PVR is not avaiable under PIP mode.[CHAR LIMIT = NONE]-->
+    <string name="pro_pip_running">"Failed to start PVR. Exit PIP First!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, PVR is only available for DTV, this message will be display when you try to start PVR under other input source or analog channel[CHAR LIMIT = NONE]-->
+    <string name="pro_none_tv_source">"Failed to start PVR. Change to Digital TV Source First!"</string>
+
+    <!--this sentence appears within the error dialog of record module, it means that PVR failed because signal loss or no signal [CHAR LIMIT = NONE]-->
+    <string name="pro_signal_loss">"Failed to start PVR. No Signal Found!"</string>
+
+    <!--this sentence appears within the error dialog of record module, it means that PVR failed because the timeshift function is running.[CHAR LIMIT = NONE]-->
+    <string name="pro_tshift_running">"Failed to start PVR. Timeshift Running!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message is display when record failed and audio stream or video stream are not ready[CHAR LIMIT = NONE]-->
+    <string name="pro_stream_not_available">"AV Stream Not Available!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message is display when the channel stream is protected and cannot be recorded [CHAR LIMIT = NONE]-->
+    <string name="pro_stream_not_authorized">"Stream Not Authorized!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message is display when record failed and input source is locked [CHAR LIMIT = NONE]-->
+    <string name="pro_input_lock">"Input Locked!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, the message is display when the current video cannot be recorded because of bad resolution [CHAR LIMIT = NONE]-->
+    <string name="pro_video_resolution_error">"Video Resolution Error!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display when record failed and the reason is not clear. [CHAR LIMIT = NONE]-->
+    <string name="pro_internal_error">"Internal Error!"</string>
+
+    <!--this sentence appears within the warning dialog of timeshift module, it means that the timeshift cannot be started because of PVR is running [CHAR LIMIT = NONE]-->
+    <string name="pro_pvr_running">"Timeshift Not Available. Exit PVR First!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, after press record key, this message maybe show because of record failed, the reason is device issue(no deivce or device is not connected). [CHAR LIMIT = NONE]-->
+    <string name="pro_disk_remove">"No Devices or Devices Not Available. Try Later!"</string>
+
+    <!--this sentence appears within the warning dialog of record module, it means that PVR is stopping and file is saving when the message show [CHAR LIMIT = NONE]-->
+    <string name="pvr_save_record">Stop PVR and then save the record.</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display when disk unplug [CHAR LIMIT = NONE]-->
+    <string name="disk_disconnect">Disk Disconnected</string>
+
+    <!--this sentence appears within the warning dialog of record module, after record is started successfully, this message will be display [CHAR LIMIT = NONE]-->
+    <string name="attention_unplug_device">Attention: Do not unplug the device, or it may cause unspecified errors!</string>
+
+    <!--this sentence appears within the warning dialog of timeshift module. the fixed size of space must be allocated when setup timeshift, this message will be display if there is not enough free space [CHAR LIMIT = NONE]-->
+    <string name="not_enough_space">There is no enough space. The disk should have a minimum of 1 GB free space.</string>
+
+    <!--this sentence appears within the warning dialog of record module, if user try to record channel but TV platform is not supported, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="feature_not_support">Feature is not supported.</string>
+
+    <!--this sentence appears within the warning dialog of playback module, if user seek positions quickly, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="continue_to_seek_not_support">Continued to seeking is not supported.</string>
+
+    <!--this sentence appears within the error dialog of playback module, if the record file cannot be playback, this error message will be display. [CHAR LIMIT = NONE]-->
+    <string name="file_notsupport">File is not supported.</string>
+
+    <!--this sentence appears within the confirm dialog of record module, when user want to format the disk, the confirm dialog will be display [CHAR LIMIT = NONE]-->
+    <string name="format_confirm_dialog_line1">Formatting will erase all data</string>
+
+    <!--this sentence appears within the confirm dialog of record module, when user want to delete one record file, the confirm dialog will be display [CHAR LIMIT = NONE]-->
+    <string name="format_confirm_dialog_line2">Are you sure?</string>
+
+    <!--this sentence appears within the confirm dialog of record module, when user want to delete one record file, the confirm dialog will be display [CHAR LIMIT = NONE]-->
+    <string name="delete_pvr_file_dialog_confirm1">Will delete this file.</string>
+
+    <!--this sentence appears within the info dialog of record module, during disk speed test, this message will be always display [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_speedtesting">"Speed Test Ongoing"</string>
+
+    <!--this sentence appears within the warning dialog of record module, after record or disk format action is started, this message will be display [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_unplugdevice_warnning">"Don't unplug the device"</string>
+
+    <!--this sentence appears within the info dialog of record module, if user try to format disk and the result is successful, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_format_done">"Disk Formatting Done"</string>
+
+    <!--this sentence appears within the info dialog of record module, if user try to format disk and the result is failed, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_format_fail">"Disk Formatting Failed"</string>
+
+    <!--this sentence appears within the info dialog of record module, this message will be display after disk speed test completed. [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_speedtest_done">"Speed Test Done"</string>
+
+    <!--this sentence appears within the info dialog of record module, this message will be display after disk speed test completed. <Strong>%3.1f</Strong> will be replaced by float value [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_speedtest_maxspeed">"The max speed is "</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user try to record channel again during recording [CHAR LIMIT = 50]-->
+    <string name="state_pvr_recording">Recording!</string>
+
+    <!--this string appears within the title of dialog, this is function name [CHAR LIMIT = 50]-->
+    <string name="state_file_pvr_playback">PVR Playback</string>
+
+    <!--this string appears within the menu, this is function name [CHAR LIMIT = 50]-->
+    <string name="title_timeshift">Timeshift</string>
+
+    <!--this string appears within the button, after user select this button, the record will be activated [CHAR LIMIT = 50]-->
+    <string name="title_pvr_start">Start Recording</string>
+
+    <!--this string appears within the button, after user select this button, the record action will be stopped if record is running [CHAR LIMIT = 50]-->
+    <string name="title_pvr_stop">Stop Recording</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to change channel during recoring [CHAR LIMIT = NONE]-->
+    <string name="title_pvr_running">PVR is Running!</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to open EPG [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_record_epg">"Do you want to stop the record process,\n and enter EPG?"</string>
+
+    <!--this sentence appears within the warning dialog of Timeshift module, this message will be display if user want to open EPG [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_timeshift_epg">Do you want to stop the Timeshift,\n and enter EPG?</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to change channel [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_record_channel">Do you want to stop the record process, \n and change channel?</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to change source [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_record_source">Do you want to stop the record process,\n and change source?</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to change channel [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_timeshift_channel">Do you want to stop the Timeshift,\n and change channel?</string>
+
+    <!--this sentence appears within the warning dialog of Timeshift module, this message will be display if user want to change source [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_timeshift_source">Do you want to stop the Timeshift,\n and change source?</string>
+
+    <!--this sentence appears within the warning dialog of record module, this message will be display if user want to enter PIP/POP [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_record_pip">Do you want to stop the record process,\n and enter PIP/POP?</string>
+
+    <!--this sentence appears within the warning dialog of Timeshift module, this message will be display if user want to enter PIP/POP [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_timeshift_pip">Do you want to stop the Timeshift,\n and enter PIP/POP?</string>
+
+    <!--this sentence appears within the warning dialog of PVR playback module, this message will be display if user want to enter PIP/POP [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_playback_pip">Do you want to stop the PVR playback,\n and enter PIP/POP?</string>
+
+    <!--this sentence appears within the warning dialog of Timeshift module, this message will be display if user want to enter record list [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_timeshift_record"> "Do you want to stop the Timeshift,\n and enter record list?</string>
+
+    <!--this sentence appears within the warning dialog to double confirm the action to enter PIP/POP mode [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_pip">Do you want to enter PIP/POP?</string>
+
+    <!--this sentence appears within the warning dialog [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_shcedule_before">There is a scheduled record</string>
+
+    <!--this sentence appears within the warning dialog to double confirm record action [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_schedule_record">do you want to start recording?</string>
+
+    <!--this sentence appears within the warning dialog to double confirm Timeshift [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_schedule_timeshift">do you want to stop Timeshift?</string>
+
+    <!--this sentence appears within the warning dialog to double confirm Timeshift ?????????[CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_desramble">"Descrambled channel could interrupt, do you want to continue?"</string>
+
+    <!--this word appears within the warning dialog [CHAR LIMIT = 30]-->
+    <string name="dvr_dialog_message_schedule_title">Warning</string>
+
+    <!--Title for storage device setting [CHAR LIMIT = 50]-->
+    <string name="dvr_device_info_title">Device Info Setting</string>
+
+    <!--this sentence appears within the warning dialog to double confirm Format storage [CHAR LIMIT = NONE]-->
+    <string name="dvr_device_formate_title">Formatting will erase all data, Are you sure?</string>
+
+    <!--this sentence appears within the warning dialog to inform Timeshift is running [CHAR LIMIT = NONE]-->
+    <string name="warning_time_shifting_recording">Timeshift is recording!</string>
+
+    <!--this sentence appears within the warning dialog to inform PVR is running [CHAR LIMIT = NONE]-->
+    <string name="warning_pvr_runnning">PVR is running!</string>
+
+    <!--this sentence appears within the warning dialog to inform PVR playback is running [CHAR LIMIT = NONE]-->
+    <string name="warning_pvr_playback_runnning">PVR playback is running!</string>
+
+    <!--this sentence appears within the warning dialog to inform Timeshift is not available [CHAR LIMIT = NONE]-->
+    <string name="timeshift_not_available">Timeshift is not available</string>
+
+    <!--this sentence appears within the status dialog to inform user the test is running [CHAR LIMIT = NONE]-->
+    <string name="disk_setting_speeding">Program to test read and write speed of storage is running.</string>
+
+    <!--this Mega bit per second [CHAR LIMIT = 30]-->
+    <string name="disk_setting_speedtest_maxspeed_mb"> MB/S</string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="dvr_dialog_message_schedule_pvr">"There is a scheduled record [<xliff:g id="dvr_dialog_message_sched">%1$s</xliff:g>], do you want to start record?"</string>
+
+    <!--Label for name [CHAR LIMIT = 20]-->
+    <string name="dvr_playback_name">Name: </string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="dvr_schedule_watch_content">"There is a scheduled reminder."</string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="dvr_schedule_watch_after">"do you want to watch that channel?"</string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="bgm_fail_record_before">"Recording attempt for [<xliff:g id="bgm_fail_record_be">%1$s</xliff:g>] is failed"</string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="bgm_loss_time_pvr">"The recording of [<xliff:g id="channel_info">%1$s</xliff:g>] is incompleted for <xliff:g id="channel_info_time">%2$s</xliff:g> sec(s)"</string>
+
+    <!--this sentence for scheduled record [CHAR LIMIT = NONE]-->
+    <string name="pvr_file_list_specia_toast">"Part of recording was saved. The power was turned off during recording."</string>
+
+    <!--setting name for track channel events under scheduled record [CHAR LIMIT = 50]-->
+    <string name="dvr_schedule_event_type_name">Event Model</string>
+
+    <!--setting name for Event Model, the time for scheduled record always fixed, event the channel event changed  [CHAR LIMIT = 50]-->
+    <string name="dvr_schedule_event_type_normal">Timing Programming</string>
+
+    <!--setting name for Event Model, the time for scheduled record will be updated with event when the event changed  [CHAR LIMIT = 50]-->
+    <string name="dvr_schedule_event_type_track">Signal Supported Recording</string>
+
+    <!--this warning message for settings [CHAR LIMIT = NONE]-->
+    <string name="dvr_schedule_event_toast">"'Signal Supported Recording' could not be edited"</string>
+
+    <!--this sentence for scheduled Timeshift stopped [CHAR LIMIT = NONE]-->
+    <string name="timeshift_stopped" >"Timeshift stopped."</string>
+
+    <!--this warning message for failed speed test under recording [CHAR LIMIT = NONE]-->
+    <string name="disksetting_recording_speed_fail">"Recording! Speed Test failed!"</string>
+
+    <!--this warning message for failed speed test under Timeshift [CHAR LIMIT = NONE]-->
+    <string name="disksetting_timeshift_speed_fail">"Timeshift is running! Speed Test failed!"</string>
+
+    <!--this warning message for failed speed test because of bad device [CHAR LIMIT = NONE]-->
+    <string name="disksetting_ntfs_speed_fail">"Access is denied. Speed test failed!"</string>
+
+    <!--this warning message forfailed speed test because of disk space not enough  [CHAR LIMIT = NONE]-->
+    <string name="disksetting_no_enough_speed_fail">"Insufficient disk space! Speed Test failed!"</string>
+
+    <!--this warning message for failed speed test [CHAR LIMIT = NONE]-->
+    <string name="disksetting_speed_fail">"Speed Test failed!"</string>
+
+    <!--this warning message for FF/FB are not support [CHAR LIMIT = NONE]-->
+    <string name="not_support_ff_fb">Fastforward and rewind are not support</string>
+
+    <!--this warning message for error deletion [CHAR LIMIT = NONE]-->
+    <string name="delet_recording_fail">An error occurred during deletion of item, the channel is recording</string>
+
+    <!--this warning message for CAM operation, donot operate CAM function during PVR running [CHAR LIMIT = NONE]-->
+    <string name="pvr_running_warning_msg">PVR running or a PVR file playing.\nPlease stop it,then try it again!</string>
+
+    <!--this warning message for CAM operation, donot operate CAM function during Timeshift running [CHAR LIMIT = NONE]-->
+    <string name="timeshift_running_warning_msg">Timeshift is running.\nPlease stop it,then try it again!</string>
+
+    <!--this warning message for invalid channel [CHAR LIMIT = NONE]-->
+    <string name="current_channel_invalid_msg">Current channel is invalid.</string>
+
+    <!--this warning message for video is forwarding, donot allow other operation [CHAR LIMIT = NONE]-->
+    <string name="timeshfit_forwarding">Forwarding! Please try again later.</string>
+
+    <!--this warning message for video is rewinding, donot allow other operation [CHAR LIMIT = NONE]-->
+    <string name="timeshfit_rewinding">Rewinding! Please try again later.</string>
+
+    <!--this warning message for USB storage is enough [CHAR LIMIT = NONE]-->
+    <string name="timeshfit_record_full">Timeshift record full, and auto play.</string>
+
+    <!-- warning message if there is not previous channel and user want to change channel to previous one  [CHAR LIMIT = NONE] -->
+    <string name="timeshfit_no_pre_channel">No pre-channel can be switched! \n And Timeshift still recording.</string>
+
+    <!-- warning message when failed to stop PVR [CHAR LIMIT = NONE] -->
+    <string name="dvr_stop_reason_fail">Failed or incomplete recordings</string>
+
+    <!-- warning message when live channel video is lost [CHAR LIMIT = NONE] -->
+    <string name="pvr_file_list_singal_loss">Partial recording, partial record because loss signal!</string>
+
+    <!-- warning message when live channel video is lost [CHAR LIMIT = NONE] -->
+    <string name="pvr_file_list_no_eit">Partial recording, partial record because no EIT!</string>
+
+    <!-- warning message when live channel video is lost [CHAR LIMIT = NONE] -->
+    <string name="pvr_file_list_no_eit_singal_loss">Partial recording, partial record because no EIT and signal loss!</string>
+
+    <!-- warning message when the start time that user enter is invalid [CHAR LIMIT = NONE] -->
+    <string name="pvr_schedule_time_error">"Start time error, the time now is before current time!"</string>
+
+    <!-- warning message when the pvr file is invalid [CHAR LIMIT = NONE] -->
+    <string name="pvrplay_file_deficiency">"File length deficiency!"</string>
+
+    <!-- warning message when user want to add scheduled record more than maximum [CHAR LIMIT = NONE] -->
+    <string name = "pvr_schedule_max_schedule_error">"Requested add of schedule exceeds maximum allowed!"</string>
+
+    <!-- warning message before change channel type when timeshift and pvr is opening. [CHAR LIMIT = NONE] -->
+    <string name="dvr_dialog_message_record_type">Do you want to stop the record process, \n and change channel type?</string>
+
+    <!-- warning message before cheng channel type [CHAR LIMIT = NONE] -->
+    <string name="dvr_dialog_message_timeshift_type">Do you want to stop the Timeshift,\n and change channel type?</string>
+
+    <!--this warning message for channel channot be changed [CHAR LIMIT = NONE]-->
+    <string name="dvr_starting_not_switch_channel">Switching channels is not allowed while preparing to record.</string>
+
+    <!--this warning message for USB storage is formatting [CHAR LIMIT = NONE]-->
+    <string name="pvr_dialog_formatting">Formatting</string>
+
+    <!--this sentence appears within the info dialog of record module, if user try to format disk and the result is failed because of recording, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="recording_formate_msg">"Disk Formatting Failed. Recording!"</string>
+
+    <!--this sentence appears within the info dialog of record module, if user try to format disk and the result is failed because of Timeshift Running, this message will be display. [CHAR LIMIT = NONE]-->
+    <string name="timeshif_formate_msg">"Disk Formatting Failed. Timeshift Running!"</string>
+
+    <!-- warning message when user select the wrong speed [CHAR LIMIT = 50]-->
+    <string name="dvr_play_speed_invalied">"Speed invalid!"</string>
+
+    <!-- warning message when user press any key during disk formatting [CHAR LIMIT = NONE]-->
+    <string name="disk_formating_wait">"Formatting! please wait..."</string>
+
+    <!-- warning message when press FF button [CHAR LIMIT = NONE]-->
+    <string name="not_support_ff">Fastforward is not support</string>
+
+    <!-- warning message when press FB button [CHAR LIMIT = NONE]-->
+    <string name="not_support_fb">Rewind is not support</string>
+
+    <!-- warning message when disk speed is too slow [CHAR LIMIT = NONE]-->
+    <string name="dvr_msg_disk_speed_slow">"Disk speed slow and discard data"</string>
+
+    <!-- warning message when scheduled recordings may failed [CHAR LIMIT = NONE]-->
+    <string name="msg_delet_schedule_item">Some scheduled recordings failed or incomplete!</string>
+</resources>

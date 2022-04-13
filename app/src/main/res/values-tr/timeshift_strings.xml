@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Disk hazır değil!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR başlatılamadı. Disk hazır değil!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Dosya Başarıyla Oluşturuldu"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR başlatılamadı. Önce PIP Modundan Çıkın!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR başlatılamadı. Önce Dijital TV Kaynağına geçin!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR başlatılamadı. Sinyal Bulunamadı!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR başlatılamadı. Zaman Kaydırma Çalışıyor."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV Akışı Kullanılamaz!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Akışı Kaydetme Yetkiniz Yok!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Giriş Kilitlendi!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Video Çözünürlüğü Hatası!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Dahili Hata!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Zaman Kaydırma Kullanılamıyor. Önce PVR\'den Çıkın."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Cihaz Yok veya Cihazlar Kullanılamıyor. Daha Sonra Deneyin!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR\'yi durdurun, ardından kaydı kaydedin."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Diskin Bağlantısı Kesildi"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Dikkat: Cihazın fişini çekmeyin. Fişi çekmek belirtilmemiş hatalara neden olabilir!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Yeterli boş alan yok. Diskte en az 1 GB boş alan olmalıdır."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Özellik desteklenmiyor."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Hızlı sarma desteklenmiyor."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Dosya desteklenmiyor."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Biçimlendirme, tüm verilerin silinmesine yol açar"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Emin misiniz?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Bu dosyayı silecek."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Hız Testi Devam Ediyor"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Cihazın fişini çekmeyin"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Disk Biçimlendirme Tamamlandı"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Disk Biçimlendirme Başarısız Oldu"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Hız Testi Tamamlandı"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Maksimum hız: "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Kaydediliyor!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR Oynatma"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Zaman Kaydırma"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Kaydı Başlat"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Kaydı Durdur"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR Çalışıyor!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Kayıt işlemini durdurup\nEPG\'ye girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Zaman Kaydırma\'yı durdurup\nEPG\'ye girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Kayıt işlemini durdurup\nkanalı değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Kayıt işlemini durdurup\nkaynağı değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Zaman Kaydırma\'yı durdurup\nkanalı değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Zaman Kaydırma\'yı durdurup\nkaynağı değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Kayıt işlemini durdurup\nPIP/POP moduna girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"TimeShift\'i durdurup\nPIP/POP moduna girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"PVR\'nin oynatmasını durdurup\nPIP/POP moduna girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Zaman Kaydırma\'yı durdurup\nkaydedilenler listesine girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"PIP/POP moduna girmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Planlanmış bir kayıt var"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"kaydı başlatmak istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"Zaman Kaydırma\'yı durdurmak istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Sinyali çözülen kanalda kesinti olabilir, devam etmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Uyarı"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Cihaz Bilgileri Ayarı"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Biçimlendirme tüm verileri siler, emin misiniz?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Zaman Kaydırma kaydediyor."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR çalışıyor!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR oynatma çalışıyor."</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Zaman Kaydırma kullanılamıyor"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Depolama alanının okuma ve yazma hızını test etme programı çalışıyor."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/sn."</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Planlanmış bir kayıt [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] var, kaydı başlatmak istiyor musunuz?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Ad:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Planlanmış bir hatırlatıcı var."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"söz konusu kanalı izlemek istiyor musunuz?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] için kaydetme girişimi başarısız oldu"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] kaydının <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> saniyesi tamamlanmadı"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Kaydın bir kısmı kaydedildi. Kayıt sırasında güç kapatıldı."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Etkinlik Modeli"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Zamanlama Programı"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Sinyal Destekli Kayıt"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\"Sinyal Destekli Kayıt\" düzenlenemedi"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Zaman Kaydırma durduruldu."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Kaydediliyor. Hız Testi yapılamadı."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Zaman Kaydırma çalışıyor. Hız Testi yapılamadı."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Erişim reddedildi. Hız testi yapılamadı."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Yetersiz disk alanı. Hız Testi yapılamadı."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Hız Testi yapılamadı."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"İleri sarma ve geri sarma desteklenmiyor"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Öğenin silinmesi sırasında bir hata oluştu. Kanal kaydediliyor."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR çalışıyor veya PVR dosyası oynatılıyor.\nLütfen PVR\'yi kapatıp tekrar deneyin."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Zaman kaydırma çalışıyor.\nLütfen durdurup tekrar deneyin."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Mevcut kanal geçersiz."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Yönlendiriliyor. Lütfen daha sonra tekrar deneyin."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Geri sarılıyor. Lütfen daha sonra tekrar deneyin."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Zaman kaydırma doldu ve otomatik oynatılacak."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Geçiş yapılacak önceki kanal yok. \n Zaman kaydırma hâlâ kaydediyor."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Başarısız olan veya tamamlanmayan kayıtlar"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Kısmi kayıt. Sinyal kesildiği için kısmi kayıt gerçekleşti."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Kısmi kayıt. EIT olmadığı için kısmi kayıt gerçekleşti."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Kısmi kayıt. EIT olmadığı ve sinyal kesildiği için kısmi kayıt gerçekleşti."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Başlangıç zamanı hatası. Şimdiki saat, şu anki saatten önce."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Dosya uzunluğu yetersizliği."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"İstenen program ekleme, izin verilen maksimum program sayısını aşıyor."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Kayıt işlemini durdurup\nkanal türünü değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Zaman Kaydırma\'yı durdurup\nkanal türünü değiştirmek istiyor musunuz?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Kayda hazırlanırken kanal değiştirmeye izin verilmez."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Biçimlendiriliyor"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Disk Biçimlendirme Başarısız Oldu. Kaydediliyor."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Disk Biçimlendirme Başarısız Oldu. Zaman Kaydırma Çalışıyor."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Geçersiz hız!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Biçimlendiriliyor. Lütfen bekleyin..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"İleri sarma desteklenmiyor"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Geri sarma desteklenmiyor"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Yavaş disk hızı ve atlanan veriler"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"planlanan bazı kayıtlar alınamadı veya tamamlanamadı!"</string>
+</resources>

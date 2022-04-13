@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Suositellaan <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> vuotta täyttäneille"</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Sopii kaikille. Ohjelmat voivat sisältää lievää väkivaltaa ja vähäistä karkeaa kielenkäyttöä sekä aikuisille suunnattuja tilanteita."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Sopii 13 vuotta täyttäneille. Ohjelmat voivat sisältää lievästi tai kohtalaisesti voimakasta kielenkäyttöä ja lievää väkivaltaa sekä viittauksia seksiin."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Sopii 16 vuotta täyttäneille. Ohjelmat voivat sisältää voimakkaampaa väkivaltaa ja karkeampaa kielenkäyttöä, osittaista alastomuutta ja maltillisia viittauksia seksiin."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Sopii vain aikuisille. Ohjelmat voivat sisältää voimakasta väkivaltaa, karkeaa kielenkäyttöä ja suoria viittauksia seksiin."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Huumeet"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Seksi"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Väkivalta"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"P-luokan materiaali on tarkoitettu esikouluikäisille lapsille."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"C-luokan materiaali on tarkoitettu alle 14-vuotiaille lapsille (mutta ei alle kouluikäisille)."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"G-luokkaan kuuluva materiaali ei ole välttämättä tarkoitettu lapsille, mutta sen vaikutuksen on oltava hyvin lievä eikä se saa sisältää mitään materiaalia, joka ei todennäköisesti sovi lasten katsottavaksi ilman aikuisen valvontaa."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"PG-luokkaan kuuluva materiaali voi sisältää aikuisille suunnattuja aiheita tai konsepteja, mutta sen vaikutuksen on oltava lievä ja lasten on voitava katsoa sitä aikuisen valvonnassa."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"M-luokan materiaali on tarkoitettu aikuisille. Sitä suositellaan vain 15 vuotta täyttäneille."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"MA-luokan materiaali sopii vain 15 vuotta täyttäneille, koska se sisältää intensiivistä tai usein tapahtuvaa väkivaltaa, seksiä tai karkeaa kielenkäyttöä tai aikuisille suunnattuja aiheita tai huumeiden käyttöä. Vaikutus voi olla voimakas."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"AV-luokan materiaali sopii vain 15 vuotta täyttäneille. Se ei sovi MA-luokkaan, koska se sisältää intensiivistä tai usein tapahtuvaa väkivaltaa tai koska väkivalta on olennaista materiaalin teeman kannalta. Muilla tavoin luokituksen vaatimukset ovat samat kuin MA-luokituksen."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"R-luokan materiaali on lain mukaan rajoitettu vain aikuisten käyttöön. Osa R-materiaalista voi olla loukkaavaa joillekin aikuisille."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Kaikille katsojille"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Ei suositella alle <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>-vuotiaille."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Huumeet"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Seksi"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Väkivalta"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Poikkeuksiin sisältyvät seuraavat: uutiset, urheilu, dokumentit ja muut asiaohjelmat, keskusteluohjelmat, musiikkivideot ja varieteeohjelmat."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Tämä sisältö on suunnattu alle 8-vuotiaille."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Tämä sisältö on suunnattu 8 vuotta täyttäneille. Suosittelemme, että alle 8-vuotiaat katsovat tähän luokkaan kuuluvaa sisältöä vain yhdessä vanhemman tai huoltajan kanssa."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Tämä sisältö on suunnattu kaikille ikäryhmille ja sopii koko perheelle."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Vaikka tämä sisältö on suunnattu kaikille yleisöille, se ei välttämättä sovi alle 8-vuotiaille lapsille. Vanhempien tai huoltajien tulee ottaa huomioon, että jotkin sisällön osat eivät välttämättä sovi 8–13-vuotiaiden lasten katseltavaksi ilman valvontaa."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Tähän luokkaan kuuluvassa sisällössä voi olla teemoja tai osia, jotka eivät välttämättä sovi alle 14-vuotiaille. Vanhempien tulee huolellisesti harkita valvomattoman katselun sallimista esi- ja varhaisteini-ikäisille katsojille, sillä tähän luokkaan kuuluva sisältö voi käsitellä aikuisille suunnattuja teemoja ja yhteiskunnallisia asioita realistisella tavalla."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Tämä sisältö on suunnattu 18 vuotta täyttäneille katsojille."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Luokituksen ulkopuolella olevat ohjelmat"</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Ohjelma sopii kaikenikäisille. G-luokan ohjelmat eivät välttämättä sovi alle 8-vuotiaille."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Ohjelma sopii kaikenikäisille, mutta voi sisältää lievää tai ajoittaista väkivaltaa, joka saattaa ahdistaa pieniä lapsia. Suosittelemme katsomista aikuisen valvonnassa, jos lapsi on 8-vuotias tai sitä nuorempi."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Ohjelma sopii 13 vuotta täyttäneille. Alle 13-vuotiaat saavat katsoa tätä vain aikuisen seurassa."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Ohjelma sopii 16 vuotta täyttäneille. Tämän luokan ohjelmat sisältävät vaikeita teemoja, tilanteita tai käytösmalleja, ja niiden näkökulma asioihin on suorempi."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Ohjelma sopii 18 vuotta täyttäneille. Aikuisille tarkoitetuissa ohjelmissa näytetään useimmiten avoimen seksuaalista toimintaa. Ne voivat myös olla äärimmäisen väkivaltaisia tai kuvata hyperrealistisesti julmuutta, kidutusta ja kauhua."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Suositellaan kaikenikäisille."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Suositellaan lapsille."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Suositellaan aikuisille."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Ohjelmien sisältö sopii kaikenikäisille."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Ohjelmien sisältö ei välttämättä sovi alle 7-vuotiaille lapsille. Vanhempien valvontaa suositellaan."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Ohjelmien sisältö ei välttämättä sovi alle 12-vuotiaille lapsille. Vanhempien valvontaa suositellaan."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Ohjelmat saattavat sisältää materiaalia, joka ei sovi alle 15-vuotiaille. Vanhempien valvontaa suositellaan."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Ohjelmat saattavat sisältää materiaalia, joka ei sovi alle 19-vuotiaille."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Sopii kaikenikäisille."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Sopii kaikenikäisille, mutta vanhempien tulee olla lasten tukena."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Sopii 13 vuotta täyttäneille ja nuoremmille vanhempien seurassa."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Sopii 16 vuotta täyttäneille."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Sopii 18 vuotta täyttäneille."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Sopii 21 vuotta täyttäneille."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Sopii 3–6-vuotiaille."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Sopii 6–12-vuotiaille."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Sopii kaikenikäisille."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Sopii 13 vuotta täyttäneille."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Sopii 18 vuotta täyttäneille. Sallittu alle 18-vuotiaille aikuisten valvonnassa."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Sopii aikuisille"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Sanallisia viittauksia seksiin"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Karkea kielenkäyttö"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Seksuaalinen sisältö"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Väkivalta"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Fantasiaväkivalta"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Tämä ohjelma sopii kaikenikäisille lapsille."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Tämä ohjelma sopii 7 vuotta täyttäneille."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Useimpien vanhempien mielestä tämä ohjelma sopii kaikenikäisille."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Ohjelmassa on sisältöä, joka ei vanhempien mielestä ehkä sovi pienille lapsille. Monet vanhemmat haluavat ehkä katsoa sen yhdessä pienten lastensa kanssa."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Ohjelmassa on sisältöä, joka ei useiden vanhempien mielestä sovi alle 14-vuotiaille."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Tämä ohjelma on tarkoitettu aikuisille, eikä se siksi ehkä sovi alle 17-vuotiaille."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Kaikki yleisöt. Lapset voivat katsoa tätä sisältöä turvallisesti."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Vanhempien valvontaa suositellaan. Osa materiaalista ei välttämättä sovi kaikkien vanhempien mielestä lapsille."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Varoitus vanhemmille. Osa sisällöstä ei välttämättä sovi alle 13-vuotiaille."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Rajoitettu, sisältää aikuisille suunnattua materiaalia. Vanhempia kehotetaan hankkimaan lisätietoja elokuvasta ennen pienille lapsille näyttämistä."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Ei alle 18-vuotiaille. Selkeästi aikuisille tarkoitettua sisältöä, ei sallittu lapsille."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Sopii aikuisille"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Tämä ohjelma/elokuva on kielletty alle 10-vuotiailta."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Sopii kaikenikäisille."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Alle 10-vuotiaat saavat katsoa tätä ohjelmaa/elokuvaa vain aikuisen seurassa."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Alle 13-vuotiaat saavat katsoa tätä ohjelmaa/elokuvaa vain aikuisen seurassa."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Tämä ohjelma/elokuva on kielletty alle 13-vuotiailta."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Tämä ohjelma/elokuva on kielletty alle 16-vuotiailta."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Tämä ohjelma/elokuva on kielletty alle 18-vuotiailta."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"tämä on varattu äärimmäisen seksuaalisille elokuville (pornografialle)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Pois päältä"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Estä"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Vuodet"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Ikärajoitukset"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Sisällön ikärajoitukset"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Määrittämätön"</string>
+</resources>

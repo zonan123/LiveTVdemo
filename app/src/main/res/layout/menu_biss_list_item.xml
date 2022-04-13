@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/list_item_min_height"
+    android:paddingBottom="@dimen/list_item_vertical_padding"
+    android:paddingTop="@dimen/list_item_vertical_padding"
+    android:orientation="horizontal"
+    android:focusable="true"
+    android:background="@drawable/sat_list_background">
+
+    <TextView
+        android:id="@+id/biss_item_id"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:visibility="gone" /> 
+        
+    <TextView
+        android:id="@+id/biss_num"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:visibility="gone"
+         />
+
+    <TextView
+        android:id="@+id/biss_three_pry"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center"
+         />
+
+    <TextView
+        android:id="@+id/biss_prog_id"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/biss_cwkey"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.6"
+        android:gravity="center"
+         />
+    <ImageView 
+        android:id="@+id/biss_scan_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/page_right"
+        android:layout_weight="0.1"
+        android:scaleType="center"
+        android:layout_gravity="center_vertical"/>
+
+</LinearLayout>

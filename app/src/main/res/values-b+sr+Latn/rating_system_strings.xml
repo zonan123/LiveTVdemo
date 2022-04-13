@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Preporučeno je za uzrast od <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> i više godina."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Prikladno je za sve gledaoce. Programi mogu da sadrže nasilje umerenog intenziteta, blago nepristojan jezik i situacije sa tematikom za zrele osobe."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Prikladno je za uzrast od 13 i više godina. Programi mogu da sadrže blago ili umereno nepristojan jezik, kao i nasilje i seksualne reference umerenog intenziteta."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Prikladno je za uzrast od 16 i više godina. Programi mogu da sadrže nasilje većeg intenziteta i nepristojan jezik, delimičnu golotinju i umerene seksualne reference."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Prikladno je samo za odrasle gledaoce. Programi sadrže nasilje velikog intenziteta, nepristojan jezik i eksplicitne seksualne reference."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Droga"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Seks"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Nasilje"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Sadržaj sa klasifikacijom P namenjen je predškolskoj deci."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Sadržaj sa klasifikacijom C namenjen je deci (izuzev predškolske dece) koji imaju manje od 14 godina."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Sadržaj sa klasifikacijom G nije nužno namenjen deci, ali mora da ima vrlo blag uticaj i ne sme da sadrži ništa što deca ne bi smela da gledaju bez nadzora."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Sadržaj sa klasifikacijom PG može da obuhvata teme ili koncepte za odrasle, ali mora da ima blag uticaj i da bude prikladan da deca mogu da ga gledaju bez nadzora."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Sadržaj sa klasifikacijom M je namenjen odrasloj publici. Gledanje ovog sadržaja ne preporučuje osobama mlađim od 15."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Sadržaj sa klasifikacijom MA prikladan je samo za osobe starije od 15 godina zbog intenziteta i/ili učestalosti nasilja, seksualnih prizora ili nepristojnog jezika, tema za odrasle ili konzumacije droga. Uticaj može biti snažan."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Sadržaj sa klasifikacijom AV prikladan je samo za osobe od 15 godina ili starije. Nije prikladan za klasifikaciju MA zbog intenziteta i/ili učestalosti nasilja, odnosno zato što je nasilje centralna tema. U ostalim aspektima zahtevi klasifikcije identični su klasifikaciji MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Sadržaj sa klasifikacijom R je zakonski ograničen na odrasle osobe. Određeni sadržaj sa klasifikacijom R će možda biti uvredljiv za neke odrasle osobe."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Šira publika"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Ne preporučuje se mlađima od <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> godina."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Droga"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Seks"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Nasilje"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Izuzeti programi obuhvataju: vesti, sport, dokumentarce i drugi informativni program; emisije sa gostima, spotove i zabavni program."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Ovaj program je namenjen deci mlađoj od 8 godina."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Ovaj program je namenjen deci od 8 i više godina. Preporučujemo roditeljima/starateljima da gledaju program sa ovom oznakom zajedno sa decom mlađom od 8 godina."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Ovaj program je namenjen svim uzrastima i prikladan je za celu porodicu."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Iako je namenjen široj publici, ovaj program možda nije prikladan za mlađu decu (ispod 8 godina). Roditelji/staratelji treba da budu oprezni jer može da obuhvata elemente sadržaja koje neke osobe mogu da smatraju neprikladnim za decu uzrasta 8–13 godina koja ga gledaju bez nadzora."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Programi sa ovom klasifikacijom sadrže teme ili elemente sadržaja koji nisu prikladni za gledaoce mlađe od 14 godina. Savetujemo roditeljima da budu veoma oprezni ako odluče da dozvole ranim adolescentima i mlađim tinejdžerima da gledaju ovaj sadržaj bez roditeljskog/starateljskog nadzora jer program sa ovom klasifikacijom može realistično da predstavlja teme za odrasle i društvene probleme."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Ovaj program je namenjen gledaocima od 18 i više godina."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programi koji su izuzeti iz klasifikacije."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Program je prikladan za sve uzraste. Program sa ocenom G možda nije primeren senzabilitetu dece mlađe od osam godina."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Program je prikladan za širu publiku, ali može da sadrži blago ili povremeno nasilje koje može da uznemiri mlađu decu. Zato se za decu mlađu od osam godina preporučuje gledanje uz nadzor odraslih."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Program je prikladan za osobe od 13 godina i starije. Deci mlađoj od 13 godina pristup je dozvoljen samo u prisustvu odrasle osobe."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Program je prikladan za osobe od 16 godina i starije. Programi sa ovom ocenom bave se teškim temama, situacijama ili ponašanjima i direktnije ih prikazuju."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Program je prikladan za osobe od 18 godina i starije. Programi koji su namenjeni isključivo odraslima najčešće i primarno sadrže eksplicitne prikaze seksualnih odnosa. Mogu da budu i izuzetno nasilno, da prikazuju hiperrealistične prizore nasilja, mučenja i strave."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Preporučeno je za sve uzraste."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Preporučeno je za decu."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Preporučeno je za odrasle."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programi ne sadrže materijal koji je neprikladan za neku starosnu grupu, pa je prikladan za sve uzraste."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programi mogu da sadrže materijal neprikladan za decu mlađu od 7 godina, pa se preporučuje roditeljski nadzor."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programi mogu da sadrže materijal neprikladan za decu mlađu od 12 godina, pa se preporučuje roditeljski nadzor."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programi mogu da sadrže materijal neprikladan za publiku mlađu od 15 godina, pa se preporučuje roditeljski nadzor."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programi mogu da sadrže materijal neprikladan za publiku mlađu od 19 godina, pa zato nije prikladan za mlade osobe mlađe od 19 godina."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Namenjeno je svim uzrastima."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Prikladno je za sve uzraste, ali se preporučuje roditeljski nadzor za mlađe gledaoce."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Prikladno je za osobe uzrasta od 13 i više godina, ali se preporučuje roditeljski nadzor za decu mlađu od 13 godina."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Prikladno je za osobe uzrasta od 16 i više godina."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Prikladno je za osobe uzrasta od 18 i više godina."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Prikladno je za odrasle uzrasta od 21 i više godina."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Prikladno je za decu uzrasta između 3 i 6 godina."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Prikladno je za decu uzrasta između 6 i 12 godina."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Prikladno za sve gledaoce."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Prikladno je za osobe uzrasta od 13 i više godina."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Prikladno je za osobe uzrasta od 18 i više godina. Za decu mlađu od 18 godina obavezan je roditeljski nadzor"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Prikladno za odrasle"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Sugestivni dijalog"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Nepristojan jezik"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Seksualni sadržaj"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Nasilje"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Nasilje u kontekstu fantazije"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Ovaj program je namenjen deci svih uzrasta."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Ovaj program je namenjen deci koja imaju 7 i više godina."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Većina roditelja bi smatrala ovaj program prikladnim za sve uzraste."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Ovaj program sadrži materijal koji bi roditelji mogli da smatraju neprikladnim za mlađu decu. Mnogi roditelji će možda želeti da ga gledaju zajedno sa mlađom decom."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Ovaj program sadrži određeni materijal koji bi mnogi roditelji smatrali neprikladnim za decu mlađu od 14 godina."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Ovaj program je specijalno namenjen za odrasle, pa može da bude neprikladan za decu mlađu od 17 godina."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Za sve uzraste. Ništa u sadržaju ne može da bude uvredljivo za roditelje u slučaju da deca gledaju."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Preporučuje se roditeljski nadzor. Može da sadrži neki materijal za koji roditelji možda smatraju da nije prikladan za malu decu."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Izričito se savetuje roditeljski nadzor. Neki sadržaj možda nije prikladan za decu mlađu od 13 godina."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Za ograničenu publiku, obuhvata sadržaj za odrasle. Savetuje se roditeljima da saznaju više o filmu pre nego što povedu decu sa sobom."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Nije dozvoljeno za osobe uzrasta od 17 godina i mlađa. Isključivo za odrasle. Nije dozvoljeno za decu."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Prikladno za odrasle"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Deci koja imaju manje od 10 godina je zabranjeno da gledaju ovaj program/film."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Namenjeno je svim uzrastima."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Deca mlađa od 10 godina mogu da gledaju ovaj program/film u prisustvu odrasle osobe."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Deca mlađa od 13 godina mogu da gledaju ovaj program/film u prisustvu odrasle osobe."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Deci koja imaju manje od 13 godina je zabranjeno da gledaju ovaj program/film."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Deci koja imaju manje od 16 godina je zabranjeno da gledaju ovaj program/film."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Deci koja imaju manje od 18 godina je zabranjeno da gledaju ovaj program/film."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"ovo je rezervisano za filmove sa izrazito seksualnim sadržajem (pornografija)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Isključeno"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blokiraj"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Godine"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Ocene prema uzrastu"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Ocene sadržaja"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Nije definisano"</string>
+</resources>

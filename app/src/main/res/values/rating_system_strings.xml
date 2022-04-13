@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Age based TV content rating strings used in DVB and ISDB.
+         For more info, please see STD-B10 in http://www.dibeg.org/techp/aribstd/aribstd.html (ISDB)
+         and Table 81 of DVB SI (EN 300 468 V1.14.1) in https://www.dvb.org/standards (DVB).-->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs that should be showed with the 4 and over ages people [CHAR LIMIT = NONE] -->
+    <string name="description_age_num">Recommended for ages <xliff:g id="description_age_num_id">%d</xliff:g> and over. </string>
+    <string name="description_age_4" translatable="false">abc4</string>
+    <string name="description_age_5" translatable="false">abc5</string>
+    <string name="description_age_6" translatable="false">abc6</string>
+    <string name="description_age_7" translatable="false">abc7</string>
+    <string name="description_age_8" translatable="false">abc8</string>
+    <string name="description_age_9" translatable="false">abc9</string>
+    <string name="description_age_10" translatable="false">abc10</string>
+    <string name="description_age_11" translatable="false">abc11</string>
+    <string name="description_age_12" translatable="false">abc12</string>
+    <string name="description_age_13" translatable="false">abc13</string>
+    <string name="description_age_14" translatable="false">abc14</string>
+    <string name="description_age_15" translatable="false">abc15</string>
+    <string name="description_age_16" translatable="false">abc16</string>
+    <string name="description_age_17" translatable="false">abc17</string>
+    <string name="description_age_18" translatable="false">abc18</string>
+    <string name="description_age_19" translatable="false">abc19</string>
+    <string name="description_age_20" translatable="false">abc20</string>
+
+    <!-- TV content rating system strings for AR(Argentina) TV. These strings are from Wikipedia.
+         See http://en.wikipedia.org/wiki/Television_content_rating_systems -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for all audiences and may contain mild violence, language and mature situations.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_atp">Suitable for all audiences. Programs may contain mild violence, language and mature situations.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for ages 13 and up audiences and may contain mild to moderate language and mild violence and sexual references.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_sam_13">Suitable for ages 13 and up. Programs may contain mild to moderate language and mild violence and sexual references.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for ages 16 and up audiences and may contain mild to moderate language and mild violence and sexual references.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_sam_16">Suitable for ages 16 and up. Programs may contain more intensive violence and coarse language, partial nudity and moderate sexual references.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for ages 18 and up audiences and may contain mild to moderate language and mild violence and sexual references.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_sam_18">Suitable for mature audiences only. Programs contain strong violence, coarse language and explicit sexual references.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain drugs.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_d">Drugs</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain sex.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_s">Sex</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence.[CHAR LIMIT = NONE] -->
+    <string name="description_ar_tv_v">Violence</string>
+
+    <!-- TV content rating system strings for AU(Australia) TV. These strings are from ABC classification.
+         See Appendix 4 of http://www.abc.net.au/mediawatch/transcripts/0935_industry.pdf -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified P. P is meant the programs intended for preschool children.[CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_p">Material classified P is intended for preschool children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified C. C is meant the programs intended for children (other than preschool children) who are younger than 14 years of age.[CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_c">Material classified C is intended for children (other than preschool children) who are younger than 14 years of age.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified G. please refer to all string content for more details with classified G tv programs.[CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_g">Material classified G is not necessarily intended for children but it must be very mild in impact and must not contain any matter likely to be unsuitable for children to watch without supervision.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified PG. please refer to all string content for more details with classified PG tv programs. [CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_pg">Material classified PG may contain adult themes or concepts but must be mild in impact and remain suitable for children to watch with supervision.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified M. please refer to all string content for more details with classified M tv programs. [CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_m">Material classified M is for mature audiences. It is recommended for viewing only by persons aged 15 years or over.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified MA. please refer to all string content for more details with classified MA tv programs. [CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_ma">Material classified MA is suitable for viewing only by persons aged 15 years or over because of the intensity and/or frequency of violence, sexual depictions, or coarse language, adult themes or drug use. The impact may be strong.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified AV. please refer to all string content for more details with classified AV tv programs. [CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_av">Material classified AV is suitable for viewing only by persons aged 15 years or over. It is unsuitable for MA classification because of the intensity and/or frequency of violence, or because violence is central to the theme. In other respects, the requirements of the classification are identical to the MA classification.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs with classified R. please refer to all string content for more details with classified R tv programs. [CHAR LIMIT = NONE] -->
+    <string name="description_au_tv_r">Material classified R is legally restricted to adults. Some material classified R may be offensive to sections of the adult community.</string>
+
+    <!-- TV content rating system strings for BR(Brazil) TV. These strings are from
+         http://www.justica.gov.br/seus-direitos/classificacao/guia-pratico/practical-guide.pdf/view -->
+    <string name="title_br_tv_l" translatable="false">GA</string>
+    <string name="title_br_tv_10" translatable="false">PG-10</string>
+    <string name="title_br_tv_12" translatable="false">PG-12</string>
+    <string name="title_br_tv_14" translatable="false">PG-14</string>
+    <string name="title_br_tv_16" translatable="false">PG-16</string>
+    <string name="title_br_tv_18" translatable="false">PG-18</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for general audiences[CHAR LIMIT = NONE] -->
+    <string name="description_br_tv_l">General audiences</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are not recommended for ages under 10 years older to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_br_tv_num">Not recommended for ages under <xliff:g id="description_br_tv_num_id">%d</xliff:g>. </string>
+    <string name="description_br_tv_10" translatable="false">cba10</string>
+    <string name="description_br_tv_12" translatable="false">cba12</string>
+    <string name="description_br_tv_14" translatable="false">cba14</string>
+    <string name="description_br_tv_16" translatable="false">cba16</string>
+    <string name="description_br_tv_18" translatable="false">cba18</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain drugs.[CHAR LIMIT = NONE] -->
+    <string name="description_br_tv_d">Drugs</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain sex.[CHAR LIMIT = NONE] -->
+    <string name="description_br_tv_s">Sex</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence.[CHAR LIMIT = NONE] -->
+    <string name="description_br_tv_v">Violence</string>
+
+    <!-- TV content rating system strings for CA(Canada) TV. These strings are from
+         http://www.cbsc.ca/english/agvot/englishsystem.php -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are exempt, please refer to all string content for more details.[CHAR LIMIT = NONE]  -->
+    <string name="description_ca_tv_en_exempt">Exempt programming includes: news, sports, documentaries and other information programming; talk shows, music videos, and variety programming.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are intended for younger children under the age of 8 years.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_c">This programming is intended for younger children under the age of 8 years.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are intended for youngsters 8 years and over. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_c8">This programming is intended for youngsters 8 years and over. It is suggested that a parent/guardian co-view programming assigned this classification with younger children under the age of 8.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are intended for all age groups.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_g">This programming is intended for all age groups and appropriate viewing for the entire family.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are intended for a general audience. please refer to all string content for more details. [CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_pg">This programming, while intended for a general audience, may not be suitable for younger children (under the age of 8). Parents/guardians should be aware that there might be content elements which some could consider inappropriate for unsupervised viewing by children in the 8-13 age range.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The tv programs are not suitable for viewers under the age of 14. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_14">Programming with this classification contains themes or content elements which might not be suitable for viewers under the age of 14. Parents are strongly cautioned to exercise discretion in permitting viewing by pre-teens and early teens without parent/guardian supervision, as programming with this classification could deal with mature themes and societal issues in a realistic fashion.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The tv programs are intended for viewers 18 years and older. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_en_18">This programming is intended for viewers 18 years and older.</string>
+
+    <!-- TV content rating system strings for CA(Canada) TV (French). -->
+    <!-- A short title of the rating system that appears in the parentheses right next to the
+         country name as in "Canada (French)". This corresponds to the "Ratings Classification for
+         Canadian French-Language Broadcasters". See more details in
+         http://www.cbsc.ca/english/agvot/frenchsystem.php -->
+    <string name="title_ca_tv_fr" translatable="false">French</string>
+
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs exempt from classification [CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_e">Programs exempt from classification.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are appropriate for viewing by persons of all ages. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_g">The program is appropriate for viewing by persons of all ages. A program with a "G" rating might offend the sensibilities of children under eight years of age.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for the general public. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_8">The program is suitable for the general public but could contain mild or occasional violence that may disturb young children. Viewing with adult supervision is therefore recommended for young children (age 8 and under).</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are appropriate for viewing by persons 13 years of age or older. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_13">The program is appropriate for viewing by persons 13 years of age or older. Children under 13 may be admitted only if accompanied by an adult.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are appropriate for viewing by persons 16 years of age or older. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_16">The program is appropriate for viewing by persons 16 years of age or older. Programs with this rating present troubling themes, situations or behaviours and adopt a more direct point of view about things.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are appropriate for viewing by persons 18 years of age or older. please refer to all string content for more details.[CHAR LIMIT = NONE] -->
+    <string name="description_ca_tv_fr_18">The program is appropriate for viewing by persons 18 years of age or older. Programs reserved for adults most often deal primarily with the representation of explicit sexual encounters.  They may also be extremely violent, showing scenes of hyperrealistic cruelty, torture and horror.</string>
+
+    <!-- TV content rating system strings for DVB -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are recommended for all ages to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_es_dvb_all">Recommended for all ages.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are recommended for children to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_es_dvb_c">Recommended for children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are recommended for adults to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_es_dvb_x">Recommended for adults.</string>
+
+    <!-- TV content rating system strings for KR(Korean) TV. These strings are from
+         http://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2000000118507 but they are translated
+         from Korean to English. -->
+    <string name="title_kr_tv_all" translatable="false">ALL</string>
+    <string name="title_kr_tv_7" translatable="false">7</string>
+    <string name="title_kr_tv_12" translatable="false">12</string>
+    <string name="title_kr_tv_15" translatable="false">15</string>
+    <string name="title_kr_tv_19" translatable="false">19</string>
+
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs do not contain material inappropriate for all ages, and thus are suitable for all ages to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_kr_tv_all">Programs do not contain material inappropriate for all ages, and thus are suitable for all ages.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain material inappropriate for children under 7 years old, and therefore parental discretion should be used for them to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_kr_tv_7">Programs may contain material inappropriate for children under 7, and therefore parental discretion should be used for them.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain material inappropriate for children under 12 years old, and therefore parental discretion should be used for them to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_kr_tv_12">Programs may contain material inappropriate for children under 12, and therefore parental discretion should be used for them.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain material inappropriate for children under 15 years old, and therefore parental discretion should be used for them to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_kr_tv_15">Programs may contain material inappropriate for audiences under 15, and therefore parental discretion should be used for them.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain material inappropriate for children under 19 years old, and thus are not suitable for youngsters under 19 to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_kr_tv_19">Programs may contain material inappropriate for audiences under 19, and thus are not suitable for youngsters under 19.</string>
+
+    <!-- TV content rating system strings for SG(Singapore) TV. These strings are from
+         http://www.mda.gov.sg/RegulationsAndLicensing/ContentStandardsAndClassification/FilmsAndVideos/Pages/default.aspx -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for all ages people. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_g">Suitable for all ages.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for all people but parents should guide their young to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_pg">Suitable for all but parents should guide their young.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for persons aged 13 and above, but parental guidance is advised for children below 13. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_pg13">Suitable for persons aged 13 and above but parental guidance is advised for children below 13.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for persons aged 16 and above to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_nc16">Suitable for persons aged 16 and above.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for persons aged 18 and above to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_m18">Suitable for persons aged 18 and above.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for adults aged 21 and above to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_sg_tv_r21">Suitable for adults aged 21 and above.</string>
+
+    <!-- TV content rating system strings for TH(Thailand) TV. These strings are from
+         http://www.mda.gov.sg/RegulationsAndLicensing/ContentStandardsAndClassification/FilmsAndVideos/Pages/default.aspx -->
+    <string name="title_th_tv_p" translatable="false">Kid 3–5 Years</string>
+    <string name="title_th_tv_c" translatable="false">Kid 6–12 Years</string>
+    <string name="title_th_tv_g" translatable="false">General</string>
+    <string name="title_th_tv_pg13" translatable="false">PG13</string>
+    <string name="title_th_tv_pg18" translatable="false">PG18</string>
+    <string name="title_th_tv_x" translatable="false">Adult</string>
+
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for children ages 3 to 6 to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_p">Suitable for children ages 3 to 6.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for children ages 6 to 12 to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_c">Suitable for children ages 6 to 12.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for general audiences to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_g">Suitable for general audiences.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for people aged 13 and above to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_pg13">Suitable for people aged 13 and above.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for people aged 18 and above, and parental guidance for children under 18 to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_pg18">Suitable for people aged 18 and above.And parental guidance for children under 18</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for adult to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_th_tv_x">Suitable for adult</string>
+
+    <!-- TV content rating system strings for US(United States) TV. These strings are from
+         http://www.tvguidelines.org/ratings.htm -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain suggestive dialogue. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_d">Suggestive dialogue</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain coarse language. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_l">Coarse language</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain sexual content. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_s">Sexual content</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain violence content. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_v">Violence</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain fantasy violence. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_fv">Fantasy violence</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are appropriate for all children watching. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_y">This program is designed to be appropriate for all children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are designed for children age 7 and above watching. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_y7">This program is designed for children age 7 and above.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. Most parents would find the programs suitable for all ages. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_g">Most parents would find this program suitable for all ages.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain material that parents may find unsuitable for younger children,to watch it with their younger children together. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_pg">This program contains material that parents may find unsuitable for younger children. Many parents may want to watch it with their younger children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs contain some material that many parents would find unsuitable for children under 14 years of age. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_14">This program contains some material that many parents would find unsuitable for children under 14 years of age.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are designed to be viewed by adults,unsuitable for children under 17. [CHAR LIMIT = NONE] -->
+    <string name="description_us_tv_ma">This program is specifically designed to be viewed by adults and therefore may be unsuitable for children under 17.</string>
+
+    <!-- Movie content rating system strings for US(United States). These string are from
+         http://www.mpaa.org/film-ratings-->
+    <string name="title_us_mv" translatable="false">Film ratings</string>
+
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film for general audiences. [CHAR LIMIT = NONE] -->
+    <string name="description_us_mv_g">General audiences. Nothing that would offend parents for viewing by children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film contain some material parents might not like for their young children. [CHAR LIMIT = NONE] -->
+    <string name="description_us_mv_pg">Parental guidance suggested. May contain some material parents might not like for their young children.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film contain some material may be inappropriate for pre-teenagers. [CHAR LIMIT = NONE] -->
+    <string name="description_us_mv_pg13">Parents strongly cautioned. Some material may be inappropriate for pre-teenagers.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are restricted,contain some adult material. [CHAR LIMIT = NONE] -->
+    <string name="description_us_mv_r">Restricted, Contains some adult material. Parents are urged to learn more about the film before taking their young children with them.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are not admitted watching by children or 17 and under. [CHAR LIMIT = NONE] -->
+    <string name="description_us_mv_nc17">No one 17 and under admitted. Clearly adult. Children are not admitted.</string>
+    <string name="description_us_mv_x">Suitable for adult</string>
+
+
+    <!-- Movie content rating system strings for SA. These string are from
+         http://www.mpaa.org/film-ratings-->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are prohibited to watch by children under 10 years old. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_10">Children under 10 are prohibited from watching this program/film.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs are suitable for all ages to watch. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_none">Suitable for all ages.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are suitable to watch by children under 10 years old, but must be accompanied by an adult. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_pg10">Children under 10 may watch this program/film, but must be accompanied by an adult.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are suitable to watch by children under 13 years old, but must be accompanied by an adult. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_pg13">Children under 13 may watch this program/film, but must be accompanied by an adult.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are prohibited to watch by children under 13 years old. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_13">Children under 13 are prohibited from watching this program/film.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are prohibited to watch by children under 16 years old. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_16">Children under 16 are prohibited from watching this program/film. </string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film are prohibited to watch by children under 18 years old. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_18">Children under 18 are prohibited from watching this program/film.</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV program/film. The TV program/film contains pornography. [CHAR LIMIT = NONE] -->
+    <string name="description_sa_tv_r18">this is reserved for films of an extreme sexual nature (pornography).</string>
+
+    <string name="rating_schedule_off">Off</string>
+
+    <!-- For rating setting to block program-->
+    <string name="rating_schedule_block">Block</string>
+
+    <!-- For rating show years-->
+    <string name="rating_years"> Years</string>
+
+    <string name="option_ratings_age">Age Ratings</string>
+    <string name="option_ratings_content">Content Ratings</string>
+
+    <!-- when program rating=0, banner and EPG will show 'Not defined'" [CHAR LIMIT = 50] -->
+    <string name="rating_not_defined">Not defined</string>
+</resources>

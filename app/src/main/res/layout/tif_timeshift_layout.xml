@@ -1,0 +1,117 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/timeshift_layout_height"
+    android:orientation="horizontal"
+    android:layout_gravity="bottom"
+    android:background="@drawable/tif_timeshift_bg">
+
+    <LinearLayout
+        android:id="@+id/tshfit_root1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/timeshift_margin_start_end"
+        android:layout_marginEnd="@dimen/timeshift_margin_start_end" >
+        <ImageView
+            android:id="@+id/tshift_plcontorl_btn"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:scaleType="fitStart"
+            android:src="@drawable/tif_play_pause_icon" />
+         <!-- <ImageView
+            android:id="@+id/tshift_plcontorl_btn_num"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:visibility="gone" /> -->
+            <!-- android:src="@drawable/timeshift_f_one" -->
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tshfit_root2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/timeshift_margin_top"
+        android:layout_marginBottom="@dimen/timeshift_margin_bottom"
+        android:layout_marginEnd="@dimen/timeshift_margin_start_end" >
+         
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/program_start_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:text="@string/pvr_tshift_offset_time"
+            android:textColor="@color/white"
+            android:textSize="@dimen/timeshift_time_size" />
+        
+        <TextView
+            android:id="@+id/tf_playing_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="@string/pvr_tshift_13_00"
+            android:textColor="@color/white"
+            android:textSize="@dimen/timeshift_time_size" />
+
+        <TextView
+            android:id="@+id/program_end_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="end"
+            android:text="@string/pvr_tshift_13_30"
+            android:textColor="@color/white"
+            android:textSize="@dimen/timeshift_time_size" />
+        </LinearLayout>
+
+          <RelativeLayout
+            android:id="@+id/rl_background"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/timeshift_progressbar_height"
+            android:layout_gravity="center_vertical">
+
+            <ImageView
+                android:id="@+id/timeline_bg_start"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:background="@drawable/tif_timeshift_progressbar_l_bg" />
+            <ImageView
+                android:id="@+id/watched"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/timeline_bg_start"
+                android:src="@color/tif_timeshift_recording_bg" />
+            <ImageView
+                android:id="@+id/buffered"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/watched"
+                android:src="@color/play_controls_progress_bar_buffered" />
+            <ImageView
+                android:id="@+id/timeline_bg_end"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_toEndOf="@id/buffered"
+                android:background="@drawable/tif_timeshift_progressbar_r_bg" />
+
+            <ImageView
+		        android:id="@+id/time_indicator"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"
+		        android:background="@drawable/play_controls_time_indicator"
+		        android:visibility="visible"
+		        android:elevation="1dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"El disco no está listo."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Se produjo un error al iniciar la PVR. El disco no está listo."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"El archivo se creó correctamente"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Se produjo un error al iniciar la PVR. Sal de PIP primero."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Se produjo un error al iniciar la PVR. Primero, debes cambiar a la fuente de TV digital."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Se produjo un error al iniciar la PVR. No se encuentra señal."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Se produjo un error con el inicio de la PVR. Pausa en vivo está en curso."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"La transmisión AV no está disponible."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"La transmisión no está autorizada."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"La entrada está bloqueada."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Error de resolución de video"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Error interno"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"La función Pausa en vivo no está disponible. Primero debes salir de PVR."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"No hay ningún dispositivo o no están disponibles. Inténtalo más tarde."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Detén la PVR y, luego, guarda la grabación."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Se desconectó el disco"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Atención: No desconecte el dispositivo. Podría producir errores no especificados."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"No hay suficiente espacio. El disco debe tener, al menos, 1 GB de espacio libre."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"No se admite la función."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"No se admite el salto continuo de posiciones."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"No se admite el archivo."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Si lo formateas, se borrarán todos los datos"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"¿Confirmas que quieres borrarlo?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Se borrará este archivo."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Prueba de velocidad en curso"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"No desconectes el dispositivo"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Se formateó el disco"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Error al formatear el disco"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Se completó la prueba de velocidad"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"La velocidad máxima es "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Grabando"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Reproducción de PVR"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Pausa en vivo"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Iniciar grabación"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Detener grabación"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Hay una PVR en curso."</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"¿Quieres detener la Pausa en vivo\ny activar la función EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"¿Quieres detener la Pausa en vivo\ny activar la función EPG?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"¿Quieres detener la grabación\ny cambiar de canal?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"¿Quieres detener la grabación\ny cambiar la fuente?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"¿Quieres detener la Pausa en vivo\ny cambiar de canal?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"¿Quieres detener la Pausa en vivo\ny cambiar la fuente?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"¿Quieres detener la Pausa en vivo\n y activar la función PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"¿Quieres detener la Pausa en vivo\ny activar la función PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"¿Quieres detener la reproducción de la PVR\ny activar la función PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"¿Quieres detener la Pausa en vivo\ne ingresar una lista de grabaciones?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"¿Quieres activar la función PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Hay una grabación programada"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"¿Quieres iniciar la grabación?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"¿Quieres detener la Pausa en vivo?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"La grabación del canal podría interrumpirse. ¿Deseas continuar?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Advertencia"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Configuración de la información del dispositivo"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Si formateas el almacenamiento, se borrarán todos los datos. ¿Deseas continuar?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Pausa en vivo está grabando."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Se está ejecutando la PVR"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Se está ejecutando la reproducción de PVR"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Pausa en vivo no está disponible"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Se está ejecutando el programa para probar la velocidad de lectura y escritura del almacenamiento."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Hay una grabación programada [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. ¿Quieres iniciarla?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Nombre:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Hay un recordatorio programado."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"¿Quieres ver ese canal?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Se produjo un error al intentar grabar [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>]"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"La grabación de [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] está incompleta por <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> segundo(s)"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Se guardó parte de la grabación debido a que se apagó el dispositivo durante el proceso."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Modelo de evento"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Programación de horario"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Grabación compatible con la señal"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"No se pudo editar \"Grabación compatible con la señal\""</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Se detuvo Pausa en vivo."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Grabando… Se produjo un error en la prueba de velocidad."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Se está ejecutando Pausa en vivo. No se pudo realizar la prueba de velocidad."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Se denegó el acceso. No se pudo realizar la prueba de velocidad."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"No hay suficiente espacio en el disco. Se produjo un error en la prueba de velocidad."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Se produjo un error en la prueba de velocidad."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"No se admiten las opciones para avanzar y retroceder"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"No se pudo borrar el elemento porque se está grabando el canal"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Se está ejecutando la PVR o se está reproduciendo un archivo de PVR.\nDetén el proceso y vuelve a intentarlo."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Se está ejecutando Pausa en vivo.\nDetenla y vuelve a intentarlo."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"El canal actual no es válido."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Se está adelantando el video. Vuelve a intentarlo más tarde."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Se está retrocediendo. Vuelve a intentarlo más tarde."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"La grabación de Pausa en vivo está completa (reproducción automática)."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"No se puede cambiar al canal anterior. \nPausa en vivo aún está grabando."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Grabaciones incompletas o con errores"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"La grabación está incompleta porque se perdió la señal."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"La grabación está incompleta porque no hay EIT."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"La grabación está incompleta porque no hay EIT y se perdió la señal."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"La hora de inicio no es válida porque es anterior a la hora actual."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"La duración del archivo no es válida."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"La programación adicional solicitada excede el máximo permitido."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"¿Quieres detener la grabación\ny cambiar el tipo de canal?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"¿Quieres detener la Pausa en vivo\ny cambiar el tipo de canal?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"No se puede cambiar de canal mientras se prepara la grabación."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formateo"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Error al formatear el disco. Se está grabando contenido."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Error al formatear el disco. Se está ejecutando Pausa en vivo."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"La velocidad no es válida."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Espera mientras se realiza el formateo…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"No se admite la opción para avanzar"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"No se admite la opción para retroceder"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"La velocidad del disco es lenta y se descartaron los datos"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"No se pudieron completar algunas grabaciones programadas."</string>
+</resources>

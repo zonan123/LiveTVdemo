@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Inirerekomenda para sa mga <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> na taong gulang pataas."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Naaangkop sa lahat ng audience. Baka naglalaman ang mga programa ng bahagyang karasahan, pananalita, at mga sitwasyong para sa mga nasa hustong gulang."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Naaangkop sa mga 13 taong gulang pataas. Baka naglalaman ang mga programa ng bahagya hanggang katamtamang pananalita at bahagyang karahasan at sekswal na pagpapahiwatig."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Naaangkop sa mga 16 na taong gulang pataas. Baka naglalaman ang mga programa ng matinding karahasan at bulgar na pananalita, bahagyang kahubaran, at katamtamang sekswal na pagpapahiwatig."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Naaangkop lang sa mga audience na nasa hustong gulang. Naglalaman ang mga programa ng matinding karahasan, bulgar na pananalita, at mga tahasang sekswal na pagpapahiwatig."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Droga"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Pagtatalik"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Karahasan"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Ang materyal na nauri bilang P ay para sa mga preschool na bata."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Ang materyal na nauri bilang C ay para sa mga bata (maliban sa mga preschool na bata) na wala pang 14 na taong gulang."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Hindi nangangahulugang para sa mga bata ang materyal na nauri bilang G pero mababa ang epekto nito at hindi ito dapat maglaman ng anumang bagay na malamang na hindi naaangkop na mapanood ng mga bata nang walang patnubay."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Baka maglaman ang materyal na nauri bilang PG ng mga tema o konseptong para sa mga nasa hustong gulang pero dapat hindi matindi ang epekto ng mga ito at dapat manatiling naaangkop ang mga ito na panoorin ng mga bata nang may patnubay."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Ang materyal na nauri bilang M ay para sa mga nasa hustong gulang na audience. Inirerekomendang mapanood lang ito ng mga 15 taong gulang pataas."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Naaangkop lang na panoorin ng mga taong 15 taong gulang pataas ang materyal na nauri bilang MA dahil sa tindi at/o dalas ng karahasan, sekswal na paglalarawan, o bulgar na pananalita, mga tema para sa nasa hustong gulang, o paggamit ng droga. Baka malakas ang epekto."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Naaangkop lang na panoorin ng mga 15 taong gulang pataas ang materyal na nauri bilang AV. Hindi ito naaangkop na mauri bilang MA dahil sa tindi at/o dalas ng karahasan, o dahil malaking bahagi ng tema ang karahasan. Sa iba pang aspeto, kapareho ng mga kinakailangan para sa klasipikasyong MA ang mga kinakailangan para sa klasipikasyong ito."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Legal na pinaghihigpitan sa mga nasa hustong gulang ang materyal na nauri bilang R. Baka nakakasakit sa ilang bahagi ng komunidad ng mga nasa hustong gulang ang ilang materyal na nauri bilang R."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Para sa lahat"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Hindi inirerekomenda para sa mga wala pang <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> taong gulang."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Droga"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Pagtatalik"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Karahasan"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Kabilang sa hindi kasamang programming ang: mga balita, sports, dokumentaryo, at iba pang programming na nagbibigay ng impormasyon; mga talk show, music video, at variety programming."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Ang programming na ito ay para sa mga batang wala pang 8 taong gulang."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Ang programming na ito ay para sa mga batang 8 taong gulang pataas. Iminumungkahi na samahan ng magulang/tagapag-alaga ang mga batang wala pang 8 taong gulang sa panonood ng programming na nakatalaga sa ganitong pag-uuri."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Ang programming na ito ay para sa lahat ng pangkat ng edad at naaangkop na panoorin ng buong pamilya."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Ang programming na ito, bagama\'t para sa lahat, ay baka hindi naaangkop sa mga bata (wala pang 8 taong gulang). Dapat malaman ng mga magulang/tagapag-alaga na baka mayroon itong mga elemento ng content na maituturing ng iba na hindi naaangkop para sa hindi pinapatnubayang panonood ng mga batang 8-13 taong gulang."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Ang programming na may ganitong pag-uuri ay may mga tema o elemento ng content na baka hindi naaangkop sa mga manonood na wala pang 14 na taong gulang. Lubos na pinapaalalahanan ang mga magulang na pagpasyahan ang pagpapahintulot sa panonood ng mga pre-teen at nasa mga unang bahagi ng pagiging teen nang walang patnubay ng magulang/tagapag-alaga, dahil ang programming na may ganitong pag-uuri ay puwedeng tumalakay ng mga mature na tema at isyung panlipunan sa makatotohanang paraan."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Ang programming na ito ay para sa mga manonood na 18 taong gulang pataas."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Mga programang hindi kasama sa pag-uuri."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Naaangkop na panoorin ng lahat ng edad ang programa. Baka makapanakit ng damdamin ng mga batang wala pang walong taong gulang ang programang may rating na G."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Naaangkop sa lahat ang programa pero puwede itong maglaman ng bahagya o paminsan-minsang karahasan na baka ikabahala ng mga batang nasa murang edad. Samakatuwid, inirerekomenda ang panonood nang may patnubay ng nasa hustong gulang para sa mga batang nasa murang edad (8 taong gulang pababa)."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Naaangkop na panoorin ng mga 13 taong gulang pataas ang programang ito. Papapasukin lang ang mga batang wala pang 13 taong gulang kung may kasamang nasa hustong gulang."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Naaangkop na panoorin ng mga 16 na taong gulang pataas ang programang ito. Nagpapakita ang mga programang may ganitong rating ng mga nakakabahalang tema, sitwasyon, o pag-uugali at may mas direktang pananaw sa mga bagay-bagay ang mga ito."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Naaangkop na panoorin ng mga 18 taong gulang pataas ang programang ito. Ang mga programang nakalaan sa mga nasa hustong gulang ay kadalasang tungkol sa pagpapakita ng mga tahasang sekswal na pangyayari. Puwede ring labis na marahas ang mga ito, nang nagpapakita ng mga eksena ng lubos na makatotohanang karahasan, torture, at pananakot."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Inirerekomenda para sa lahat ng edad."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Inirerekomenda para sa mga bata."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Inirerekomenda para sa mga nasa hustong gulang."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Hindi naglalaman ang mga programa ng materyal na hindi naaangkop sa lahat ng edad, at samakatuwid ay puwedeng panoorin ng lahat ng edad."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga batang wala pang 7 taong gulang, at samakatuwid ay dapat pagpasyahan ng mga magulang."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga batang wala pang 12 taong gulang, at samakatuwid ay dapat pagpasyahan ng mga magulang."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga audience na wala pang 15 taong gulang. Samakatuwid, dapat gabayan ng mga magulang ang kanilang mga anak sa panonood."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga audience na wala pang 19 na taong gulang. Samakatuwid, hindi naaangkop ang mga ito sa mga kabataang wala pang 19 na taong gulang."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Naaangkop sa lahat ng edad."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Naaangkop sa lahat pero dapat patnubayan ng mga magulang ang kanilang mga anak."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Naaangkop sa mga 13 taong gulang pataas pero inirerekomenda ang patnubay ng magulang para sa mga batang wala pang 13 taong gulang."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Naaangkop sa mga 16 na taong gulang pataas."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Naaangkop sa mga 18 taong gulang pataas."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Naaangkop sa mga nasa hustong gulang na 21 taong gulang pataas."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Naaangkop sa mga batang 3 hanggang 6 na taong gulang."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Naaangkop sa mga batang 6 hanggang 12 taong gulang."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Naaangkop sa lahat."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Naaangkop sa mga 13 taong gulang pataas."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Naaangkop sa mga 18 taong gulang pataas. Kailangan ng patnubay ng magulang para sa mga batang wala pang 18 taong gulang"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Naaangkop sa nasa hustong gulang"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dialogue na may pagpapahiwatig"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Bulgar na pananalita"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Sekswal na content"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Karahasan"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Karahasang fantasy"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Idinisenyo ang programang ito para maging angkop sa lahat ng bata."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Idinisenyo ang programang ito para sa mga batang 7 taong gulang pataas."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Posibleng sumang-ayon ang karamihan ng mga magulang na angkop ang programang ito sa lahat ng edad."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Ang programang ito ay may materyal na posibleng sumang-ayon ang mga magulang na hindi angkop sa mga batang nasa mas murang edad. Baka gusto ng maraming magulang na panoorin ito kasama ng kanilang mga mas batang anak."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Ang programang ito ay may ilang materyal na posibleng sumang-ayon ang maraming magulang na hindi angkop sa mga batang wala pang 14 na taong gulang."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Partikular na idinisenyo ang programang ito para panoorin ng mga nasa hustong gulang at samakatuwid, baka hindi ito naaangkop sa mga batang wala pang 17 taong gulang."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Para sa lahat. Hindi naglalaman ng anumang bagay na puwedeng makapanakit sa mga magulang kapag pinanood ng kanilang mga anak."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Inirerekomenda ang gabay ng magulang. Baka maglaman ng ilang materyal na baka hindi gustong ipapanood ng mga magulang sa kanilang mga anak na nasa murang edad."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Lubos na pinapaalalahanan ang mga magulang. Baka hindi naaangkop ang ilang materyal para sa mga pre-teen."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Pinaghihigpitan, Naglalaman ng ilang materyal na para sa nasa hustong gulang. Hinihikayat ang mga magulang na matuto pa tungkol sa pelikula bago isama sa panonood nito ang kanilang mga anak na nasa murang edad."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Walang pinapapasok na sinumang 17 taong gulang pababa. Para sa nasa hustong gulang lang. Hindi pinapapasok ang mga bata."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Naaangkop sa nasa hustong gulang"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Pinagbabawalan ang mga batang wala pang 10 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Naaangkop sa lahat ng edad."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Puwedeng panoorin ng mga batang wala pang 10 taong gulang ang programa/pelikulang ito, pero dapat may kasama siyang nasa hustong gulang."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Puwedeng panoorin ng mga batang wala pang 13 taong gulang ang programa/pelikulang ito, pero dapat may kasama siyang nasa hustong gulang."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Pinagbabawalan ang mga batang wala pang 13 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Pinagbabawalan ang mga batang wala pang 16 na taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Pinagbabawalan ang mga batang wala pang 18 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"nakalaan ito para sa mga pelikulang labis na sekswal (pornograpiya)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"I-off"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"I-block"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Mga Taon"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Mga Rating Batay sa Edad"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Mga Content Rating"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Hindi tinukoy"</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Dành cho độ tuổi từ <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> trở lên."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Phù hợp với mọi đối tượng. Chương trình có thể chứa tình huống dành cho người lớn ở mức độ ôn hòa, bạo lực nhẹ, ngôn từ nhẹ nhàng."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Phù hợp với lứa tuổi từ 13 trở lên. Chương trình có thể chứa ngôn từ ở mức nhẹ nhàng đến vừa phải, bạo lực nhẹ và đề cập đến tình dục."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Phù hợp với lứa tuổi từ 16 trở lên. Chương trình có thể chứa ngôn từ thô tục và bạo lực có cường độ mạnh, cảnh khỏa thân một phần và đề cập đến tình dục ở mức vừa phải."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Chỉ phù hợp với đối tượng trưởng thành. Chương trình có chứa nội dung bạo lực mạnh, ngôn từ thô tục và đề cập đến tình dục phản cảm."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Ma túy"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Tình dục"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Bạo lực"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Nội dung được phân loại P là dành cho trẻ mẫu giáo."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Nội dung được phân loại C là dành cho trẻ em (trừ trẻ em mẫu giáo) nhỏ hơn 14 tuổi."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Nội dung được phân loại G không nhất thiết là dành cho trẻ em, nhưng phải có tác động rất nhẹ và không được chứa bất kỳ vấn đề nào có thể không phù hợp để trẻ em xem khi không có sự giám sát."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Nội dung được phân loại PG có thể chứa các chủ đề hoặc khái niệm dành cho người lớn nhưng chỉ được có tác động nhẹ và vẫn phù hợp cho trẻ em xem khi có sự giám sát."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Nội dung được phân loại M là dành cho khán giả trưởng thành. Nội dung loại này chỉ dành cho người từ 15 tuổi trở lên."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Nội dung được phân loại MA chỉ phù hợp cho những người xem từ 15 tuổi trở lên vì cường độ và/hoặc tần suất bạo lực, nội dung miêu tả tình dục, ngôn từ thô tục, chủ đề người lớn hoặc đề cập đến việc sử dụng ma túy. Sức ảnh hưởng từ nội dung này có thể mạnh mẽ."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Nội dung được phân loại AV chỉ dành cho những người từ 15 tuổi trở lên. Nội dung này không phù hợp để phân loại MA vì cường độ và/hoặc tần suất bạo lực hoặc vì bạo lực là trung tâm của chủ đề. Trong các khía cạnh khác, các yêu cầu của mức phân loại giống hệt với mức phân loại MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Theo pháp luật, nội dung được phân loại R chỉ dành cho người lớn. Một số nội dung được phân loại R có thể gây phản cảm cho các bộ phận cộng đồng người lớn."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Khán giả nói chung"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Không dành cho độ tuổi dưới <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Ma túy"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Tình dục"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Bạo lực"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Các chương trình được miễn kiểm tra nội dung tự động gồm có: tin tức, thể thao, tài liệu và các chương trình thông tin khác; chương trình trò chuyện, video ca nhạc và chương trình tạp kỹ."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Chương trình này dành cho trẻ dưới 8 tuổi."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Chương trình này dành cho trẻ từ 8 tuổi trở lên. Cha mẹ/người giám hộ nên cùng xem chương trình có mức phân loại này với trẻ dưới 8 tuổi."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Chương trình này dành cho tất cả nhóm tuổi và thích hợp cho cả gia đình xem."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Chương trình này, dù dành cho khán giả nói chung, có thể không phù hợp cho trẻ nhỏ (dưới 8 tuổi). Cha mẹ/người giám hộ cần lưu ý rằng chương trình có thể có các yếu tố nội dung không phù hợp khi để trẻ từ 8-13 tuổi xem mà không có sự giám sát."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Chương trình có mức phân loại này chứa các chủ đề hoặc yếu tố nội dung có thể không phù hợp với người xem dưới 14 tuổi. Cha mẹ được khuyến cáo thận trọng khi cho phép trẻ 9-15 tuổi xem mà không có sự giám sát của cha mẹ/người giám hộ, vì chương trình có mức phân loại này có thể mô tả các chủ đề dành cho người lớn và các vấn đề xã hội một cách chân thực."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Chương trình này dành cho người xem từ 18 tuổi trở lên."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Các chương trình được miễn phân loại."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Chương trình này phù hợp với người xem ở mọi lứa tuổi. Một chương trình có mức phân loại G có thể gây tổn thương đến khả năng cảm nhận của trẻ em dưới 8 tuổi."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Chương trình này phù hợp với khán giả nói chung nhưng có thể chứa nội dung bạo lực nhẹ hoặc thỉnh thoảng có thể ảnh hưởng đến trẻ nhỏ. Do đó, trẻ nhỏ (từ 8 tuổi trở xuống) nên xem với sự giám sát của người lớn."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Chương trình này phù hợp cho những người xem từ 13 tuổi trở lên. Trẻ em dưới 13 tuổi chỉ có thể xem nếu có sự giám sát của người lớn."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Chương trình này phù hợp cho những người xem từ 16 tuổi trở lên. Các chương trình có mức phân loại này có các chủ đề, tình huống hoặc hành vi đáng lo ngại và có quan điểm trực tiếp hơn về sự việc."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Chương trình này phù hợp cho những người từ 18 tuổi trở lên. Các chương trình dành riêng cho người lớn thường xuất hiện nội dung tình dục phản cảm. Các chương trình này cũng có thể cực kỳ bạo lực, thể hiện những cảnh tàn ác, tra tấn và kinh dị siêu thực."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Dành cho mọi độ tuổi."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Dành cho trẻ em."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Dành cho người lớn."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Các chương trình này không chứa nội dung không phù hợp cho mọi độ tuổi, vì vậy, thích hợp cho mọi độ tuổi."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Các chương trình có thể chứa nội dung không phù hợp cho trẻ em dưới 7 tuổi và do đó, cần phải có ý kiến của cha mẹ cho những đối tượng này."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Các chương trình có thể chứa nội dung không phù hợp cho trẻ em dưới 12 tuổi và do đó, cần phải có ý kiến của cha mẹ cho những đối tượng này."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Các chương trình có thể chứa nội dung không phù hợp cho đối tượng dưới 15 tuổi và do đó, cần phải có ý kiến của cha mẹ cho những đối tượng này"</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Các chương trình có thể chứa nội dung không phù hợp cho đối tượng dưới 19 tuổi và do đó, không phù hợp cho người dưới 19 tuổi."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Phù hợp với mọi lứa tuổi."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Phù hợp với mọi khán giả nhưng cha mẹ nên hướng dẫn trẻ nhỏ."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Phù hợp cho khán giả từ 13 tuổi trở lên, và trẻ em dưới 13 tuổi nên được giám sát dưới sự hướng dẫn của cha mẹ."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Thích hợp cho người từ 16 tuổi trở lên."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Phù hợp với người từ 18 tuổi trở lên"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Phù hợp với người lớn từ 21 tuổi trở lên."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Thích hợp cho trẻ từ 3 đến 6 tuổi."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Thích hợp cho trẻ từ 6 đến 12 tuổi."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Phù hợp với người xem nói chung."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Thích hợp cho người từ 13 tuổi trở lên."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Thích hợp cho người từ 18 tuổi trở lên. Cần có sự hướng dẫn của cha mẹ cho trẻ dưới 18 tuổi"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Thích hợp cho người lớn"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Ngôn từ khêu gợi"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Ngôn từ thô tục"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Nội dung khiêu dâm"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Bạo lực"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Bạo lực giả tưởng"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Chương trình này được thiết kế để phù hợp với tất cả trẻ em."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Chương trình này được thiết kế cho trẻ em từ 7 tuổi trở lên."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Hầu hết các bậc cha mẹ thấy chương trình này phù hợp với mọi lứa tuổi."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Chương trình này chứa nội dung mà các bậc cha mẹ có thể thấy không phù hợp với trẻ nhỏ. Nhiều bậc cha mẹ có thể muốn xem chương trình này cùng với con họ."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Chương trình này chứa một số nội dung mà nhiều bậc cha mẹ sẽ thấy không phù hợp với trẻ em dưới 14 tuổi."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Chương trình này được thiết kế riêng cho người lớn nên có thể không phù hợp với trẻ em dưới 17 tuổi."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Khán giả nói chung. Không có nội dung nào khiến cha mẹ cảm thấy khó chịu khi con họ xem."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Cần có sự hướng dẫn của cha mẹ. Có thể chứa một số nội dung mà các bậc cha mẹ không muốn con của họ xem."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Cha mẹ cần đặc biệt chú ý. Một số nội dung có thể không phù hợp với trẻ 9 – 12 tuổi."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Bị hạn chế. Chứa một số nội dung người lớn. Các bậc cha mẹ nên tìm hiểu thêm về phim trước khi cho trẻ nhỏ xem."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Không cho phép người xem từ 17 tuổi trở xuống. Phải là người đã trưởng thành. Không cho phép trẻ em xem."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Thích hợp cho người lớn"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Trẻ em dưới 10 tuổi bị cấm xem chương trình/phim này."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Phù hợp với mọi lứa tuổi."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Trẻ em dưới 10 tuổi có thể xem chương trình/phim này, nhưng phải có sự giám sát của người lớn."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Trẻ em dưới 13 tuổi có thể xem chương trình/phim này, nhưng phải có sự giám sát của người lớn."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Trẻ em dưới 13 tuổi bị cấm xem chương trình/phim này."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Trẻ em dưới 16 tuổi bị cấm xem chương trình/phim này."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Trẻ em dưới 18 tuổi bị cấm xem chương trình/phim này."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"mức phân loại này được dành riêng cho các bộ phim có tính chất tình dục cực độ (khiêu dâm)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Tắt"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Chặn"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Năm"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Mức phân loại theo độ tuổi"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Mức phân loại nội dung"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Chưa xác định"</string>
+</resources>

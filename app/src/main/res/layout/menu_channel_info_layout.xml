@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/livetvsettings_background"
+    android:padding="20dp" >
+
+
+        <com.mediatek.wwtv.setting.base.view.ChannelInfoListView
+	        android:id="@+id/channel_info_listview"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:descendantFocusability="afterDescendants"
+	        android:focusable="true"
+	        android:gravity="center_vertical"
+	        android:layout_margin="20dp"
+	        android:visibility="gone"
+	         android:gravity="center_vertical"
+	         android:layout_centerInParent="true"
+         />
+
+
+
+    <ListView
+        android:id="@+id/channel_info_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@drawable/scan_condition_background" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <RelativeLayout
+            android:id="@+id/pagebutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/channel_info_listview"
+            android:background="@color/legacy_app_item_background" >
+
+            <ImageView
+                android:id="@+id/page_left_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/page_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/page_left_img"
+                android:text="@string/pager_left" />
+
+            <ImageView
+                android:id="@+id/page_mid_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/tk_cm_color_key_blue" />
+
+             <TextView
+                android:id="@+id/page_mid_delete"
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/page_mid_img"
+                android:text="@string/pager_mid" />
+
+            <ImageView
+                android:id="@+id/page_right_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/page_right" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@id/page_right_img"
+                android:text="@string/pager_right" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/page_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:text="@string/pager_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/pager_right" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/page_right" />
+        </LinearLayout>
+
+
+        </RelativeLayout>
+        channel list displaying bottom
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_ll_channel_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/nav_ll_channel_info_typeview"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.625"
+        android:orientation="vertical"
+        android:background="@color/translucent_gray"
+        android:visibility="invisible" >
+
+        <TextView
+            android:id="@+id/nav_tv_info_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_channel_list_title_height"
+            android:background="@color/translucent_gray"
+            android:gravity="center_vertical"
+            android:paddingStart="@dimen/nav_channel_type_title_padding"
+            android:paddingTop="@dimen/nav_channel_title_padding_top"
+            android:text="@string/menu_tv_channel_skip"
+            android:textColor="@color/nav_channel_list_txt"
+            android:textSize="@dimen/nav_channel_list_textsize_large"
+            android:textStyle="bold" />
+
+        <ListView
+            android:id="@+id/nav_lv_channel_info_typeview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/translucent_gray"
+            android:choiceMode="singleChoice"
+            android:divider="@drawable/translucent_background"
+            android:ellipsize="end"
+            android:listSelector="@drawable/nav_ch_list_selector"
+            android:scrollbars="none" >
+
+            <requestFocus />
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/nav_ll_channel_info_layout"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.375"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/nav_c_list_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_channel_list_title_height"
+            android:background="@color/nav_ch_list_title_back"
+            android:gravity="center_vertical"
+            android:paddingStart="@dimen/nav_channel_title_padding"
+            android:paddingTop="@dimen/nav_channel_title_padding_top"
+            android:text="@string/menu_tv_channel_skip"
+            android:textColor="@color/nav_channel_list_txt"
+            android:textSize="@dimen/nav_channel_list_textsize_large"
+            android:textStyle="bold" />
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <ListView
+                android:id="@+id/channel_info_listview"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="end"
+                android:background="@color/nav_ch_list_view_back"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/translucent_background"
+                android:ellipsize="end"
+                android:listSelector="@drawable/nav_ch_list_selector"
+                android:scrollbars="none" >
+
+                <requestFocus />
+            </ListView>
+        </FrameLayout>
+
+        <TableLayout
+            android:id="@+id/nav_channel_info_list_tip"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_channel_list_title_height"
+            android:background="@color/nav_ch_list_view_back"
+            android:gravity="bottom|center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/nav_channel_list_item_padding"
+            android:paddingLeft="@dimen/nav_channel_list_function_layout_padding"
+            android:paddingRight="@dimen/nav_channel_list_function_layout_padding" >
+
+            <TableRow
+                android:id="@+id/nav_info_page_up_down"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:src="@drawable/tk_cm_color_key_red" />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_up"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|start"
+                    android:text="@string/nav_page_up"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:src="@drawable/tk_cm_color_key_green" />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_down"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|start"
+                    android:text="@string/nav_page_down"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/nav_page_function"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/channel_nav_select_list_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:src="@drawable/tk_cm_color_key_yellow" />
+
+                <TextView
+                    android:id="@+id/channel_nav_select_list"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|start"
+                    android:text="@string/nav_select_list"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+
+                <ImageView
+                    android:id="@+id/channel_nav_exit_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|start"
+                    android:src="@drawable/tk_cm_color_key_blue" />
+
+                <TextView
+                    android:id="@+id/channel_nav_exit"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|start"
+                    android:text="@string/nav_delete"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+</LinearLayout>

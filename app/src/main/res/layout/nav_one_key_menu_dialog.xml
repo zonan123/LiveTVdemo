@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="487dp"
+    android:layout_height="58dp"
+    android:background="@drawable/nav_simple_dialog_bg"
+    android:orientation="vertical" >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/one_key_action_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop ="13dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for the settings list fragment -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/selector"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_centerVertical="true"
+        android:alpha="0"
+        android:background="@color/selector_color" />
+
+    <com.mediatek.wwtv.setting.widget.view.ScrollAdapterView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="afterDescendants"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        settings:orientation="vertical"
+        settings:scrollCenterOffsetPercent="50"
+        settings:scrollCenterStrategy="fixedPercent" />
+
+</RelativeLayout>

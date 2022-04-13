@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal"
+    android:paddingStart="@dimen/lb_preference_item_padding_start"
+    android:paddingEnd="@dimen/lb_preference_item_padding_start" >
+
+    <FrameLayout
+        android:id="@+id/icon_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical" >
+        <ImageView
+            android:id="@android:id/icon"
+            android:layout_width="@dimen/lb_preference_item_icon_size"
+            android:layout_height="@dimen/lb_preference_item_icon_size"
+            android:layout_marginEnd="@dimen/lb_preference_item_icon_margin_end"
+            />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp">
+
+        <TextView android:id="@android:id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textSize="14sp"
+            android:ellipsize="marquee" />
+
+        <TextView android:id="@android:id/summary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@android:id/title"
+            android:layout_alignLeft="@android:id/title"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="?android:attr/textColorSecondary"
+            android:textSize="12sp"
+            android:maxLines="10" />
+
+    </RelativeLayout>
+
+    <!-- Preference should place its actual preference widget here. -->
+    <LinearLayout android:id="@android:id/widget_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="@dimen/lb_preference_item_icon_margin_end"
+        android:gravity="center_vertical"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_width="180dp"
+        android:orientation="vertical">
+        <Space android:layout_width="0dp" android:layout_height="@dimen/lb_preference_item_text_space_top" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <!-- Fix 100% problem set layout_width from 28 to 35 -->
+            <TextView
+                android:id="@+id/preference_progress_value"
+                android:layout_width="35dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="2dp"
+                android:gravity="center"
+                android:textColor="?android:attr/textColorPrimary"
+                android:textSize="14sp" />
+
+            <ProgressBar
+                android:id="@+id/preference_progress_view"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="2dp"
+                android:layout_toLeftOf="@id/preference_progress_value" />
+
+            <SeekBar
+                android:id="@+id/preference_seekbar_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="2dp"
+                android:layout_toLeftOf="@id/preference_progress_value"
+                android:thumbOffset="4dp"
+                android:visibility="gone" />
+        </RelativeLayout>
+        <Space android:layout_width="0dp" android:layout_height="@dimen/lb_preference_item_text_space_bottom" />
+    </LinearLayout>
+
+</LinearLayout>
+

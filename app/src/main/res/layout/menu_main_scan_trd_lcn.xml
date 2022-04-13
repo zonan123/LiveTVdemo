@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/scan_third_dialog_width"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/nav_simple_dialog_bg">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  >
+
+        <TextView
+            android:id="@+id/scan_lcn_group_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="5dp" 
+            android:text="@string/scan_trd_lcn_CONFLICT_INDEX"/>
+        <TextView
+            android:id="@+id/scan_lcn_group_conflict_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="5dp" 
+            android:text="@string/scan_trd_lcn_CONFLICT_INDEX" />
+        <TextView
+            android:id="@+id/scan_lcn_group_conflict_lcn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="5dp"  />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <ListView
+            android:id="@+id/scan_lcn_conflict_list"
+            style="@style/setup_textView"
+            android:dividerHeight="@dimen/nav_channel_list_padTop"
+            android:listSelector="@drawable/nav_ch_list_selector"
+            android:nextFocusLeft="@+id/scan_lcn_conflict_list"
+            android:nextFocusRight="@+id/scan_lcn_conflict_list"
+            android:nextFocusUp="@+id/scan_lcn_conflict_list"
+            android:nextFocusDown="@+id/scan_lcn_conflict_list"
+            android:nextFocusForward="@+id/scan_lcn_conflict_list"
+             >
+        </ListView>
+    </LinearLayout>    
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Disk tayyor emas!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR ishga tushirilmadi. Disk tayyor emas!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Fayl yaratildi"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR ishga tushirilmadi. Avval PIP rejimidan chiqing!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR ishga tushirilmadi. Avval Digital TV manbasiga almashtiring!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR ishga tushirilmadi. Hech qanday signal topilmadi!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR ishga tushirilmadi. Timeshift ishlamoqda!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV striming mavjud emas!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Strimingga ruxsat berilmagan!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Kiritish qulflangan!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Video tiniqligiga oid xato!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Ichki xatolik!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Timeshift ishlamaydi. Avval PVR rejimidan chiqing!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Hech qanday qurilma topilmadi yoki mavjud emas. Keyinroq qayta urining!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Avval PVR rejimini toʻxtatib, keyin yozuvni saqlang."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Disk uzildi"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Diqqat: qurilmani tokdan uzmang, aks holda kutilmagan xatolar kelib chiqishi mumkin!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Xotirada joy yetarli emas. Diskda kamida 1 GB ortiqcha joy boʻlishi kerak."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Notanish funksiya."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Qidirishda davom etish funksiyasi ishlamaydi."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Notanish fayl."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Formatlanganda barcha maʼlumotlar tozalanadi"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Ishonchingiz komilmi?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Bu fayl oʻchirib tashlanadi."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Tezlik oʻlchanmoqda"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Qurilmani uzmang"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Disk formatlandi"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Disk formatlanmadi"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Tezlik oʻlchandi"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Maksimal tezlik: "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Yozib olinmoqda!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR ijro"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Timeshift"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Yozib olish"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Yozuvni toʻxtatish"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR ishga tushirilgan!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Yozib olish jarayoni toʻxtatilishini\n va EPG rejimiga kirishni xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Timeshift toʻxtatilishini\n va EPG rejimiga oʻtishni xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Yozib olish jarayoni toʻxtatilishini\n va kanal almashtirilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Yozib olish jarayoni toʻxtatilishini\n va manba almashtirilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Timeshift toʻxtatilishini\n va kanalni almashtirishni xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Timeshift toʻxtatilishini\n va manbani almashtirishni xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Yozib olish jarayonini toʻxtatish\n va PIP/POP rejimiga kirishni xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Timeshift toʻxtatilishini\n va PIP/POP rejimi ishga tushirilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"PVR ijro toʻxtatilishini\n va PIP/POP rejimi ishga tushirilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Timeshift toʻxtatilishini\n va yozuvlar roʻyxati ochilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"PIP/POP rejimi ishga tushirilsinmi?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Rejalashtirilgan yozuv bor"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"yozib olish boshlansinmi?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"Timeshift toʻxtatilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Dekodlangan kanal shovqinni keltirib chiqarishi mumkin. Davom etasizmi?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Diqqat"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Xotira qurilmasini sozlash"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Formatlasangiz, barcha axborot tozalab tashlanadi. Rozimisiz?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Timeshift yozib olmoqda!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR ishga tushirilgan!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR ijrosi ishga tushirildi!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Timeshift ishlamaydi"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Xotira qurilmasiga yozish va oʻqish tezligini tekshirish boshlandi."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"[<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] yozib olinishi rejalashtirilgan, hozir boshlansinmi?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Nomi:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Rejalashtirilgan eslatma bor."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"oʻsha kanalni tomosha qilasizmi?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] yozib olinmadi"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] yozuvi <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> soniyaga kam."</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Yozuvning bir qismi saqlanib qoldi. Yozib olish vaqtida elektr quvvati uzilib qoldi."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Tadbirlar asosida"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Vaqti dasturlangan"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Signali mos yozuv"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'Signali mos yozuv\' tahrirlanmadi"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Timeshift toʻxtadi."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Yozib olinmoqda! Tezlik tekshirilmadi!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Timeshift ishga tushirilgan! Tezlik tekshirilmadi!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Kirish rad etildi. Tezlik tekshirilmadi!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Diskda joy qolmadi! Tezlik tekshirilmadi!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Tezlik tekshirilmadi!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Oldinga va orqaga oʻtkazish imkonsiz"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Kanal yozib olinmoqda, shu sababli element oʻchirilmadi"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR ishga tushirilgan PVR fayli ijro etilmoqda.\nUni toʻxtating va qaytadan urining!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Timeshift ishlamoqda.\nUni toʻxtating va qaytadan urining!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Joriy kanal yaroqsiz."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Uzatilmoqda! Keyinroq qayta urining."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Orqaga qaytarilmoqda! Keyinroq qayta urining."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Timeshift toʻliq yozib olindi va avtomatik ijro qilinadi."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Avvalgi kanalga qaytish imkonsiz! \n Timeshift rejimi hali ham yozib olmoqda."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Bajarilmadi yoki yozib olish yakunlanmagan"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Yozuv parchasi, signal uzilgani uchun qisman yozib olingan!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Yozuv parchasi, EIT mavjud emasligi uchun qisman yozib olingan!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Yozuv parchasi, EIT mavjud emasligi va signal uzilgani uchun qisman yozib olingan!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Boshlanish vaqti xato kiritildi, joriy vaqtdan avval boʻlsin!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Fayl davomiyligida xato!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Ayni vaqtda qoʻshimcha yozib olish rejasini kiritish imkonsiz!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Yozib olish jarayoni toʻxtatilishini\n va kanal turi almashtirilishini xohlaysizmi?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Timeshift toʻxtatilishini\n va kanalni almashtirishni xohlaysizmi?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Yozib olishni rejalashtirish vaqtida kanallar almashmaydi."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formatlanmoqda"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Disk formatlanmadi. Yozib olinmoqda!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Disk formatlanmadi. Timeshift ishlamoqda!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Tezlik qiymati xato!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Formatlanmoqda! Kutib turing..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Oldinga oʻtkazib boʻlmaydi"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Orqaga qaytarib boʻlmaydi"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Disk tezligi past. Maʼlumotlarni rad eting"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"rejadagi yozib olishlar amalga oshmadi yoki yakunlanmagan!"</string>
+</resources>

@@ -1,0 +1,856 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mediatek.wwtv.tvcenter"
+4    android:sharedUserId="android.uid.system"
+5    android:versionCode="1"
+6    android:versionName="2.30.5 build 18321512" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="30"
+9-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml
+11
+12    <permission
+12-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:8:5-13:53
+13        android:name="com.mediatek.wwtv.permission.DVR_WRITE"
+13-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:9:9-62
+14        android:description="@string/cplogo_bt_ok"
+14-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:13:9-51
+15        android:label="@string/cplogo_bt_ok"
+15-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:12:9-45
+16        android:permissionGroup="android.permission-group.SYSTEM_TOOLS"
+16-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:10:9-72
+17        android:protectionLevel="signatureOrSystem" />
+17-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:11:9-52
+18    <permission
+18-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:15:5-20:53
+19        android:name="com.mediatek.wwtv.permission.DVR_READ"
+19-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:16:9-61
+20        android:description="@string/cplogo_bt_ok"
+20-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:20:9-51
+21        android:label="@string/cplogo_bt_ok"
+21-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:19:9-45
+22        android:permissionGroup="android.permission-group.SYSTEM_TOOLS"
+22-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:17:9-72
+23        android:protectionLevel="signatureOrSystem" />
+23-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:18:9-52
+24    <permission
+24-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:22:5-25:47
+25        android:name="com.mediatek.tv.permission.BROADCAST"
+25-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:23:9-60
+26        android:label="@string/cplogo_bt_ok"
+26-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:25:9-45
+27        android:protectionLevel="signatureOrSystem" />
+27-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:24:9-52
+28
+29    <uses-permission android:name="android.permission.RECOVERY" />
+29-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:27:5-66
+29-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:27:22-64
+30    <uses-permission android:name="android.permission.SHUTDOWN" />
+30-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:28:5-66
+30-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:28:22-64
+31    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+31-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:29:5-78
+31-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:29:22-75
+32    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+32-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:30:5-76
+32-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:30:22-74
+33    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+33-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:31:5-80
+33-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:31:22-77
+34    <uses-permission android:name="android.permission.START_ANY_ACTIVITY" />
+34-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:33:5-77
+34-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:33:22-74
+35    <uses-permission android:name="android.permission.INTERNET" />
+35-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:34:5-67
+35-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:34:22-64
+36    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+36-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:35:5-81
+36-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:35:22-78
+37    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+37-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:36:5-75
+37-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:36:22-72
+38    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+38-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:37:5-79
+38-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:37:22-76
+39    <uses-permission android:name="android.permission.GET_TASKS" />
+39-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:38:5-67
+39-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:38:22-65
+40    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+40-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:39:5-73
+40-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:39:22-70
+41    <uses-permission android:name="android.permission.WAKE_LOCK" />
+41-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:40:5-68
+41-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:40:22-65
+42    <uses-permission android:name="android.permission.INJECT_EVENTS" />
+42-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:41:5-72
+42-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:41:22-69
+43    <uses-permission android:name="android.permission.DEVICE_POWER" />
+43-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:42:5-71
+43-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:42:22-68
+44    <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTTES" />
+44-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:44:5-84
+44-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:44:22-81
+45    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+45-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:45:5-81
+45-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:45:22-78
+46    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+46-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:46:5-80
+46-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:46:22-77
+47    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+47-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:47:5-82
+47-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:47:22-79
+48    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+48-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:48:5-79
+48-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:48:22-77
+49    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+49-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:49:5-73
+49-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:49:22-70
+50    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+50-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:50:5-84
+50-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:50:22-81
+51    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+51-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:51:5-72
+51-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:51:22-69
+52    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+52-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:52:5-80
+52-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:52:22-77
+53    <uses-permission android:name="android.permission.MODIFY_AUDIO_ROUTING" />
+53-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:53:5-79
+53-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:53:22-76
+54    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+54-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:54:5-84
+54-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:54:22-81
+55    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+55-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:55:5-78
+55-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:55:22-76
+56    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+56-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:56:5-75
+56-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:56:22-73
+57    <uses-permission android:name="com.android.providers.tv.permission.READ_EPG_DATA" />
+57-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:58:5-89
+57-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:58:22-86
+58    <uses-permission android:name="com.android.providers.tv.permission.WRITE_EPG_DATA" />
+58-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:59:5-90
+58-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:59:22-87
+59    <uses-permission android:name="com.android.providers.tv.permission.ACCESS_ALL_EPG_DATA" />
+59-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:60:5-95
+59-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:60:22-92
+60    <uses-permission android:name="android.permission.MODIFY_PARENTAL_CONTROLS" />
+60-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:61:5-83
+60-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:61:22-80
+61    <uses-permission android:name="android.permission.READ_CONTENT_RATING_SYSTEMS" />
+61-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:62:5-86
+61-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:62:22-83
+62    <uses-permission android:name="android.permission.TV_INPUT_HARDWARE" />
+62-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:63:5-76
+62-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:63:22-73
+63    <uses-permission android:name="android.permission.CHANGE_HDMI_CEC_ACTIVE_SOURCE" />
+63-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:64:5-87
+63-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:64:22-85
+64    <uses-permission android:name="android.permission.BIND_TV_REMOTE_SERVICE" />
+64-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:65:5-80
+64-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:65:22-78
+65    <uses-permission android:name="android.permission.BIND_TV_INPUT" />
+65-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:66:5-71
+65-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:66:22-69
+66    <uses-permission android:name="android.permission.HDMI_CEC" />
+66-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:67:5-66
+66-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:67:22-64
+67    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+67-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:29:5-78
+67-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:29:22-75
+68    <uses-permission android:name="android.permission.BLUETOOTH" />
+68-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:69:5-67
+68-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:69:22-65
+69    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+69-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:70:5-73
+69-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:70:22-71
+70    <uses-permission android:name="android.permission.RECOVERY" />
+70-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:27:5-66
+70-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:27:22-64
+71    <uses-permission android:name="android.permission.DEVICE_POWER" />
+71-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:42:5-71
+71-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:42:22-68
+72    <uses-permission android:name="android.permission.READ_DREAM_STATE" />
+72-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:74:5-75
+72-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:74:22-72
+73    <uses-permission android:name="android.permission.WRITE_DREAM_STATE" />
+73-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:75:5-76
+73-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:75:22-73
+74    <uses-permission android:name="com.google.android.tv.permission.RECEIVE_INPUT_EVENT" />
+74-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:77:5-92
+74-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:77:22-89
+75    <uses-permission android:name="com.android.tv.permission.RECEIVE_INPUT_EVENT" />
+75-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:78:5-85
+75-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:78:22-82
+76    <uses-permission android:name="com.mediatek.wwtv.permission.DVR_WRITE" />
+76-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:80:5-78
+76-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:80:22-75
+77    <uses-permission android:name="com.mediatek.wwtv.permission.DVR_READ" />
+77-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:81:5-77
+77-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:81:22-74
+78    <uses-permission android:name="com.mediatek.tv.permission.BROADCAST" />
+78-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:82:5-76
+78-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:82:22-73
+79
+80    <supports-screens android:xlargeScreens="true" />
+80-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:84:5-54
+80-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:84:23-51
+81
+82    <!-- Limit only for Android TV -->
+83    <uses-feature
+83-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:87:5-86
+84        android:name="android.software.leanback"
+84-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:87:19-59
+85        android:required="true" />
+85-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:87:60-83
+86    <uses-feature
+86-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:88:5-85
+87        android:name="android.software.live_tv"
+87-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:88:19-58
+88        android:required="true" />
+88-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:88:59-82
+89    <uses-feature
+89-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:89:5-89
+90        android:name="android.hardware.touchscreen"
+90-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:89:19-62
+91        android:required="false" />
+91-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:89:63-87
+92
+93    <queries>
+93-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:90:5-98:15
+94        <intent>
+94-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:91:9-93:18
+95            <action android:name="android.intent.action.TTS_SERVICE" />
+95-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:92:9-67
+95-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:92:17-65
+96        </intent>
+97        <intent>
+97-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:94:9-96:18
+98            <action android:name="android.media.tv.TvAppService" />
+98-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:95:9-63
+98-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:95:17-61
+99        </intent>
+100
+101        <package android:name="com.seraphic.webview" />
+101-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:97:9-55
+101-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:97:18-53
+102    </queries>
+103
+104    <application
+104-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:99:5-393:19
+105        android:name="com.mediatek.wwtv.tvcenter.util.DestroyApp"
+105-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:110:9-40
+106        android:allowBackup="true"
+106-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:100:9-35
+107        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+107-->[androidx.core:core:1.0.0] D:\zhounan\gradle\caches\transforms-3\1a13e9093b391f2d86e34d05488e1a8f\transformed\core-1.0.0\AndroidManifest.xml:22:18-86
+108        android:banner="@drawable/icon_banner"
+108-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:102:9-47
+109        android:directBootAware="true"
+109-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:108:9-39
+110        android:extractNativeLibs="false"
+111        android:icon="@drawable/icon"
+111-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:101:9-38
+112        android:label="@string/app_name"
+112-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:104:9-41
+113        android:logo="@drawable/icon"
+113-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:103:9-38
+114        android:persistent="true"
+114-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:107:9-34
+115        android:supportsRtl="true"
+115-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:105:9-35
+116        android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+116-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:109:9-79
+117        android:usesCleartextTraffic="true" >
+117-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:106:9-44
+118
+119        <!-- NAV activity -->
+120        <activity
+120-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:113:9-159:20
+121            android:name="com.mediatek.wwtv.tvcenter.nav.TurnkeyUiMainActivity"
+121-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:114:13-80
+122            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation|navigation"
+122-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:121:13-149
+123            android:excludeFromRecents="true"
+123-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:120:13-46
+124            android:label="@string/app_name"
+124-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:116:13-45
+125            android:launchMode="singleTask"
+125-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:117:13-44
+126            android:resizeableActivity="true"
+126-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:118:13-46
+127            android:supportsPictureInPicture="true"
+127-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:119:13-52
+128            android:theme="@style/NavTheme" >
+128-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:115:13-44
+129            <intent-filter>
+129-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:122:13-128:29
+130                <action android:name="android.intent.action.MAIN" />
+130-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:123:17-69
+130-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:123:25-66
+131                <action android:name="com.android.tv.action.FORCE_LAUNCH_ON_BOOT" />
+131-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:124:17-85
+131-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:124:25-82
+132
+133                <category android:name="android.intent.category.DEFAULT" />
+133-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+133-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+134                <!-- category android:name="android.intent.category.LAUNCHER" / -->
+135                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+135-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:127:17-86
+135-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:127:27-83
+136            </intent-filter>
+137            <intent-filter>
+137-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:129:13-132:29
+138                <action android:name="android.mtk.intent.action.ACTION_REQUEST_TOP_RESUME" />
+138-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:130:17-94
+138-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:130:25-91
+139
+140                <category android:name="android.intent.category.DEFAULT" />
+140-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+140-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+141            </intent-filter>
+142            <intent-filter>
+142-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:133:13-136:29
+143                <action android:name="android.media.tv.action.SETUP_INPUTS" />
+143-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:134:17-79
+143-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:134:25-76
+144
+145                <category android:name="android.intent.category.DEFAULT" />
+145-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+145-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+146            </intent-filter>
+147            <intent-filter>
+147-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:137:13-144:29
+148                <action android:name="android.intent.action.VIEW" />
+148-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:138:17-69
+148-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:138:25-66
+149
+150                <category android:name="android.intent.category.DEFAULT" />
+150-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+150-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+151
+152                <data android:mimeType="vnd.android.cursor.item/channel" />
+152-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:17-76
+152-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:23-73
+153                <data android:mimeType="vnd.android.cursor.dir/channel" />
+153-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:17-76
+153-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:23-73
+154                <data android:mimeType="vnd.android.cursor.item/program" />
+154-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:17-76
+154-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:23-73
+155                <data android:mimeType="vnd.android.cursor.dir/program" />
+155-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:17-76
+155-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:23-73
+156            </intent-filter>
+157            <intent-filter>
+157-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:145:13-152:29
+158                <action android:name="android.intent.action.VIEW" />
+158-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:138:17-69
+158-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:138:25-66
+159
+160                <category android:name="android.intent.category.DEFAULT" />
+160-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+160-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+161
+162                <data
+162-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:140:17-76
+163                    android:host="com.mediatek.wwtv.tvcenter"
+163-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:150:21-62
+164                    android:pathPrefix="/playvideo"
+164-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:151:21-52
+165                    android:scheme="tvhomescreenchannels" />
+165-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:149:21-58
+166            </intent-filter>
+167            <intent-filter>
+167-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:153:13-155:29
+168                <action android:name="android.intent.action.SEARCH" />
+168-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:154:17-71
+168-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:154:25-68
+169            </intent-filter>
+170
+171            <meta-data
+171-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:156:13-80
+172                android:name="supports_leanback"
+172-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:156:24-56
+173                android:value="true" />
+173-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:156:57-77
+174            <meta-data
+174-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:157:13-158:54
+175                android:name="android.app.searchable"
+175-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:157:24-61
+176                android:resource="@xml/searchable" />
+176-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:158:17-51
+177        </activity>
+178
+179        <!-- CaptureLogoActivity -->
+180        <activity
+180-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:162:9-163:88
+181            android:name="com.mediatek.wwtv.tvcenter.capturelogo.CaptureLogoActivity"
+181-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:162:19-92
+182            android:label="@string/app_name"
+182-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:163:13-45
+183            android:theme="@style/CaptureLogoTheme" />
+183-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:163:46-85
+184        <!-- OAD -->
+185        <activity
+185-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:165:9-167:118
+186            android:name="com.mediatek.wwtv.tvcenter.oad.NavOADActivity"
+186-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:165:19-79
+187            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+187-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:167:46-116
+188            android:label="@string/app_name"
+188-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:167:13-45
+189            android:launchMode="singleTop"
+189-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:166:13-43
+190            android:theme="@style/oadTheme" />
+190-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:165:80-111
+191        <!-- OADNew -->
+192        <activity
+192-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:169:13-173:59
+193            android:name="com.mediatek.wwtv.tvcenter.oad.NavOADActivityNew"
+193-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:170:13-76
+194            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+194-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:171:13-83
+195            android:label="@string/app_name"
+195-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:172:13-45
+196            android:theme="@style/menuMain_Transparent" />
+196-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:173:13-56
+197
+198        <!-- EPG activity -->
+199        <activity
+199-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:176:9-180:20
+200            android:name="com.mediatek.wwtv.tvcenter.epg.us.EPGUsActivity"
+200-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:177:13-75
+201            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+201-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:179:13-76
+202            android:theme="@style/menuMain_Transparent" >
+202-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:178:13-56
+203        </activity>
+204        <activity
+204-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:181:9-185:20
+205            android:name="com.mediatek.wwtv.tvcenter.epg.eu.EPGEuActivity"
+205-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:182:13-75
+206            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+206-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:184:13-76
+207            android:theme="@style/menuMain_Transparent" >
+207-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:183:13-56
+208        </activity>
+209        <activity
+209-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:186:10-190:20
+210            android:name="com.mediatek.wwtv.tvcenter.epg.eu.EPGEu2ndActivity"
+210-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:187:13-78
+211            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+211-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:189:13-76
+212            android:theme="@style/menuMain_Transparent" >
+212-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:188:13-56
+213        </activity>
+214        <activity
+214-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:191:9-195:20
+215            android:name="com.mediatek.wwtv.tvcenter.epg.sa.EPGSaActivity"
+215-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:192:13-75
+216            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+216-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:194:13-76
+217            android:theme="@style/menuMain_Transparent" >
+217-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:193:13-56
+218        </activity>
+219        <activity
+219-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:196:9-200:20
+220            android:name="com.mediatek.wwtv.tvcenter.epg.sa.EPGSa2ndActivity"
+220-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:197:13-78
+221            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+221-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:199:13-76
+222            android:theme="@style/menuMain_Transparent" >
+222-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:198:13-56
+223        </activity>
+224        <activity
+224-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:201:9-205:20
+225            android:name="com.mediatek.wwtv.tvcenter.epg.cn.EPGCnActivity"
+225-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:202:13-75
+226            android:configChanges="layoutDirection|keyboard|keyboardHidden"
+226-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:204:13-76
+227            android:theme="@style/menuMain_Transparent" >
+227-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:203:13-56
+228        </activity>
+229
+230        <!-- Receiver -->
+231        <receiver android:name="com.mediatek.wwtv.tvcenter.util.BootBroadcastReceiver" >
+231-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:208:9-221:20
+231-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:208:19-87
+232            <intent-filter>
+232-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:209:13-211:29
+233                <action android:name="android.intent.action.GLOBAL_BUTTON" />
+233-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:210:17-78
+233-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:210:25-75
+234            </intent-filter>
+235            <intent-filter>
+235-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:212:13-214:29
+236                <action android:name="android.mediatek.intent.logcattousb" />
+236-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:213:17-78
+236-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:213:25-75
+237            </intent-filter>
+238            <intent-filter android:priority="1000" >
+238-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:215:14-217:29
+238-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:215:29-52
+239                <action android:name="android.intent.action.BOOT_COMPLETED" />
+239-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:216:17-79
+239-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:216:25-76
+240            </intent-filter>
+241            <intent-filter>
+241-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:218:13-220:29
+242                <action android:name="com.mediatek.wwtv.tvcenter.schedule.dvr" />
+242-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:219:17-82
+242-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:219:25-79
+243            </intent-filter>
+244        </receiver>
+245        <receiver
+245-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:222:9-234:20
+246            android:name="com.android.tv.livetv.receiver.GlobalKeyReceiver"
+246-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:223:13-76
+247            android:exported="true" >
+247-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:224:13-36
+248            <intent-filter>
+248-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:209:13-211:29
+249                <action android:name="android.intent.action.GLOBAL_BUTTON" />
+249-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:210:17-78
+249-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:210:25-75
+250            </intent-filter>
+251            <intent-filter>
+251-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:228:13-230:29
+252                <action android:name="android.media.tv.action.QUERY_CONTENT_RATING_SYSTEMS" />
+252-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:229:17-94
+252-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:229:25-92
+253            </intent-filter>
+254
+255            <meta-data
+255-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:231:13-233:68
+256                android:name="android.media.tv.metadata.CONTENT_RATING_SYSTEMS"
+256-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:232:17-80
+257                android:resource="@xml/tv_content_rating_systems" />
+257-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:233:17-66
+258        </receiver>
+259        <receiver
+259-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:235:9-241:20
+260            android:name="com.mediatek.wwtv.tvcenter.epg.sa.AlarmReceiver"
+260-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:236:13-75
+261            android:exported="false" >
+261-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:237:13-37
+262            <intent-filter>
+262-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:238:13-240:29
+263                <action android:name="com.mediatek.wwtv.tvcenter.saepgreceiver" />
+263-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:239:17-83
+263-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:239:25-80
+264            </intent-filter>
+265        </receiver>
+266
+267        <activity
+267-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:242:9-254:20
+268            android:name="com.mediatek.wwtv.tvcenter.epg.sa.DialogActivity"
+268-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:243:13-76
+269            android:configChanges="locale"
+269-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:244:13-43
+270            android:exported="false"
+270-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:245:13-37
+271            android:label="DialogActivity"
+271-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:246:13-43
+272            android:launchMode="singleTop"
+272-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:247:13-43
+273            android:theme="@style/Transparent" >
+273-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:248:13-47
+274            <intent-filter>
+274-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:249:13-253:29
+275                <action android:name="com.mediatek.wwtv.tvcenter.saepg.activity" />
+275-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:250:17-84
+275-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:250:25-81
+276
+277                <category android:name="android.intent.category.DEFAULT" />
+277-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+277-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+278            </intent-filter>
+279        </activity>
+280
+281        <!-- Settings start -->
+282        <activity
+282-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:257:9-264:20
+283            android:name="com.mediatek.wwtv.setting.EditTextActivity"
+283-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:258:13-70
+284            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+284-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:260:13-83
+285            android:theme="@style/settings_transparent" >
+285-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:259:13-56
+286            <intent-filter>
+286-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+287                <category android:name="android.intent.category.DEFAULT" />
+287-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+287-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+288            </intent-filter>
+289        </activity>
+290        <activity
+290-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:265:9-272:20
+291            android:name="com.mediatek.wwtv.setting.LNBFreqEditActivity"
+291-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:266:13-73
+292            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+292-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:268:13-83
+293            android:theme="@style/settings_transparent" >
+293-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:267:13-56
+294            <intent-filter>
+294-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+295                <category android:name="android.intent.category.DEFAULT" />
+295-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+295-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+296            </intent-filter>
+297        </activity>
+298        <activity
+298-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:273:9-279:24
+299            android:name="com.mediatek.wwtv.setting.SatActivity"
+299-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:273:19-71
+300            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+300-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:275:13-83
+301            android:theme="@style/settings_transparent" >
+301-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:274:13-56
+302            <intent-filter>
+302-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+303                <category android:name="android.intent.category.DEFAULT" />
+303-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+303-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+304            </intent-filter>
+305        </activity>
+306        <activity
+306-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:280:9-286:24
+307            android:name="com.mediatek.wwtv.setting.TKGSSettingActivity"
+307-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:280:19-79
+308            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+308-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:282:13-83
+309            android:theme="@style/settings_transparent" >
+309-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:281:13-56
+310            <intent-filter>
+310-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+311                <category android:name="android.intent.category.DEFAULT" />
+311-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+311-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+312            </intent-filter>
+313        </activity>
+314        <activity
+314-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:287:9-293:20
+315            android:name="com.mediatek.wwtv.setting.base.scan.ui.ScanViewActivity"
+315-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:287:19-89
+316            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+316-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:289:13-83
+317            android:theme="@style/menuMain_Transparent_Scan" >
+317-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:288:13-61
+318            <intent-filter>
+318-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+319                <category android:name="android.intent.category.DEFAULT" />
+319-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+319-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+320            </intent-filter>
+321        </activity>
+322        <activity
+322-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:295:10-301:20
+323            android:name="com.mediatek.wwtv.setting.base.EditTextActivity"
+323-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:295:20-82
+324            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+324-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:297:13-83
+325            android:theme="@style/settings_transparent" >
+325-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:296:13-56
+326            <intent-filter>
+326-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+327                <category android:name="android.intent.category.DEFAULT" />
+327-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+327-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+328            </intent-filter>
+329        </activity>
+330        <activity
+330-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:303:9-306:53
+331            android:name="com.mediatek.wwtv.setting.LiveTvSetting"
+331-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:304:13-67
+332            android:label="@string/app_name"
+332-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:305:13-45
+333            android:theme="@style/Theme.Settings" />
+333-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:306:13-50
+334        <activity
+334-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:308:9-314:20
+335            android:name="com.mediatek.wwtv.setting.base.scan.ui.ScanDialogActivity"
+335-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:308:19-91
+336            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+336-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:310:13-83
+337            android:theme="@style/menuMain_Transparent_Scan" >
+337-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:309:13-61
+338            <intent-filter>
+338-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+339                <category android:name="android.intent.category.DEFAULT" />
+339-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+339-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+340            </intent-filter>
+341        </activity>
+342        <activity
+342-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:316:9-322:20
+343            android:name="com.mediatek.wwtv.setting.base.scan.ui.ScanDialogSdxActivity"
+343-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:316:19-94
+344            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+344-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:318:13-83
+345            android:theme="@style/menuMain_Transparent_Scan" >
+345-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:317:13-61
+346            <intent-filter>
+346-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+347                <category android:name="android.intent.category.DEFAULT" />
+347-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+347-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+348            </intent-filter>
+349        </activity>
+350
+351        <!-- Menu Parental -->
+352        <activity
+352-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:325:9-331:20
+353            android:name="com.mediatek.wwtv.setting.ChannelInfoActivity"
+353-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:325:19-79
+354            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+354-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:327:13-83
+355            android:theme="@style/menuMain_Transparent" >
+355-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:326:12-55
+356            <intent-filter>
+356-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+357                <category android:name="android.intent.category.DEFAULT" />
+357-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+357-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+358            </intent-filter>
+359        </activity>
+360        <activity
+360-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:333:9-339:20
+361            android:name="com.mediatek.wwtv.setting.CNChannelInfoActivity"
+361-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:333:19-81
+362            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+362-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:335:13-83
+363            android:theme="@style/menuMain_Transparent" >
+363-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:334:12-55
+364            <intent-filter>
+364-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+365                <category android:name="android.intent.category.DEFAULT" />
+365-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+365-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+366            </intent-filter>
+367        </activity>
+368        <activity
+368-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:341:11-347:20
+369            android:name="com.mediatek.wwtv.setting.base.scan.ui.RegionalisationAusActivity"
+369-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:341:21-101
+370            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+370-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:343:13-83
+371            android:theme="@style/settings_transparent" >
+371-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:342:13-56
+372            <intent-filter>
+372-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:261:13-263:29
+373                <category android:name="android.intent.category.DEFAULT" />
+373-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+373-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+374            </intent-filter>
+375        </activity>
+376        <!-- Settings end -->
+377
+378        <provider
+378-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:350:9-356:20
+379            android:name="com.mediatek.wwtv.tvcenter.search.LocalSearchProvider"
+379-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:351:13-81
+380            android:authorities="com.mediatek.wwtv.tvcenter.search"
+380-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:352:13-68
+381            android:enabled="true"
+381-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:354:13-35
+382            android:exported="true" >
+382-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:353:13-36
+383            <meta-data
+383-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:355:13-99
+384                android:name="SupportedSwitchActionType"
+384-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:355:24-64
+385                android:value="CHANNEL|TVINPUT" />
+385-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:355:65-96
+386        </provider>
+387
+388        <service android:name="com.mediatek.wwtv.tvcenter.nav.TurnkeyService" />
+388-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:358:9-89
+388-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:358:18-78
+389        <service
+389-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:359:9-366:19
+390            android:name="com.mediatek.wwtv.tvcenter.nav.HomeChannelService"
+390-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:359:18-82
+391            android:enabled="true"
+391-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:360:13-35
+392            android:exported="true" >
+392-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:361:13-36
+393            <intent-filter>
+393-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:362:13-365:29
+394                <action android:name="com.mediatek.wwtv.tvcenter.nav.HomeChannelService.action" />
+394-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:363:17-99
+394-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:363:26-97
+395
+396                <category android:name="android.intent.category.DEFAULT" />
+396-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+396-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+397            </intent-filter>
+398        </service>
+399
+400        <activity
+400-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:367:9-368:85
+401            android:name="com.mediatek.wwtv.setting.WebActivity"
+401-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:367:19-71
+402            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+402-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:368:13-83
+403        <activity
+403-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:369:9-371:60
+404            android:name="com.android.tv.onboarding.SetupSourceActivity"
+404-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:369:19-79
+405            android:launchMode="singleInstance"
+405-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:370:13-48
+406            android:theme="@style/Theme.Setup.GuidedStep" />
+406-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:371:13-58
+407        <activity
+407-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:372:9-381:20
+408            android:name="com.android.tv.SetupPassthroughActivity"
+408-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:372:19-73
+409            android:configChanges="keyboard|keyboardHidden"
+409-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:373:13-60
+410            android:exported="false"
+410-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:374:13-37
+411            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+411-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:375:13-72
+412            <intent-filter>
+412-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:376:13-380:29
+413                <action android:name="com.android.tv.action.LAUNCH_INPUT_SETUP" />
+413-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:377:17-83
+413-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:377:25-80
+414
+415                <category android:name="android.intent.category.DEFAULT" />
+415-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+415-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+416            </intent-filter>
+417        </activity>
+418        <activity
+418-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:383:9-384:64
+419            android:name="com.android.tv.menu.customization.CustomizeChanelListActivity"
+419-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:383:19-95
+420            android:theme="@style/Theme.Settings.Transparent" />
+420-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:384:13-62
+421        <activity
+421-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:385:9-392:20
+422            android:name="com.mediatek.wwtv.tvcenter.nav.inputpanel.InputsPanelActivity"
+422-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:385:19-95
+423            android:launchMode="singleInstance"
+423-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:386:13-48
+424            android:theme="@style/Theme.Settings.Transparent" >
+424-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:387:13-62
+425            <intent-filter>
+425-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:388:13-391:29
+426                <action android:name="com.android.tv.action.VIEW_INPUTS" />
+426-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:389:17-75
+426-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:389:25-73
+427
+428                <category android:name="android.intent.category.DEFAULT" />
+428-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:17-76
+428-->D:\zhounan\zhounan_work\M22\LiveTV\app\src\main\AndroidManifest.xml:125:27-73
+429            </intent-filter>
+430        </activity>
+431    </application>
+432
+433</manifest>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_epg_filter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/nav_epg_filter_main_type_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/nav_epg_filter_type"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@color/nav_ch_list_title_back"
+                android:paddingTop="50dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:text="@string/epg_bottom_type_filter"
+                android:textColor="@color/nav_channel_list_txt"
+                android:textSize="@dimen/nav_channel_list_textsize_large"
+                android:textStyle="bold" />
+
+            <ListView
+                android:id="@+id/nav_epg_type_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/nav_ch_list_view_back"
+                android:divider="@drawable/translucent_background"
+                android:dividerHeight="1dp"
+                android:listSelector="@drawable/nav_epg_type_selector"
+                android:scrollbars="none" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nav_epg_filter_sub_type_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="invisible"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/nav_epg_filter_sub_type"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@color/nav_ch_list_title_back"
+                android:paddingTop="50dp"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:text="@string/nav_epg_sub_type"
+                android:textColor="@color/nav_channel_list_txt"
+                android:textSize="@dimen/nav_channel_list_textsize_large"
+                android:textStyle="bold" />
+
+            <ListView
+                android:id="@+id/nav_epg_sub_type_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/nav_ch_list_view_back"
+                android:divider="@drawable/translucent_background"
+                android:dividerHeight="1dp"
+                android:listSelector="@drawable/nav_epg_type_selector"
+                android:scrollbars="none" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

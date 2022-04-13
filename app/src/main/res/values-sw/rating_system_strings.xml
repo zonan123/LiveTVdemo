@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Vinapendekezwa kwa walio na umri usiopungua miaka <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g>."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Vinafaa hadhira zote. Huenda vipindi vina vurugu, lugha na matukio komavu yasiyokithiri."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Vinafaa kwa watazamaji wenye umri usiopungua miaka 13. Huenda vipindi vina kiwango kidogo au cha wastani cha vurugu, lugha chafu na marejeleo ya ngono."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Vinafaa kwa watazamaji wenye umri usiopungua miaka 16. Huenda vipindi vina vurugu iliyokithiri na lugha chafu, maudhui yanayoonyesha uchi kiasi na yanayoashiria ngono kwa wastani."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Vinafaa hadhira za watu wazima pekee. Vipindi vina vurugu kali, lugha chafu na marejeleo dhahiri ya ngono."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Dawa za Kulevya"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Ngono"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Vurugu"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Vipindi vilivyoainishwa P vimetengewa watoto wa chekechea."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Vipindi vilivyoainishwa C vinawalenga watoto (isipokuwa watoto wa chekechea) walio chini ya umri wa miaka 14."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Vipindi vilivyoainishwa G haviwalengi watoto kimahususi lakini ni sharti viwe na maudhui yasiyo na athari kali na lazima visiwe na jambo lolote lisilowafaa watoto kutazama bila usimamizi."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Vipindi vilivyoanishwa PG huenda vina mada au maudhui ya watu wazima lakini sharti viwe na athari ndogo na viwafae watoto bila kuhitaji usimamizi."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Vipindi vilivyoanishwa M vimetayarishiwa hadhira iliyokomaa. Vinapendekezwa tu kwa watazamaji wenye umri usiopungua miaka 15."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Vipindi vilivyoainishwa MA vinafaa kwa watazamaji walio na umri usiopungua miaka 15 kutokana na kiwango na/au kukithiri kwa vurugu, ngono, au lugha chafu, maudhui ya watu wazima au utumiaji wa dawa za kulevya. Huenda athari ikawa kubwa."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Vipindi vilivyoainishwa AV vinafaa tu kwa watazamaji walio na umri usiopungua miaka 15. Havifai uainishaji wa MA kutokana na kiwango na/au kukithiri kwa vurugu, au kwa sababu mada kuu ni vurugu. Kwa kutumia vigezo vingine, mahitaji ya uainishaji wavyo yanalingana na uanishaji wa MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Vipindi vilivyoanishwa R vimetengwa kisheria kwa watu wazima Maudhui fulani yaliyoainishwa R huenda yakakera baadhi ya watu wazima."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Inaweza kutazamwa na mtu yeyote"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Havipendekezwi kwa walio chini ya umri wa miaka <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Dawa za Kulevya"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Ngono"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Vurugu"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Vipindi visivyojumuishwa katika aina hii ni pamoja na: habari, michezo, filamu za makala halisi na vipindi vingine vya habari; majadiliano halisi, video za muziki na vipindi vya usanii."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Vipindi hivi vinawalenga watoto wenye umri wa chini ya miaka 8."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Vipindi hivi vinawalenga watoto wenye umri usiopungua miaka 8. Tunapendekeza kuwa wazazi au walezi watazame vipindi vya aina hii pamoja na watoto wenye umri wa chini ya miaka 8."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Vipindi hivi vinawalenga watu wa umri wowote na ni mwafaka kutazamwa na wanafamilia wote."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Japo vipindi hivi vinalenga hadhira jumla, huenda visiwafae watoto wachanga (walio chini ya umri wa miaka 8). Wazazi au walezi wanapaswa kufahamu kuwa huenda vipindi hivi vina maudhui ambayo hayafai kutazamwa na watoto walio na umri wa miaka 8-13, bila usimamizi wa wazazi au walezi wao."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Vipindi vya aina hii vina maudhui au mada ambazo huenda hazifai watazamaji walio chini ya umri wa miaka 14. Wazazi wanatahadharishwa sana wasiwaruhusu vijana au watoto kutazama vipindi hivi bila usimamizi wa wazazi au mlezi kwa sababu vipindi vya aina hii huenda vikajumuisha maudhui ya watu wazima na masuala ya jamii katika hali halisi."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Vipindi hivi vinawalenga watazamaji wenye umri usiopungua miaka 18."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Vipindi visivyojumuishwa katika aina hii."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Kipindi hiki kinawafaa watazamaji wenye umri wowote. Kipindi kilichokadiriwa G huenda kikawaathiri watoto walio chini ya umri wa miaka 8."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Kipindi hiki kinafaa kwa umma lakini huenda kina vurugu kiasi au isiyokithiri ambayo huenda ikawaathiri watoto wachanga. Hivyo, inapendekezwa kuwa watoto wachanga (walio na umri usiozidi miaka 8) watazame chini ya usimamizi wa mtu mzima."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Kipindi hiki kinawafaa watazamaji walio na umri usiopungua miaka 13. Watoto walio chini ya umri wa miaka 13 wanaruhusiwa tu ikiwa wana mtu mzima."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Kipindi hiki kinawafaa watazamaji walio na umri usiopungua miaka 16. Vipindi vilivyokadiriwa hivi vina maudhui, hali au vitendo vya kuogofya na pia vinaonyesha mitazamo wazi."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Kipindi hiki kinawafaa watazamaji walio na umri usiopungua miaka 18. Vipindi vilivyotengewa watu wazima mara nyingi huangazia hasa maudhui dhahiri ya ngono. Pia, huenda vikawa na vurugu iliyokithiri zaidi, matukio ya ukatili, mateso na kuogofya sana."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Vinavyopendekezwa kwa umri wowote."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Vinapendekezewa watoto."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Vinapendekezwa kwa watu wazima."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Vipindi hivi havina maudhui yasiyofaa kwa umri wowote, hivyo vinaweza kutazamwa na watu wote."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Huenda vipindi vina maudhui yasiyowafaa watoto walio chini ya umri wa miaka 7, hivyo usimamizi wa wazazi unahitajika."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Huenda vipindi vina maudhui yasiyowafaa watoto walio chini ya umri wa miaka 12, kwa hivyo usimamizi wa wazazi unahitajika."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Huenda vipindi vina maudhui yasiyowafaa walio chini ya umri wa miaka 15, hivyo, usimamizi wa wazazi unahitajika."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Huenda vipindi vina maudhui yasiyofaa hadhira ya walio chini ya umri wa miaka 19, hivyo hayawafai vijana walio chini ya miaka 19."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Vinafaa kwa umri wowote."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Vinafaa watu wote lakini wazazi wanapaswa kuwasimamia watoto wao."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Vinafaa walio na umri usiopungua miaka 13 lakini usimamizi wa wazazi unahitajika kwa watoto walio chini ya umri wa miaka 13."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Vinafaa walio na umri usiopungua miaka 16."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Vinafaa walio na umri usiopungua miaka 18."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Vinafaa watu wazima wenye umri usiopungua miaka 21."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Vinawafaa watoto wenye umri wa kati ya miaka 3 hadi 6."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Vinafaa kwa watoto wenye umri wa kati ya miaka 6 hadi 12."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Vinafaa kwa hadhira yoyote."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Vinafaa kwa walio na umri usiopungua miaka 13."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Vinafaa watu walio na umri usiopungua miaka 18 na usimamizi wa wazazi unahitajika kwa watoto walio chini ya miaka 18"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Vinafaa watu wazima"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Mazungumzo yanayochochea ngono"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Lugha chafu"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Maudhui ya ngono"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Vurugu"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Vurugu dhahania"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Kipindi hiki kimetayarishwa kuwafaa watoto wote."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Kipindi hiki kimetayarishwa kwa ajili ya watoto walio na umri usiopungua miaka 7."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Kwa wazazi wengi, kipindi hiki kinafaa kwa umri wowote."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Kipindi hiki kina maudhui ambayo huenda kwa wazazi hayawafai watoto wadogo. Huenda wazazi wengi wakapendelea kukitazama na watoto wao wachanga."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Kipindi hiki kina maudhui ambayo kwa wazazi wengi hayawafai watoto walio chini ya umri wa miaka 14."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Kipindi hiki kimetayarishwa mahususi kwa watu wazima na hivyo huenda kisiwafae watoto walio chini ya umri wa miaka 17."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Hadhira ya jumla. Hakina maudhui ambayo huenda yakawakera wazazi endapo watoto watatazama."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Usimamizi wa wazazi unapendekezwa. Huenda kina maudhui yatakayochukuliwa na wazazi kuwa yasiyowafaa watoto wachanga."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Wazazi wanatahadharishwa kabisa. Huenda baadhi ya maudhui yasiwafae vijana wachanga."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Inadhibitiwa. Vina maudhui ya watu wazima. Wazazi wanashauriwa kupata maelezo zaidi kuhusu filamu kabla ya kuandamana na watoto wao wadogo kuitazama."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Mtu yeyote mwenye umri wa chini ya miaka 17 haruhusiwi. Watu wazima tu. Watoto hawaruhusiwi."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Vinafaa watu wazima"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Watoto walio chini ya umri wa miaka 10 hawaruhusiwi kutazama kipindi au filamu hii."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Vinafaa kwa umri wowote."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Watoto walio chini ya umri wa miaka 10 wanaruhusiwa kutazama kipindi au filamu hii, lakini sharti wawe na mtu mzima."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Watoto walio chini ya umri wa miaka 13 wanaruhusiwa kutazama kipindi au filamu hii, lakini sharti wawe na mtu mzima."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Watoto walio chini ya umri wa miaka 13 hawaruhusiwi kutazama kipindi au filamu hii."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Watoto walio chini ya umri wa miaka 16 hawaruhusiwi kutazama kipindi au filamu hii."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Watoto walio chini ya umri wa miaka 18 hawaruhusiwi kutazama kipindi au filamu hii."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"hii imeainishwa kwenye kikundi cha filamu za ngono iliyokithiri (ponografia)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Zima"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Zuia"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Miaka"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Ukadiriaji wa Umri"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Daraja la Maudhui"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Haijabainishwa"</string>
+</resources>

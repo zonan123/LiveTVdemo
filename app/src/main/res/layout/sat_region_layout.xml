@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_scan_dialog_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/livetvsettings_background"
+    android:orientation="vertical"
+    android:padding="15dp"
+     >
+
+	<LinearLayout 
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:orientation="horizontal"
+	    android:gravity="center_vertical"
+	    >
+	    <ImageView
+	        android:id="@+id/state"
+	        android:layout_width="60dp"
+	        android:layout_height="60dp"
+	        android:src="@drawable/fac_setup_icon"
+	        />
+	    <TextView
+        android:id="@+id/state"
+        style="@style/Canvas.Scan.Text.Large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/digital_sat_tuning_title"
+        android:layout_marginStart="10dp"
+         />
+	    
+	</LinearLayout>
+    
+    
+    
+    <FrameLayout 
+        android:id="@+id/container_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+        
+</LinearLayout>

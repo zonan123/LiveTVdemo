@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/nav_channel_list_item_height"
+    android:layout_gravity="center"
+    android:layout_weight="1"
+    android:gravity="center" 
+    android:paddingTop="@dimen/nav_channel_list_item_padding_new"
+    android:paddingBottom="@dimen/nav_channel_list_item_padding_new">
+     <ImageView
+        android:id="@+id/nav_channel_list_type_item_icon"
+        android:layout_width="@dimen/nav_chanenl_list_item_icon_widgh"
+        android:layout_height="@dimen/nav_chanenl_list_item_icon_widgh"
+        android:layout_marginStart="@dimen/nav_channel_list_item_no_marginleft" />
+    <TextView
+        android:id="@+id/nav_channel_type_list_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/nav_channel_list_type_item_marginleft"
+        android:gravity="start|center_vertical"
+        android:textColor="@color/white"     
+        android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+</LinearLayout>

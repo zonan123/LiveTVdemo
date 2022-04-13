@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_ginga_tv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/nav_ch_list_view_back"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nav_ginga_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.92"
+        android:background="@color/nav_ch_list_title_back"
+        android:focusable="false"
+        android:gravity="center_vertical|center"
+        android:text="@string/nav_ginga_tv_title"
+        android:textColor="@color/white"
+        android:textSize="@dimen/nav_textsize_large" />
+
+    <com.mediatek.wwtv.tvcenter.commonview.CustListView
+        android:id="@+id/nav_ginga_tv_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:choiceMode="singleChoice"
+        android:divider="@drawable/translucent_background"
+        android:ellipsize="marquee"
+        android:listSelector="@drawable/nav_list_common_select_back_color"
+        android:scrollbars="none" >
+
+        <requestFocus />
+    </com.mediatek.wwtv.tvcenter.commonview.CustListView>
+
+    <TextView
+        android:id="@+id/nav_ginga_message"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:focusable="false"
+        android:gravity="center_vertical|center"
+        android:text="@string/nav_ginga_tv_message"
+        android:textColor="@color/white"
+        android:textSize="@dimen/nav_textsize_large"
+        android:visibility="gone" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.92"
+        android:gravity="bottom|center_vertical" >
+
+        <LinearLayout
+            android:id="@+id/nav_ginga_tv_pageupdown"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/nav_ginga_tv_page_up_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:focusable="false"
+                android:src="@drawable/nav_ginga_tv_key_red" />
+
+            <TextView
+                android:id="@+id/nav_ginga_tv_page_up"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.2"
+                android:focusable="false"
+                android:gravity="center_vertical"
+                android:text="@string/nav_page_up"
+                android:textColor="@color/white"
+                android:textSize="@dimen/nav_textsize_normal" />
+
+            <ImageView
+                android:id="@+id/nav_ginga_tv_page_down_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:focusable="false"
+                android:src="@drawable/nav_ginga_tv_key_green" />
+
+            <TextView
+                android:id="@+id/nav_ginga_tv_page_down"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.2"
+                android:focusable="false"
+                android:gravity="center_vertical"
+                android:text="@string/nav_page_down"
+                android:textColor="@color/white"
+                android:textSize="@dimen/nav_textsize_normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/nav_ginga_tv_select_list_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center|center_vertical"
+                android:layout_weight="0.3"
+                android:focusable="false"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:src="@drawable/tk_cm_key_enter" />
+
+            <TextView
+                android:id="@+id/nav_ginga_tv_select_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.2"
+                android:focusable="false"
+                android:gravity="center_vertical"
+                android:text="@string/nav_select"
+                android:textColor="@color/white"
+                android:textSize="@dimen/nav_textsize_normal" />
+
+            <ImageView
+                android:id="@+id/nav_ginga_tv_exit_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center|center_vertical"
+                android:layout_weight="0.3"
+                android:focusable="false"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:src="@drawable/tk_cm_key_exit" />
+
+            <TextView
+                android:id="@+id/nav_ginga_tv_exit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical|center"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="0.2"
+                android:focusable="false"
+                android:gravity="center_vertical"
+                android:text="@string/setup_exit"
+                android:textColor="@color/white"
+                android:textSize="@dimen/nav_textsize_normal" />
+        </LinearLayout>
+    </TableRow>
+
+</LinearLayout>

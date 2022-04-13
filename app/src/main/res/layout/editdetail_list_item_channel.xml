@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_editdetail_channel"
+    android:layout_width="match_parent"
+    android:layout_height="40dp" >
+
+    <TextView
+        android:id="@+id/editdetail_name"
+        style="@style/Canvas.Scan.Text.Middle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="@dimen/nav_channel_type_title_padding"
+        android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+    <EditText
+        android:id="@+id/editdetail_value"
+        style="@style/Canvas.Scan.Text.Middle"
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="4dp"
+        android:focusable="false"
+        android:text="cancle"
+        android:gravity="center_vertical|end"
+        android:paddingTop="5dp"
+        android:paddingEnd="60dp"
+        android:singleLine="true"
+        android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+    <ImageView
+        android:id="@+id/iv_editdetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="40dp"
+        android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:src="@drawable/nav_channel_info_edit_img"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/editdetail_option_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="70dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/editdetail_option"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+        <ImageView
+            android:id="@+id/editdetail_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:scaleX="0.4"
+            android:scaleY="0.4"
+            android:src="@drawable/nav_double_arrow_channeledit" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/editdetail_hassub_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/editdetail_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/double_arrows_right" />
+    </LinearLayout>
+
+</RelativeLayout>

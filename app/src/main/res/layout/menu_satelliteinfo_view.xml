@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_margin="2dip" >
+
+    <TextView
+        android:id="@+id/satellite_sat_id"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:visibility="gone" ></TextView> 
+        
+    <TextView
+        android:id="@+id/satellite_num"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/small_text_size" />
+
+    <TextView
+        android:id="@+id/satellite_name"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/small_text_size" />
+
+    <TextView
+        android:id="@+id/satellite_able"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/small_text_size" />
+
+    <TextView
+        android:id="@+id/satellite_state"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/small_text_size" />
+
+</LinearLayout>

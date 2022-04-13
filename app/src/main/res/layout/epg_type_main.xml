@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/nav_epg_filter"
+		android:gravity="center" android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:background="@drawable/transparent_background">
+		<LinearLayout android:layout_width="match_parent"
+			android:orientation="vertical" 
+			android:layout_height="match_parent"
+			android:layout_weight="1">
+			<TextView android:id="@+id/nav_epg_filter_type"
+				android:layout_width="match_parent" 
+				android:layout_height="match_parent"
+				android:text="@string/nav_epg_type" 
+				android:background="@color/nav_ch_list_title_back"
+				android:textColor="@color/white"
+				android:layout_weight="0.88" 
+				android:gravity="center"
+				android:textSize="@dimen/epg_type_main_ts" />
+			<ListView android:id="@+id/nav_epg_type_view"
+				android:layout_height="match_parent" 
+				android:layout_width="match_parent"
+				android:layout_weight="0.12" 
+				android:background="@color/nav_ch_list_view_back"
+				android:listSelector="@drawable/nav_epg_type_selector" />
+		</LinearLayout>
+		<LinearLayout android:layout_width="match_parent"
+			android:layout_marginLeft="@dimen/epg_title_lpadding"
+			android:layout_height="match_parent" android:layout_weight="1"
+			android:orientation="vertical">
+			<TextView android:id="@+id/nav_epg_filter_subtype"
+				android:layout_width="match_parent" 
+				android:layout_height="match_parent"
+				android:background="@color/nav_ch_list_title_back"
+				android:text="@string/nav_epg_sub_type" 
+				android:textColor="@color/white"
+				android:layout_weight="0.88" 
+				android:gravity="center"
+				android:textSize="@dimen/epg_type_sub_ts" />
+			<ListView android:id="@+id/nav_epg_sub_type_view"
+				android:layout_height="match_parent" 
+				android:layout_width="match_parent"
+				android:layout_weight="0.12" 
+				android:background="@color/nav_ch_list_view_back"
+				android:listSelector="@drawable/nav_epg_type_selector" />
+		</LinearLayout>
+	</LinearLayout>
+

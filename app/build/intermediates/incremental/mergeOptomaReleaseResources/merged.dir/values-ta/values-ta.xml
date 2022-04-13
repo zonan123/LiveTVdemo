@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ampm">
+    <item msgid="2147250436361165525">"AM"</item>
+    <item msgid="2143773709656890302">"PM"</item>
+  </string-array>
+    <plurals formatted="false" msgid="837834894451191902" name="duration_hour">
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> மணிநேரம்</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> மணிநேரம்</item>
+    </plurals>
+    <plurals formatted="false" msgid="5333672761360360608" name="duration_minute">
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> நிமிடங்கள்</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> நிமிடம்</item>
+    </plurals>
+    <plurals formatted="false" msgid="1668086011878312925" name="duration_second">
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> வினாடிகள்</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> வினாடி</item>
+    </plurals>
+    <plurals formatted="false" msgid="273148666195694222" name="pin_enter_countdown">
+      <item quantity="other">பின்னை 5 முறை தவறாக உள்ளிட்டுள்ளீர்கள்.\n<ns1:g id="COUNTDOWN_XX">%1$d</ns1:g> வினாடிகள் கழித்து முயலவும்.</item>
+      <item quantity="one">பின்னை 5 முறை தவறாக உள்ளிட்டுள்ளீர்கள்.\n<ns1:g id="COUNTDOWN_X_0">%1$d</ns1:g> வினாடி கழித்து முயலவும்.</item>
+    </plurals>
+    <plurals formatted="false" msgid="7467087757043399175" name="setup_input_channels">
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> சேனல்கள்</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> சேனல்</item>
+    </plurals>
+    <string msgid="5589947719764807067" name="TKGS_preferred_list">"விருப்பப் பட்டியல்"</string>
+    <string msgid="3498655065440357780" name="TKGS_reset_table_version">"டேபிள் பதிப்பை மீட்டமை"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"முகப்பிற்கு வழிசெலுத்து"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"மேலே செல்"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"எல்லாம் காட்டு"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"பயன்பாட்டைத் தேர்வுசெய்க"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ஆஃப்"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ஆன்"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"ஆல்ட் மற்றும்"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"கண்ட்ரோல் மற்றும்"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"டெலிட்"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"எண்டர்"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"ஃபங்ஷன் மற்றும்"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"மெட்டா மற்றும்"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"ஷிஃப்ட் மற்றும்"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"ஸ்பேஸ்"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"சிம்பல் மற்றும்"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"மெனு மற்றும்"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"தேடு..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"வினவலை அழி"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"தேடு"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பி"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"இதனுடன் பகிர்"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> மூலம் பகிர்"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"சுருக்கு"</string>
+    <string msgid="2445867222494847702" name="action_text_done">"முடிந்தது"</string>
+    <string msgid="2486894067451814589" name="add_schedule">"PVR"</string>
+    <string msgid="3449389933072208075" name="atsc_end_on_screen">"\'சுத்தமான திரை\' சேவை நிறுத்தப்பட்டது."</string>
+    <string msgid="7555502536719724563" name="atsc_start_on_screen">"\'சுத்தமான திரை\' சேவை தொடங்கப்பட்டது,<ns1:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</ns1:g>நிமிடத்தில் திரையைச் சுத்தமான நிலையில் வைத்திருக்கும்"</string>
+    <string msgid="6340508038331619946" name="attention_unplug_device">"கவனத்திற்கு: குறிப்பிடப்படாத பிழைகள் ஏற்படக்கூடும் என்பதால் சாதனத்தை அகற்ற வேண்டாம்!"</string>
+    <string msgid="4992829616135797253" name="audio_focus_lost_warnning_info">"ஆடியோவுக்கான முன்னுரிமையை ஆப்ஸ் இழந்துவிட்டது. அதை மீண்டும் கோர விரும்புகிறீர்களா?"</string>
+    <string msgid="7132239122157461543" name="audio_hi">"காது கேளாதவர்கள்"</string>
+    <string msgid="5066803905413664431" name="audio_type_dts_express_p">"DTS எக்ஸ்ப்ரஸ்"</string>
+    <string msgid="1262425049351310424" name="audio_type_dts_hd">"DTS_HD Master Audio"</string>
+    <string msgid="584091497939463376" name="audio_type_dts_hd_master_audio">"DTS_HD மாஸ்டர் ஆடியோ"</string>
+    <string msgid="3720443854736419512" name="audio_type_dts_hd_p">"DTS-HD"</string>
+    <string msgid="1683045038949751116" name="audio_vi">"பார்வைக் குறைபாடு உள்ளவர்களுக்கானது"</string>
+    <string msgid="6822352280910575878" name="automatic_Channel_ordering">"சேனலைத் தானாக ஆர்டர் செய்தல்"</string>
+    <string msgid="1088782448904712799" name="banner_category_reservd_not_defined">"ஒதுக்கப்பட்டது-வரையறுக்கப்படவில்லை"</string>
+    <string msgid="640307599005724967" name="banner_category_reserved_for_future_use">"எதிர்காலப் பயன்பாட்டுக்காக ஒதுக்கப்பட்டது"</string>
+    <string msgid="8321549590622504362" name="banner_category_user_defined">"பயனர் வரையறுத்தவை"</string>
+    <string msgid="2387680572414212216" name="banner_no_program_title">"(தலைப்பு இல்லை.)"</string>
+    <string msgid="9163676286922283591" name="banner_transponder_frequency">"<ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</ns1:g> MHz"</string>
+    <string msgid="5761345425754357247" name="banner_transponder_sysbol_rate">"<ns1:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</ns1:g> Ksym/s"</string>
+    <string msgid="213992569753158855" name="bgm_fail_record_before">"[<ns1:g id="BGM_FAIL_RECORD_BE">%1$s</ns1:g>] ஐ ரெக்கார்டு செய்ய முடியவில்லை"</string>
+    <string msgid="6661331936971542266" name="bgm_loss_time_pvr">"<ns1:g id="CHANNEL_INFO_TIME">%2$s</ns1:g> வினாடிகளுக்கு [<ns1:g id="CHANNEL_INFO_0">%1$s</ns1:g>]க்கான ரெக்கார்டிங் நிறைவடையவில்லை"</string>
+    <string msgid="2301067526669124374" name="bisskey_deletekey">"நீக்குவதற்கான விசை"</string>
+    <string msgid="1066739106235688236" name="bisskey_savekey">"சேமிப்பதற்கான விசை"</string>
+    <string msgid="7558012292134266265" name="bisskey_updatekey">"புதுப்பிப்பதற்கான விசை"</string>
+    <string msgid="2654494463009417197" name="cable_advance_scan_message">"உங்கள் நாட்டிற்கான மக்ஸ் டிரான்ஸ்பாண்டர் அதிர்வெண்ணுக்கு டியூன் செய்யவும்."</string>
+    <string msgid="6043223513158402752" name="cam_scan_not_init">"CI Plus நெட்வொர்க் துவக்கப்படவில்லை. மேம்படுத்தப்பட்ட நெட்வொர்கைத் தேட வேண்டும்!"</string>
+    <string msgid="5786350609197186292" name="cam_scan_schedule">"CI Plus நெட்வொர்க் தேடல் திட்டமிடல் நேரம் வந்துவிட்டது. புதுப்பிக்கப்பட்ட நெட்வொர்க்கைத் தேடலாம்!"</string>
+    <string msgid="1298120559959087457" name="cam_scan_set_satellte">"சாட்டிலைட்டை அமைக்க வேண்டுமா? அல்லது கேம் சேனல்களை நிறுவ இயல்புநிலை அமைப்புகளைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="4567776796906397627" name="cam_scan_urgent">"CI Plus நெட்வொர்க் கிடைக்கவில்லை. புதுப்பிக்கப்பட்ட நெட்வொர்க்கைத் தேட வேண்டும்!"</string>
+    <string msgid="5146179543490482349" name="cam_scan_warning">"CI Plus நெட்வொர்க் மாறிவிட்டது. புதுப்பிக்கப்பட்ட நெட்வொர்க்கைத் தேடலாம்!"</string>
+    <string msgid="7735928820185294839" name="cannot_be_empty">"காலியாக இருக்கக்கூடாது!"</string>
+    <string msgid="2857846823041690857" name="channels_item_app_link_app_launcher">"<ns1:g id="APP_NAME">%1$s</ns1:g> ஆப்ஸைத் திற"</string>
+    <string msgid="9103178860749908818" name="channels_item_down">"முந்தைய சேனல்"</string>
+    <string msgid="897725734324467870" name="channels_item_program_guide">"நிகழ்ச்சி வழிகாட்டி"</string>
+    <string msgid="4398500479423430803" name="channels_item_setup">"புதிய சேனல்கள் உள்ளன"</string>
+    <string msgid="788422281726191758" name="channels_item_up">"அடுத்த சேனல்"</string>
+    <string msgid="3135386254291939864" name="ci_inserted_msg">"CAM செருகப்பட்டது."</string>
+    <string msgid="7732383317221505376" name="ci_removed_msg">"CAM அகற்றப்பட்டது."</string>
+    <string msgid="372414068198664695" name="ci_title">"Cam தகவல்"</string>
+    <string msgid="9001413346969647308" name="closed_caption_option_item_off">"ஆஃப்"</string>
+    <string msgid="2542348141320667250" name="closed_caption_system_settings">"பிரத்தியேக ஃபார்மேட்டிங்"</string>
+    <string msgid="7265197580579923226" name="closed_caption_system_settings_description">"சிஸ்டம் முழுவதிற்குமான வசன விருப்பத்தேர்வுகளை அமைக்கலாம்"</string>
+    <string msgid="3850169022645102998" name="closed_caption_unknown_language">"வசனம் <ns1:g id="UNKNOWN_LANGUAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="4964477552557272993" name="commmon_dialog_book_reminder_content">"நீங்கள் புக் செய்த நிகழ்ச்சி வர இருக்கிறது. மாற விரும்புகிறீர்களா?"</string>
+    <string msgid="2564241104151636624" name="common_dialog_ews_service_content">"EWS சேவைக்கு மாற விரும்புகிறீர்களா?"</string>
+    <string msgid="8611362945357749142" name="common_dialog_msg_no">"வேண்டாம்"</string>
+    <string msgid="7210388111074762775" name="common_dialog_msg_yes">"ஆம்"</string>
+    <string msgid="4958454613374227587" name="common_dialog_special_service_content">"சிறப்புச் சேவைக்கு மாற விரும்புகிறீர்களா?"</string>
+    <string msgid="2444929547847632590" name="common_dialog_start_cc_stop_ginga">"Ginga ஆப்ஸை நிறுத்திவிட்டு \'வசனங்களைத்\' திறக்கவா?"</string>
+    <string msgid="7117815518726170364" name="common_off">"ஆஃப்"</string>
+    <string msgid="1719893568304311442" name="common_on">"ஆன்"</string>
+    <string msgid="6833020719645419850" name="confirm_rescan_dialog_title">"நிச்சயமாக ஸ்கேன் செய்ய விரும்புகிறீர்களா? நிறுவப்பட்ட சேனல்கள் அனைத்தும் அகற்றப்படும்."</string>
+    <string msgid="3378580688716744962" name="continue_to_seek_not_support">"விரைவாகத் தேடுவது ஆதரிக்கப்படவில்லை."</string>
+    <string msgid="2481650396767698912" name="cplogo_bt_adjust">"சீரமை"</string>
+    <string msgid="6981036414598823439" name="cplogo_bt_cancel">"ரத்துசெய்"</string>
+    <string msgid="6449338304259426080" name="cplogo_bt_full_screen">"முழுத்திரை"</string>
+    <string msgid="4773541461478563031" name="cplogo_bt_no">"வேண்டாம்"</string>
+    <string msgid="7875576129200767006" name="cplogo_bt_ok">"சரி"</string>
+    <string msgid="915184264716301392" name="cplogo_bt_special_area">"குறிப்பிட்ட பகுதி"</string>
+    <string msgid="4877456366530455468" name="cplogo_capture_res_cancel">"இந்தச் செயல் ரத்துசெய்யப்பட்டது."</string>
+    <string msgid="6731510295698263749" name="cplogo_msg_capturing">"படமெடுக்கிறது..."</string>
+    <string msgid="7543396001845034459" name="cplogo_msg_res_fail">"படமெடுத்தல் தோல்வி, மீண்டும் முயலவும்."</string>
+    <string msgid="1957282842405730989" name="cplogo_msg_res_success">"ரெக்கார்டு செய்யப்பட்டது"</string>
+    <string msgid="1834995871503691155" name="cplogo_msg_select_position">"லோகோவைச் சேமிக்க ஓர் இடத்தைத் தேர்ந்தெடுக்கவும்."</string>
+    <string msgid="7623959933620691099" name="cplogo_msg_this_screen">"இந்தத் திரையை படமெடுக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="1993311512365826243" name="cplogo_msg_which_screen">"முழுத் திரையையோ குறிப்பிட்ட பகுதியையோ படமெடுக்க வேண்டுமா?"</string>
+    <string msgid="2989800886940563168" name="create_tshift_file_success">"ஃபைல் உருவாக்கப்பட்டது"</string>
+    <string msgid="8320404648551406234" name="current_channel_invalid_msg">"தற்போதைய சேனல் செல்லத்தக்கதல்ல."</string>
+    <string msgid="2684054899428450899" name="dai_hdmi_dialog_msg">"கூடுதல் அம்ச ஒப்பந்தம் புதுப்பிக்கப்பட்டுள்ளது. அதைப் பார்த்தீர்களா?"</string>
+    <string msgid="6674628934134075536" name="default_audio">"இயல்புநிலை ஆடியோ"</string>
+    <string msgid="1147638785994808407" name="delet_recording_fail">"சேனல் ரெக்கார்டு ஆகிக் கொண்டிருக்கும்போது ஒரு வீடியோ நீக்கப்பட்டதால் பிழை ஏற்பட்டது"</string>
+    <string msgid="8938889174571141231" name="delete_pvr_file_dialog_confirm1">"இந்த ஃபைலை அகற்றும்."</string>
+    <string msgid="2310840604629413136" name="description_age_num">"<ns1:g id="DESCRIPTION_AGE_NUM_ID">%d</ns1:g> மற்றும் அதற்கு மேற்பட்ட வயதினருக்கானது."</string>
+    <string msgid="275280778758600669" name="description_ar_tv_atp">"அனைவருக்கும் ஏற்றது. நிகழ்ச்சிகளில் குறைந்த அளவிலான வன்முறை, கொச்சையான மொழி மற்றும் வயதுவந்தோருக்கான காட்சிகள் இருக்கக்கூடும்."</string>
+    <string msgid="5687319465704756897" name="description_ar_tv_d">"போதைப் பொருட்கள்"</string>
+    <string msgid="3649269859977270733" name="description_ar_tv_s">"பாலுறவு"</string>
+    <string msgid="395458137803720902" name="description_ar_tv_sam_13">"13+ வயதினருக்கு ஏற்றது. நிகழ்ச்சிகளில் குறைந்த அளவிலிருந்து மிதமான அளவிலான கொச்சையான மொழி, குறைந்த அளவிலான வன்முறை மற்றும் பாலியல் குறிப்புகள் இருக்கக்கூடும்."</string>
+    <string msgid="5461932730891880296" name="description_ar_tv_sam_16">"16+ வயதினருக்கு ஏற்றது. நிகழ்ச்சிகளில் தீவிரமான வன்முறை, கொச்சையான மொழி, அரை நிர்வாணம், மிதமான பாலியல் குறிப்புகள் போன்றவை இருக்கக்கூடும்."</string>
+    <string msgid="967289005476938628" name="description_ar_tv_sam_18">"பெரியவர்களுக்கு மட்டுமானது. நிகழ்ச்சிகளில் கடுமையான வன்முறை, மிகக் கொச்சையான மொழி, வெளிப்படையான பாலியல் குறிப்புகள் போன்றவை இருக்கலாம்."</string>
+    <string msgid="4115089510428057167" name="description_ar_tv_v">"வன்முறை"</string>
+    <string msgid="9052849694835114072" name="description_au_tv_av">"AV என்று வகைப்படுத்தப்பட்டவை 15+ வயதினர் மட்டுமே பார்ப்பதற்கேற்றதாக இருக்கும். வன்முறைதான் இதன் மையக்கரு என்பதாலோ வன்முறைக் காட்சிகளின் தீவிரம் மற்றும்/அல்லது எண்ணிக்கை அதிகமாக இருப்பதாலோ இதை MA என வகைப்படுத்த இயலாது. மற்றபடி இது MA என வகைப்படுத்துவதற்குரிய அனைத்து தகுதிகளையும் கொண்டதாகும்."</string>
+    <string msgid="8211009928919927197" name="description_au_tv_c">"C என்று வகைப்படுத்தப்பட்டவை (பள்ளி செல்லும் வயதை அடையாத குழந்தைகளைத் தவிர்த்து பிற) 14 வயதிற்குட்பட்டவர்களுக்கு ஏற்றது."</string>
+    <string msgid="3648769415275928051" name="description_au_tv_g">"G என்று வகைப்படுத்தப்பட்டவை பிரத்தியேகமாக பிள்ளைகளுக்கானவை அல்ல, எனினும் அவர்களை அதிகம் பாதிக்காத வகையிலும் பெரியவர்களின் மேற்பார்வையின்றி பார்க்கக்கூடியதாகவும் இருக்க வேண்டும்."</string>
+    <string msgid="3758823660530867895" name="description_au_tv_m">"M என்று வகைப்படுத்தப்பட்டவை பெரியவர்களுக்கு ஏற்றது. அவற்றை 15+ வயதினர் மட்டும் பார்க்குமாறு பரிந்துரைக்கப்படுகிறது."</string>
+    <string msgid="1560774867226204453" name="description_au_tv_ma">"MA என்று வகைப்படுத்தப்பட்டவை 15+ வயதினருக்கு மட்டுமே ஏற்றது, ஏனெனில் இவற்றில் வன்முறைக் காட்சிகள், பாலியல் காட்சிகள், கொச்சையான மொழி, வயதுவந்தோருக்கான கருத்துகள், போதைப் பொருள் உபயோகம் போன்ற காட்சிகளின் தீவிரம் மற்றும்/அல்லது எண்ணிக்கை அதிகமாக இருக்கக்கூடும். இவற்றின் தாக்கம் அதிகமாக இருக்கக்கூடும்."</string>
+    <string msgid="8443265431119407386" name="description_au_tv_p">"P என்று வகைப்படுத்தப்பட்டவை பள்ளி செல்லும் வயதை அடையாத சிறுபிள்ளைகளுக்கு ஏற்றது."</string>
+    <string msgid="2474110069879436425" name="description_au_tv_pg">"PG என்று வகைப்படுத்தப்பட்டவற்றில் வயதுவந்தோருக்கான கருத்துகளோ விஷயங்களோ இருக்கலாம், எனினும் பிள்ளைகள் பெற்றோர்களின் மேற்பார்வையில் பார்ப்பதற்கேற்ற வகையில் குறைவான தாக்கம் கொண்டதாக இருக்கும்."</string>
+    <string msgid="5658589437756696378" name="description_au_tv_r">"R என்று வகைப்படுத்தப்பட்டவை சட்டரீதியாக வயதுவந்தோருக்கு மட்டுமானது. R என்று வகைப்படுத்தப்பட்டவற்றில் சில படைப்புகள் வயதுவந்தோரில் சில பிரிவினரின் மனதைப் புண்படுத்தும் வகையில் இருக்கலாம்."</string>
+    <string msgid="531580256923909164" name="description_br_tv_d">"போதைப் பொருட்கள்"</string>
+    <string msgid="3659480129004604299" name="description_br_tv_l">"பொதுப் பார்வையாளர்கள்"</string>
+    <string msgid="8592393496388213855" name="description_br_tv_num">"<ns1:g id="DESCRIPTION_BR_TV_NUM_ID">%d</ns1:g> வயதிற்கு உட்பட்டவர்களுக்கானதல்ல."</string>
+    <string msgid="6296128386089692428" name="description_br_tv_s">"பாலுறவு"</string>
+    <string msgid="4791910148551562553" name="description_br_tv_v">"வன்முறை"</string>
+    <string msgid="5215879895927351742" name="description_ca_tv_en_14">"இந்த வகை நிகழ்ச்சியில் 14 வயதிற்குட்பட்ட பார்வையாளர்களுக்குப் பொருத்தமற்றதாக இருக்கக்கூடிய கருத்துகளோ உள்ளடக்கக் கூறுகளோ உள்ளன. இதில் வயதுவந்தோருக்கான கருத்துகளும் சமுதாயப் பிரச்சனைகளும் தத்ரூபமான முறையில் விவரிக்கப்பட்டிருக்கக்கூடும் என்பதால், பெரிய பிள்ளைகளையும் இளம்பதின்பருவத்தினரையும் பெற்றோர்/காப்பாளரின் மேற்பார்வை இல்லாமல் பார்க்க அனுமதிப்பதில் பெற்றோர் வெகு கவனமாக இருக்க அறிவுறுத்தப்படுகின்றனர்."</string>
+    <string msgid="728062003854446182" name="description_ca_tv_en_18">"இந்த நிகழ்ச்சி 18+ வயதினருக்கானது."</string>
+    <string msgid="4239130347733600747" name="description_ca_tv_en_c">"இந்த நிகழ்ச்சி 8 வயதிற்குட்பட்ட சிறுபிள்ளைகளுக்கானது."</string>
+    <string msgid="157653961756834847" name="description_ca_tv_en_c8">"இந்த நிகழ்ச்சி 8+ வயதுடைய சிறுவர்களுக்கானது. இந்த வகை நிகழ்ச்சியை 8 வயதிற்குட்பட்ட சிறுபிள்ளைகள் பார்க்கும் போது, பெற்றோரோ/காப்பாளரோ அவர்களுடன் இருக்குமாறு பரிந்துரைக்கிறோம்."</string>
+    <string msgid="4594700374681841325" name="description_ca_tv_en_exempt">"விலக்கு அளிக்கப்பட்ட நிகழ்ச்சிகள்: செய்திகள், விளையாட்டுகள், ஆவணப்படங்கள் மற்றும் பயனுள்ள தகவல் தரும் பிற நிகழ்ச்சிகள்; விவாத நிகழ்ச்சிகள், இசை வீடியோக்கள் மற்றும் பல கலைகளை உள்ளடக்கிய நிகழ்ச்சிகள்."</string>
+    <string msgid="9011387267323394838" name="description_ca_tv_en_g">"இந்த நிகழ்ச்சி அனைத்து வயதினருக்குமானது, ஒட்டுமொத்தக் குடும்பத்தினரும் பார்ப்பதற்கு ஏற்றது."</string>
+    <string msgid="1281647966041358531" name="description_ca_tv_en_pg">"இந்த நிகழ்ச்சி பொதுப் பார்வையாளர்களுக்கானது என்றாலும் சிறுபிள்ளைகளுக்கு (8 வயதிற்குட்பட்டவர்கள்) ஏற்றதல்ல, 8-13 வயதுடைய பிள்ளைகள் தகுந்த மேற்பார்வை இல்லாமல் பார்க்கக்கூடாது என சிலர் கருதும் வகையிலான உள்ளடக்கக் கூறுகள் இதில் இருக்கலாம் என்பதை பெற்றோர்கள்/காப்பாளர்களுக்குத் தெரிவிக்கிறோம்."</string>
+    <string msgid="3733179399640639129" name="description_ca_tv_fr_13">"இந்த நிகழ்ச்சியை 13+ வயதினர் பார்க்கலாம். பெரியவர் ஒருவரின் துணையுடன் மட்டுமே 13 வயதிற்குட்பட்ட பிள்ளைகள் அனுமதிக்கப்படுவார்கள்."</string>
+    <string msgid="1724956882971714521" name="description_ca_tv_fr_16">"இது 16+ வயதினர் பார்ப்பதற்கு ஏற்ற நிகழ்ச்சி. இந்த ரேட்டிங்கைப் பெற்ற நிகழ்ச்சிகள் சிக்கலான கருத்துகள், சூழ்நிலைகள் அல்லது நடத்தைகளைக் காட்டுவதோடு அவற்றைக் குறித்த நேர்ப்படையான பார்வையைக் கொண்டதாக இருக்கும்."</string>
+    <string msgid="7351531806464525403" name="description_ca_tv_fr_18">"இந்த நிகழ்ச்சி 18+ வயதினருக்கு ஏற்றது. வயதுவந்தோருக்கானது என்று வகைப்படுத்தப்பட்ட நிகழ்ச்சிகளில் பெரும்பாலும் வெளிப்படையான பாலியல் காட்சிகள் இடம்பெற்றிருக்கும். தத்ரூபமான குரூரம், கொடுமை மற்றும் திகில் காட்சிகளுடன் அவை மிகவும் வன்முறை நிறைந்ததாகவும் இருக்கக்கூடும்"</string>
+    <string msgid="4710290620628915788" name="description_ca_tv_fr_8">"இந்த நிகழ்ச்சி பொதுப் பார்வையாளர்களுக்கு ஏற்றது, எனினும் சிறுபிள்ளைகளைப் பாதிக்கக்கூடிய அளவில் குறைந்த அளவிலான வன்முறைக் காட்சிகள் அவ்வப்போது வரக்கூடும். எனவே பெரியவர் ஒருவரின் மேற்பார்வையில் சிறுபிள்ளைகள் (8 மற்றும் அதற்குட்பட்ட வயதினர்) பார்க்குமாறு பரிந்துரைக்கப்படுகிறது."</string>
+    <string msgid="6181168031949930593" name="description_ca_tv_fr_e">"வகைப்படுத்துவதிலிருந்து விலக்கப்பட்ட நிகழ்ச்சிகள்."</string>
+    <string msgid="812712328730700550" name="description_ca_tv_fr_g">"இந்த நிகழ்ச்சி அனைத்து வயதினருக்கும் ஏற்றது. G ரேட்டிங்கைக் கொண்ட நிகழ்ச்சி எட்டு வயதிற்குட்பட்ட பிள்ளைகளின் உணர்வுகளைப் பாதிக்கக்கூடும்."</string>
+    <string msgid="7613329223897343137" name="description_es_dvb_all">"அனைத்து வயதினருக்கும் பரிந்துரைக்கப்படுகிறது."</string>
+    <string msgid="980267721855879361" name="description_es_dvb_c">"பிள்ளைகளுக்குப் பரிந்துரைக்கப்படுகிறது."</string>
+    <string msgid="6397110507731134043" name="description_es_dvb_x">"பெரியவர்களுக்குப் பரிந்துரைக்கப்படுகிறது."</string>
+    <string msgid="505880672388477268" name="description_kr_tv_12">"12 வயதிற்குட்பட்ட பிள்ளைகள் பார்க்கக் கூடாத விஷயங்கள் நிகழ்ச்சிகளில் இருக்கலாம், எனவே பெற்றோர் மிகுந்த எச்சரிக்கையுடன் இருக்க வேண்டும்."</string>
+    <string msgid="1424825062188417293" name="description_kr_tv_15">"15 வயதிற்குட்பட்ட பிள்ளைகளுக்குப் பொருத்தமற்ற விஷயங்கள் நிகழ்ச்சிகளில் இருக்கலாம், எனவே பெற்றோர் எச்சரிக்கையுடன் இருக்க வேண்டும்."</string>
+    <string msgid="8141648682052815394" name="description_kr_tv_19">"நிகழ்ச்சிகளில் 19 வயதிற்குட்பட்டவர்களுக்குப் பொருத்தமற்ற விஷயங்கள் இருக்கக்கூடும், எனவே இது அவர்களுக்கு ஏற்றதல்ல."</string>
+    <string msgid="6294578566249258989" name="description_kr_tv_7">"7 வயதிற்குட்பட்ட பிள்ளைகள் பார்க்கக்கூடாத விஷயங்கள் நிகழ்ச்சிகளில் இருக்கலாம், எனவே பெற்றோர் எச்சரிக்கையுடன் இருக்க வேண்டும்."</string>
+    <string msgid="2880536060037059992" name="description_kr_tv_all">"நிகழ்ச்சிகளில் தகாத விஷயங்கள் எதுவும் இல்லை, எனவே இவை அனைத்து வயதினருக்கும் ஏற்றது."</string>
+    <string msgid="7534715057755212480" name="description_sa_tv_10">"10 வயதிற்குட்பட்ட பிள்ளைகள் இந்த நிகழ்ச்சியை/திரைப்படத்தைப் பார்ப்பது தடைசெய்யப்பட்டுள்ளது."</string>
+    <string msgid="6849007243977700328" name="description_sa_tv_13">"13 வயதிற்குட்பட்ட பிள்ளைகள் இந்த நிகழ்ச்சியை/திரைப்படத்தைப் பார்ப்பது தடைசெய்யப்பட்டுள்ளது."</string>
+    <string msgid="6934567274078402600" name="description_sa_tv_16">"16 வயதிற்குட்பட்ட பிள்ளைகள் இந்த நிகழ்ச்சியை/திரைப்படத்தைப் பார்ப்பது தடைசெய்யப்பட்டுள்ளது."</string>
+    <string msgid="6814431681831259975" name="description_sa_tv_18">"18 வயதிற்குட்பட்டவர்கள் இந்த நிகழ்ச்சியை/திரைப்படத்தைப் பார்ப்பது தடைசெய்யப்பட்டுள்ளது."</string>
+    <string msgid="2839067796739398528" name="description_sa_tv_none">"அனைத்து வயதினருக்கும் ஏற்றது."</string>
+    <string msgid="5232468306982287272" name="description_sa_tv_pg10">"10 வயதிற்குட்பட்டவர்கள் இந்த நிகழ்ச்சியை/திரைப்படத்தைப் பார்க்கலாம், ஆனால் பெரியவர் ஒருவர் உடன் இருக்க வேண்டும்."</string>
+    <string msgid="2826427571649837624" name="description_sa_tv_pg13">"இந்த நிகழ்ச்சியை பெரியவர் ஒருவரின் துணையுடன் 13 வயதிற்குட்பட்டவர்கள் பார்க்கலாம்."</string>
+    <string msgid="8966466636870535072" name="description_sa_tv_r18">"இது பாலியல் தன்மை அதிகம் கொண்ட திரைப்படங்களுக்கு (ஆபாசப் படம்) ஒதுக்கப்பட்டது."</string>
+    <string msgid="9207245510001823663" name="description_sg_tv_g">"அனைத்து வயதினருக்கும் ஏற்றது."</string>
+    <string msgid="4495688622482686386" name="description_sg_tv_m18">"18+ வயதினருக்கு ஏற்றது."</string>
+    <string msgid="4655362789601793713" name="description_sg_tv_nc16">"16+ வயதினருக்கு ஏற்றது."</string>
+    <string msgid="8807413147853484668" name="description_sg_tv_pg">"அனைவருக்கும் ஏற்றது, ஆனால் பிள்ளைகளுக்கு பெற்றோரின் மேற்பார்வை அவசியம்."</string>
+    <string msgid="1187187083836621720" name="description_sg_tv_pg13">"13+ வயதினருக்கு ஏற்றது, ஆனால் 13 வயதிற்குட்பட்டவர்களுக்கு பெற்றோரின் மேற்பார்வை அறிவுறுத்தப்படுகிறது."</string>
+    <string msgid="8469412927671691778" name="description_sg_tv_r21">"21+ வயதினருக்கு ஏற்றது."</string>
+    <string msgid="380126567363659012" name="description_th_tv_c">"6 முதல் 12 வயதுடைய பிள்ளைகளுக்கு ஏற்றது"</string>
+    <string msgid="8696507527665670160" name="description_th_tv_g">"பொதுப் பார்வையாளர்களுக்கு ஏற்றது."</string>
+    <string msgid="573604443870633316" name="description_th_tv_p">"3 முதல் 6 வயதுடைய பிள்ளைகளுக்கு ஏற்றது."</string>
+    <string msgid="1695934461809229216" name="description_th_tv_pg13">"13+ வயதினருக்கு ஏற்றது."</string>
+    <string msgid="597070833139949945" name="description_th_tv_pg18">"18+ வயதினருக்கு ஏற்றது. அதற்குட்பட்டவர்களுக்குப் பெற்றோரின் மேற்பார்வை அவசியம்"</string>
+    <string msgid="8921473820857112565" name="description_th_tv_x">"பெரியவர்களுக்கு ஏற்றது"</string>
+    <string msgid="299794744638684056" name="description_us_mv_g">"பொதுப் பார்வையாளர்களுக்கானது. பிள்ளைகள் பார்ப்பதைப் பற்றி பெற்றோர்கள் கவலைப்படத் தேவையில்லை."</string>
+    <string msgid="8734654245083149008" name="description_us_mv_nc17">"பெரியவர்களுக்கு மட்டுமே, 17 வயது மற்றும் அதற்குக் குறைவான வயதினருக்கும் சிறுபிள்ளைகளுக்கும் அனுமதியில்லை."</string>
+    <string msgid="81027516479177975" name="description_us_mv_pg">"பெற்றோர் மேற்பார்வை பரிந்துரைக்கப்படுகிறது. சிறுபிள்ளைகளுக்கு ஏற்றதல்ல என பெற்றோர்கள் கருதக்கூடிய சில விஷயங்கள் இருக்கலாம்."</string>
+    <string msgid="2094119267970306011" name="description_us_mv_pg13">"பெற்றோர் மிகுந்த எச்சரிக்கையுடன் இருக்க வேண்டும். சில விஷயங்கள் இளம்பதின்பருவத்தினருக்குப் பொருத்தமற்றதாக இருக்கக்கூடும்."</string>
+    <string msgid="2248384382323431666" name="description_us_mv_r">"வயதுவந்தோருக்கான உள்ளடக்கம் இருப்பதால் வயது வரம்பிடப் பட்டுள்ளது. சிறுபிள்ளைகளுடன் காணச் செல்லும் முன், திரைப்படத்தைப் பற்றி மேலும் அறிந்துகொள்ளுமாறு பெற்றோர்கள் அறிவுறுத்தப்படுகின்றனர்."</string>
+    <string msgid="2203823258178769659" name="description_us_mv_x">"பெரியவர்களுக்கு ஏற்றது"</string>
+    <string msgid="1945274614246329605" name="description_us_tv_14">"14 வயதிற்குட்பட்ட பிள்ளைகள் பார்ப்பதற்கு ஏற்றதல்ல என பல பெற்றோர்கள் கருதக்கூடிய உள்ளடக்கம் இந்த நிகழ்ச்சியில் உள்ளது."</string>
+    <string msgid="7417126048971563355" name="description_us_tv_d">"பாலுணர்வைத் தூண்டும் உரையாடல்"</string>
+    <string msgid="5087038597184709325" name="description_us_tv_fv">"கற்பனையான வன்முறை"</string>
+    <string msgid="5919925009580010961" name="description_us_tv_g">"பல பெற்றோர்கள் இந்த நிகழ்ச்சி அனைத்து வயதினருக்கும் ஏற்றது எனக் கருதும் வாய்ப்பிருக்கிறது."</string>
+    <string msgid="2276830531676175553" name="description_us_tv_l">"கொச்சையான மொழி"</string>
+    <string msgid="7118695706408907620" name="description_us_tv_ma">"இது பெரியவர்களுக்கென பிரத்தியேகமாக உருவாக்கப்பட்ட நிகழ்ச்சி, எனவே 17 வயதிற்குட்பட்டவர்களுக்குப் பொருத்தமற்றதாக இருக்கக்கூடும்."</string>
+    <string msgid="7696801642081644497" name="description_us_tv_pg">"சிறுபிள்ளைகள் தனியே பார்ப்பதற்கு ஏற்றதல்ல என பெற்றோர்கள் கருதக்கூடிய உள்ளடக்கம் இந்த நிகழ்ச்சியில் உள்ளது. பல பெற்றோர்கள் தங்கள் பிள்ளைகள் பார்க்கும்போது உடன் இருக்க விரும்பலாம்."</string>
+    <string msgid="4966533437570326272" name="description_us_tv_s">"பாலியல் உள்ளடக்கம்"</string>
+    <string msgid="4340768360627689297" name="description_us_tv_v">"வன்முறை"</string>
+    <string msgid="7153666670476947891" name="description_us_tv_y">"இந்த நிகழ்ச்சி அனைத்து வயது பிள்ளைகளுக்கும் ஏற்றதாக உருவாக்கப்பட்டது."</string>
+    <string msgid="4388896445294252013" name="description_us_tv_y7">"இந்த நிகழ்ச்சி 7+ வயதுடைய பிள்ளைகளுக்காக உருவாக்கப்பட்டது."</string>
+    <string msgid="6144499940145005003" name="detail_banner_category">"வகை:"</string>
+    <string msgid="5996262731054423895" name="detail_banner_dis">"விளக்கம்:"</string>
+    <string msgid="4575884876693300911" name="detail_banner_next">"அடுத்து"</string>
+    <string msgid="7869959253865544969" name="detail_banner_now">"இப்போது"</string>
+    <string msgid="1347473641807661535" name="device_picture">"படம்"</string>
+    <string msgid="4138595103405578192" name="digital_sat_tuning_title">"டிஜிட்டல் சாட்டிலைட் டியூனிங்"</string>
+    <string msgid="7659644073053777732" name="diseqc_port">"DiSEqC போர்ட்"</string>
+    <string msgid="7020850762067790261" name="disk_disconnect">"டிஸ்க் இணைப்பிலிருந்து துண்டிக்கப்பட்டது"</string>
+    <string msgid="6643274573175153036" name="disk_formating_wait">"ஃபார்மேட் செய்கிறது! காத்திருக்கவும்..."</string>
+    <string msgid="3501780706543760865" name="disk_not_ready">"PVRரைத் தொடங்க இயலவில்லை. டிஸ்க் தயாராக இல்லை!"</string>
+    <string msgid="444496377616975879" name="disk_setting_format_done">"டிஸ்க் ஃபார்மேட்டிங் முடிந்தது"</string>
+    <string msgid="3777611744782439571" name="disk_setting_format_fail">"டிஸ்க் ஃபார்மேட்டிங் தோல்வியடைந்தது"</string>
+    <string msgid="5191386885992163401" name="disk_setting_speeding">"சேமிப்பகத்தின் படிக்கும், எழுதும் வேகத்தைச் சோதிக்கும் நிரல் இயக்கத்தில் உள்ளது."</string>
+    <string msgid="1603733236399606911" name="disk_setting_speedtest_done">"வேகப் பரிசோதனை முடிந்தது"</string>
+    <string msgid="9023581692808320928" name="disk_setting_speedtest_maxspeed">"அதிகபட்ச வேகம் "</string>
+    <string msgid="4159500008692147138" name="disk_setting_speedtest_maxspeed_mb">"மெ.பை./வி"</string>
+    <string msgid="511301017211685858" name="disk_setting_speedtesting">"வேகப் பரிசோதனை நடைபெறுகிறது"</string>
+    <string msgid="4543196640273344427" name="disk_setting_unplugdevice_warnning">"சாதனத்தை அகற்ற வேண்டாம்"</string>
+    <string msgid="8108387760481208547" name="disksetting_no_enough_speed_fail">"போதிய டிஸ்க் சேமிப்பிடம் இல்லை! வேகப் பரிசோதனையைச் செய்ய முடியவில்லை!"</string>
+    <string msgid="4811641872047486965" name="disksetting_ntfs_speed_fail">"அணுகல் மறுக்கப்பட்டது. வேகப் பரிசோதனையைச் செய்யமுடியவில்லை!"</string>
+    <string msgid="4336995221918770222" name="disksetting_recording_speed_fail">"ரெக்கார்டு செய்யப்படுகிறது! வேகப் பரிசோதனையைச் செய்ய முடியவில்லை!"</string>
+    <string msgid="4918605528929173678" name="disksetting_speed_fail">"வேகப் பரிசோதனையைச் செய்ய முடியவில்லை!"</string>
+    <string msgid="783220768925022499" name="disksetting_timeshift_speed_fail">"டைம்ஷிஃப்ட் இயங்குகிறது! வேகப் பரிசோதனை தோல்வியடைந்தது."</string>
+    <string msgid="1377378184906101820" name="display_episode_number_format">"சீ<ns1:g id="SEASON_NUMBER">%1$s</ns1:g>: எபி.<ns1:g id="EPISODE_NUMBER">%2$s</ns1:g>"</string>
+    <string msgid="6917613965080930331" name="display_episode_number_format_no_season_number">"எபி.<ns1:g id="EPISODE_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="3912670160529339468" name="display_episode_title_format_no_season_number">"எபி. <ns1:g id="EPISODE_NUMBER">%1$s</ns1:g> <ns1:g id="EPISODE_TITLE">%2$s</ns1:g>"</string>
+    <string msgid="3199049722134706179" name="divx_dialog_warning">"உங்கள் சாதனம் ஏற்கனவே பதிவு செய்யப்பட்டுள்ளது.\nநிச்சயமாக சாதனத்தைப் பதிவுநீக்கம் செய்ய வேண்டுமா?"</string>
+    <string msgid="4782613096912733081" name="dobly_audio">"Dolby Audio"</string>
+    <string msgid="55797026286728957" name="download_firmware_progress_textview_text">"செயல்பாடு:"</string>
+    <string msgid="1433346694752099465" name="download_firmware_reboot_button_text">"மறுபடி தொடங்கு"</string>
+    <string msgid="6186600724359406693" name="download_firmware_start_button_text">"தொடங்குக"</string>
+    <string msgid="8644139064217773221" name="download_firmware_status_textview_text">"நிலை:"</string>
+    <string msgid="6026239865587351590" name="download_firmware_status_value_cancel_down">"பதிவிறக்கத்தை ரத்துசெய்"</string>
+    <string msgid="647678136629697974" name="download_firmware_status_value_complete">"பதிவிறக்கப்பட்டது"</string>
+    <string msgid="6859186634668850800" name="download_firmware_status_value_downloading">"பதிவிறக்குகிறது"</string>
+    <string msgid="8839366151705837548" name="download_firmware_status_value_start">"பதிவிறக்கம் தொடங்கியது"</string>
+    <string msgid="3232164838989608671" name="download_firmware_toast_textview_download_exit_fail">"பதிவிறக்காமல் வெளியேறியது! பதிவிறக்க இயலவில்லை!"</string>
+    <string msgid="4044079832519768043" name="download_firmware_toast_textview_download_exit_network_error">"பதிவிறக்காமல் வெளியேறியது! நெட்வொர்க்கில் பிழை ஏற்பட்டுள்ளது!"</string>
+    <string msgid="2317579984559465646" name="download_firmware_toast_textview_download_exit_none">"பதிவிறக்காமல் வெளியேறியது! பதிவிறக்கிய ஃபைலைக் கண்டறிய முடியவில்லை!"</string>
+    <string msgid="9093460341791920709" name="download_firmware_toast_textview_download_exit_validate_error">"பதிவிறக்காமல் வெளியேறியது! சரிபார்ப்பதில் பிழை ஏற்பட்டது!"</string>
+    <string msgid="5026601491883723923" name="download_firmware_toast_textview_to_start_text">"நிலைபொருளைப் பதிவிறக்க \'தொடங்குக\' பட்டனை அழுத்தவும்!"</string>
+    <string msgid="8456190132216922491" name="download_firmware_toast_textview_upgrade_text">"நிலைபொருள் தயாராக உள்ளது. இப்போதே சிஸ்டத்தை மறுபடி தொடங்க வேண்டுமா?"</string>
+    <string msgid="7644949143448739457" name="download_firmware_toast_textview_validate_complete">"சரிபார்ப்பு முடிந்தது"</string>
+    <string msgid="8785529636944055113" name="download_firmware_toast_textview_validating_text">"சரிபார்க்கிறது..."</string>
+    <string msgid="2394430484481002527" name="download_firmware_upgrade_successfully">"நிலைபொருளை சிஸ்டம் மேம்படுத்தியது!"</string>
+    <string msgid="7068385964836530550" name="download_firmware_upgrade_unsuccessfully">"சிஸ்டத்தால் நிலைபொருளை மேம்படுத்த இயலவில்லை!"</string>
+    <string msgid="7175024292677524576" name="dvbs_add_new_satl">"புதிய சாட்டிலைட்களைச் சேர்"</string>
+    <string msgid="4087291986765580179" name="dvbs_add_new_tp">"புதிய டிரான்ஸ்பாண்டர்களைச் சேர்"</string>
+    <string msgid="2972753815380328403" name="dvbs_antenna_setup">"ஆண்ட்டெனா அமைவு"</string>
+    <string msgid="4022715171586673363" name="dvbs_antenna_type">"ஆண்ட்டெனா வகை"</string>
+    <string msgid="8699988951473827384" name="dvbs_antenna_type_single">"ஒன்று"</string>
+    <string msgid="1287040189459737002" name="dvbs_antenna_type_singlecable">"ஒற்றைக் கேபிள்"</string>
+    <string msgid="1804642576387540677" name="dvbs_antenna_type_universal">"யூனிவர்சல்"</string>
+    <string msgid="7651396014614696697" name="dvbs_band_freq">"அலைவரிசை வரம்பு"</string>
+    <string msgid="707512341400473759" name="dvbs_band_freq_user_define">"பயனர் வரையறுத்தவை"</string>
+    <string msgid="742279976036704869" name="dvbs_cable">"கேபிள்"</string>
+    <string msgid="6553210874716752432" name="dvbs_channel_all">"அனைத்தும்"</string>
+    <string msgid="7382339597398479690" name="dvbs_channel_encrypted">"என்க்ரிப்ஷன் செய்யப்பட்ட சேனல்கள் மட்டும்"</string>
+    <string msgid="6736055147307084973" name="dvbs_channel_free">"இலவச சேனல்கள் மட்டும்"</string>
+    <string msgid="5930404812310851470" name="dvbs_channel_story_type_digital">"டிஜிட்டல் சேனல்கள் மட்டும்"</string>
+    <string msgid="7336947157467722757" name="dvbs_channel_story_type_radio">"ரேடியோ சேனல்கள் மட்டும்"</string>
+    <string msgid="9045990222417359716" name="dvbs_conflict_diseqc_toast">"DiSEqC வகை முரண்பட்டுள்ளது, DiSEqC அமைப்புகளைச் சரிபாருங்கள்."</string>
+    <string msgid="1489559417633513786" name="dvbs_diseqc12_motor_disablelimits">"முடக்க வரம்புகள்"</string>
+    <string msgid="4537336399129014090" name="dvbs_diseqc12_motor_gotoposition">"நிலைக்குச் செல்"</string>
+    <string msgid="6254795571170735105" name="dvbs_diseqc12_motor_gotoreference">"குறிப்பிற்குச் செல்"</string>
+    <string msgid="6395392274966864246" name="dvbs_diseqc12_motor_limiteast">"கிழக்கத்திய நாடுகளுக்குப் பொருந்தாது"</string>
+    <string msgid="8457578140107894074" name="dvbs_diseqc12_motor_limitwest">"மேற்கத்திய நாடுகளுக்குப் பொருந்தாது"</string>
+    <string msgid="137363920323826557" name="dvbs_diseqc12_motor_movementcontrol">"நகர்வுக் கட்டுப்பாடு"</string>
+    <string msgid="7831370800809423106" name="dvbs_diseqc12_motor_storeposition">"ஸ்டோர் பொசிஷன்"</string>
+    <string msgid="7047409663259036827" name="dvbs_diseqc12_movement_GotoXX">"x.x° என்பதற்குச் செல்"</string>
+    <string msgid="6733476973734632871" name="dvbs_diseqc12_movement_latitude">"எனது அட்சரேகை"</string>
+    <string msgid="3678228778221741011" name="dvbs_diseqc12_movement_longitude">"எனது தீர்க்கரேகை"</string>
+    <string msgid="2827351788964268809" name="dvbs_diseqc12_movement_moveeast">"கிழக்கே நகர்த்தவும்"</string>
+    <string msgid="7123211228805919889" name="dvbs_diseqc12_movement_movewest">"மேற்கே நகர்த்தவும்"</string>
+    <string msgid="7793161872139465990" name="dvbs_diseqc12_movement_orbit_position">"சாட்டிலைட்டின் ஆர்பிட் நிலை"</string>
+    <string msgid="8682323610592008764" name="dvbs_diseqc12_movement_stepsize">"ஸ்டெப் சைஸ்"</string>
+    <string msgid="1462218797182659459" name="dvbs_diseqc12_movement_stopmovement">"நகர்வை நிறுத்து"</string>
+    <string msgid="313118780591552706" name="dvbs_diseqc12_movement_timeout">"நேர முடிவு(நேர முடிவுகள்)"</string>
+    <string msgid="2904564865763683800" name="dvbs_diseqc_input_0">"முடக்கு"</string>
+    <string msgid="4057062345858532690" name="dvbs_general_satellite">"பொது சாட்டிலைட்"</string>
+    <string msgid="4612812454674154948" name="dvbs_lnb_configration">"LNB உள்ளமைவுகள்"</string>
+    <string msgid="6030869505379137523" name="dvbs_lnb_power">"LNB பவர்"</string>
+    <string msgid="3743833568050427349" name="dvbs_lnb_skip_scan">"ஸ்கேனைத் தவிர்"</string>
+    <string msgid="6239879639460583996" name="dvbs_manual_tuning">"சாட்டிலைட் மேனுவல் டியூனிங்"</string>
+    <string msgid="6032112355240733150" name="dvbs_network_search">"நெட்வொர்க் தேடல்"</string>
+    <string msgid="4597539354587303004" name="dvbs_position">"நிலை"</string>
+    <string msgid="2318484385999187895" name="dvbs_preferred_satellite">"பயன்படுத்த விரும்பும் சாட்டிலைட்"</string>
+    <string msgid="3116396672861528026" name="dvbs_rescan_dialog_title">"அனைத்து சாட்டிலைட்களையும் மீண்டும் ஸ்கேன் செய்ய விரும்புகிறீர்களா? நிறுவப்பட்ட சேனல்கள் அனைத்தும் அகற்றப்படும்."</string>
+    <string msgid="8182980047456997930" name="dvbs_rescan_more">"மேலும்"</string>
+    <string msgid="951113880294713457" name="dvbs_same_port_lnb_toast">"சாட்டிலைட்களின் சில போர்ட்கள் ஒரே மாதிரியாக இருக்கக்கூடாது. DiSEqC அமைப்புகளைச் சரிபார்க்கவும்."</string>
+    <string msgid="3047792918924070124" name="dvbs_sat_name_empty_alarm">"சாட்டிலைட் பெயர் காலியாக உள்ளது.\nஉள்ளிடவும்!"</string>
+    <string msgid="3184206254184333211" name="dvbs_sat_no_satl">"(சாட்டிலைட் சிக்னல் இல்லை)"</string>
+    <string msgid="4338485354553994282" name="dvbs_sat_no_tp">"(டிரான்ஸ்பாண்டர் இல்லை.)"</string>
+    <string msgid="6344968304652340601" name="dvbs_sat_off">"ஆஃப்"</string>
+    <string msgid="3030836158325577633" name="dvbs_sat_on">"ஆன்"</string>
+    <string msgid="562016984880548647" name="dvbs_satellite_add">"சாட்டிலைட்டைச் சேர்"</string>
+    <string msgid="3895707561303710877" name="dvbs_satellite_antenna_type">"சாட்டிலைட் ஆண்டெனா வகை"</string>
+    <string msgid="5074556275726412795" name="dvbs_satellite_channel">"ஸ்கேன் வகை"</string>
+    <string msgid="5716197702446157151" name="dvbs_satellite_channel_store_type">"சேமிக்கும் முறை"</string>
+    <string msgid="4776876001455788631" name="dvbs_satellite_detail">"சாட்டிலைட் விவரம்"</string>
+    <string msgid="3859616799929488652" name="dvbs_satellite_detail_high_freq">"அதிகபட்ச அலைவரிசை"</string>
+    <string msgid="362470160273770698" name="dvbs_satellite_detail_low_freq">"குறைந்தபட்ச அலைவரிசை"</string>
+    <string msgid="7011227087621403482" name="dvbs_satellite_detail_switch_freq">"அலைவரிசையை மாற்றுதல்"</string>
+    <string msgid="1084080307775292449" name="dvbs_satellite_name">"சாட்டிலைட் பெயர்"</string>
+    <string msgid="7359611960869875178" name="dvbs_satellite_orbit">"சுற்றுப்பாதையில் நிலைநிறுத்துதல்"</string>
+    <string msgid="1127096646056480525" name="dvbs_satellite_rescan">"மீண்டும் சாட்டிலைட் ஸ்கேன்"</string>
+    <string msgid="2524642316348336755" name="dvbs_satellite_search">"Search"</string>
+    <string msgid="4720894419273187517" name="dvbs_satellite_selection">"சாட்டிலைட் தேர்வு"</string>
+    <string msgid="3053329371093705283" name="dvbs_satellite_setting">"சாட்டிலைட்"</string>
+    <string msgid="7318477883891109028" name="dvbs_satellite_status">"சாட்டிலைட் நிலை"</string>
+    <string msgid="8417770524403541865" name="dvbs_satellite_tuning">"சாட்டிலைட் டியூனிங்"</string>
+    <string msgid="8654948129962734041" name="dvbs_satellite_update">"சாட்டிலைட் புதுப்பிப்பு"</string>
+    <string msgid="1637251811528417434" name="dvbs_scan_download_sdx">"SatcoDXஸைப் பதிவிறக்கு"</string>
+    <string msgid="8283847435432638067" name="dvbs_scan_mode">"ஸ்கேன் பயன்முறை"</string>
+    <string msgid="6427513165971616257" name="dvbs_scan_mode_auto">"Auto"</string>
+    <string msgid="5079949030817709762" name="dvbs_scan_mode_full">"முழுமை"</string>
+    <string msgid="397846288165617698" name="dvbs_scan_mode_network">"நெட்வொர்க்"</string>
+    <string msgid="4526803816932732504" name="dvbs_scan_mode_preset">"முன்னமைவு"</string>
+    <string msgid="1931453765281387830" name="dvbs_scan_positon">"ஸ்கேன் நிலை"</string>
+    <string msgid="39135175175659536" name="dvbs_scan_satellites">"சாட்டிலைட்கள்"</string>
+    <string msgid="4028961194688664591" name="dvbs_scan_tip">"ஸ்கேன் செய்வதற்கு வலது விசையை அழுத்தவும்"</string>
+    <string msgid="8431491600467381774" name="dvbs_scan_type_normal">"இயல்பு ஸ்கேன்"</string>
+    <string msgid="8828241765191566761" name="dvbs_scan_type_sdx">"SatcoDX ஸ்கேன்"</string>
+    <string msgid="3586313354629667245" name="dvbs_sdx_select_satellite_tip">"சாட்டிலைட் பெயரைத் தேர்வுசெய்து DiSEqC உள்ளமைவை மேற்கொள்கிறீர்கள் என்பதை உறுதிசெய்து கொள்ளுங்கள்."</string>
+    <string msgid="934739686877164305" name="dvbs_sdx_select_satellite_warning">"முன்னமைவுப் பட்டியலை ஏற்ற, கீழேயுள்ள சாட்டிலைட்டுகளில் குறைந்தது ஒன்றையாவது தேர்வுசெய்திருக்க வேண்டும்:\n\n\n    <ns1:g id="SATELLITE_NAME">%1$s</ns1:g>\n எனவே முன்னமைவுப் பட்டியலை ஏற்ற முடியவில்லை!"</string>
+    <string msgid="7107319723055117254" name="dvbs_status_storing">"நிலை: சேமிக்கப்படுகிறது"</string>
+    <string msgid="5066779230374934082" name="dvbs_storing_wait">"சேனல்கள் இப்போது சேமிக்கப்படுகின்றன, காத்திருக்கவும்..."</string>
+    <string msgid="6486203450059492940" name="dvbs_sub_band_frequency">"துணை அலைவரிசை வரம்பின் அலைவரிசை"</string>
+    <string msgid="6055266277998312868" name="dvbs_sub_user_band">"துணை டியூனர்"</string>
+    <string msgid="7874453770844029312" name="dvbs_sub_user_define_frequency">"துணைநிலை பயனர் வரையறுத்த அலைவரிசை"</string>
+    <string msgid="1373442618400041462" name="dvbs_tone_22khz">"ஒலி 22KHz"</string>
+    <string msgid="2135233828771513065" name="dvbs_tone_22khz_auto">"Auto"</string>
+    <string msgid="3268883660443420418" name="dvbs_tone_22khz_off">"ஆஃப்"</string>
+    <string msgid="6752287281718331623" name="dvbs_tone_22khz_on">"ஆன்"</string>
+    <string msgid="2243245840655328045" name="dvbs_tone_burst">"ஒலி அழுத்த அளவீடு"</string>
+    <string msgid="2720610846391022032" name="dvbs_tone_burst_a">"ஒலி அழுத்த அளவீடு A"</string>
+    <string msgid="178126213400576111" name="dvbs_tone_burst_b">"ஒலி அழுத்த அளவீடு B"</string>
+    <string msgid="3874748353266460431" name="dvbs_tone_burst_disable">"முடக்கு"</string>
+    <string msgid="29263512803296005" name="dvbs_tp_fre">"அலைவரிசை"</string>
+    <string msgid="1197912184998798968" name="dvbs_tp_pol">"போலரைசேஷன்"</string>
+    <string msgid="5653469867422424846" name="dvbs_tp_pol_0_unknown">"தெரியவில்லை"</string>
+    <string msgid="2719356412874668259" name="dvbs_tp_pol_1_HORIZONTAL">"கிடைமட்டம்"</string>
+    <string msgid="4316294256100373911" name="dvbs_tp_pol_2_VERTICAL">"செங்குத்து"</string>
+    <string msgid="6229301100202150697" name="dvbs_tp_pol_3_LEFT">"இடது"</string>
+    <string msgid="4289490618801741661" name="dvbs_tp_pol_4_RIGHT">"வலது"</string>
+    <string msgid="8005246419544394607" name="dvbs_tp_sys_rate">"சிம்பல் ரேட் (Ksym/s)"</string>
+    <string msgid="1452034905307894504" name="dvbs_trasponder">"டிரான்ஸ்பாண்டர்"</string>
+    <string msgid="7993112503468933797" name="dvbs_user_band">"டியூனர்"</string>
+    <string msgid="3936352644748717288" name="dvbs_user_band_item_id">"பயனர் அலைவரிசை <ns1:g id="DVBS_USER_BAND_ID">%d</ns1:g>"</string>
+    <string msgid="1929522613437163818" name="dvbs_user_define_frequency">"பயனர் வரையறுத்த அலைவரிசை"</string>
+    <string msgid="3618328259182471233" name="dvbt_inactivechannel_nw_chg">"நெட்வொர்க் மாற்றத்தால் சில சேனல்கள் செயல்படாமல் உள்ளன. அவற்றை அகற்ற வேண்டுமா?"</string>
+    <string msgid="6838309354217896476" name="dvbt_ita_no_channels">"டிஜிட்டல் சேனல்கள் எதுவும் நிறுவப்படவில்லை. சேனல்களை வரிசைப்படுத்தும் தானியங்கு ஸ்கேனை இயக்க ’சரி’ என்பதை அழுத்தவும்."</string>
+    <string msgid="27559318606000652" name="dvbt_single_rf_frequency">"<ns1:g id="FREQUENCY_NAME">%1$s</ns1:g> (<ns1:g id="FREQUENCY_0">%2$s</ns1:g> KHz)"</string>
+    <string msgid="2122762489369759402" name="dvr_device_formate_title">"ஃபார்மட் செய்தால் அனைத்து தரவும் அழிக்கப்படும், தொடரவா?"</string>
+    <string msgid="5629036414782412313" name="dvr_device_info_title">"சாதனத் தகவல் அமைப்பு"</string>
+    <string msgid="4638709416180940311" name="dvr_device_no">"சாதனம் எதுவும் இணைக்கப்படவில்லை"</string>
+    <string msgid="1234820896587479766" name="dvr_devices_mount">"USB சாதனம் இணைக்கப்பட்டது"</string>
+    <string msgid="3498310333268513772" name="dvr_dialog_message_desramble">"டிஸ்கிராம்பிள்ட் சேனல் இடைமறிக்கக்கூடும், தொடரவா?"</string>
+    <string msgid="2872115340693460333" name="dvr_dialog_message_pip">"PIP/POP பயன்முறையைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="8528375250371620271" name="dvr_dialog_message_playback_pip">"PVR பிளேபேக்கை நிறுத்தி\n PIP/POP பயன்முறையைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="7326803297218411233" name="dvr_dialog_message_record_channel">"ரெக்கார்டு செய்வதை நிறுத்திவிட்டு \n சேனலை மாற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="45392879517475466" name="dvr_dialog_message_record_epg">"பதிவுசெய்வதை நிறுத்தி\n EPGயைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="3926706775392648872" name="dvr_dialog_message_record_pip">"பதிவுசெய்வதை நிறுத்தி\n PIP/POP பயன்முறையைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="4498121837579811401" name="dvr_dialog_message_record_source">"பதிவுசெய்வதை நிறுத்தி\n வேறொன்றுக்கு மாற விரும்புகிறீர்களா?"</string>
+    <string msgid="1689154925747366258" name="dvr_dialog_message_record_type">"ரெக்கார்டு செய்வதை நிறுத்திவிட்டு \n சேனல் வகையை மாற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="8516324929831781272" name="dvr_dialog_message_schedule_pvr">"இது திட்டமிடப்பட்ட ரெக்கார்டு: [<ns1:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</ns1:g>], ரெக்கார்டிங்கைத் தொடங்க வேண்டுமா?"</string>
+    <string msgid="4708146321028406075" name="dvr_dialog_message_schedule_record">"ரெக்கார்டு செய்வதைத் தொடங்க விரும்புகிறீர்களா?"</string>
+    <string msgid="4418553876378578935" name="dvr_dialog_message_schedule_timeshift">"டைம்ஷிஃப்ட்டை நிறுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="76319744670730127" name="dvr_dialog_message_schedule_title">"எச்சரிக்கை"</string>
+    <string msgid="1454735178842495094" name="dvr_dialog_message_shcedule_before">"திட்டமிடப்பட்ட பதிவு உள்ளது"</string>
+    <string msgid="2687376893468785064" name="dvr_dialog_message_timeshift_channel">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு,\n சேனலை மாற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="6401245722652707495" name="dvr_dialog_message_timeshift_epg">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு\n EPGயைத் திறக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="4026877154963099921" name="dvr_dialog_message_timeshift_pip">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு\n PIP/POP பயன்முறையைப் பயன்படுத்த விரும்புகிறீர்களா?"</string>
+    <string msgid="7504548204570690417" name="dvr_dialog_message_timeshift_record">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு\n பதிவுப் பட்டியலைப் பார்க்க விரும்புகிறீர்களா?"</string>
+    <string msgid="2747832318245383768" name="dvr_dialog_message_timeshift_source">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு\n வேறொன்றுக்கு மாற விரும்புகிறீர்களா?"</string>
+    <string msgid="5274533061439991720" name="dvr_dialog_message_timeshift_type">"டைம்ஷிஃப்ட்டை நிறுத்திவிட்டு\n சேனல் வகையை மாற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="1612091177824337611" name="dvr_msg_disk_speed_slow">"டிஸ்க்கின் வேகம் மெதுவாக உள்ளது, தரவை நிராகரிக்கிறது"</string>
+    <string msgid="7878420357993411563" name="dvr_play_speed_invalied">"தவறான வேகம்!"</string>
+    <string msgid="4216962952591911215" name="dvr_playback_name">"பெயர்:"</string>
+    <string msgid="8151755810271812155" name="dvr_schedule_event_toast">"\'சிக்னல் ஆதரிக்கப்படும் ரெக்கார்டிங்கை\' மாற்ற முடியாது"</string>
+    <string msgid="238593508388029913" name="dvr_schedule_event_type_name">"நிகழ்வு மாடல்"</string>
+    <string msgid="8918968976378102585" name="dvr_schedule_event_type_normal">"டைமிங் புரோகிராமிங்"</string>
+    <string msgid="8289362504238612522" name="dvr_schedule_event_type_track">"சிக்னல் ஆதரிக்கப்படும் ரெக்கார்டிங்"</string>
+    <string msgid="8078152277135454645" name="dvr_schedule_watch_after">"அந்தச் சேனலைப் பார்க்க விரும்புகிறீர்களா?"</string>
+    <string msgid="1939668473819679446" name="dvr_schedule_watch_content">"திட்டமிடப்பட்ட நினைவூட்டல் ஒன்று உள்ளது."</string>
+    <string msgid="2720694528780337887" name="dvr_starting_not_switch_channel">"ரெக்கார்டு செய்யத் தயாராகும் சமயத்தில் சேனலை மாற்றுவதற்கு அனுமதியில்லை."</string>
+    <string msgid="1167274067666724348" name="dvr_stop_reason_fail">"தோல்வியடைந்தது அல்லது ரெக்கார்டு செய்வது நிறைவடையவில்லை"</string>
+    <string msgid="6821810428678641140" name="epg_bottom_ENTER">"உள்ளிடுக"</string>
+    <string msgid="3569371225335446793" name="epg_bottom_next_day">"அடுத்த நாள்"</string>
+    <string msgid="2541424065169620680" name="epg_bottom_next_page">"பேஜ் டவுன்"</string>
+    <string msgid="6400043693394476392" name="epg_bottom_prev_day">"முந்தைய நாள்"</string>
+    <string msgid="1630450278083496915" name="epg_bottom_prev_page">"பேஜ் அப்"</string>
+    <string msgid="3310556571928273711" name="epg_bottom_type_filter">"வடிப்பானை உள்ளிடு"</string>
+    <string msgid="8139815806235866958" name="epg_bottom_view_detail">"விவரத்தைக் காட்டு"</string>
+    <string msgid="4158534457218991762" name="epg_info_program_type">"ஏதுமில்லை"</string>
+    <string msgid="8012355648918471162" name="epg_password">"கடவுச்சொல்"</string>
+    <string msgid="6211665596718748186" name="epg_password_message">"தவறான கடவுச்சொல்"</string>
+    <string msgid="2896633488111871263" name="epg_rating_unclassified">"குறிப்பிடப்படாதவை"</string>
+    <string msgid="914621654709744814" name="epg_retrieving_show">"தரவை மீட்டெடுக்கிறது…"</string>
+    <string msgid="2513297384655608276" name="epg_type_none">"எதுவுமில்லை"</string>
+    <string msgid="451574410866097453" name="ews_status">"நிலை <ns1:g id="EWS_STATUS_EWS">%1$s</ns1:g>"</string>
+    <string msgid="7630821608627714353" name="exit">"வெளியேறு"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"மேம்பட்டவை"</string>
+    <string msgid="4210998606974173799" name="fav_list_is_full">"\'பிடித்தவை\' பட்டியல் நிரம்பியது."</string>
+    <string msgid="3826438517111496497" name="feature_not_support">"இந்த அம்சம் ஆதரிக்கப்படவில்லை."</string>
+    <string msgid="2046907877432770190" name="file_notsupport">"ஃபைல் ஆதரிக்கப்படவில்லை."</string>
+    <string msgid="6901492378026442073" name="format_confirm_dialog_line1">"ஃபார்மேட் செய்வதால் அனைத்துத் தரவும் அழிக்கப்படும்"</string>
+    <string msgid="8219710721924911870" name="format_confirm_dialog_line2">"நிச்சயமாகவா?"</string>
+    <string msgid="2659951684849881728" name="fvp_advise_scan_msg">"உங்கள் பகுதிக்கான சேனல்கள் மாற்றப்பட்டிருக்கக்கூடும்.\nடிவியை மீண்டும் ஸ்கேன் செய்ய வேண்டுமெனெ பரிந்துரைக்கப்படுகிறது.\nசேனல் பட்டியலைப் புதுப்பிக்க சரி என்பதை அழுத்தவும்.\nதற்போது இதனைத் தவிர்க்க விரும்பினால் வெளியேறு என்பதை அழுத்தவும்."</string>
+    <string msgid="3800139600742058804" name="fvp_scan_error_msg">"தற்சமயம் Freeview Play சேனல் பட்டியல் கிடைக்கவில்லை.\nபிராட்காஸ்ட் ஆகும் சேனல்களின் பட்டியலுடன் டிவி தொடர்ந்து இயங்கும். \nதொடர சரி என்பதை அழுத்தவும்."</string>
+    <string msgid="1348613590087653692" name="fvp_scan_timeout_tip">"சேவையகத்துடன் இணைவதற்கு <ns1:g id="FVP_SCAN_TIP_MSG_WAIT_TIME_FIRST">%1$d</ns1:g> வினாடிகள் எடுத்துக்கொள்ளும். நெட்வொர்க்குடன் இணைய முடியவில்லையெனில் Freeview Play சேனல் பட்டியலை நிறுவுவதை ரத்து செய்ய வெளியேறு என்பதை அழுத்தலாம்."</string>
+    <string msgid="2608187961502463042" name="hbbtv_close_dialog">"மூடுக"</string>
+    <string msgid="734528083985709244" name="hbbtv_failed_message">"நீங்கள் தேர்ந்தெடுத்த ஷோ தற்போது இல்லை"</string>
+    <string msgid="1707645071224134304" name="hbbtv_failed_title">"எச்சரிக்கை"</string>
+    <string msgid="2183428351070826605" name="inputspanel_android_tv_home">"Android TV முகப்பு"</string>
+    <string msgid="8986022644010668512" name="insert_Cam_Select_Canscan">"ஆப்ரேட்டர் சேனல்களை ஏற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="8306486065781450378" name="ip_channels">"IP சேனல்கள்:"</string>
+    <string msgid="1043639557116394355" name="italy_clarify_text">"சேனல் வரிசைப்படுத்துதலுக்கான முறையைத் தேர்ந்தெடுங்கள். ’தானியங்கு சேனல் வரிசைப்படுத்துதலே’ இயல்பான முறை.\n        சந்தா டிவி வாடிக்கையாளர்களுக்கேற்ற எளிய முறையில் சேனல் எண்களைப் பயனருக்குக் காட்ட \'சந்தா டிவி வரிசைப்படுத்துதல்\' அனுமதிக்கிறது.\n        சந்தா டிவி வரிசைப்படுத்துதல் மூலம் சேனல்களை நிறுவ முடியவில்லையெனில், தானியங்கு சேனல் வரிசைப்படுத்துதலைப் பயன்படுத்துங்கள்."</string>
+    <string msgid="5735084199521518293" name="keep_least_one_channel_skip">"அனைத்துச் சேனல்களையும் தவிர்க்க வேண்டாம்."</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"தொடர்க"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"முடி"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"MediaPlayer பிழைக் குறியீடு: %1$d கூடுதல் குறியீடு %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"வழிசெலுத்தல் மெனு"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"அடுத்த பக்கத்திற்குச் செல்லும்"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"தொடங்குக"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"விரிவான வசனங்களை முடக்கு"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"விரிவான வசனங்களை இயக்கு"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"வேகமாக முன்செல்"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"%1$dX வேகத்தில் முன்செல்"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"மீடியா கட்டுப்பாடுகள் மறைக்கப்பட்டுள்ளன. கட்டுப்பாடுகளைக் காட்ட, டி பேடை அழுத்தவும்"</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"உயர்தரத்தை முடக்கு"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"உயர்தரத்தை இயக்கு"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"மேலும் செயல்கள்"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"இடைநிறுத்து"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"பிக்ச்சர்-இன்-பிக்ச்சர் பயன்முறைக்குச் செல்"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"இயக்கு"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"அனைத்தையும் மீண்டும் இயக்கு"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"எதையும் மீண்டும் இயக்காதே"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"ஒன்றை மட்டும் மீண்டும் இயக்கு"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"பின்செல்"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"%1$dX வேகத்தில் பின்செல்"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"மீடியா கட்டுப்பாடுகள் காட்டப்படுகின்றன"</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"கலைக்காமல் இயக்கு"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"கலைத்து இயக்கு"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"அடுத்ததைத் தவிர்"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"முந்தையதைத் தவிர்"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"பிடிக்கவில்லை என்பதைத் தேர்வுநீக்கு"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"பிடிக்கவில்லை என்பதைத் தேர்ந்தெடு"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"பிடித்திருக்கிறது என்பதைத் தேர்வுநீக்கு"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"பிடித்திருக்கிறது என்பதைத் தேர்ந்தெடு"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"தேடுக"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"தேட, பேசவும்"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>ஐத் தேடுக"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>ஐத் தேட, பேசவும்"</string>
+    <string msgid="312621538618828980" name="license_info_dialog_sign">"<ns1:g id="SIGN_ONE">%1$d</ns1:g>/<ns1:g id="SIGN_TWO">%2$d</ns1:g>"</string>
+    <string msgid="4767050238622861788" name="lnb_universal">"யூனிவர்சல்"</string>
+    <string msgid="8237027936565795122" name="mediaset_premium_ordering">"Pay TV ஆர்டர்"</string>
+    <string msgid="8627341690980667363" name="menu_advanced_ci">"CI கார்டு"</string>
+    <string msgid="4684187535340097577" name="menu_advanced_oad">"மேனுவல் OAD பதிவிறக்கம்"</string>
+    <string msgid="6087419409021029702" name="menu_advanced_options">"மேம்பட்ட விருப்பங்கள்"</string>
+    <string msgid="1533025008287767607" name="menu_age_ratings">"வயது தொடர்பான ரேட்டிங்"</string>
+    <string msgid="2513172428085896841" name="menu_allowed_rating">"அனுமதிக்கப்பட்டுள்ள ரேட்டிங்"</string>
+    <string msgid="2607530786101957614" name="menu_app_link">"ஆப்ஸ் இணைப்பு"</string>
+    <string msgid="5968738389591460509" name="menu_arrays_Adult">"பெரியவர்"</string>
+    <string msgid="8153584011983662479" name="menu_arrays_Advance">"மேம்பட்டது"</string>
+    <string msgid="8294956944079962717" name="menu_arrays_All_channels">"அனைத்து சேனல்களும்"</string>
+    <string msgid="3866596728065174354" name="menu_arrays_Analog">"அனலாக்"</string>
+    <string msgid="7801497378825097110" name="menu_arrays_Analog_Digital">"அனலாக்/டிஜிட்டல்"</string>
+    <string msgid="5931500471481039191" name="menu_arrays_Animal_Wildlife">"விலங்குகள்"</string>
+    <string msgid="792654887538581337" name="menu_arrays_Antenna">"ஆண்ட்டெனா"</string>
+    <string msgid="8639640177143632897" name="menu_arrays_Arts">"கலை"</string>
+    <string msgid="6749516296190568227" name="menu_arrays_As_Broadcast">"ஒளிபரப்பாக"</string>
+    <string msgid="3890922072205931808" name="menu_arrays_As_Broadcaster">"அலைபரப்பாளரின் இயல்பு அளவில் இருக்கும்"</string>
+    <string msgid="6718568285833546090" name="menu_arrays_Auto">"ஆட்டோ"</string>
+    <string msgid="6974199440945968182" name="menu_arrays_Auto_Stereo">"தானியங்கு ஸ்டீரியோ"</string>
+    <string msgid="2908704526338195080" name="menu_arrays_Bahasa_Melayu">"மலாய்"</string>
+    <string msgid="5316206528757697812" name="menu_arrays_Below_xx">"<ns1:g id="BELOW_XX">%1$d</ns1:g>க்குக் கீழுள்ளவர்கள்"</string>
+    <string msgid="7650695801370292338" name="menu_arrays_Black">"கறுப்பு"</string>
+    <string msgid="4098581090645860027" name="menu_arrays_Block_AV_and_above">"AV மற்றும் அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="1010482734674538428" name="menu_arrays_Block_G_and_above">"G மற்றும் அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="2902158154405770928" name="menu_arrays_Block_MA_and_above">"MA மற்றும் அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="1587547949824334092" name="menu_arrays_Block_M_and_above">"M மற்றும் அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="2329755086870199923" name="menu_arrays_Block_PG_and_above">"PG அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="3931509965632385919" name="menu_arrays_Block_R_and_above">"R மற்றும் அதற்குமேல் ரேட்டிங் பெற்றவற்றைத் தடு"</string>
+    <string msgid="4489389407640869527" name="menu_arrays_Blue">"நீலம்"</string>
+    <string msgid="9203263115989080926" name="menu_arrays_Cable">"கேபிள்"</string>
+    <string msgid="4442342875896881705" name="menu_arrays_Channel_Info">"சேனல் தொடர்பான தகவல்"</string>
+    <string msgid="367778033888365230" name="menu_arrays_Comedy">"நகைச்சுவை"</string>
+    <string msgid="994203875824149303" name="menu_arrays_Country_Region_ID_x">"நாட்டின் மண்டல ஐடி <ns1:g id="COUNTRY_REGION_ID">%1$d</ns1:g>"</string>
+    <string msgid="590587736732468788" name="menu_arrays_Cyan">"சியான்"</string>
+    <string msgid="2887502959851143306" name="menu_arrays_Daily">"தினமும்"</string>
+    <string msgid="8926526950352798110" name="menu_arrays_Digital">"டிஜிட்டல்"</string>
+    <string msgid="6692493348087982008" name="menu_arrays_Drama">"நாடகம்"</string>
+    <string msgid="9017988031684735231" name="menu_arrays_Drugs">"போதைப் பொருட்கள்"</string>
+    <string msgid="1237203245379622776" name="menu_arrays_Dual1">"Dual1"</string>
+    <string msgid="767741546937732184" name="menu_arrays_Dual2">"Dual2"</string>
+    <string msgid="6824372712457352356" name="menu_arrays_Education">"கல்வி"</string>
+    <string msgid="8501789414043300586" name="menu_arrays_Entertainment">"பொழுதுபோக்கு"</string>
+    <string msgid="2121237939250683484" name="menu_arrays_Everyday">"தினமும்"</string>
+    <string msgid="4282409277333173747" name="menu_arrays_Family_Kids">"குடும்பம்/சிறுவர்கள்"</string>
+    <string msgid="1452726097579727890" name="menu_arrays_Friday">"வெள்ளிக்கிழமை"</string>
+    <string msgid="5670561186156834834" name="menu_arrays_Full">"முழு ஸ்கேன்"</string>
+    <string msgid="2723175717685708412" name="menu_arrays_Gaming">"கேமிங்"</string>
+    <string msgid="2366515706387927382" name="menu_arrays_General">"பொது"</string>
+    <string msgid="875594988593992607" name="menu_arrays_Good">"நன்று"</string>
+    <string msgid="7251521462222533405" name="menu_arrays_Green">"பச்சை"</string>
+    <string msgid="8311117292032115988" name="menu_arrays_Hearing_Impaired">"காது கேளாதவர்கள்"</string>
+    <string msgid="42985913839454918" name="menu_arrays_Horizonal">"கிடைமட்டம்"</string>
+    <string msgid="3539750662826305136" name="menu_arrays_Kid_3_5_years">"3-5 வயதுள்ளவர்கள்"</string>
+    <string msgid="4677503582394369759" name="menu_arrays_Kid_6_12_years">"6-12 வயதுக்குட்பட்டவர்கள்"</string>
+    <string msgid="566368717632187973" name="menu_arrays_Language_x">"மொழி<ns1:g id="LANGUAGE_X">%1$d</ns1:g>"</string>
+    <string msgid="6438453482331796882" name="menu_arrays_Large">"பெரியது"</string>
+    <string msgid="6538332406071163031" name="menu_arrays_Last_Status">"முன்பு பார்த்த சேனல்"</string>
+    <string msgid="4991501223080491744" name="menu_arrays_Level1.5">"நிலை 1.5"</string>
+    <string msgid="9174733134991326263" name="menu_arrays_Level2.5">"நிலை 2.5"</string>
+    <string msgid="344628403976644794" name="menu_arrays_Lifestyle">"வாழ்க்கை முறை"</string>
+    <string msgid="7514447619769965477" name="menu_arrays_Magenta">"மெஜந்தா"</string>
+    <string msgid="5434190892591659150" name="menu_arrays_Mature18">"18 மற்றும் அதற்கு மேற்பட்ட வயதினருக்கானது"</string>
+    <string msgid="966172060318708541" name="menu_arrays_Medium">"நடுத்தரமானது"</string>
+    <string msgid="4833956775933039776" name="menu_arrays_Minutes_xx">"<ns1:g id="MENU_XX_MINUTES">%1$d</ns1:g> நிமிடங்கள்"</string>
+    <string msgid="6089505777337669562" name="menu_arrays_Monday">"திங்கட்கிழமை"</string>
+    <string msgid="1872841660228144707" name="menu_arrays_Mono">"மோனோ"</string>
+    <string msgid="4554329450078702658" name="menu_arrays_Movies">"திரைப்படங்கள்"</string>
+    <string msgid="6280028735889729793" name="menu_arrays_Music">"இசை"</string>
+    <string msgid="7694795603142535821" name="menu_arrays_Mute">"ஒலியடக்கப்பட்டுள்ளது"</string>
+    <string msgid="8364326211751387772" name="menu_arrays_Narrative">"விவரிப்பு"</string>
+    <string msgid="5951599407676855210" name="menu_arrays_News">"செய்திகள்"</string>
+    <string msgid="4677413236939830581" name="menu_arrays_No_Block">"எதையும் தடுக்க வேண்டாம்"</string>
+    <string msgid="3761088778488343013" name="menu_arrays_No_Children_Under16">"16 மற்றும் அதற்கு மேற்பட்ட வயதினருக்கு மட்டும்"</string>
+    <string msgid="3939586204187095405" name="menu_arrays_None">"எதுவுமில்லை"</string>
+    <string msgid="8450245846110938402" name="menu_arrays_On_mute">"ஒலியடக்கப்பட்டுள்ளது"</string>
+    <string msgid="78172329685696222" name="menu_arrays_Once">"ஒருமுறை"</string>
+    <string msgid="5948689983034815513" name="menu_arrays_Only_Digital_Channels">"டிஜிட்டல் சேனல்கள் மட்டும்"</string>
+    <string msgid="4367710654894958021" name="menu_arrays_Only_Encrypted_Channels">"என்க்ரிப்டட் சேனல்கள் மட்டும்"</string>
+    <string msgid="7444597831655990785" name="menu_arrays_Only_Free_Channels">"இலவச சேனல்கள் மட்டும்"</string>
+    <string msgid="3856332747833315514" name="menu_arrays_Only_Radio_Channels">"ரேடியோ சேனல்கள் மட்டும்"</string>
+    <string msgid="5680611572652053920" name="menu_arrays_Original_Audio">"அசல் ஆடியோ"</string>
+    <string msgid="7669493811810041115" name="menu_arrays_Original_Version">"அசல் பதிப்பு"</string>
+    <string msgid="3583103550639620032" name="menu_arrays_Parental_Guidance">"பெற்றோருக்கான வழிகாட்டல்"</string>
+    <string msgid="7832333703315486939" name="menu_arrays_Parental_Guidance13">"பெற்றோர் துணை தேவை 13"</string>
+    <string msgid="1871527522087522120" name="menu_arrays_Poor">"மோசம்"</string>
+    <string msgid="1245737364617765732" name="menu_arrays_Premier">"பிரீமியர்"</string>
+    <string msgid="4522212572776781883" name="menu_arrays_Quick">"விரைவு ஸ்கேன்"</string>
+    <string msgid="8172781096094246445" name="menu_arrays_Record">"ரெக்கார்டு செய்"</string>
+    <string msgid="1933455370143022832" name="menu_arrays_Red">"சிவப்பு"</string>
+    <string msgid="5837609288498586246" name="menu_arrays_Reminder">"நினைவூட்டு"</string>
+    <string msgid="5314572088286729983" name="menu_arrays_Restricted21">"21 மற்றும் அதற்கு மேற்பட்ட வயதினருக்கானது"</string>
+    <string msgid="3014742644407817155" name="menu_arrays_Satellite">"சாட்டிலைட்"</string>
+    <string msgid="6457750443619059503" name="menu_arrays_Saturday">"சனிக்கிழமை"</string>
+    <string msgid="2790938579764517097" name="menu_arrays_Select_Mode">"பயன்முறையைத் தேர்ந்தெடு"</string>
+    <string msgid="1993919359250833212" name="menu_arrays_Service_x">"சேவை<ns1:g id="SERVICE_X">%1$d</ns1:g>"</string>
+    <string msgid="9102359352375833921" name="menu_arrays_Sex">"பாலுறவு"</string>
+    <string msgid="8516289371524201010" name="menu_arrays_Sex_Drugs">"பாலுறவும் போதைப் பொருட்களும்"</string>
+    <string msgid="1395709079436543836" name="menu_arrays_Shopping">"ஷாப்பிங்"</string>
+    <string msgid="2560822427714396463" name="menu_arrays_Show_Channels">"சேனல்களைக் காட்டு"</string>
+    <string msgid="6190182690420474185" name="menu_arrays_Small">"சிறியது"</string>
+    <string msgid="6891683596561584387" name="menu_arrays_Solid">"திடமானது"</string>
+    <string msgid="1029187922022865730" name="menu_arrays_Sports">"விளையாட்டு"</string>
+    <string msgid="4783706065008964795" name="menu_arrays_Stereo">"ஸ்டீரியோ"</string>
+    <string msgid="3013547987820441012" name="menu_arrays_Style_x">"ஸ்டைல்<ns1:g id="STYLE_X">%1$d</ns1:g>"</string>
+    <string msgid="6056429344349439537" name="menu_arrays_Sunday">"ஞாயிற்றுக்கிழமை"</string>
+    <string msgid="2101357483063576435" name="menu_arrays_Surround">"சரவுண்ட்"</string>
+    <string msgid="8766910158959028063" name="menu_arrays_Swap">"மாற்று"</string>
+    <string msgid="7281119021136267294" name="menu_arrays_Tech_Science">"தொழில்நுட்பம்/அறிவியல்"</string>
+    <string msgid="1999854984006489035" name="menu_arrays_Thursday">"வியாழக்கிழமை"</string>
+    <string msgid="7348561646063373298" name="menu_arrays_Translucent">"ஒளி ஊடுருவக்கூடியது"</string>
+    <string msgid="46136886913020453" name="menu_arrays_Transparent">"ஒளிபுகுத்தன்மை"</string>
+    <string msgid="4428017033007530561" name="menu_arrays_Travel">"பயணம்"</string>
+    <string msgid="6626938724432544424" name="menu_arrays_Tuesday">"செவ்வாய்க்கிழமை"</string>
+    <string msgid="4977177148723430553" name="menu_arrays_Undefined">"வரையறுக்கப்படாதது"</string>
+    <string msgid="7223702514123201590" name="menu_arrays_User_Select">"பயனர் விருப்பம்"</string>
+    <string msgid="4770707067174121725" name="menu_arrays_Vertical">"செங்குத்து"</string>
+    <string msgid="2700477239280676011" name="menu_arrays_Violence">"வன்முறை"</string>
+    <string msgid="3176289985356955366" name="menu_arrays_Violence_Drugs">"வன்முறையும் போதைப் பொருட்களும்"</string>
+    <string msgid="3260356191627313395" name="menu_arrays_Violence_Sex">"வன்முறையும் பாலுறவும்"</string>
+    <string msgid="7414018789604350251" name="menu_arrays_Violence_Sex_Drugs">"வன்முறை &amp; பாலுறவு &amp; போதைப் பொருட்கள்"</string>
+    <string msgid="1140866814494390450" name="menu_arrays_Wednesday">"புதன்கிழமை"</string>
+    <string msgid="8587984779955216982" name="menu_arrays_Week">"வாரம்"</string>
+    <string msgid="893891783815283563" name="menu_arrays_White">"வெள்ளை"</string>
+    <string msgid="3350543070837348044" name="menu_arrays_Yellow">"மஞ்சள்"</string>
+    <string msgid="585012643680792280" name="menu_arrays_Zoom">"அளவை மாற்று"</string>
+    <string msgid="2283340712722771515" name="menu_arrays_good">"நன்று"</string>
+    <string msgid="8307380298233816683" name="menu_arrays_hun_Multiple_Languages">"அசல் மொழி"</string>
+    <string msgid="8074088613393007873" name="menu_arrays_hun_Original_Audio">"உள்ளூர் மொழி"</string>
+    <string msgid="5277088484737758554" name="menu_arrays_narrator">"விவரிப்பவர்"</string>
+    <string msgid="597094537003544099" name="menu_arrays_normal">"இயல்பு"</string>
+    <string msgid="8700230837493236303" name="menu_arrays_other">"பிற மொழி"</string>
+    <string msgid="2357352005580864666" name="menu_arrays_poor">"மோசம்"</string>
+    <string msgid="7727208149710895180" name="menu_arrays_power_never">"ஒருபோதும் வேண்டாம்"</string>
+    <string msgid="2838991471999484316" name="menu_arrays_power_x_hours">"<ns1:g id="POWER_X_HOURS">%1$d</ns1:g> மணிநேரம்"</string>
+    <string msgid="5252553235566818161" name="menu_arrays_second_audio">"இரண்டாம் நிலை ஆடியோ"</string>
+    <string msgid="8451764896926365139" name="menu_arrays_third_audio">"மூன்றாம் நிலை ஆடியோ"</string>
+    <string msgid="5977833251658879047" name="menu_audio_sound_tracks">"சவுண்ட் டிராக்குகள்"</string>
+    <string msgid="5914226981357187525" name="menu_back">"முந்தைய பக்கம்"</string>
+    <string msgid="6345177090175746888" name="menu_band_width">"இணைய வேகம்"</string>
+    <string msgid="1801906907555044876" name="menu_block_unrated">"ரேட்டிங் இல்லாத நிகழ்ச்சிகளைத் தடு"</string>
+    <string msgid="1260923144167079695" name="menu_blocked_rating">"தடுக்கப்பட்டுள்ள ரேட்டிங்குகள்"</string>
+    <string msgid="2306081694127448305" name="menu_c_analog_tune">"அனலாக் சேனல் ஃபைன் டியூன்"</string>
+    <string msgid="6616915979489704399" name="menu_c_analogscan_scandown">"அடுத்ததை ஸ்கேன் செய்"</string>
+    <string msgid="5915910429110056976" name="menu_c_analogscan_scanup">"ஸ்கேன் அப்"</string>
+    <string msgid="2246890877020986294" name="menu_c_chanel_Move">"சேனலை நகர்த்து"</string>
+    <string msgid="927992480379525339" name="menu_c_chanel_sor">"சேனலை வரிசைப்படுத்து"</string>
+    <string msgid="6359117351919737306" name="menu_c_chanel_swap">"சேனலை மாற்றுதல்"</string>
+    <string msgid="4197159836237043495" name="menu_c_channelscan_oth">"மற்றவை"</string>
+    <string msgid="5910290796430986311" name="menu_c_favorite_net">"விருப்ப நெட்வொர்க்கைத் தேர்ந்தெடு"</string>
+    <string msgid="1556844292658590881" name="menu_c_net">"நெட்வொர்க் ஐடி"</string>
+    <string msgid="3785625249318213028" name="menu_c_rfscan_frequency">"அலைவரிசை (KHz)"</string>
+    <string msgid="3582109260440911431" name="menu_c_rfscan_frequency_cn">"அலைவரிசை (MHz)"</string>
+    <string msgid="5717582981249177051" name="menu_c_rfscan_symbol_rate">"சிம்பல் ரேட் (Ksym/s)"</string>
+    <string msgid="4426044028697789748" name="menu_c_scan">"ஸ்கேன் செய்"</string>
+    <string msgid="8979396675252722869" name="menu_c_scan_clear_channel">"சேனல்களை ஸ்கேன் செய்தால் ஏற்கனவேயுள்ள சேனல்கள் அகற்றப்படும்!"</string>
+    <string msgid="2928633248904936695" name="menu_canadian_english_ratings">"கனடியன் ஆங்கில ரேட்டிங்குகள்"</string>
+    <string msgid="2471635396093309696" name="menu_canadian_french_ratings">"கனடியன் ஃபிரெஞ்ச் ரேட்டிங்குகள்"</string>
+    <string msgid="2096723547222310575" name="menu_cancel">"ரத்துசெய்"</string>
+    <string msgid="7628333882345060865" name="menu_channel">"சேனல்"</string>
+    <string msgid="8241064516725478588" name="menu_channel_channel_installation_mode">"சேனல் நிறுவல் பயன்முறை"</string>
+    <string msgid="4438235370530709088" name="menu_channel_channel_sources">"சேனல் மூலங்கள்"</string>
+    <string msgid="9083666960081625903" name="menu_channel_customize_channel_list">"சேனல் பட்டியலைப் பிரத்தியேகமாக்கு"</string>
+    <string msgid="1881145392080367595" name="menu_channel_customize_channel_list_summary">"நிகழ்ச்சி வழிகாட்டியில் சேர்ப்பதற்கான சேனல்களைத் தேர்வுசெய்யும்"</string>
+    <string msgid="7576326090930705049" name="menu_channel_freeze_switch">"ஸ்விட்ச்சை நிலையாக்கு"</string>
+    <string msgid="168032913015984240" name="menu_channel_multi_audio">"மல்டி ஆடியோ"</string>
+    <string msgid="5517855524451929591" name="menu_channel_parental_controls">"பெற்றோர் கட்டுப்பாடுகள்"</string>
+    <string msgid="4360471719008301149" name="menu_channel_scan_type">"சேனல் ஸ்கேன் வகை"</string>
+    <string msgid="6273001423492188772" name="menu_channel_store_type">"சேனல் சேமிப்பு வகை"</string>
+    <string msgid="8003712676262175836" name="menu_channel_version">"பதிப்பு"</string>
+    <string msgid="3317168911929978611" name="menu_ci_cam_scan">"Cam ஸ்கேன்"</string>
+    <string msgid="5000700797059162381" name="menu_ci_user_preference">"பயனர் விருப்பம்"</string>
+    <string msgid="9182964994599355185" name="menu_ci_user_preference_item_broadcast">"ஒளிபரப்பு"</string>
+    <string msgid="4209458683747214463" name="menu_ci_user_preference_item_default">"இயல்பு"</string>
+    <string msgid="235468670940168173" name="menu_content_ratings">"உள்ளடக்க மதிப்பீடு"</string>
+    <string msgid="270119160492034920" name="menu_delete_biss_key_tip">"இந்த BISS விசையை நிச்சயமாக நீக்க வேண்டுமா?"</string>
+    <string msgid="940569276553637894" name="menu_dialog_numrepeat">"ஏற்கனவே ஒதுக்கப்பட்ட சேனல் எண்கள்!"</string>
+    <string msgid="6992271585072387734" name="menu_dialog_numzero">"சேனல் எண் 0வாக இருக்கக்கூடாது!"</string>
+    <string msgid="4953749502243337505" name="menu_dvbs_antenna_type_tip">"அலைவரிசை வரம்பு மற்றும் அலைவரிசை அமைப்புகளைக் காட்ட சிவப்பு வண்ண விசையை அழுத்தவும்."</string>
+    <string msgid="5339894688140615789" name="menu_enter">"அடுத்த பக்கம் செல்"</string>
+    <string msgid="5916797899906131306" name="menu_exit">"வெளியேறு"</string>
+    <string msgid="6258255290936085690" name="menu_interface_name">"மெனு"</string>
+    <string msgid="1005475185681009858" name="menu_net_name">"நெட்வொர்க்கின் பெயர்"</string>
+    <string msgid="5238174741692232278" name="menu_oceania_aus_ratings">"அணுகல் கட்டுப்பாடு"</string>
+    <string msgid="549595307019821477" name="menu_ok">"சரி"</string>
+    <string msgid="1410237592394733548" name="menu_parental_change_password">"கடவுச்சொல்லை மாற்று"</string>
+    <string msgid="7003428954204171196" name="menu_parental_channel_block">"சேனல் தடுக்கப்பட்டுள்ளது"</string>
+    <string msgid="3727018689983113284" name="menu_parental_channel_schedule_block">"சேனலுக்கான திட்ட அட்டவணையைத் தடு"</string>
+    <string msgid="3378946292723662496" name="menu_parental_channel_schedule_block_operation_mode">"செயல்பாட்டுப் பயன்முறை"</string>
+    <string msgid="6825571214422092711" name="menu_parental_channel_schedule_end_date">"முடியும் தேதி"</string>
+    <string msgid="6705925703363265697" name="menu_parental_channel_schedule_end_time">"முடியும் நேரம்"</string>
+    <string msgid="3342250424179084140" name="menu_parental_channel_schedule_start_date">"தொடக்கத் தேதி"</string>
+    <string msgid="1010861759252974627" name="menu_parental_channel_schedule_start_time">"தொடங்கும் நேரம்"</string>
+    <string msgid="4257280620467440277" name="menu_parental_clean_all">"அனைத்தையும் அழி"</string>
+    <string msgid="4737097429483474525" name="menu_parental_input_block">"உள்ளீடு தடுக்கப்பட்டுள்ளது"</string>
+    <string msgid="4576879579547866045" name="menu_parental_password">"கடவுச்சொல்"</string>
+    <string msgid="3506796281997230270" name="menu_parental_password_enter">"கடவுச்சொல்லை உள்ளிடுங்கள்"</string>
+    <string msgid="3411313245296435031" name="menu_parental_password_incorrect">"தவறான கடவுச்சொல்.\nமீண்டும் உள்ளிடவும்!"</string>
+    <string msgid="4526902774665782344" name="menu_parental_password_matchinfo">"கடவுச்சொல் பொருந்தவில்லை.\nமீண்டும் உள்ளிடவும்!"</string>
+    <string msgid="8309978901021454441" name="menu_parental_password_new">"புதிய கடவுச்சொல்"</string>
+    <string msgid="4377338006931748859" name="menu_parental_password_new_re">"கடவுச்சொல்லை உறுதிப்படுத்தவும்"</string>
+    <string msgid="3017893895583981306" name="menu_parental_program_block">"நிகழ்ச்சி தடுக்கப்பட்டுள்ளது"</string>
+    <string msgid="3440392780424732761" name="menu_rating_enable">"ரேட்டிங்கை இயக்கு"</string>
+    <string msgid="4755397422752027961" name="menu_s_channel_decode">"சேனலைக் குறிவிலக்கு"</string>
+    <string msgid="4204530918013827303" name="menu_s_favorite_network">"விருப்ப நெட்வொர்க்கைத் தேர்ந்தெடு"</string>
+    <string msgid="4676645206696055795" name="menu_s_sate_add">"சாட்டிலைட்டை சேர்"</string>
+    <string msgid="385551134194359571" name="menu_s_sate_rescan">"சாட்டிலைட்டை மீண்டும் ஸ்கேன் செய்"</string>
+    <string msgid="6641088672339130577" name="menu_s_sate_tuning">"சாட்டிலைட் மேனுவல் டியூனிங்"</string>
+    <string msgid="8295522446305537505" name="menu_s_sate_update">"சாட்டிலைட் புதுப்பிப்பு"</string>
+    <string msgid="4003160032715199809" name="menu_set">"அமை"</string>
+    <string msgid="8629595673599201848" name="menu_settings">"அமைப்புகள்"</string>
+    <string msgid="3884334439195257889" name="menu_setup_HBBTV_Support">"HBBTV ஆதரவு"</string>
+    <string msgid="7047780262945384208" name="menu_setup_HBBTV_cookie_settings">"குக்கீ அமைப்புகள்"</string>
+    <string msgid="744961147888622795" name="menu_setup_HBBTV_deviceid">"சாதன ஐடி"</string>
+    <string msgid="1290321132030841986" name="menu_setup_HBBTV_not_track">"கண்காணிக்க வேண்டாம்"</string>
+    <string msgid="5270967485634552113" name="menu_setup_HBBTV_persistent_storage">"தொடர்நிலை சேமிப்பகம்"</string>
+    <string msgid="4896116549707782493" name="menu_setup_HBBTV_reset_deviceid">"சாதன ஐடியை மீட்டமை"</string>
+    <string msgid="2255284996722827595" name="menu_setup_HBBTV_reset_deviceid_message">"சாதன ஐடியை கண்டிப்பாக ரீசெட் செய்ய வேண்டுமா?"</string>
+    <string msgid="425628542732834431" name="menu_setup_HBBTV_settings">"HBBTV அமைப்புகள்"</string>
+    <string msgid="8030054744169205932" name="menu_setup_HBBTV_track_sites">"டிராக் செய்யும் தளங்களைத் தடு"</string>
+    <string msgid="9013322575297645333" name="menu_setup_MHEG_PIN_Protection">"MHEG \'பின்\' பாதுகாப்பு"</string>
+    <string msgid="8369273652687922192" name="menu_setup_TKGS_hidden_locations">"TKGS மறைக்கும் இருப்பிடங்கள்"</string>
+    <string msgid="6239011973619252782" name="menu_setup_TKGS_locate_list">"TKGS லொக்கேட்டர் பட்டியல்"</string>
+    <string msgid="6717317359786252162" name="menu_setup_TKGS_setting">"TKGS அமைப்பு"</string>
+    <string msgid="4796051211945790617" name="menu_setup_analog_closed_caption">"அனலாக் வசனங்கள்"</string>
+    <string msgid="5130643060755546036" name="menu_setup_analog_subtitle">"அனலாக் வசனம்"</string>
+    <string msgid="8749345286614488535" name="menu_setup_auto_channel_update">"சேனலைத் தானாகப் புதுப்பித்தல்"</string>
+    <string msgid="554655984033409887" name="menu_setup_auto_network_upgrade">"நெட்வொர்க் மேம்படுத்தல்"</string>
+    <string msgid="759687874059635844" name="menu_setup_auto_synchronization">"தானாக ஒத்திசைதல்"</string>
+    <string msgid="8613742900179692970" name="menu_setup_background_color">"பின்னணி வண்ணம்"</string>
+    <string msgid="2867502947414945383" name="menu_setup_background_opacity">"பின்னணி ஒளிபுகாத்தன்மை"</string>
+    <string msgid="4743414048883762640" name="menu_setup_biss_key">"BISS விசை"</string>
+    <string msgid="6638397470781538366" name="menu_setup_biss_key_add_item">"BISS விசையை சேர்க்க கிளிக் செய்யவும்"</string>
+    <string msgid="1420141670124972197" name="menu_setup_biss_key_add_key">"BISS விசையை சேர்"</string>
+    <string msgid="3155790790689603575" name="menu_setup_biss_key_cw_key">"CW விசை"</string>
+    <string msgid="4922467304547321006" name="menu_setup_biss_key_freqency">"அலைவரிசை"</string>
+    <string msgid="3025566519316825016" name="menu_setup_biss_key_horizonal">"கிடைமட்டம்"</string>
+    <string msgid="5179872075186805913" name="menu_setup_biss_key_polazation">"போலரைசேஷன்"</string>
+    <string msgid="5573105310385768872" name="menu_setup_biss_key_prog_id">"திட்ட ஐடி"</string>
+    <string msgid="4933737876683018945" name="menu_setup_biss_key_vertical">"செங்குத்து"</string>
+    <string msgid="3507814533347681742" name="menu_setup_bluemute">"நீலத் திரை"</string>
+    <string msgid="4719936931569572435" name="menu_setup_button_no">"வேண்டாம்"</string>
+    <string msgid="5030166851411264581" name="menu_setup_button_yes">"ஆம்"</string>
+    <string msgid="8322539698238533246" name="menu_setup_caption_enable">"வசனத்தை இயக்கு"</string>
+    <string msgid="8962718484127042364" name="menu_setup_caption_setup">"வசன அமைவு"</string>
+    <string msgid="2961061197730048776" name="menu_setup_caption_style">"வசனத் தோற்றம்"</string>
+    <string msgid="2473477203683812249" name="menu_setup_channel_scan">"நிலை: ஸ்கேன் செய்கிறது"</string>
+    <string msgid="5931927842967932526" name="menu_setup_channel_scan_ana">"அனலாக் சேனல்கள்:"</string>
+    <string msgid="392557174041827451" name="menu_setup_channel_scan_cancel">"நிலை: ஸ்கேன் ரத்துசெய்யப்பட்டது"</string>
+    <string msgid="323883741930144178" name="menu_setup_channel_scan_dig">"டிஜிட்டல் சேனல்கள்:"</string>
+    <string msgid="1165298550342951653" name="menu_setup_channel_scan_done">"நிலை: ஸ்கேன் முடிந்தது"</string>
+    <string msgid="1033963070035499350" name="menu_setup_channel_scan_error">"நிலை: ஸ்கேன் செய்ய இயலவில்லை"</string>
+    <string msgid="6637458773533512380" name="menu_setup_channel_scan_positioner_moving">"நிலை: நிலைப்படுத்தும் கருவி நகர்கிறது"</string>
+    <string msgid="2527134179338036692" name="menu_setup_channel_update">"சேனல் புதுப்பிப்பு"</string>
+    <string msgid="6065600598875680983" name="menu_setup_channel_update_msg">"சேனல் புதுப்பிக்கப்பட்டது குறித்த செய்தி"</string>
+    <string msgid="7499549794650029556" name="menu_setup_ci_10s_answer_tip">"காத்திருக்கவும்..."</string>
+    <string msgid="7752969960527081420" name="menu_setup_ci_cam_menu">"Cam மெனு"</string>
+    <string msgid="7764806669482503026" name="menu_setup_ci_no_card">"Cam கார்டு இல்லை."</string>
+    <string msgid="6804982608273473218" name="menu_setup_ci_pin_code">"Cam பின் குறியீடு"</string>
+    <string msgid="1196513370440084482" name="menu_setup_ci_pin_code_correct_tip">"சரியானது!"</string>
+    <string msgid="2243160300655248439" name="menu_setup_ci_pin_code_incorrect_tip">"தவறு. மீண்டும் உள்ளிடவும்!"</string>
+    <string msgid="3326787881056337207" name="menu_setup_ci_pin_code_input_tip">"Cam பின் குறியீட்டை உள்ளிடவும்"</string>
+    <string msgid="1459027740499472507" name="menu_setup_ci_pin_invalid_type_tip">"தவறான வகை!"</string>
+    <string msgid="1895934295290944977" name="menu_setup_common_interface">"பொதுவான இடைமுகம்"</string>
+    <string msgid="3849734594378853028" name="menu_setup_decoding_page_language">"பக்க மொழியைக் கண்டறிகிறது"</string>
+    <string msgid="8499914504929052590" name="menu_setup_device_info">"சாதனத் தகவல்"</string>
+    <string msgid="7752290991660565843" name="menu_setup_digital_caption">"டிஜிட்டல் வசனங்கள்"</string>
+    <string msgid="1817076601837960094" name="menu_setup_digital_style">"டிஜிட்டல் வசன நடை"</string>
+    <string msgid="3126491673293834539" name="menu_setup_digital_subtitle">"டிஜிட்டல் வசனம்"</string>
+    <string msgid="8584442274273067902" name="menu_setup_digital_subtitle_lang">"டிஜிட்டல் வசன மொழி"</string>
+    <string msgid="5633803120810655815" name="menu_setup_digital_subtitle_lang_2nd">"இரண்டாவது டிஜிட்டல் வசன மொழி"</string>
+    <string msgid="891930341886844341" name="menu_setup_digital_teletext_language">"டிஜிட்டல் டெலிடெக்ஸ்ட் மொழி"</string>
+    <string msgid="3134377856178382070" name="menu_setup_divx_reg_setup">"DivX(R) பதிவு"</string>
+    <string msgid="1455485346175283490" name="menu_setup_divxdea">"பதிவுநீக்கக் குறியீடு:\n http://vod.divx.comமில் பதிவுநீக்கிக் கொள்ளலாம்\n பதிவு செய்வதைத் தொடர வேண்டுமா?"</string>
+    <string msgid="3215046319317947249" name="menu_setup_divxreg">"DivX® மூலம் பாதுக்காக்கப்பட்ட வீடியோக்களைப் பிளே செய்ய உங்கள் சாதனத்தைப் பதிவு செய்ய வேண்டும்.\nபதிவுக் குறியீடு:BX9ASIKQEI\n http://vod.divx.comமில் பதிவு செய்யவும்"</string>
+    <string msgid="6189576467095870271" name="menu_setup_download_firmware">"நிலைபொருளைப் பதிவிறக்கு"</string>
+    <string msgid="1179707257557128411" name="menu_setup_font_color">"எழுத்துரு வண்ணம்"</string>
+    <string msgid="7083632641371332767" name="menu_setup_font_opacity">"எழுத்துரு ஒளிபுகாத்தன்மை"</string>
+    <string msgid="1648009250200871183" name="menu_setup_font_size">"எழுத்துரு அளவு"</string>
+    <string msgid="754747015410559718" name="menu_setup_font_style">"எழுத்துரு நடை"</string>
+    <string msgid="1790004477593697582" name="menu_setup_ginga_auto_start_app">"தானாகத் தொடங்கும் அம்சம்"</string>
+    <string msgid="2417958483244058708" name="menu_setup_ginga_enable">"Ginga அம்சத்தை இயக்குக"</string>
+    <string msgid="6584004260595154530" name="menu_setup_ginga_setup">"ஜிங்கா அமைவு"</string>
+    <string msgid="7614647649314796771" name="menu_setup_hdmi_2_0_setting">"HDMI 2.0 அமைப்பு"</string>
+    <string msgid="5050066137876562783" name="menu_setup_hdmi_signalformat">"சிக்னல் வடிவம்"</string>
+    <string msgid="3212334206785779338" name="menu_setup_information">"சிஸ்டம் தகவல்"</string>
+    <string msgid="4630365409947205646" name="menu_setup_interaction_channel">"கலந்தாலோசிப்பதற்கான சேனல்"</string>
+    <string msgid="463873547645757115" name="menu_setup_license_info">"உரிமம் தொடர்பான தகவல்"</string>
+    <string msgid="1839888825103443088" name="menu_setup_modes_dmr_control">"DMR செயல்பாடு"</string>
+    <string msgid="7885202064630994111" name="menu_setup_network">"நெட்வொர்க்"</string>
+    <string msgid="8873285800776457027" name="menu_setup_network_no_net">"டிவியுடன் வயர்லெஸ் சாதனம் எதுவும் இணைக்கப்படவில்லை!"</string>
+    <string msgid="6904467374965461541" name="menu_setup_network_upgrade">"நெட்வொர்க்கை மேம்படுத்துகிறது..."</string>
+    <string msgid="3798727644774125311" name="menu_setup_network_wireless">"வயர்லெஸ் அமைப்புகள்"</string>
+    <string msgid="6308706999803471830" name="menu_setup_oad_set_auto_dl">"தானாகப் பதிவிறக்கு"</string>
+    <string msgid="6161218000501401501" name="menu_setup_postal_code_setting">"அஞ்சல் குறியீடு"</string>
+    <string msgid="7365397437405062965" name="menu_setup_power_off_timer">"தானாகப் பவர் ஆஃப் ஆவதற்கான நேரம்"</string>
+    <string msgid="3304493181284351914" name="menu_setup_power_on_channel">"இயல்பு சேனல்"</string>
+    <string msgid="3982599806537535251" name="menu_setup_power_on_channel_mode">"பயன்முறையைத் தேர்ந்தெடு"</string>
+    <string msgid="6273815747191069139" name="menu_setup_power_on_show_channels">"சேனல்களைக் காட்டு"</string>
+    <string msgid="8213142792432806791" name="menu_setup_power_on_timer">"தானாகப் பவர் ஆன் ஆவதற்கான நேரம்"</string>
+    <string msgid="6376833337222407361" name="menu_setup_poweroff_music">"ஆஃப் செய்யும்போது ஒலிக்கும் மியூசிக்"</string>
+    <string msgid="9196505526630859181" name="menu_setup_poweron_music">"டிவியை ஆன் செய்யும்போது வரும் இசை"</string>
+    <string msgid="3735181891975276255" name="menu_setup_record_setting">"ரெக்கார்டிங் அமைப்புகள்"</string>
+    <string msgid="248617517946500738" name="menu_setup_region_setting">"EWBS பகுதி"</string>
+    <string msgid="5394108608331615342" name="menu_setup_reset_default">"ஆரம்பநிலை மீட்டமைவு"</string>
+    <string msgid="2604438744325405839" name="menu_setup_reset_info1">"நிச்சயமாகவா?"</string>
+    <string msgid="4733344701470024023" name="menu_setup_satellite_name">"சாட்டிலைட்டின் பெயர்:"</string>
+    <string msgid="5737465981898547696" name="menu_setup_schedule_list">"திட்ட அட்டவணை குறித்த பட்டியல்"</string>
+    <string msgid="1980108423170746383" name="menu_setup_screenmode">"திரைப் பயன்முறை"</string>
+    <string msgid="4440344959181499609" name="menu_setup_subtitle">"வசனம்"</string>
+    <string msgid="3422400611429742301" name="menu_setup_subtitle_type">"வசன வகை"</string>
+    <string msgid="5727231442927827407" name="menu_setup_superimpose_setup">"சூப்பர்இம்போஸ் அமைவு"</string>
+    <string msgid="5689257233500612565" name="menu_setup_system_info">"சிஸ்டம் தொடர்பான தகவல்"</string>
+    <string msgid="2721981902427685784" name="menu_setup_teletext">"டெலிடெக்ஸ்ட்"</string>
+    <string msgid="3758184248573228819" name="menu_setup_time_setup">"நேர அமைவு"</string>
+    <string msgid="1673392370191940227" name="menu_setup_time_shifting_mode">"நேர மாற்றுப் பயன்முறை"</string>
+    <string msgid="3817173332451714750" name="menu_setup_timer">"டைமர்"</string>
+    <string msgid="4780183199961225027" name="menu_setup_ttx_presentation_level">"TTX மாதிரிக்காட்சி இல்லை"</string>
+    <string msgid="5395481546668942228" name="menu_setup_upgrade_info1">"சேவையகத்தில் இருந்து புதிய நிலைபொருளைப் பதிவிறக்கவும்."</string>
+    <string msgid="27929881756666210" name="menu_setup_upgrade_info2">"புதிய நிலைபொருள் உள்ளதா என சரிபார்க்க இயலவில்லை."</string>
+    <string msgid="8691864032506489497" name="menu_setup_upgrade_info2_title">"விசார்டு மெனுவைப் புதுப்பிக்கிறது"</string>
+    <string msgid="8473165394531457450" name="menu_setup_version_info">"பதிப்புத் தகவல்"</string>
+    <string msgid="724136219399454577" name="menu_setup_window_color">"சாளர வண்ணம்"</string>
+    <string msgid="4647626132198382426" name="menu_setup_window_opacity">"சாளர ஒளிபுகாத்தன்மை"</string>
+    <string msgid="8863057864727370068" name="menu_setup_wireless_setting">"வயர்லெஸ் அமைப்பு"</string>
+    <string msgid="1614323014281173540" name="menu_string_block_3rd_new">"மூன்றாம் தரப்பு குக்கீகள் தடுப்பான்"</string>
+    <string msgid="1631822952530836203" name="menu_string_freeview_setting">"Freeview Play அமைப்புகள்"</string>
+    <string msgid="692387196497397664" name="menu_string_postal_code_toast_cannot_empty">"காலியாக இருக்கக் கூடாது!"</string>
+    <string msgid="1333218593666594370" name="menu_string_postal_code_toast_invalid_input">"தவறான உள்ளீடு!"</string>
+    <string msgid="8068824565893800120" name="menu_string_postal_code_toast_less_than16">"CW விசையானது 16க்குக் குறைவாக இருக்கக்கூடாது"</string>
+    <string msgid="922025259667122726" name="menu_string_power_content">"ஐந்து நிமிடங்களில் டிவி உறக்க நிலைக்கு சென்று விடும், இதை ரத்துசெய்ய வேண்டுமா?"</string>
+    <string msgid="2855368982497716492" name="menu_string_power_setting">"தானாகவே உறக்கநிலைக்கு செல்"</string>
+    <string msgid="1651628824563369102" name="menu_string_power_tips">"உறக்க நிலை உதவிக்குறிப்புகள்"</string>
+    <string msgid="2790323775706670191" name="menu_string_rrt5_none_title">"உரை எதுவுமில்லை."</string>
+    <string msgid="7741932472480967423" name="menu_string_term_condition">"விதிமுறைகளும் நிபந்தனைகளும்"</string>
+    <string msgid="8145876274007994574" name="menu_string_toast_scanning_background">"பின்புலத்தில் ஸ்கேன் செய்துகொண்டிருக்கிறது, பிறகு முயலவும்"</string>
+    <string msgid="6783272571611214508" name="menu_subtitle_track">"வசன டிராக்குகள்"</string>
+    <string msgid="6958085423021208435" name="menu_system_info_ber">"பிட் பிழை விகிதம் (Bit error rate-Ber)"</string>
+    <string msgid="2890078060935000199" name="menu_system_info_channel">"சேனல்"</string>
+    <string msgid="3452677003187359490" name="menu_system_info_channel_title">"RF சேனல் எண்"</string>
+    <string msgid="6242392172548735366" name="menu_system_info_service_id">"சேவை ஐடி"</string>
+    <string msgid="8080844306048103018" name="menu_system_info_symbol_svctype">"சேவை வகை"</string>
+    <string msgid="8708057766635951249" name="menu_tab_audio">"ஆடியோ"</string>
+    <string msgid="7246686894971088412" name="menu_tab_inactive_channels">"செயலிலில்லாத சேனல்கள்"</string>
+    <string msgid="2437139766892902869" name="menu_tab_parent">"பெற்றோர் கட்டுப்பாடுகள்"</string>
+    <string msgid="7109847756230324037" name="menu_tab_setup">"அமைவு"</string>
+    <string msgid="3742429458000810169" name="menu_tab_tv">"டிவி"</string>
+    <string msgid="4331109997413003863" name="menu_tab_video">"வீடியோ"</string>
+    <string msgid="4353539071531837451" name="menu_teletext_no_top_tip">"TOP இல்லை"</string>
+    <string msgid="3112153343567716372" name="menu_teletext_notsupport_tip">"டெலிடெக்ஸ்ட் எதுவுமில்லை"</string>
+    <string msgid="3390192267994167470" name="menu_title_channels">"சேனல்கள்"</string>
+    <string msgid="7217170962187655180" name="menu_title_options">"டிவி விருப்பங்கள்"</string>
+    <string msgid="6782223608461116398" name="menu_tv_analog_channels">"அனலாக் சேனல்கள்"</string>
+    <string msgid="5873694513744888407" name="menu_tv_analog_manual_scan">"அனலாக் மேனுவல் ஸ்கேன்"</string>
+    <string msgid="4554600010019688554" name="menu_tv_analog_manual_scan_cancel">"நிலை: ஸ்கேன் ரத்துசெய்யப்பட்டது"</string>
+    <string msgid="5059349028560346222" name="menu_tv_analog_manual_scan_init">"அனலாக் சேனல்களைத் தேடும்"</string>
+    <string msgid="6779595551399926489" name="menu_tv_audio_language">"ஆடியோ மொழி"</string>
+    <string msgid="3882877571377539936" name="menu_tv_audio_language2nd">"இரண்டாவது ஆடியோ மொழி"</string>
+    <string msgid="7669615966645353924" name="menu_tv_channel_delete">"சேனல்களை நீக்குதல்"</string>
+    <string msgid="4220014947121388564" name="menu_tv_channel_edit">"சேனலைத் திருத்து"</string>
+    <string msgid="3520189529118882493" name="menu_tv_channel_edit_info">"சேனல் திருத்தம் தொடர்பான தகவல்"</string>
+    <string msgid="5985398262786058250" name="menu_tv_channel_list_type">"சேனல் பட்டியல் வகை"</string>
+    <string msgid="5666152567700519485" name="menu_tv_channel_name">"சேனல் பெயர்:"</string>
+    <string msgid="8812504182847087421" name="menu_tv_channel_no">"சேனல் எண் :"</string>
+    <string msgid="8114676020485306916" name="menu_tv_channel_scan">"சேனல் ஸ்கேன்"</string>
+    <string msgid="2281034408241451410" name="menu_tv_channel_setup">"சேனல் அமைவு"</string>
+    <string msgid="7390004344012497423" name="menu_tv_channel_skip">"சேனலைத் தவிர்"</string>
+    <string msgid="4383566614098451792" name="menu_tv_channel_tsname">"TS பெயர் :"</string>
+    <string msgid="4660659962974681532" name="menu_tv_channel_type">"சேனல் வகை"</string>
+    <string msgid="4671898427743017872" name="menu_tv_channelfine_tune">"அனலாக் சேனல் ஃபைன் டியூன்"</string>
+    <string msgid="7222930204275471898" name="menu_tv_channels">"சேனல்கள்"</string>
+    <string msgid="2579995964359144257" name="menu_tv_clear_channel_info">"நிச்சயமாகவா?"</string>
+    <string msgid="5696948603488738154" name="menu_tv_clear_channel_list">"சேனல் பட்டியலை அழி"</string>
+    <string msgid="2134749435885210203" name="menu_tv_color_system">"கலர் சிஸ்டம்"</string>
+    <string msgid="184277561339631204" name="menu_tv_country_region_id">"நாட்டின் மண்டல ஐடி"</string>
+    <string msgid="8619464517901908860" name="menu_tv_delete">"நீக்கு"</string>
+    <string msgid="8422587329057147750" name="menu_tv_delete_loading">"நீக்குகிறது. காத்திருக்கவும்..."</string>
+    <string msgid="5525068056883731934" name="menu_tv_delete_message">"எந்த எச்சரிக்கை OSDயும் இல்லாமல் சேனல்களை நீக்கலாம். நிச்சயமாகவா?"</string>
+    <string msgid="2193262484180007326" name="menu_tv_delete_not_forM7Number">"சேனல் நம்பர் 4001க்குக் கீழ் இருப்பதால் இந்த அம்சம் ஆதரிக்கப்படாது."</string>
+    <string msgid="571325254394265803" name="menu_tv_digital_channels">"டிஜிட்டல் சேனல்கள்"</string>
+    <string msgid="5580627258710695873" name="menu_tv_dual_tuner">"டூயல் டியூனர்"</string>
+    <string msgid="8836617212317116080" name="menu_tv_edit_M7_num_more4000">"4000க்கும் அதிகமாக ஒரு சேனல் எண்ணை உள்ளிடவும்"</string>
+    <string msgid="1288459543538148961" name="menu_tv_end_frequency">"முடிவு அலைவரிசை (MHz)"</string>
+    <string msgid="2704466796908770615" name="menu_tv_finetune">"ஃபைன் டியூன்"</string>
+    <string msgid="6021649320973642221" name="menu_tv_freeze_channel">"சேனலை இடைநிறுத்து"</string>
+    <string msgid="7386267125400334008" name="menu_tv_freq">"அலைவரிசை :"</string>
+    <string msgid="6453522331200699877" name="menu_tv_freq_scan_no_channel">"சேனல் இல்லை."</string>
+    <string msgid="6571318152971176638" name="menu_tv_frequency">"அலைவரி."</string>
+    <string msgid="1358321819225060000" name="menu_tv_insert">"சேர்"</string>
+    <string msgid="1747546514998305717" name="menu_tv_keep_least_one_channel">"குறைந்தபட்சம் ஒரு சேனலையாவது வைத்திருங்கள்"</string>
+    <string msgid="8058358981133927877" name="menu_tv_m7_scan_confirm">"LNB தேடலைத் தொடங்கவா? \n இதைத் தவிர்த்தால், இயல்பாக இருப்பவையே பயன்படுத்தப்படும்."</string>
+    <string msgid="8701126040235187294" name="menu_tv_manual_service_update">"நேரடியான சேவை புதுப்பிப்பு"</string>
+    <string msgid="8489824467735386755" name="menu_tv_move_loading">"நகர்த்துகிறது. காத்திருக்கவும்..."</string>
+    <string msgid="256769042292806112" name="menu_tv_mts">"ஆடியோ சேனல்"</string>
+    <string msgid="7227721405917128844" name="menu_tv_name">"பெயர்"</string>
+    <string msgid="1671388845426299891" name="menu_tv_network_name">"நெட்வொர்க் பெயர் :"</string>
+    <string msgid="7616075285030351284" name="menu_tv_number">"எண்."</string>
+    <string msgid="40103874127321459" name="menu_tv_oceania_country_region">"நாடு வட்டாரம்"</string>
+    <string msgid="8801789215514635871" name="menu_tv_remove_all_inactive_channels">"அனைத்து சேனல்களையும் அகற்ற வேண்டுமா?"</string>
+    <string msgid="4037172677462149166" name="menu_tv_remove_inactive_channel">"இந்தச் சேனலை நிச்சயமாக நீக்க வேண்டுமா?"</string>
+    <string msgid="325888876117294389" name="menu_tv_reset_all">"அனைத்து அமைப்புகளையும் நிச்சயமாக ரீசெட் செய்ய வேண்டுமா?"</string>
+    <string msgid="1796042308306874502" name="menu_tv_rf_scan_frequency">"ஸ்கேன் அலைவரிசை (MHz)"</string>
+    <string msgid="3370179992000118544" name="menu_tv_rf_scan_mode">"QAM ஸ்டைல்"</string>
+    <string msgid="6308736417074941026" name="menu_tv_rf_sym_rate">"சிம்பல் ரேட்"</string>
+    <string msgid="5772702059253361594" name="menu_tv_scan_digital_channel_init">"டிஜிட்டல் சேனல்களைத் தேடும்"</string>
+    <string msgid="6560723639956889117" name="menu_tv_scann_allchannels">"அனைத்து சேனலையும் தேடு."</string>
+    <string msgid="5986186956365767139" name="menu_tv_sigle_frequency_plan">"அலைவரிசைத் திட்டம்"</string>
+    <string msgid="7773224697874334577" name="menu_tv_sigle_from_channel">"பொருளடக்கத்தில் இருந்து"</string>
+    <string msgid="8466442069650929933" name="menu_tv_sigle_modulation">"மாடுலேஷன்"</string>
+    <string msgid="6790730560440038639" name="menu_tv_sigle_scan_mode">"ஸ்கேன் பயன்முறை"</string>
+    <string msgid="3097529181862261069" name="menu_tv_sigle_to_channcel">"அட்டவணைக்குச் செல்"</string>
+    <string msgid="551119918966787868" name="menu_tv_single_rf_channel">"RF சேனல்"</string>
+    <string msgid="8917066043207412602" name="menu_tv_single_rf_scan">"ஒற்றை RF ஸ்கேன்"</string>
+    <string msgid="1496999582183630210" name="menu_tv_single_rf_scan_init">"சிங்கிள் RF சேனலை ஸ்கேன் செய்யும். (டிஜிட்டல் மட்டும்)"</string>
+    <string msgid="6749915054386007806" name="menu_tv_single_signal_level">"சிக்னல் அளவு"</string>
+    <string msgid="5426229316907070059" name="menu_tv_single_signal_quality">"சிக்னலின் தரம்"</string>
+    <string msgid="1248357537058558355" name="menu_tv_skip">"தவிர்"</string>
+    <string msgid="4269723226624021325" name="menu_tv_sort_loading">"வரிசைப்படுத்துகிறது. காத்திருக்கவும்..."</string>
+    <string msgid="6046361573130329018" name="menu_tv_sound_system">"சவுண்ட் சிஸ்டம்"</string>
+    <string msgid="9061427598128187616" name="menu_tv_start_frequency">"தொடக்க அலைவரிசை (MHz)"</string>
+    <string msgid="126959169937779632" name="menu_tv_status">"நிலை"</string>
+    <string msgid="8528401689277276496" name="menu_tv_status_value">"ஸ்கேன் செய்தல்"</string>
+    <string msgid="5870426199870476614" name="menu_tv_store">"சேமி"</string>
+    <string msgid="6069293662781579793" name="menu_tv_store_data">"சேனல் தரவை நிச்சயமாக சேமிக்க வேண்டுமா?"</string>
+    <string msgid="2906413096735599257" name="menu_tv_system">"சிஸ்டம்"</string>
+    <string msgid="1983044089621021765" name="menu_tv_tshift_config">"டைம்ஃஷிப்ட் பயன்முறை"</string>
+    <string msgid="4534577012277218806" name="menu_tv_tuner_mode">"டியூனர் பயன்முறை"</string>
+    <string msgid="7347482638955677242" name="menu_tv_tv_system">"டிவி சிஸ்டம்"</string>
+    <string msgid="5559784090794274350" name="menu_tv_type">"வகை"</string>
+    <string msgid="17835394959085982" name="menu_tv_update_scan">"மீண்டும் ஸ்கேன்"</string>
+    <string msgid="8106372407195238776" name="menu_tv_us_range_scan">"சேனல்களை ஸ்கேன் செய்யும்"</string>
+    <string msgid="8116488007741874603" name="menu_us_movie_ratings">"அமெரிக்கத் திரைப்பட ரேட்டிங்குகள்"</string>
+    <string msgid="3755104139396309977" name="menu_us_tv_ratings">"அமெரிக்க டிவி ரேட்டிங்குகள்"</string>
+    <string msgid="6872910755941077113" name="menu_versioninfo_name">"மாடல் பெயர்"</string>
+    <string msgid="4181667293912833576" name="menu_versioninfo_number">"வரிசை எண்"</string>
+    <string msgid="5598308716341968435" name="menu_versioninfo_version">"பதிப்பு"</string>
+    <string msgid="2428163831513361272" name="menu_wrong_new_pin_notify">"\'0000\' என்பது தவறான கடவுச்சொல்"</string>
+    <string msgid="1823379068466406534" name="motor_settings">"மோட்டார் அமைப்புகள்"</string>
+    <string msgid="8891453665943022634" name="msg_channel_added_one">"<ns1:g id="MSG_CHANNEL">%1$d</ns1:g> சேனல் சேர்க்கப்பட்டது"</string>
+    <string msgid="8259822376614850146" name="msg_delet_schedule_item">"திட்டமிடப்பட்ட சில ரெக்கார்டிங்குகள் தோல்வியடைந்தன அல்லது நிறைவடையவில்லை!"</string>
+    <string msgid="6012765156842077538" name="msg_no_channel_added">"சேனல்கள் எவையும் சேர்க்கப்படவில்லை"</string>
+    <string msgid="1293770946898508954" name="msg_no_channel_added_other">"<ns1:g id="MSG_NO_CHANNEL_ADDED">%1$d</ns1:g> சேனல்கள் சேர்க்கப்பட்டன"</string>
+    <string msgid="1072183791129632173" name="msg_no_setup_activity">"இந்த உள்ளீடு தன்னியக்க ஸ்கேனை ஆதரிக்காது."</string>
+    <string msgid="5981825030398555360" name="msg_unable_to_start_setup_activity">"’<ns1:g id="TV_INPUT">%s</ns1:g>’க்கான தன்னியக்க ஸ்கேனைத் தொடங்க முடியவில்லை"</string>
+    <string msgid="2023371839435704614" name="msg_unable_to_start_system_captioning_settings">"சிஸ்டம் முழுவதிற்குமான வசன விருப்பத்தேர்வுகளைத் தொடங்க இயலவில்லை."</string>
+    <string msgid="5362034951962029463" name="nav_A2_DUAL1_DUAL2">"Dual I+II"</string>
+    <string msgid="6067522758623414409" name="nav_ADULT">"வயதுவந்தோருக்கானது"</string>
+    <string msgid="3292151116834016023" name="nav_ADULT_UK">"வயதுவந்தோருக்கானது"</string>
+    <string msgid="7109269795352673155" name="nav_ANIMATION_SA">"அனிமேஷன்/ஸ்பெஷல் எஃபெக்ட் திரைப்படங்கள்"</string>
+    <string msgid="76277791819234215" name="nav_ARTS">"கலை/கலாச்சாரம் (இசை இல்லாமல்)"</string>
+    <string msgid="8238446431321376675" name="nav_ARTS_AUS">"கலை/கலாச்சாரம்"</string>
+    <string msgid="7548118392838609215" name="nav_Accept">"ஏற்கிறேன்"</string>
+    <string msgid="4892417368489212947" name="nav_Adult">"வயதுவந்தோருக்கானது (பொது)"</string>
+    <string msgid="3331444442028338542" name="nav_Adult_Movie">"பெரியவர்களுக்கான திரைப்படம்/நாடகம்"</string>
+    <string msgid="1562432260333771131" name="nav_Adult_cartoon">"வயதுவந்தோருக்கான கார்ட்டூன்"</string>
+    <string msgid="2020233948494351594" name="nav_Adventure">"சாகச/ மேற்கத்திய/ போர் சம்பந்தப்பட்டவை"</string>
+    <string msgid="5363575588003558517" name="nav_Advertisement">"விளம்பரம்/ஷாப்பிங்"</string>
+    <string msgid="4092498780895009315" name="nav_Animation_movies_sa">"அனிமேஷன்"</string>
+    <string msgid="1231222501166526460" name="nav_Appendix_bs_sa">"BS/புவிசார்ந்த டிஜிட்டல் ஒளிபரப்புத் திட்டத்திற்கான பிற்சேர்க்கைத் தகவல்கள்"</string>
+    <string msgid="517955942667234433" name="nav_Appendix_server_type_sa">"சேவையக வகை திட்டத்திற்கான பிற்சேர்க்கைத் தகவல்கள்"</string>
+    <string msgid="6554614247798295199" name="nav_Art_hobby_sa">"இசை, கலை, தொழில்துறைக் கலை"</string>
+    <string msgid="3778760294295379300" name="nav_Arts">"கலை/கலாச்சாரம் (இசை இல்லாமல்)"</string>
+    <string msgid="2972164873743815729" name="nav_Arts_magazines">"கலை இதழ்கள்"</string>
+    <string msgid="1638796230059292318" name="nav_Athletics">"தடகளம்"</string>
+    <string msgid="750651562397983758" name="nav_Audio_Program">"ஆடியோ நிகழ்ச்சி"</string>
+    <string msgid="4569731673631345789" name="nav_Auditorium">"அரங்கம்"</string>
+    <string msgid="5674152464877812744" name="nav_Ballad_sa">"ஜாப்பனீஸ் பாலட், ஜாப்பனீஸ் பாரம்பரிய இசை"</string>
+    <string msgid="4569418398390525032" name="nav_Ballet">"பாலே"</string>
+    <string msgid="6716071109682846442" name="nav_Baseball_sa">"பேஸ்பால்"</string>
+    <string msgid="8166473152648563258" name="nav_Biography">"வாழ்க்கை வரலாறு"</string>
+    <string msgid="123677481804570864" name="nav_Black_and_White">"கருப்பு வெள்ளை"</string>
+    <string msgid="1769647110854572386" name="nav_Broadcasting">"ஒளிபரப்பு/பத்திரிகை"</string>
+    <string msgid="8876419163301754170" name="nav_CHILDREN">"சிறுவர்கள்"</string>
+    <string msgid="6383058919905217882" name="nav_CHILDRENS">"குழந்தை/ இளைஞர்களுக்கான நிகழ்ச்சிகள்"</string>
+    <string msgid="5844351978428938279" name="nav_COMEDY">"நகைச்சுவை"</string>
+    <string msgid="344493986982126341" name="nav_COMICAL">"நகைச்சுவை"</string>
+    <string msgid="1728721321904544994" name="nav_CURRENT_AFFAIRS">"நடப்புச் செய்திகள்"</string>
+    <string msgid="7485655405127911626" name="nav_CURRENT_AFFAIRS_AUS">"நடப்புச் செய்திகள்"</string>
+    <string msgid="7617524187961590647" name="nav_Cancel">"ரத்துசெய்"</string>
+    <string msgid="2691198266609566393" name="nav_Cars_sa">"கார்கள், மோட்டார் பைக்குகள்"</string>
+    <string msgid="3119574119243171205" name="nav_Cartoons">"கார்ட்டூன்கள்/பொம்மலாட்டங்கள்"</string>
+    <string msgid="2352759515560215768" name="nav_Channel_Locked">"சேனலைப் பார்க்க இயலாது!"</string>
+    <string msgid="873820541320552860" name="nav_Children">"குழந்தைகள்/இளைஞர் நிகழ்ச்சிகள்"</string>
+    <string msgid="6831456170842790872" name="nav_Childrens">"சிறுவர்களுக்கானது"</string>
+    <string msgid="5424477391960867406" name="nav_Childrens_song_sa">"பிள்ளைகளுக்கான பாடல்"</string>
+    <string msgid="2234409890948755317" name="nav_Classic_sa">"கிளாசிக், ஓபெரா"</string>
+    <string msgid="6993507339935504263" name="nav_Cocking_sa">"சமையல் வகை"</string>
+    <string msgid="7487834454945416514" name="nav_Comedy">"நகைச்சுவை"</string>
+    <string msgid="9029624226612544774" name="nav_Comedy_program_sa">"நகைச்சுவை நிகழ்ச்சி"</string>
+    <string msgid="1515257472064134851" name="nav_Comic_story_sa">"நகைச்சுவைக் கதை, பொழுதுபோக்கு"</string>
+    <string msgid="3706642553609961619" name="nav_Comical">"நகைச்சுவை"</string>
+    <string msgid="2740628597884358931" name="nav_Computer_games_sa">"கம்ப்யூட்டர், டிவி கேம்கள்"</string>
+    <string msgid="1696469391180059577" name="nav_Conversation_sa">"உரையாடல், மொழிகள்"</string>
+    <string msgid="6317662479870562229" name="nav_Cooking">"சமையல்"</string>
+    <string msgid="4774122318391503820" name="nav_Country">"நாடு"</string>
+    <string msgid="4447376466213581085" name="nav_Culture_sa">"கலாச்சாரம், பாரம்பரியக் கலாச்சாரம்"</string>
+    <string msgid="2306180072443523238" name="nav_Current_Affairs">"செய்திகள்/தற்போதைய நிகழ்வுகள் (பொது)"</string>
+    <string msgid="1732520131708701722" name="nav_DEBATE_INTERVIEW">"விவாதம்/நேர்காணல்"</string>
+    <string msgid="7005982821525458545" name="nav_DOCUMENTARY">"ஆவணப்படம்"</string>
+    <string msgid="273709365086519291" name="nav_DOCUMENTARY_SA">"ஆவணப்படம்/கலாச்சாரம்"</string>
+    <string msgid="1875946404286373763" name="nav_DRAMA">"நாடகம்"</string>
+    <string msgid="9134229304370094253" name="nav_DRAMA_SA">"நாடகம்"</string>
+    <string msgid="519339402026386669" name="nav_DUAL1">"Dual1"</string>
+    <string msgid="5675496762534505028" name="nav_DUAL2">"Dual2"</string>
+    <string msgid="1360518573780719910" name="nav_Dance_sa">"நடனம், பாலட்"</string>
+    <string msgid="6944832467084835207" name="nav_Detective">"துப்பறிவு/திரில்லர்"</string>
+    <string msgid="4267005461999346240" name="nav_Disable">"முடக்கு"</string>
+    <string msgid="7576113986215044245" name="nav_Discussion">"உரையாடல்/நேர்காணல்/விவாதம்"</string>
+    <string msgid="5929362767175579586" name="nav_Discussion_sa">"கலந்துரையாடல்,ஆலோசனைக் கூட்டம்"</string>
+    <string msgid="2844670789033271646" name="nav_Documentary">"ஆவணப்படம்"</string>
+    <string msgid="8593035086403306433" name="nav_Drama">"திரைப்படம்/நாடகம் (பொது)"</string>
+    <string msgid="3673009370247312330" name="nav_Dual_Mono">"டூயல் மோனோ"</string>
+    <string msgid="938224962511736802" name="nav_EDUCATION">"கல்வி/அறிவியல்/புள்ளிவிவரம் சார்ந்த தலைப்புகள்"</string>
+    <string msgid="5056937358866165681" name="nav_EDUCATION_AUS">"கல்வி/தகவல்"</string>
+    <string msgid="653065048554614545" name="nav_EDUCATION_UK">"கல்வி"</string>
+    <string msgid="4605496354611843816" name="nav_ENTERTAINMENT">"பொழுதுபோக்கு"</string>
+    <string msgid="1304583066017461593" name="nav_EROTIC">"காமக் கிளர்ச்சி"</string>
+    <string msgid="5439953435078101179" name="nav_Economics">"பொருளாதாரம்/சமூக அறிவுரைகள்"</string>
+    <string msgid="3307470267321933669" name="nav_Economics_sa">"பொருளாதாரம்,சந்தை அறிக்கை"</string>
+    <string msgid="5394706074492599081" name="nav_Education">"கல்வி/அறிவியல்/புள்ளிவிவரங்கள் (பொது)"</string>
+    <string msgid="1192313608379234158" name="nav_Educational_problem_sa">"கல்வி தொடர்பான சிக்கல்"</string>
+    <string msgid="6376185534207789971" name="nav_Educative">"கற்றல்"</string>
+    <string msgid="4955515426374623029" name="nav_Entertainment_for_10_to">"10+ வயதினருக்கான பொழுதுபோக்கு"</string>
+    <string msgid="4596895874459228120" name="nav_Entertainment_for_10_to_16">"10 முதல் 16 வயதினருக்கான பொழுதுபோக்கு நிகழ்ச்சிகள்"</string>
+    <string msgid="6579986337624167499" name="nav_Entertainment_for_6_to_14">"6 முதல் 14 வயதினருக்கான பொழுதுபோக்கு நிகழ்ச்சிகள்"</string>
+    <string msgid="1196221104874175057" name="nav_Equestrian">"குதிரையேற்றம்"</string>
+    <string msgid="1046901442635212556" name="nav_Erotic">"கிளர்ச்சியூட்டுபவை"</string>
+    <string msgid="5443791148920743588" name="nav_Events_sa">"நிகழ்வுகள்"</string>
+    <string msgid="6437946401259902116" name="nav_Experimental">"புதிய பாணியிலான திரைப்படம்/வீடியோ"</string>
+    <string msgid="4244257989998469079" name="nav_Explanation_sa">"சவுண்ட் மல்டிபிளெக்ஸ் ஒளிபரப்பு குறித்த விளக்கம்"</string>
+    <string msgid="6032109737121463545" name="nav_Extension_cs_sa">"பிராட்பேண்ட் CS டிஜிட்டல் ஒளிபரப்பின் நீட்டிப்பு"</string>
+    <string msgid="2472481098917054792" name="nav_Extension_digital_sa">"டிஜிட்டல் சாட்டிலைட் சவுண்ட் ஒளிபரப்பு-நீட்டிப்பு"</string>
+    <string msgid="2543877636805414180" name="nav_FM_MONO">"FM மோனோ"</string>
+    <string msgid="7770673071379369067" name="nav_FM_STEREO">"FM ஸ்டீரியோ"</string>
+    <string msgid="1211905037639289115" name="nav_FOR_EXTENSION_SA">"நீட்டிப்புக்காக"</string>
+    <string msgid="2050823462294515705" name="nav_Fashion">"ஃபேஷன்"</string>
+    <string msgid="1080670509158220474" name="nav_Fashion_sa">"ஃபேஷன்"</string>
+    <string msgid="7060627966765049296" name="nav_Feminine">"பெண்களுக்கானவை"</string>
+    <string msgid="1204508655031614719" name="nav_Film">"ஃபிலிம்/சினிமா"</string>
+    <string msgid="5482394381748298762" name="nav_Fine_Arts">"நுண் கலைகள்"</string>
+    <string msgid="2432505034639236793" name="nav_Fitness_and_Health">"ஆரோக்கியமும் உடற்கட்டமைப்பும்"</string>
+    <string msgid="5975600553529084616" name="nav_Folk">"நாட்டுப்புற/பாரம்பரிய இசை"</string>
+    <string msgid="4206693975914382487" name="nav_Folk_sa">"நாட்டுப்புற இசை, உலக இசை"</string>
+    <string msgid="1765978463317525263" name="nav_Football">"கால்பந்து/சாக்கர்"</string>
+    <string msgid="6375836042317483758" name="nav_Foreign_Countries">"வெளிநாடுகள்/கல்விச் சுற்றுலா"</string>
+    <string msgid="259476765651855513" name="nav_Freeze_Off">"இடைநிறுத்தல்: ஆஃப்"</string>
+    <string msgid="2487572919806462214" name="nav_Freeze_On">"இடைநிறுத்துதல்: ஆன்"</string>
+    <string msgid="7464890933282521242" name="nav_Friday">"வெள்ளிக்கிழமை"</string>
+    <string msgid="3652921897487755257" name="nav_Further_Education">"மேற்படிப்பு"</string>
+    <string msgid="8709132440378345463" name="nav_Game_Show">"கேம் ஷோ/விநாடி வினா/போட்டி"</string>
+    <string msgid="8860523726680025850" name="nav_Game_sa">"கேம்"</string>
+    <string msgid="6322886775783788914" name="nav_Game_show">"கேம் ஷோ"</string>
+    <string msgid="1358278892867306976" name="nav_Gardening">"தோட்டக்கலை"</string>
+    <string msgid="1765059596896216380" name="nav_Gardening_sa">"தோட்டக்கலை, செல்லப் பிராணி, கைவினைப் பொருட்கள்"</string>
+    <string msgid="1253151215784285549" name="nav_Golf_sa">"கோல்ஃப்"</string>
+    <string msgid="4113658340252435541" name="nav_Gossip_sa">"கிசுகிசு/விவாத நிகழ்ச்சி"</string>
+    <string msgid="1897210291128847840" name="nav_Gourmet_sa">"சமையல் வல்லுநர், சமையல்"</string>
+    <string msgid="5014328749354031501" name="nav_HD_Service">"ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="8223174910041052349" name="nav_HOBBY_SA">"பொழுதுபோக்கு/கல்வி"</string>
+    <string msgid="584686890574365542" name="nav_Handicapped_sa">"மாற்றுத் திறனாளிகள்"</string>
+    <string msgid="5446091048096305473" name="nav_Handicraft">"கைவினைப்பொருள்"</string>
+    <string msgid="459265531175632531" name="nav_Health">"உடல்நலம்"</string>
+    <string msgid="6203438185267447781" name="nav_Health_sa">"உடல்நலம், மருத்துவ சிகிச்சை"</string>
+    <string msgid="7840175771914493133" name="nav_Hidden_Channel">"மறைக்கப்பட்ட சேனல்!"</string>
+    <string msgid="5436756662158442209" name="nav_History_sa">"வரலாறு, பயணித்த இடங்கள்"</string>
+    <string msgid="2646061752919784406" name="nav_Horse_race_sa">"குதிரைப் பந்தயம், மக்களுக்கான ஓட்டப் பந்தயம்"</string>
+    <string msgid="7646455434505072002" name="nav_INFORMATION">"தகவல்"</string>
+    <string msgid="5773850341168412017" name="nav_INFORMATION_SA">"தகவல்சார்ந்த/விவாத நிகழ்ச்சி"</string>
+    <string msgid="2818083324816896145" name="nav_INFOTAINMENT">"இன்போடெயின்மென்ட்"</string>
+    <string msgid="1676270512417122332" name="nav_Informational">"பொது அறிவு/கல்வி/பள்ளி நிகழ்ச்சிகள்"</string>
+    <string msgid="4656472229392175517" name="nav_Input_Locked">"உள்ளீட்டு மூலம் பூட்டப்பட்டுள்ளது!"</string>
+    <string msgid="4944475415599607499" name="nav_Interactive">"உடன்பங்கேற்கக்கூடியவை"</string>
+    <string msgid="5936247805082909748" name="nav_Interview">"நேர்காணல்"</string>
+    <string msgid="6630052105744757311" name="nav_Interviews_sa">"நேர்காணல்கள், கலந்துரையாடல்கள்"</string>
+    <string msgid="8140497578825267884" name="nav_Japanese_animation_sa">"ஜாப்பனீஸ் அனிமேஷன்"</string>
+    <string msgid="5407129016759357530" name="nav_Japanese_movies_sa">"ஜாப்பனீஸ் திரைப்படங்கள்"</string>
+    <string msgid="1809142524497621993" name="nav_Japanese_sa">"ஜாப்பனீஸ் நாடகங்கள்"</string>
+    <string msgid="5950908321643041601" name="nav_Japenese_chess_sa">"ஜாப்பனீஸ் செஸ் (ஷோகீ) மற்றும் \"கோ\""</string>
+    <string msgid="1794190714262750095" name="nav_Jazz">"ஜாஸ்"</string>
+    <string msgid="5565281119863947709" name="nav_Jazz_sa">"ஜாஸ், ஃபியூஷன்"</string>
+    <string msgid="4946731424053160407" name="nav_Junior_high_school_sa">"ஜூனியர் உயர்நிலை பள்ளி &amp; உயர்நிலை பள்ளி மாணவர்கள்"</string>
+    <string msgid="6701718622445257554" name="nav_Kabuki_sa">"கபூகி, கிளாசிக்கல் நாடகம்"</string>
+    <string msgid="7118383045713716846" name="nav_Karaoke_sa">"கரோக்கி, அமெச்சூர் பாடகர்களுக்கான பாடல் போட்டிகள்"</string>
+    <string msgid="6265660683742541759" name="nav_LEISURE">"ஓய்வுநேரப் பொழுதுபோக்குகள்"</string>
+    <string msgid="4859934281880943797" name="nav_LIFESTYLE">"வாழ்க்கை முறை"</string>
+    <string msgid="8979824056359689450" name="nav_Languages">"மொழிகள்"</string>
+    <string msgid="2742977934574491795" name="nav_Leisure_Hobbies">"ஓய்வுநேர பொழுதுபோக்குகள் (பொது)"</string>
+    <string msgid="7667815794777596798" name="nav_Lifelong_education_sa">"வாழ்நாள் கல்வி, தகுதிகள்"</string>
+    <string msgid="4660226768709528314" name="nav_Literature">"இலக்கியம்"</string>
+    <string msgid="8402565093184706475" name="nav_Literature_sa">"இலக்கியம், இலக்கியக் கலை"</string>
+    <string msgid="8335075907050996501" name="nav_Little_children_sa">"சிறுவர்கள், பள்ளிச் சிறுவர்கள்"</string>
+    <string msgid="4429081938116334804" name="nav_Live_Broadcast">"நேரலை ஒளிபரப்பு"</string>
+    <string msgid="5914271084697251230" name="nav_Live_concert_sa">"நேரலை இசை நிகழ்ச்சி"</string>
+    <string msgid="7775026060503448530" name="nav_Living_sa">"வரவேற்பறை, வீடு"</string>
+    <string msgid="2184453960648947427" name="nav_Local_program_sa">"உள்ளூர் நிகழ்ச்சி"</string>
+    <string msgid="67683936489138963" name="nav_MINI_SERIES">"குறுந்தொடர்கள்"</string>
+    <string msgid="5964204903436155057" name="nav_MONO">"மோனோ"</string>
+    <string msgid="8372923047639889285" name="nav_MOVIE">"படம்/நாடகம்"</string>
+    <string msgid="109821876319564851" name="nav_MOVIES_SA">"திரைப்படங்கள்"</string>
+    <string msgid="1808781462551154183" name="nav_MUSIC">"இசை/பாலே/நடனம்"</string>
+    <string msgid="3808874808023664795" name="nav_MUSIC_AUS">"இசை"</string>
+    <string msgid="6627059359192965422" name="nav_MUSIC_SA">"இசை"</string>
+    <string msgid="2682584552541018208" name="nav_Magazines">"பத்திரிகைகள்/அறிக்கைகள்/ஆவணங்கள்"</string>
+    <string msgid="1478304511748361803" name="nav_Making_of">"உருவாக்கியது:"</string>
+    <string msgid="7592732997388665678" name="nav_Marathon_sa">"மாரத்தான், தடகள விளையாட்டுகள், நீச்சல்"</string>
+    <string msgid="7338901193038264886" name="nav_Marine_sa">"கடல்சார்ந்த விளையாட்டுகள், குளிர்கால விளையாட்டுகள்"</string>
+    <string msgid="2430164779675552067" name="nav_Martial_Sport">"தற்காப்புக் கலை"</string>
+    <string msgid="8460091950412007364" name="nav_Martial_Sports">"தற்காப்பு விளையாட்டுகள்"</string>
+    <string msgid="6843793782660520156" name="nav_Medicine">"மருத்துவம்/உடற்கூறியல்/உளவியல்"</string>
+    <string msgid="1992816844029786986" name="nav_Mini_series">"குறுந்தொடர்கள்"</string>
+    <string msgid="521384632051767107" name="nav_Modern_drama_sa">"நவீன நாடகம், மேற்கத்திய பாணியிலான நாடகம்"</string>
+    <string msgid="6992612570374105204" name="nav_Monday">"திங்கட்கிழமை"</string>
+    <string msgid="6070562989096653251" name="nav_Motor_Sport">"மோட்டார் பந்தயம்"</string>
+    <string msgid="5240740911241940133" name="nav_Motor_sa">"மோட்டார் விளையாட்டுகள்"</string>
+    <string msgid="4160103961980735576" name="nav_Motoring">"மோட்டார் பந்தயம்"</string>
+    <string msgid="373389300795401657" name="nav_Movie">"திரைப்படம்"</string>
+    <string msgid="2192749429911603964" name="nav_Moving_Positioner">"\'நிலைநிறுத்தி\' நகர்த்தப்படுகிறது..."</string>
+    <string msgid="7070642218067196085" name="nav_Music">"மியூசிக்/பாலே/நடனம் (பொது)"</string>
+    <string msgid="5960536243378369431" name="nav_Music_variety_sa">"இசை வகை"</string>
+    <string msgid="4298905131042350427" name="nav_Musical">"இசை/ஓபரா"</string>
+    <string msgid="3923446084419312125" name="nav_Musical_sa">"இசை சார்ந்தவை"</string>
+    <string msgid="79298973506310292" name="nav_NEWS">"செய்தி/தற்போதைய நிகழ்வுகள்"</string>
+    <string msgid="4069664565249248929" name="nav_NEWS_AND_FACTUAL">"செய்திகளும் உண்மை நிகழ்வுகளும்"</string>
+    <string msgid="588403828661392490" name="nav_NEWS_SA">"செய்தி, அறிக்கை"</string>
+    <string msgid="6525638479776627839" name="nav_NICAM_DUAL1">"Nicam Dual1"</string>
+    <string msgid="4001223863545237570" name="nav_NICAM_DUAL1_DUAL2">"NICAM Dual I+II"</string>
+    <string msgid="1754387769798722520" name="nav_NICAM_DUAL2">"Nicam Dual2"</string>
+    <string msgid="7769686848165289720" name="nav_NICAM_MONO">"Nicam Mono"</string>
+    <string msgid="3856113660877677151" name="nav_NICAM_STEREO">"Nicam ஸ்டீரியோ"</string>
+    <string msgid="4885492493461552592" name="nav_Nature">"இயற்கை/விலங்குகள்/சுற்றுச்சூழல்"</string>
+    <string msgid="6134317789671534472" name="nav_Nature_sa">"இயற்கை, விலங்கு, சுற்றுச்சூழல்"</string>
+    <string msgid="6618211849118048631" name="nav_New_Media">"புதிய ஊடகம்"</string>
+    <string msgid="3663290212801352195" name="nav_News">"செய்திகள்"</string>
+    <string msgid="7736306538834483698" name="nav_News_Epg">"செய்திகள்"</string>
+    <string msgid="4271562254297752472" name="nav_News_Magazine">"செய்தி பத்திரிகை"</string>
+    <string msgid="2709673854663011997" name="nav_News_analisis_sa">"செய்திப் பகுப்பாய்வு"</string>
+    <string msgid="4078485895049636995" name="nav_News_sa">"வழக்கமானவை,பொதுவானவை"</string>
+    <string msgid="8708600459640992732" name="nav_No_Audio_Stream">"ஆடியோ ஸ்ட்ரீம் இல்லை"</string>
+    <string msgid="5246878918070447382" name="nav_No_Audio_and_Video">"ஆடியோவும் வீடியோவும் இல்லை"</string>
+    <string msgid="8000498560272966399" name="nav_No_Channel">"சேனல் இல்லை"</string>
+    <string msgid="4425690584431331306" name="nav_No_Signal">"சிக்னல் இல்லை!"</string>
+    <string msgid="7517504210645255208" name="nav_No_Video_Stream">"வீடியோ ஸ்ட்ரீம் இல்லை"</string>
+    <string msgid="2108452697412045355" name="nav_No_channel_details">"(சேனல் விவரங்கள் இல்லை.)"</string>
+    <string msgid="6784347151583110026" name="nav_No_program_details">"(நிகழ்ச்சி விவரங்கள் இல்லை.)"</string>
+    <string msgid="1025175380273805238" name="nav_No_program_title">"(தலைப்பு இல்லை.)"</string>
+    <string msgid="1925028466418229027" name="nav_Non_Broadcasting">"ஒளிபரப்புவதற்கல்ல"</string>
+    <string msgid="6562125397170361637" name="nav_Nonstop">"நான்ஸ்டாப்"</string>
+    <string msgid="2948113502898065100" name="nav_OTHER">"மற்றவை"</string>
+    <string msgid="1470108166158892565" name="nav_OTHERS_SA">"மற்றவை"</string>
+    <string msgid="88965773203853871" name="nav_Old_aged_sa">"வயதில் முதியவர்கள்"</string>
+    <string msgid="6401967282343973836" name="nav_Olympic_sa">"ஒலிம்பிக்,சர்வதேச விளையாட்டுகள்"</string>
+    <string msgid="2573570488640913389" name="nav_Original_language">"அசல் மொழி"</string>
+    <string msgid="5932267196244939155" name="nav_Other_ball_sa">"மற்ற பந்து விளையாட்டுகள்"</string>
+    <string msgid="998409201479443361" name="nav_Others_sa">"மற்றவை"</string>
+    <string msgid="6015556343656852650" name="nav_Outdoor_entertainment_sa">"பயணம், மீன் பிடித்தல், வெளிப்புறப் பொழுதுபோக்கு"</string>
+    <string msgid="908857413571897711" name="nav_Overseas_animation_sa">"வெளிநாட்டு அனிமேஷன்"</string>
+    <string msgid="5788384233415248264" name="nav_Overseas_dramas_sa">"வெளிநாட்டு நாடகங்கள்"</string>
+    <string msgid="1023323435201154306" name="nav_Overseas_movies_sa">"வெளிநாட்டுத் திரைப்படங்கள்"</string>
+    <string msgid="468372470690578128" name="nav_Overseas_rock_sa">"வெளிநாட்டு ராக் இசை, பாப் இசை"</string>
+    <string msgid="3747956060154665943" name="nav_Overseas_sa">"வெளிநாடு,சர்வதேச அறிக்கை"</string>
+    <string msgid="3423846309658711747" name="nav_Performing_Arts">"நிகழ் கலைகள்"</string>
+    <string msgid="3768546977583292215" name="nav_Period_sa">"வரலாற்று நாடகங்கள்"</string>
+    <string msgid="2845711634208725361" name="nav_Pinball_sa">"மா-ஜாங், பின்பால் விளையாட்டுகள்"</string>
+    <string msgid="6921350197405145179" name="nav_Please_Scan_Channels">"சேனல்களை ஸ்கேன் செய்யவும்!"</string>
+    <string msgid="1823765577040951588" name="nav_Please_Wait">"காத்திருக்கவும்..."</string>
+    <string msgid="611381502727473653" name="nav_Policy">"கொள்கை"</string>
+    <string msgid="8692797935325382999" name="nav_Politics_sa">"அரசியல்,தேசியப் பேரவை"</string>
+    <string msgid="3538911329306522366" name="nav_Popular_culture">"பிரபமானவை/பாரம்பரிய கலைகள்"</string>
+    <string msgid="7248744440286912124" name="nav_Popular_sa">"பிரபலப் பாடல்கள், பிரபல ஜாப்பனீஸ் பாடல்கள்(என்கா)"</string>
+    <string msgid="7412140885112394816" name="nav_Pre_school_children">"மழலையர் நிகழ்ச்சிகள்"</string>
+    <string msgid="6378939082932407980" name="nav_Prizing">"பரிசு பெறும் நிகழ்ச்சிகள்"</string>
+    <string msgid="5136827293232303669" name="nav_Program_Locked">"நிகழ்ச்சி கிடைக்கவில்லை!"</string>
+    <string msgid="172370616761362438" name="nav_Program_guide_sa">"நிகழ்ச்சி வழிகாட்டி, தகவல்கள்"</string>
+    <string msgid="7889254320652743571" name="nav_Quiz_sa">"வினாடி வினா"</string>
+    <string msgid="2122184619914848507" name="nav_REALITY_SHOW">"ரியாலிட்டி ஷோ"</string>
+    <string msgid="4287254519782291875" name="nav_RESERVED_FOR_FUTURE_USE">"எதிர்காலப் பயன்பாட்டுக்காக ஒதுக்கப்பட்டது"</string>
+    <string msgid="2550264511464017973" name="nav_RESERVED_NOT_DEFINED_AUS">"ஒதுக்கப்பட்டது-வரையறுக்கப்படவில்லை"</string>
+    <string msgid="5312180884586333534" name="nav_RESERVED_SA">"ஒதுக்கப்பட்டது"</string>
+    <string msgid="9145757814283258059" name="nav_Raffle">"லாட்டரி"</string>
+    <string msgid="1852915244795225252" name="nav_Ranking_sa">"மதிப்பிடுதல், இசையைக் கோருதல்"</string>
+    <string msgid="6822104968805792840" name="nav_Reality_show">"ரியாலிட்டி ஷோ"</string>
+    <string msgid="4374185644835531434" name="nav_Reject">"மறு"</string>
+    <string msgid="1281646817926297685" name="nav_Religion">"மதம்"</string>
+    <string msgid="3742201560954935131" name="nav_Remarkable_people">"முக்கிய நபர்கள்"</string>
+    <string msgid="984453100440930687" name="nav_Remind_me_Later">"பின்னர் நினைவூட்டு"</string>
+    <string msgid="8158583781925215416" name="nav_Report">"அறிக்கை"</string>
+    <string msgid="3701653096900603586" name="nav_Reserved_for_future_use">"எதிர்காலப் பயன்பாட்டுக்காக ஒதுக்கப்பட்டது"</string>
+    <string msgid="4035149701030955594" name="nav_Reserved_sa">"ஒதுக்கப்பட்டது"</string>
+    <string msgid="7969007055616561943" name="nav_Retrieving_Data">"தரவை மீட்டெடுக்கிறது"</string>
+    <string msgid="5492160504993631426" name="nav_Rock">"ராக்/பாப்"</string>
+    <string msgid="5243261233617607998" name="nav_Rock_sa">"ஜாப்பனீஸ் ராக் இசை, பாப் இசை"</string>
+    <string msgid="4288777205288123674" name="nav_Romance">"காதல்"</string>
+    <string msgid="8659770437081469248" name="nav_SAP">"SAP"</string>
+    <string msgid="4188569780353472703" name="nav_SERIES">"தொடர்கள்"</string>
+    <string msgid="5994064519730822726" name="nav_SHOW">"ஷோ/கேம் ஷோ"</string>
+    <string msgid="2915219109639202163" name="nav_SOAP_OPERA">"நாடகத் தொடர்"</string>
+    <string msgid="38770600701306654" name="nav_SOCIAL">"சமூகம்/அரசியல் விவகாரம்/பொருளாதாரம்"</string>
+    <string msgid="8320732507229913515" name="nav_SPECIAL">"சிறப்பு நிகழ்ச்சிகள்"</string>
+    <string msgid="5227083605335899206" name="nav_SPECIAL_AUS">"சிறப்பு வகை"</string>
+    <string msgid="4833965674434744387" name="nav_SPORT">"விளையாட்டு"</string>
+    <string msgid="4706156904091255021" name="nav_SPORTS">"விளையாட்டு"</string>
+    <string msgid="9144720611589594382" name="nav_SPORTS_SA">"விளையாட்டுகள்"</string>
+    <string msgid="1173990767733612620" name="nav_STEREO">"ஸ்டீரியோ"</string>
+    <string msgid="6454861943592948168" name="nav_Saturday">"சனிக்கிழமை"</string>
+    <string msgid="5515239166867063341" name="nav_Science_Fiction">"அறிவியல் புனைவு/ஃபேண்டஸி/திகில்"</string>
+    <string msgid="6329251948867332296" name="nav_Science_sa">"விண்வெளி, அறிவியல், மருத்துவ அறிவியல்"</string>
+    <string msgid="9151790137831251844" name="nav_Scrambled">"குளறுபடியான உள்ளடக்கம்"</string>
+    <string msgid="1509682219514074688" name="nav_Series">"தொடர்"</string>
+    <string msgid="5276406648850963863" name="nav_Serious">"சீரியஸ்/கிளாசிக்/மதம்/வரலாற்றுத் திரைப்படம்/நாடகம்"</string>
+    <string msgid="6008559901931855472" name="nav_Serious_Music">"சீரியஸ் இசை/கிளாசிக் இசை"</string>
+    <string msgid="5008698094740226314" name="nav_Service_Not_Running">"சேவை இயங்கவில்லை"</string>
+    <string msgid="5359730743422967430" name="nav_Shopping_sa">"ஷாப்பிங், மெயில் ஆர்டர் வணிகம்"</string>
+    <string msgid="7044536302317720750" name="nav_Show">"ஷோ/கேம் ஷோ (பொது)"</string>
+    <string msgid="4470690495472078506" name="nav_Sign_language_sa">"சைகை மொழி"</string>
+    <string msgid="5834787426533334001" name="nav_Soap">"நாடகம்/சோகநாடகம்/நாட்டுப்புறக் கதை"</string>
+    <string msgid="1312563792331939305" name="nav_Soccer_sa">"சாக்கர்"</string>
+    <string msgid="8326463219159687252" name="nav_Social">"சமூக/அரசியல் விவகாரம்/பொருளாதாரம் (பொது)"</string>
+    <string msgid="6955041851599591609" name="nav_Social_events_sa">"சமூகம், தற்போதைய நிகழ்வுகள்"</string>
+    <string msgid="2552058953348385271" name="nav_Social_sciences">"சமூக/சமய அறிவியல்கள்"</string>
+    <string msgid="269526386269476136" name="nav_Social_welfare_sa">"சமூக நலம்"</string>
+    <string msgid="2277333606337532836" name="nav_Special_Events">"சிறப்பு நிகழ்ச்சிகள் (ஒலிம்பிக்ஸ்,உலகக்கோப்பை,பல)"</string>
+    <string msgid="6195397241263387785" name="nav_Special_effects_sa">"ஸ்பெஷல் எஃபெக்ட்டுகள்"</string>
+    <string msgid="9047394715031764418" name="nav_Special_program_sa">"சிறப்பு நிகழ்ச்சி,ஆவணப்படம்"</string>
+    <string msgid="516418317017980926" name="nav_Special_report_sa">"சிறப்பு அறிக்கை"</string>
+    <string msgid="3192435822872843947" name="nav_Sports">"விளையாட்டு (பொது)"</string>
+    <string msgid="8476324860214116667" name="nav_Sports_Magazines">"விளையாட்டு இதழ்கள்"</string>
+    <string msgid="7684740721075142318" name="nav_Sports_news_sa">"விளையாட்டுச் செய்திகள்"</string>
+    <string msgid="4655841880997766309" name="nav_Sports_sa">"விளையாட்டுகள்"</string>
+    <string msgid="1535888822361943521" name="nav_Step">"படி"</string>
+    <string msgid="40361118503172651" name="nav_Sumo_sa">"சூமோ, சண்டை விளையாட்டுகள்"</string>
+    <string msgid="1543041185005799709" name="nav_Sunday">"ஞாயிற்றுக்கிழமை"</string>
+    <string msgid="5461235279942804744" name="nav_Surround">"சரவுண்ட்"</string>
+    <string msgid="8608301678331658729" name="nav_Surround_2CH">"சரவுண்ட் 2 சேனல்கள்"</string>
+    <string msgid="8974332067209571570" name="nav_THEATRE_SA">"தியேட்டர்/பொதுவெளி நிகழ்ச்சி"</string>
+    <string msgid="2702838823518690813" name="nav_Talk_Show">"விவாத நிகழ்ச்சி"</string>
+    <string msgid="3146815438836614710" name="nav_Talk_variety_sa">"உரையாடல் வகை"</string>
+    <string msgid="8210098159890432892" name="nav_Team_Sports">"குழு விளையாட்டுகள் (கால்பந்தாட்டம் தவிர)"</string>
+    <string msgid="1095093673781711334" name="nav_Technology">"தொழில்நுட்பம்/இயற்கை அறிவியல்"</string>
+    <string msgid="280610584178386772" name="nav_Television_sales">"தொலைக்காட்சி விற்பனை"</string>
+    <string msgid="1887994633207213742" name="nav_Tennis">"டென்னிஸ்/ஸ்குவாஷ்"</string>
+    <string msgid="5684928688361598169" name="nav_Text_sa">"உரை (வசனங்கள்)"</string>
+    <string msgid="7972345876792877737" name="nav_This_content_is_blocked">"உங்கள் சேவை வழங்குநர் இதைத் தடுத்துள்ளார்."</string>
+    <string msgid="2086750884783388391" name="nav_Thursday">"வியாழக்கிழமை"</string>
+    <string msgid="2717698496855049019" name="nav_Timeout">"நேர முடிவு"</string>
+    <string msgid="8359072777003907639" name="nav_Total_documentary_sa">"முழு ஆவணப்படம்"</string>
+    <string msgid="1064217920952534771" name="nav_Tour_sa">"சுற்றுலா வகை"</string>
+    <string msgid="2206534807802085595" name="nav_Tourism">"சுற்றுலா/பயணம்"</string>
+    <string msgid="4864896650781813095" name="nav_Traffic_report_sa">"டிராஃபிக் அறிக்கை"</string>
+    <string msgid="6590886423819622433" name="nav_Travel">"பயணம்"</string>
+    <string msgid="46359676068985925" name="nav_Tuesday">"செவ்வாய்க்கிழமை"</string>
+    <string msgid="3061043482995318058" name="nav_UNDEFINED">"வரையறுக்கப்படாத உள்ளடக்கம்"</string>
+    <string msgid="2329192642842883800" name="nav_UNKNOW">"தெரியவில்லை"</string>
+    <string msgid="8325702713371074686" name="nav_USER_DEFINED">"பயனர் வரையறுத்தவை"</string>
+    <string msgid="7618135808979427930" name="nav_Undefined">"வரையறுக்கப்படாத உள்ளடக்கம்"</string>
+    <string msgid="7068372345809953307" name="nav_University_sa">"பல்கலைக்கழக மாணவர்கள், தேர்வுகள்"</string>
+    <string msgid="3767225414701637677" name="nav_Unpublished">"வெளியிடப்படாதவை"</string>
+    <string msgid="7464246612076601850" name="nav_User_defined">"பயனர் வரையறுத்தவை"</string>
+    <string msgid="335916253460870247" name="nav_VARIETY">"வகை"</string>
+    <string msgid="665812415541556131" name="nav_VARIETY_SA">"\'பலவகைக் கலை\' நிகழ்ச்சி"</string>
+    <string msgid="6392866565801802457" name="nav_Variety_Show">"ஜனரஞ்சக ஷோ"</string>
+    <string msgid="8818543693009711253" name="nav_Video_not_Support">"வீடியோ ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="879615490910022244" name="nav_Volunteers_sa">"தன்னார்வலர்கள்"</string>
+    <string msgid="2784119023122415578" name="nav_WELFARE_SA">"நல்வாழ்வு"</string>
+    <string msgid="2935243954220193670" name="nav_Water_Sport">"நீர்நிலை விளையாட்டு"</string>
+    <string msgid="4787310984803157387" name="nav_Weather_Report">"செய்தி/வானிலை அறிக்கை"</string>
+    <string msgid="2966360176726167336" name="nav_Weather_Report_sa">"வானிலை அறிக்கை"</string>
+    <string msgid="7437812315228564561" name="nav_Wednesday">"புதன்கிழமை"</string>
+    <string msgid="1235064337232238883" name="nav_Winter_Sport">"குளிர்கால விளையாட்டு"</string>
+    <string msgid="4784673586234419251" name="nav_Zoom">"பெரிதாக்கு"</string>
+    <string msgid="1423416146353180751" name="nav_au_ARTS">"கலை/கலாச்சாரம்"</string>
+    <string msgid="8175958670018776911" name="nav_au_EDUCATION_INFORMATION">"கல்வி/தகவல்"</string>
+    <string msgid="7535536656101098890" name="nav_au_MUSIC">"இசை"</string>
+    <string msgid="8557902401422354877" name="nav_au_SPECIAL">"சிறப்பு வகை"</string>
+    <string msgid="2373226362601702644" name="nav_au_undefined">"வரையறுக்கப்படாத உள்ளடக்கம்"</string>
+    <string msgid="5924250989831727442" name="nav_banner_not_rating">"ரேட்டிங் செய்யப்படவில்லை"</string>
+    <string msgid="1888349023955299704" name="nav_channel_All">"அனைத்தும்"</string>
+    <string msgid="4411622601976729909" name="nav_channel_Radio">"ரேடியோ"</string>
+    <string msgid="6714245276115596065" name="nav_channel_antenna">"ஆண்ட்டெனா"</string>
+    <string msgid="2971064824022070667" name="nav_channel_audio_scrambled">"குளறுபடியான ஆடியோ"</string>
+    <string msgid="1545463507484207611" name="nav_channel_details">"சேனல் விவரங்கள்"</string>
+    <string msgid="4775598194894742710" name="nav_channel_has_locked">"சேனலைப் பார்க்க இயலாது!"</string>
+    <string msgid="5877629862359097611" name="nav_channel_infoNoChannelDetail">"(சேனல் விவரங்கள் இல்லை.)"</string>
+    <string msgid="8125356897518159307" name="nav_channel_infoNoProgram">"(நிகழ்ச்சி விவரங்கள் இல்லை.)"</string>
+    <string msgid="1636614751099482229" name="nav_channel_infoTitle">"(தலைப்பு இல்லை)"</string>
+    <string msgid="1142928191994319781" name="nav_channel_list">"சேனல் பட்டியல்"</string>
+    <string msgid="2611146848768461491" name="nav_channel_list_loading">"ஏற்றுகிறது, காத்திருக்கவும்..."</string>
+    <string msgid="8360955300780574598" name="nav_channel_list_options">"செயல்படுத்து"</string>
+    <string msgid="9098272571468415489" name="nav_channel_list_title_categories">"வகைகள் -"</string>
+    <string msgid="1217609978878169061" name="nav_channel_list_title_packs">"தொகுப்புகள் -"</string>
+    <string msgid="3435097407068737744" name="nav_channel_list_type_favs">"பிடித்தவை"</string>
+    <string msgid="713004835192195038" name="nav_channel_new_channels">"புதிய சேனல்கள் கண்டறியப்பட்டு சேர்க்கப்பட்டன."</string>
+    <string msgid="5292674760045443656" name="nav_channel_no_audio">"ஆடியோ இல்லை"</string>
+    <string msgid="8707542275819348335" name="nav_channel_retrieving">"தரவை மீட்டெடுக்கிறது…"</string>
+    <string msgid="7081152459657498495" name="nav_channel_selection">"சேனல் பட்டியல் தேர்வு"</string>
+    <string msgid="367408450916090783" name="nav_channel_sources_title_string">"சேனல் மூலங்கள்"</string>
+    <string msgid="9177381028485366425" name="nav_channel_video_scrambled">"குளறுபடியான வீடியோ"</string>
+    <string msgid="4815143002852141012" name="nav_ci_dns_text">"ஏதோ தவறாகிவிட்டது, இணையதளத்தைப் பார்க்கவும்!"</string>
+    <string msgid="5383639720278755347" name="nav_conflict_source_toast">"<ns1:g id="CONFLICTS">%s</ns1:g> மூலம் இதனுடன் முரண்படுகிறது!"</string>
+    <string msgid="6481409432739745356" name="nav_delete">"நீக்கு"</string>
+    <string msgid="1099353673572719034" name="nav_dialog_go_page">"சேனலுக்குச் செல்"</string>
+    <string msgid="9049343424723101309" name="nav_dialog_input_channel">"சேனல் எண்ணை உள்ளிடவும்:"</string>
+    <string msgid="4057770614821115856" name="nav_dialog_no_available">"கிடைக்கவில்லை"</string>
+    <string msgid="8145344817948499664" name="nav_epg_April">"ஏப்ரல்"</string>
+    <string msgid="326780788387758757" name="nav_epg_August">"ஆகஸ்ட்"</string>
+    <string msgid="878290796792074056" name="nav_epg_December">"டிசம்பர்"</string>
+    <string msgid="8254919892260259823" name="nav_epg_February">"பிப்ரவரி"</string>
+    <string msgid="3825317046745111285" name="nav_epg_Friday">"வெள்ளிக்கிழமை"</string>
+    <string msgid="6958561583226781835" name="nav_epg_January">"ஜனவரி"</string>
+    <string msgid="7142740960448747031" name="nav_epg_July">"ஜூலை"</string>
+    <string msgid="8911826908826022098" name="nav_epg_June">"ஜூன்"</string>
+    <string msgid="7343064359703214822" name="nav_epg_March">"மார்ச்"</string>
+    <string msgid="3565567303285876674" name="nav_epg_May">"மே"</string>
+    <string msgid="969996435840031725" name="nav_epg_Monday">"திங்கட்கிழமை"</string>
+    <string msgid="8640654708843667157" name="nav_epg_November">"நவம்பர்"</string>
+    <string msgid="8150183876804566043" name="nav_epg_October">"அக்டோபர்"</string>
+    <string msgid="2286230218393646059" name="nav_epg_Saturday">"சனிக்கிழமை"</string>
+    <string msgid="8307634148805832687" name="nav_epg_September">"செப்டம்பர்"</string>
+    <string msgid="8808578073829723099" name="nav_epg_Sunday">"ஞாயிற்றுக்கிழமை"</string>
+    <string msgid="5472944470032659615" name="nav_epg_Thursday">"வியாழக்கிழமை"</string>
+    <string msgid="3646506390857345808" name="nav_epg_Tuesday">"செவ்வாய்க்கிழமை"</string>
+    <string msgid="7947487725306919118" name="nav_epg_Wednesday">"புதன்கிழமை"</string>
+    <string msgid="2630159311350270597" name="nav_epg_book_list">"சந்தா செய்துள்ள நிகழ்ச்சிகள்"</string>
+    <string msgid="591922857604718278" name="nav_epg_book_program_coming_tip">"நீங்கள் புக் செய்த நிகழ்ச்சி வர இருக்கிறது, சேனலை மாற்றவா?"</string>
+    <string msgid="7361331741956827556" name="nav_epg_book_program_tip">"இந்த நிகழ்ச்சியை முன்பதிவு செய்யவா?"</string>
+    <string msgid="8675888537206947431" name="nav_epg_no_program_data">"(நிகழ்ச்சி விவரம் இல்லை.)"</string>
+    <string msgid="2350918894053522934" name="nav_epg_no_program_detail">"(நிகழ்ச்சி விவரம் இல்லை.)"</string>
+    <string msgid="3830058099413781902" name="nav_epg_no_program_title">"(தலைப்பு இல்லை.)"</string>
+    <string msgid="8227107983496133464" name="nav_epg_no_title">"(தலைப்பு இல்லை)"</string>
+    <string msgid="6100488274899427539" name="nav_epg_not_rated">"ரேட்டிங் செய்யப்படவில்லை"</string>
+    <string msgid="6264564394682202113" name="nav_epg_not_support">"ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="1421720457481076348" name="nav_epg_schedule">"திட்டமிடு"</string>
+    <string msgid="6465437649178270457" name="nav_epg_sub_type">"துணை வகை"</string>
+    <string msgid="8178656973753219626" name="nav_epg_type">"வகை"</string>
+    <string msgid="246000861326408008" name="nav_epg_unbook_program_tip">"இந்த நிகழ்ச்சிக்கு ஏற்கனவே சந்தா செய்துள்ளீர்கள், ரத்துசெய்யவா?"</string>
+    <string msgid="5310604557008494360" name="nav_epg_unclassified">"குறிப்பிடப்படாதவை"</string>
+    <string msgid="1246372268607241556" name="nav_epg_unlock">"அன்லாக் செய்யப்பட்டது"</string>
+    <string msgid="2816528467979628243" name="nav_epg_unschedule">"திட்டமிடவில்லை"</string>
+    <string msgid="4170843803038412946" name="nav_epg_zero_tip">"சந்தா செய்துள்ள சேனல்கள்"</string>
+    <string msgid="2672205946282525690" name="nav_exit">"விருப்பங்கள் பட்டியல்"</string>
+    <string msgid="1059045593510301629" name="nav_fav_list_move">"நகர்த்துதல்"</string>
+    <string msgid="5544785394685074068" name="nav_fav_move_down">"கீழே நகர்த்து"</string>
+    <string msgid="7635027935866366524" name="nav_fav_move_up">"மேலே நகர்த்து"</string>
+    <string msgid="177926793187779212" name="nav_fav_skip_flow">"சேனல் தவிர்க்கப்பட்டது. தற்போதைய செயல்பாட்டை அனுமதிப்பதில்லை."</string>
+    <string msgid="759713397693032080" name="nav_favourite_selection">"’பிடித்தவை’ பட்டியல் தேர்வு"</string>
+    <string msgid="1893172445136839503" name="nav_ginga_tv_for_infobar">"Ginga ஆப்ஸ் திறக்கப்படுகிறது..."</string>
+    <string msgid="2350058975169490403" name="nav_ginga_tv_for_tips">"CCயை நிறுத்திவிட்டு Ginga ஆப்ஸைத் தொடங்க வேண்டுமா?"</string>
+    <string msgid="3599403232886227504" name="nav_ginga_tv_message">"ஆப்ஸ் இல்லை!"</string>
+    <string msgid="1190205865791226140" name="nav_ginga_tv_title">"ஆப்ஸ் பட்டியல்"</string>
+    <string msgid="1761740323940190763" name="nav_hidden_channel">"மறைக்கப்பட்ட சேனல்"</string>
+    <string msgid="5259404886694911270" name="nav_input_has_locked">"உள்ளீடு பூட்டப்பட்டுள்ளது!"</string>
+    <string msgid="7097484280828194219" name="nav_list_satellite">"சாட்டிலைட் பட்டியல்"</string>
+    <string msgid="2374763601211492934" name="nav_local_or_regional">"உள்ளூர் அல்லது மொழிவாரியாக"</string>
+    <string msgid="1488845112444335210" name="nav_mheg5_tips">"டிஜிட்டல் \'உரையை\' இயக்குவதற்கு முன்பு \'வசனத்தை\' மூடி இருக்க வேண்டும். தொடர விரும்புகிறீர்களா?"</string>
+    <string msgid="585210386773818333" name="nav_movie">"திரைப்படம்"</string>
+    <string msgid="5703823134403932882" name="nav_no_category">"வகை எதுவுமில்லை"</string>
+    <string msgid="2648028768044488333" name="nav_no_function">"செயல்பாடு எதுவுமில்லை"</string>
+    <string msgid="6367428274317270544" name="nav_no_signal">"சிக்னல் இல்லை!"</string>
+    <string msgid="4211951000080501477" name="nav_no_support">"ஆதரிக்கப்படாது!"</string>
+    <string msgid="5561694487375138270" name="nav_not_supported">"ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="3330063422869273430" name="nav_num_CH">"<ns1:g id="MSG_NO_CHANNEL_ADDED">%1$s</ns1:g> சேனல்கள்"</string>
+    <string msgid="1437884667675036114" name="nav_oad_atuo_download_with_bgm">"புதிய மென்பொருள் கண்டறியப்பட்டுள்ளது!\nடிவி செயலற்ற பயன்முறையில் இருக்கும்போது தானாகப் பதிவிறக்குவதை ஏற்கிறீர்களா?"</string>
+    <string msgid="575331343673401409" name="nav_oad_auto_download_confirm">"மென்பொருள் புதுப்பிப்பு. பரிந்துரைக்கப்பட்ட ஒரு புதிய மென்பொருள் புதுப்பிப்பு உள்ளது. இந்தப் புதுப்பிப்பு நிறைவடைய சிறிது நேரம் ஆகலாம். அதுவரை உங்கள் திரையில் எதுவும் காண்பிக்கப்படாமல் போகலாம். இது நிகழும்போது டிவியை ஆஃப் செய்யாதீர்கள். இப்போதே புதுப்பிக்க வேண்டுமா? <ns1:g id="NAV_OAD_AUTO_DOWNLOAD">%s</ns1:g> விநாடி நேரத்தில் தானாகத் தொடங்கும்"</string>
+    <string msgid="7886426790561725864" name="nav_oad_dialog_title">"சாட்டிலைட் வழியே பதிவிறக்குதல்"</string>
+    <string msgid="7704252632696691146" name="nav_oad_downloading">"பதிவிறக்குகிறது"</string>
+    <string msgid="8436439616432319259" name="nav_oad_downloading_info">"இதற்கு 25 நிமிடங்கள் வரை ஆகும்"</string>
+    <string msgid="9005641290426065580" name="nav_oad_flash_confirm">"மென்பொருள் பதிவிறக்கப்பட்டது. பிளாஷிங்கை தொடங்க வேண்டுமா?"</string>
+    <string msgid="5810878089947893577" name="nav_oad_flash_fail">"ஃப்ரோகிராமிங் தோல்வி. மீண்டும் முயல வேண்டுமா?\n\nசேவை மையத்தை அழைக்கவும்."</string>
+    <string msgid="2156547052157466619" name="nav_oad_latest_version_already">"உங்கள் சிஸ்டம் புதுப்பித்த நிலையில் உள்ளது."</string>
+    <string msgid="2696288320604118343" name="nav_oad_manual_download_confirm">"மென்பொருள் புதுப்பிப்பு. பரிந்துரைக்கப்பட்ட ஒரு புதிய மென்பொருள் புதுப்பிப்பு உள்ளது. இந்தப் புதுப்பிப்பு நிறைவடைய சிறிது நேரம் ஆகலாம். அதுவரை உங்கள் திரையில் எதுவும் காண்பிக்கப்படாமல் போகலாம். இது நிகழும்போது டிவியை ஆஃப் செய்யாதீர்கள். இப்போதே புதுப்பிக்க வேண்டுமா?"</string>
+    <string msgid="6744258775934844120" name="nav_oad_manual_download_fail">"மென்பொருளைப் பதிவிறக்க முடியவில்லை. மீண்டும் முயல விரும்புகிறீர்களா?"</string>
+    <string msgid="7797666180604743461" name="nav_oad_programming">"புரோகிராமிங்"</string>
+    <string msgid="4544167256333729358" name="nav_oad_progress">"செயல்நிலைத் தகவல்: <ns1:g id="OAD_PROPGRESS">%1$s %%</ns1:g>"</string>
+    <string msgid="3572563769792982424" name="nav_oad_restart_confirm">"மென்பொருள் பதிவிறக்கப்பட்டது! டிவியை மீண்டும் தொடங்க வேண்டுமா?"</string>
+    <string msgid="1604402042149950254" name="nav_oad_scanning">"ஸ்கேன் செய்தல்"</string>
+    <string msgid="3646282039113187291" name="nav_oad_scanning_result_fail">"சாட்டிலைட்டில் புதிய மென்பொருளைக் கண்டறிய இயலவில்லை."</string>
+    <string msgid="3811421261290979294" name="nav_oad_schedule_oad_accept_schedule_confirm">"மென்பொருள் புதுப்பிப்பு. பரிந்துரைக்கப்பட்ட புதிய மென்பொருள் <ns1:g id="ACCEPT_SCHEDULE">%s</ns1:g>க்குக் கிடைக்கும். இந்தப் புதுப்பிப்பு நிறைவடைய சிறிது நேரம் ஆகலாம். அதுவரை உங்கள் திரையில் எதுவும் காண்பிக்கப்படாமல் போகலாம். இந்த நேரத்தில் ரீசிவரை ஆஃப் செய்ய வேண்டாம். புதுப்பிப்பை ஏற்கும்பட்சத்தில் திட்டமிடப்பட்ட நேரத்தில் டிவியை ஆன் செய்தோ ஸ்டாண்ட்பை நிலையிலோ வைத்திருக்கவும். இதை ஏற்க விரும்புகிறீர்களா?"</string>
+    <string msgid="5861191929380008667" name="nav_oad_schedule_oad_change_channel_confirm">"மென்பொருள் புதுப்பிப்பு. பரிந்துரைக்கப்படும் புதிய மென்பொருள் புதுப்பிப்பு வேறொரு சேனலில் இருக்கலாம். இதைப் பதிவிறக்க ஒப்புதல் வழங்கினால் தானாகவே சேனலுக்கு மாற்றப்படக்கூடும். இப்போதே செய்ய வேண்டுமா? <ns1:g id="AUTOMATICALLY">%s</ns1:g> விநாடியில்(விநாடிகளில்) தானாகத் தொடங்கும்"</string>
+    <string msgid="2980413146743195968" name="nav_oad_warning_msg_str">"எச்சரிக்கை: செயலாக்கத்தில் இருக்கும்போது டிவியின் பவர் இணைப்பை அகற்ற வேண்டாம், அப்படி செய்தால் டிவி பாதிக்கப்படும்."</string>
+    <string msgid="8785354636981485708" name="nav_page_down">"பேஜ் டவுன்"</string>
+    <string msgid="3270051581100408370" name="nav_page_up">"பேஜ் அப்"</string>
+    <string msgid="308348470614629015" name="nav_parent_dvbs_hint">"மூன்று முறை தவறான கடவுச்சொல்லை வழங்கியுள்ளீர்கள்!\n15 நிமிடங்களுக்குக் காத்திருக்கவும்..."</string>
+    <string msgid="46198784024271122" name="nav_parent_psw">"கடவுச்சொல்லை உள்ளிடுக"</string>
+    <string msgid="1525620521477162152" name="nav_parent_wrong_psw">"தவறான கடவுச்சொல். மீண்டும் உள்ளிடவும்!"</string>
+    <string msgid="1804434214124447939" name="nav_percent_sign">"<ns1:g id="NAV_PERCENT_SIGN_VALUE">%1$d</ns1:g>%%"</string>
+    <string msgid="7900614697578947188" name="nav_plano_stereoscopic">"பிளானோ-ஸ்டீரியோஸ்கோப்"</string>
+    <string msgid="3487093583724429407" name="nav_please_scan_channels">"சேனல்களை ஸ்கேன் செய்யவும்!"</string>
+    <string msgid="6948099854934642276" name="nav_program_has_locked">"நிகழ்ச்சி கிடைக்கவில்லை!"</string>
+    <string msgid="3552956286008541271" name="nav_resolution_null">"வீடியோ இல்லை"</string>
+    <string msgid="7295892735269658347" name="nav_satellite_list">"சாட்டிலைட்டைத் தேர்ந்தெடு"</string>
+    <string msgid="990203763701782141" name="nav_select">"தேர்ந்தெடு"</string>
+    <string msgid="1430232488103132351" name="nav_select_find">"தேடுக"</string>
+    <string msgid="4955181758886475830" name="nav_select_find_no_channel">"எந்தச் சேனல்களும் காணப்படவில்லை."</string>
+    <string msgid="4496521336500791773" name="nav_select_find_text">"சேனல் எண்ணையோ பெயரையோ உள்ளிடவும்."</string>
+    <string msgid="1027121931380049166" name="nav_select_list">"பட்டியலைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="8780703315157174233" name="nav_select_list_cn">"தேர்ந்தெடு"</string>
+    <string msgid="3349417212025190988" name="nav_select_more">"மேலும் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="6508271100062731920" name="nav_select_sort">"வரிசைப்படுத்து"</string>
+    <string msgid="8581827442683448193" name="nav_select_sort_default">"இயல்பு"</string>
+    <string msgid="1594866560728134004" name="nav_select_sort_encrypted">"என்க்ரிப்ஷன் செய்யப்பட்டுள்ளது"</string>
+    <string msgid="6921153400093046784" name="nav_select_sort_namedown">"பெயரின்படி இறங்குவரிசை"</string>
+    <string msgid="5580908348787749506" name="nav_select_sort_nameup">"நேம் அப்"</string>
+    <string msgid="9076713592287522086" name="nav_select_type">"வகையைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="2592457661994643123" name="nav_select_type_analogue">"அனலாக்"</string>
+    <string msgid="2256433531995539017" name="nav_select_type_broadcast">"ஒளிபரப்பு"</string>
+    <string msgid="131884890129452289" name="nav_select_type_categories">"வகைகள்"</string>
+    <string msgid="7079139882636642651" name="nav_select_type_digital">"டிஜிட்டல்"</string>
+    <string msgid="3947438160597205615" name="nav_select_type_encrypted">"என்க்ரிப்ஷன் செய்யப்பட்டுள்ளது"</string>
+    <string msgid="4515366205034945174" name="nav_select_type_fav">"பிடித்தவை"</string>
+    <string msgid="4236873277834252882" name="nav_select_type_free">"இலவசம்"</string>
+    <string msgid="7350628433970151756" name="nav_select_type_network">"நெட்வொர்க்"</string>
+    <string msgid="4606980815353766703" name="nav_select_type_no_channel">"இந்த வகையில் எந்தச் சேனல்களும் இல்லை. வேறொன்றைத் தேர்வுசெய்யவும்."</string>
+    <string msgid="6781847657898029815" name="nav_select_type_packs">"திட்டங்கள்"</string>
+    <string msgid="2544353653799094620" name="nav_select_type_radio">"ரேடியோ"</string>
+    <string msgid="3566331474323594407" name="nav_sleep__off">"உறக்கப் பயன்முறை: ஆஃப்"</string>
+    <string msgid="1273142476991172762" name="nav_sleep_label">"உறக்கநிலை:"</string>
+    <string msgid="7071964790067590983" name="nav_sleep_min">"உறக்கநிலை: <ns1:g id="NAV_SLEEP_TIME">%d</ns1:g> நிமிடங்கள்"</string>
+    <string msgid="3683886457066438960" name="nav_sleep_minutes">"நிமிடங்கள்"</string>
+    <string msgid="8552794208521851300" name="nav_sleep_off">"ஆஃப்"</string>
+    <string msgid="6199547169049414230" name="nav_source_atv">"ATV"</string>
+    <string msgid="5152302644958567371" name="nav_source_dtv">"DTV"</string>
+    <string msgid="2932465973368848409" name="nav_source_main_title">"உள்ளீடுகள்"</string>
+    <string msgid="3984145309082960750" name="nav_source_sub_title">"Sub"</string>
+    <string msgid="7937093959037218994" name="nav_ttx_favorite_list">"பிடித்த பக்கங்கள்"</string>
+    <string msgid="4965343578621302243" name="nav_ttx_no_top">"டாப் இல்லை"</string>
+    <string msgid="1849434056018291267" name="nav_ttx_top_block">"தடு"</string>
+    <string msgid="9049629479556534806" name="nav_ttx_top_group">"குழு"</string>
+    <string msgid="6221648624822109190" name="nav_ttx_top_page">"பக்கம்"</string>
+    <string msgid="6769591863518754361" name="nav_uk_EDUCATION">"கல்வி"</string>
+    <string msgid="8189882236519482485" name="nav_uk_NEWS">"செய்திகளும் உண்மை நிகழ்வுகளும்"</string>
+    <string msgid="4595599306746256896" name="nav_uk_category_Lifestyle_Leisure_hobbies">"வாழ்க்கை முறை/ஓய்வுநேரப் பொழுதுபோக்குகள்"</string>
+    <string msgid="5030403358718427171" name="nav_uk_channellist_add_fav">"\'பிடித்தவை\' இல் சேர்"</string>
+    <string msgid="8496350159150880462" name="nav_uk_channellist_player">"விளையாட்டு வீரர்கள்"</string>
+    <string msgid="219791164528735785" name="nav_uk_channellist_remove_fav">"\'பிடித்தவை\' இலிருந்து அகற்று"</string>
+    <string msgid="7303511441302991257" name="nav_uk_channellist_type_fav">"பிடித்தவை"</string>
+    <string msgid="5986175772967350438" name="nav_uk_channellist_type_hd">"HD சேனல்கள்"</string>
+    <string msgid="2219677295274235253" name="nav_uk_channellist_type_interactive">"ஊடாடத்தக்க சேனல்கள்"</string>
+    <string msgid="3901748556238195401" name="nav_uk_channellist_type_ipapp">"IP ஆப்ஸ் சேனல்கள்"</string>
+    <string msgid="4852246670688130011" name="nav_uk_channellist_type_ipapp_ip_channel">"IP சேனல்கள்"</string>
+    <string msgid="3039380889608556576" name="nav_uk_channellist_type_radio">"ரேடியோ சேனல்கள்"</string>
+    <string msgid="418747611250263057" name="nav_unknown_audio">"தெரியாத ஆடியோ வகை"</string>
+    <string msgid="1960427620589764744" name="nav_unknown_audio_sundry">"தெரியவில்லை"</string>
+    <string msgid="6851427853792848474" name="nav_unknown_stereo">"தெரியாத ஸ்டீரியோ"</string>
+    <string msgid="7378640345883431032" name="nav_upgrader_MoreInfo">"மேலும் தகவல்."</string>
+    <string msgid="68677685977452446" name="nav_upgrader_check_fail">"புதிய நிலைபொருள் உள்ளதா எனச் சரிபார்க்க இயலவில்லை."</string>
+    <string msgid="1433605412771472680" name="nav_upgrader_completed">"நிலைபொருள் புதுப்பிக்கப்பட்டது.\nநிலைபொருளைப் பதிவிறக்க டிவியை மீண்டும் தொடங்கவும்."</string>
+    <string msgid="185592686475555093" name="nav_upgrader_confirm">"நிலைபொருளைப் புதுப்பிக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="6277453313226388182" name="nav_upgrader_decry_fail">"டீக்ரிப்ஷன் தோல்வி."</string>
+    <string msgid="2568138728137239753" name="nav_upgrader_download_fail">"நெட்வொர்க்கிலிருந்து நிலைபொருளைப் பதிவிறக்க முடியவில்லை."</string>
+    <string msgid="2054272664938450834" name="nav_upgrader_failed">"புதுப்பிக்க இயலவில்லை.\nநிலைபொருளைப் பதிவிறக்க டிவியை மீண்டும் தொடங்கவும்."</string>
+    <string msgid="217630650334359123" name="nav_upgrader_firmware_invalid">"செல்லாத நிலைபொருள்."</string>
+    <string msgid="4389691957216704028" name="nav_upgrader_internal_err">"அகப் பிழை."</string>
+    <string msgid="1502059087895454643" name="nav_upgrader_invalid">"பட ஃபைலின் நிலைபொருள் தவறானது!"</string>
+    <string msgid="7871307630536776066" name="nav_upgrader_no_update">"புதுப்பிப்பதற்கு நிலைபொருள் எதுவும் இல்லை."</string>
+    <string msgid="3579172277955128322" name="nav_upgrader_not_avail_firmware">"நிலைபொருள் பதிப்பு எதுவும் இல்லை."</string>
+    <string msgid="2148803173276888193" name="nav_upgrader_power">"பவர்"</string>
+    <string msgid="4322711666412270344" name="nav_upgrader_retry">"புதுப்பிக்க முடியவில்லை.\nமீண்டும் முயல வேண்டுமா?"</string>
+    <string msgid="8339244791652128051" name="nav_upgrader_retry2">"புதுப்பிக்க இயலவில்லை. USBயைச் செருகவும்.\nமீண்டும் முயல விரும்புகிறீர்களா?"</string>
+    <string msgid="2584420305904044750" name="nav_upgrader_title">"விசார்டு மெனுவைப் புதுப்பிக்கிறது"</string>
+    <string msgid="9104450900608728584" name="nav_upgrader_updating">"புதுப்பிக்கிறது..."</string>
+    <string msgid="5391382330036796702" name="nav_upgrader_usb_not_ready">"USB டாங்கிள் தயாராக இல்லை, செருகி மீண்டும் முயலவும்."</string>
+    <string msgid="8543029645051862073" name="nav_upgrader_usb_problem">"USB டாங்கிளில் ஏதோ சிக்கல் உள்ளது."</string>
+    <string msgid="7664091580717615400" name="nav_upgrader_usb_space_not_enough">"USB டாங்கிளில் போதிய சேமிப்பிடம் இல்லை."</string>
+    <string msgid="4761068359114556988" name="nav_upgrader_validate">"நிலைபொருளைச் சரிபார்க்கிறது..."</string>
+    <string msgid="8436059139284528381" name="nav_upgrader_warnning">"நிலைபொருள் புதுப்பிக்கப்படும்போது USB டாங்கிளை அகற்றவோ டிவியை ஆஃப் செய்யவோ கூடாது!"</string>
+    <string msgid="8985415486230287339" name="nav_volume_main">"முதன்மை ஒலியளவு"</string>
+    <string msgid="385809644281808411" name="nav_zoom_x1">"ஜூம் X 1"</string>
+    <string msgid="6011779723156123987" name="nav_zoom_x1_2">"ஜூம் X 1/2"</string>
+    <string msgid="2720215545960741306" name="nav_zoom_x2">"ஜூம் X 2"</string>
+    <string msgid="6176108713668500983" name="network_not_avaiable">"நெட்வொர்க் கிடைக்கவில்லை"</string>
+    <string msgid="2620718003929766549" name="no_program_information">"நிகழ்ச்சி தொடர்பான தகவல் எதுவுமில்லை"</string>
+    <string msgid="2138706123507764923" name="no_support_epg">"EPG ஆதரிக்கப்படவில்லை!"</string>
+    <string msgid="2564706635374985520" name="not_enough_space">"போதிய இடம் இல்லை. டிஸ்க்கில் குறைந்தபட்சம் 1 ஜி.பை. இடமாவது இருக்க வேண்டும்."</string>
+    <string msgid="4949105063973409628" name="not_support_fb">"ரீவைண்ட் வசதி ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="4915685677306383736" name="not_support_ff">"ஃபாஸ்ட்ஃபார்வட் வசதி ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="2945606375091157535" name="not_support_ff_fb">"ஃபார்வர்டும் ரீவைண்டும் ஆதரிக்கப்படவில்லை"</string>
+    <string msgid="2577844873443781633" name="oad_channel_jump_title">"OAD மூலம் சேனலை டியூன் செய்"</string>
+    <string msgid="3047029303285767785" name="oad_download_bgm_title">"BGMமில் பதிவிறக்குதல்"</string>
+    <string msgid="4877708338250766856" name="oad_downloading_title">"பதிவிறக்குகிறது"</string>
+    <string msgid="7192443817118007645" name="oad_flash_failed_title">"மேம்படுத்துதல் தோல்வியடைந்தது"</string>
+    <string msgid="2410275374412762890" name="oad_linkage_found">"OAD பிணைப்பு கண்டறியப்பட்டுள்ளது, சேனலை டியூன் செய்ய விரும்புகிறீர்களா?"</string>
+    <string msgid="6948481951924283977" name="oad_restart_to_proceed_title">"நிறுவ மீண்டும் தொடங்குக"</string>
+    <string msgid="7014087140650340990" name="oad_scan_failed_description">"ஸ்கேன் செய்ய முடியவில்லை. மீண்டும் முயலவா?"</string>
+    <string msgid="4968696677300239126" name="oad_scanning_tip">"OAD ஸ்கேன் நிறைவடைய சிறிது நேரம் ஆகலாம்"</string>
+    <string msgid="1737670690057789082" name="oad_schedule_title">"OAD திட்டமிடல்"</string>
+    <string msgid="4850983469749879770" name="one_key_ch_last">"CH -"</string>
+    <string msgid="209588048760330201" name="one_key_ch_next">"CH +"</string>
+    <string msgid="4009784748638794309" name="one_key_power_off">"பவர்"</string>
+    <string msgid="79156765527125949" name="one_key_powered_off">"பவர் ஆஃப்"</string>
+    <string msgid="6554721728000374639" name="one_key_source_control">"மூலம்"</string>
+    <string msgid="8730424095805619277" name="one_key_title">"செயல்பாட்டு விசைக்கான மெனு"</string>
+    <string msgid="2022523121682095052" name="one_key_volume_decrease">"ஒலியளவு -"</string>
+    <string msgid="8173734395735427399" name="one_key_volume_increase">"ஒலியளவு +"</string>
+    <string msgid="5859306912976445887" name="option_attribution">"ரேட்டிங் தொடர்பான விளக்கங்களுக்கான மூலங்கள்"</string>
+    <string msgid="919063147302651327" name="option_block_unrated_programs">"ரேட்டிங் இல்லாத நிகழ்ச்சிகளைத் தடு"</string>
+    <string msgid="1933418586775188460" name="option_change_pin">"பின்னை மாற்று"</string>
+    <string msgid="1308860815117282408" name="option_channels_lock_all">"அனைத்தையும் தடு"</string>
+    <string msgid="4278553646650920903" name="option_channels_locked">"தடுக்கப்பட்டுள்ள சேனல்கள்"</string>
+    <string msgid="8525566190972924859" name="option_channels_skip_all">"அனைத்தையும் தவிர்க்கும்"</string>
+    <string msgid="7577132153514645863" name="option_channels_subheader_hidden">"மறைக்கப்பட்டுள்ள சேனல்கள்"</string>
+    <string msgid="8863189264168651216" name="option_channels_unlock_all">"அனைத்தையும் அனுமதி"</string>
+    <string msgid="2008840585521526440" name="option_channels_unskip_all">"எதையும் தவிர்க்க வேண்டாம்"</string>
+    <string msgid="1392413757942636834" name="option_country_rating_systems">"ரேட்டிங் சிஸ்டங்கள்"</string>
+    <string msgid="5018552805474427630" name="option_inputs_locked">"தடுக்கப்பட வேண்டியவை"</string>
+    <string msgid="4556667077460286621" name="option_item_source">"மூலம்"</string>
+    <string msgid="893654855305492748" name="option_no_locked_channel">"எதுவுமில்லை"</string>
+    <string msgid="2858973210829446465" name="option_program_open_vchip">"RRT5 அமைப்பு"</string>
+    <string msgid="4040225166560427264" name="option_program_restrictions">"நிகழ்ச்சி தொடர்பான கட்டுப்பாடுகள்"</string>
+    <string msgid="7979151968299060057" name="option_rating_custom">"பிரத்தியேகமாக்கு"</string>
+    <string msgid="5626098292379342615" name="option_rating_custom_description">"நேரடிக் கட்டுப்பாடுகள்"</string>
+    <string msgid="4823561495527911126" name="option_rating_high">"அதிகக் கட்டுப்பாடுகள்"</string>
+    <string msgid="2263330370930290830" name="option_rating_high_description">"சிறுவர்களுக்கு ஏற்றது"</string>
+    <string msgid="6799595596891724805" name="option_rating_low">"குறைவான கட்டுப்பாடுகள்"</string>
+    <string msgid="6998332910682382011" name="option_rating_low_description">"டீன் ஏஜர்களுக்கு ஏற்றது"</string>
+    <string msgid="1315066690064706951" name="option_rating_medium">"நடுத்தரக் கட்டுப்பாடுகள்"</string>
+    <string msgid="5208544963533615943" name="option_rating_medium_description">"சற்றே வளர்ந்தவர்களுக்கானது"</string>
+    <string msgid="2660806052790302617" name="option_ratings">"ரேட்டிங்குகள்"</string>
+    <string msgid="4730040709343309680" name="option_ratings_age">"வயது சார்ந்த ரேட்டிங்குகள்"</string>
+    <string msgid="2743117466268053677" name="option_ratings_content">"உள்ளடக்க ரேட்டிங்குகள்"</string>
+    <string msgid="6201049705170695880" name="option_see_all_rating_systems">"அனைத்து ரேட்டிங் அமைப்புகளையும் காட்டு"</string>
+    <string msgid="8076550601405699796" name="option_subrating_header">"துணை ரேட்டிங்குகள்"</string>
+    <string msgid="8895683546288375781" name="option_subrating_title">"<ns1:g id="OPTION_SUBRATING">%1$s</ns1:g> மற்றும் துணை ரேட்டிங்குகள்"</string>
+    <string msgid="1676835230755231708" name="options_item_add_to_favorite_normal">"எனக்குப் பிடித்தவற்றில் சேர்"</string>
+    <string msgid="1544428407279964983" name="options_item_add_to_favorite_selected">"எனக்குப் பிடித்தவை"</string>
+    <string msgid="5853195639158707605" name="options_item_closed_caption">"வசனங்கள்"</string>
+    <string msgid="7841703877115700888" name="options_item_display_mode">"காட்சிப் பயன்முறை"</string>
+    <string msgid="8072740194649321532" name="options_item_more_channels">"மேலும் சேனல்களைப் பெறு"</string>
+    <string msgid="1114519104794016159" name="options_item_my_fav_edit">"மாற்று"</string>
+    <string msgid="5810386866875884047" name="options_item_picture_style">"படப் பயன்முறை"</string>
+    <string msgid="1453090179989181072" name="options_item_settings">"அமைப்புகள்"</string>
+    <string msgid="122267496452408739" name="options_item_sounds_style">"சவுண்ட் ஸ்டைல்"</string>
+    <string msgid="713533890590523853" name="options_item_speakers">"ஸ்பீக்கர்கள்"</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"தேடல் செயல்"</string>
+    <string msgid="4596971851245610516" name="other_countries">"பிற நாடுகள்"</string>
+    <string msgid="5916835708420351938" name="pager_left">"முந்தைய பக்கம்"</string>
+    <string msgid="4968062902568815399" name="pager_mid">"நீக்கு"</string>
+    <string msgid="7603224449754953394" name="pager_right">"அடுத்த பக்கம்"</string>
+    <string msgid="7370943383274566757" name="parental_open_vchip_dim">"RRT5 டிம்"</string>
+    <string msgid="2714124932028883408" name="parental_open_vchip_level">"RRT5 நிலை"</string>
+    <string msgid="1033206366441155458" name="parental_open_vchip_region">"RRT5 அமைப்பு"</string>
+    <string msgid="1524137500002115214" name="parental_rrt5_reset">"RRT5ஐ மீட்டமை"</string>
+    <string msgid="5659508326927657540" name="pin_enter_again">"பின்னை உறுதிசெய்யவும்"</string>
+    <string msgid="6301919043650037174" name="pin_enter_create_pin">"பெற்றோர் கட்டுப்பாடுகளை அமைக்க பின்னை உருவாக்கவும்"</string>
+    <string msgid="4029016259168851554" name="pin_enter_new_pin">"புதிய பின்னை உள்ளிடவும்"</string>
+    <string msgid="616711077575827250" name="pin_enter_old_pin">"தற்போதைய பின்னை உள்ளிடவும்"</string>
+    <string msgid="3413604816599667866" name="pin_enter_pin">"பின்னை உள்ளிடுங்கள்"</string>
+    <string msgid="3985838512650380181" name="pin_enter_unlock_channel">"இந்தச் சேனலைப் பார்க்க பின்னை உள்ளிடுங்கள்"</string>
+    <string msgid="5027150578792028257" name="pin_enter_unlock_dvr">"இந்த நிகழ்ச்சி <ns1:g id="RATING">%1$s</ns1:g> ரேட்டிங்கைப் பெற்றுள்ளது. நிகழ்ச்சியைப் பார்க்க பின்னை உள்ளிடுங்கள்"</string>
+    <string msgid="1457727956598351054" name="pin_enter_unlock_dvr_unrated">"இந்த நிகழ்ச்சிக்கு ரேட்டிங் கொடுக்கப்படவில்லை. நிகழ்ச்சியைப் பார்க்க பின்னை உள்ளிடுங்கள்"</string>
+    <string msgid="4241029038098662965" name="pin_enter_unlock_program">"இந்த நிகழ்ச்சியைப் பார்க்க பின்னை உள்ளிடவும்"</string>
+    <string msgid="2549043675305454893" name="pin_toast_not_match">"பின் பொருந்தவில்லை, மீண்டும் முயலவும்"</string>
+    <string msgid="7295547708747589572" name="pin_toast_wrong">"பின் தவறானது. மீண்டும் முயலவும்."</string>
+    <string msgid="4986405808790790433" name="power_on_off_time_same">"ஒரே நேரத்தை இரண்டு டைமர்களில் அமைக்கக்கூடாது. ரீசெட் செய்யவும்"</string>
+    <string msgid="6467202054236523688" name="pro_disk_remove">"சாதனங்கள் இல்லை அல்லது கிடைக்கவில்லை. பிறகு முயலவும்!"</string>
+    <string msgid="6329568671163429699" name="pro_input_lock">"உள்ளீட்டு மூலம் பூட்டப்பட்டுள்ளது!"</string>
+    <string msgid="8983754404763649181" name="pro_internal_error">"அகப் பிழை!"</string>
+    <string msgid="1640001084557796517" name="pro_none_tv_source">"PVRரைத் தொடங்க இயலவில்லை. முதலில் டிஜிட்டல் டிவி சோர்ஸுக்கு மாற்றுங்கள்!"</string>
+    <string msgid="7362200187733688632" name="pro_pip_running">"PVRரைத் தொடங்க இயலவில்லை. முதலில் PIPயிலிருந்து வெளியேறவும்!"</string>
+    <string msgid="6520366875348857107" name="pro_pvr_running">"டைம்ஷிஃப்ட் இல்லை. முதலில் PVRரிலிருந்து வெளியேறவும்."</string>
+    <string msgid="317426771654592603" name="pro_signal_loss">"PVRரைத் தொடங்க இயலவில்லை. சிக்னல் கிடைக்கவில்லை!"</string>
+    <string msgid="1518360166410122547" name="pro_stream_not_authorized">"ஸ்ட்ரீம் அங்கீகரிக்கப்படவில்லை!"</string>
+    <string msgid="6945804649462258510" name="pro_stream_not_available">"AV ஸ்ட்ரீம் இல்லை!"</string>
+    <string msgid="8744947546295367404" name="pro_time_shift_disk_not_ready">"டிஸ்க் தயாராக இல்லை!"</string>
+    <string msgid="299292333603331577" name="pro_tshift_running">"PVRரைத் தொடங்க இயலவில்லை. டைம்ஷிஃப்ட் இயங்குகிறது!"</string>
+    <string msgid="8338964372355276797" name="pro_video_resolution_error">"வீடியோ தெளிவுத்திறன் பிழை!"</string>
+    <string msgid="4637995776353107319" name="program_title_with_episode_number">"<ns1:g id="PROGRAMNAME">%1$s</ns1:g> சீ<ns1:g id="SEASONNUMBER">%2$s</ns1:g>: எபி. <ns1:g id="EPISODENUMBER">%3$s</ns1:g>"</string>
+    <string msgid="1743483596922267494" name="pvr_confirm_no">"இல்லை"</string>
+    <string msgid="1960977629850737637" name="pvr_confirm_yes">"ஆம்"</string>
+    <string msgid="732207163687513098" name="pvr_deviceinfo_format">"ஃபார்மேட் செய்"</string>
+    <string msgid="8686619785147159232" name="pvr_deviceinfo_info">"தகவல்"</string>
+    <string msgid="1812035881698409659" name="pvr_deviceinfo_set_pvr">"PVRரை அமை"</string>
+    <string msgid="638982818771137638" name="pvr_deviceinfo_set_timeshift">"டைம்ஷிஃப்ட்டை அமை"</string>
+    <string msgid="1705696933436508819" name="pvr_deviceinfo_speed_test">"வேகப் பரிசோதனை"</string>
+    <string msgid="473183767606082352" name="pvr_dialog_Loadding">"ஏற்றுகிறது"</string>
+    <string msgid="3411787444556554562" name="pvr_dialog_formatting">"ஃபார்மேட் செய்கிறது"</string>
+    <string msgid="6695036643563889270" name="pvr_disk_ispvr_pvr_tshift">"PVR/டைம்ஷிஃப்ட்"</string>
+    <string msgid="8895833207517205045" name="pvr_disk_no_name">"பெயர் இல்லை"</string>
+    <string msgid="5047713114089933131" name="pvr_disksetup_disk_setup">"டிஸ்க் அமைவு"</string>
+    <string msgid="2027643471229072718" name="pvr_disksetup_select">"தேர்ந்தெடு"</string>
+    <string msgid="286512503027071771" name="pvr_file_list_no_eit">"EIT இல்லாததால் பகுதியளவு பதிவு செய்யப்படுகிறது!"</string>
+    <string msgid="5063609682989327692" name="pvr_file_list_no_eit_singal_loss">"EIT இல்லாததாலும் சிக்னல் இழப்பு ஏற்பட்டதாலும் பகுதியளவு பதிவு செய்யப்படுகிறது!"</string>
+    <string msgid="3168384973802632224" name="pvr_file_list_singal_loss">"சிக்னல் இழப்பு ஏற்பட்டதால் பகுதியளவு பதிவு செய்யப்படுகிறது!"</string>
+    <string msgid="3971729435570427497" name="pvr_file_list_specia_toast">"ரெக்கார்டிங்கின் ஒரு பகுதி சேமிக்கப்பட்டது. ரெக்கார்டிங்கின் போது மின்னிணைப்பு ஆஃப் செய்யப்பட்டது."</string>
+    <string msgid="2700249281983575436" name="pvr_playlist_channel_name">"சேனலின் பெயர்"</string>
+    <string msgid="7441439086772670454" name="pvr_playlist_channel_num">"சேனல் எண்"</string>
+    <string msgid="5088425874562384948" name="pvr_playlist_date">"தேதி"</string>
+    <string msgid="8154163383737436183" name="pvr_playlist_duration">"கால அளவு"</string>
+    <string msgid="2832544805028365267" name="pvr_playlist_info">"தகவல்"</string>
+    <string msgid="462603358423284402" name="pvr_playlist_page_down">"பக்கத்தின் கீழே"</string>
+    <string msgid="7872028984404843967" name="pvr_playlist_page_up">"பக்கத்தின் மேலே"</string>
+    <string msgid="7787340288465263048" name="pvr_playlist_program_name">"ஃபைலின் பெயர்"</string>
+    <string msgid="7464433327310697729" name="pvr_playlist_programe_info">"நிகழ்ச்சி தொடர்பான தகவல்"</string>
+    <string msgid="6676719393966953458" name="pvr_playlist_record_detail">"ரெக்கார்டு விவரம்"</string>
+    <string msgid="6385411317725709030" name="pvr_playlist_record_list">"ரெக்கார்டு செய்தவை"</string>
+    <string msgid="7665349581842466301" name="pvr_playlist_time">"நேரம்"</string>
+    <string msgid="3866986988910255809" name="pvr_playlist_week">"வாரம்"</string>
+    <string msgid="2667946459618756921" name="pvr_running_warning_msg">"PVR இயங்குகிறது அல்லது PVR கோப்பு இயங்குகிறது.\nஅதை நிறுத்திவிட்டு பின்னர் மீண்டும் முயலவும்."</string>
+    <string msgid="2572035665912933037" name="pvr_save_record">"PVRரை நிறுத்தியபிறகு ரெக்கார்டிங்கைச் சேமிக்கவும்."</string>
+    <string msgid="6110852830700398259" name="pvr_schedule_add">"சேர்"</string>
+    <string msgid="3135146425081661396" name="pvr_schedule_cancel">"ரத்துசெய்"</string>
+    <string msgid="6869378196887302864" name="pvr_schedule_edit">"திருத்து"</string>
+    <string msgid="2077309687182548451" name="pvr_schedule_max_schedule_error">"ரெக்கார்டிங் அட்டவணையில் சேர்ப்பதற்குக் கோரப்பட்ட வீடியோக்களின் எண்ணிக்கை அனுமதிக்கப்பட்ட அதிகபட்ச அளவை மீறுவதாக உள்ளது!"</string>
+    <string msgid="7896175252425269525" name="pvr_schedule_ok">"சரி"</string>
+    <string msgid="5856456294154475187" name="pvr_schedule_replace">"மாற்று"</string>
+    <string msgid="6133534846130873072" name="pvr_schedule_time_error">"தொடக்க நேரப் பிழை, இப்போதுள்ள நேரம் தற்போதைய நேரத்துக்கு முந்தையதாக உள்ளது."</string>
+    <string msgid="3584652870083785079" name="pvr_schedulelist_delete_line1">"திட்டத்தை நீக்கவா?"</string>
+    <string msgid="1095814224051622093" name="pvr_schedulelist_delete_line2">"இவற்றை நீக்க வேண்டுமா?"</string>
+    <string msgid="1964336334167319443" name="pvr_schedulelist_replace_line1">"திட்டங்கள் ஒன்றிப்போகின்றன!"</string>
+    <string msgid="3784414124800559080" name="pvr_schedulelist_replace_line2">"இவற்றை மாற்ற வேண்டுமா?"</string>
+    <string msgid="5117651242858869047" name="pvr_schedulepvr_add_schedule">"திட்டத்தைச் சேர்"</string>
+    <string msgid="3263076279672391726" name="pvr_schedulepvr_record">"ரெக்கார்டு செய்"</string>
+    <string msgid="319347236544867326" name="pvr_schedulepvr_schedule_list">"திட்டங்கள்"</string>
+    <string msgid="7027839432116753202" name="pvr_schedulepvr_schedule_list2">"திட்டங்கள்"</string>
+    <string msgid="2575698815926464983" name="pvr_schedulepvr_selected">"தேர்ந்தெடுத்தவை"</string>
+    <string msgid="5040919860922460694" name="pvr_schedulepvr_week">"வாரம்"</string>
+    <string msgid="5062139540953124754" name="pvr_title_device_info">"சாதனத் தகவல்"</string>
+    <string msgid="2905842702207528862" name="pvrplay_file_deficiency">"கோப்பு நீளம் தவறானது!"</string>
+    <string msgid="3930030730202531332" name="rating_not_defined">"வரையறுக்கப்படவில்லை"</string>
+    <string msgid="8052768659911065234" name="rating_schedule_block">"தடு"</string>
+    <string msgid="90379047922234847" name="rating_schedule_off">"ஆஃப்"</string>
+    <string msgid="2286124473198629391" name="rating_years">"ஆண்டுகள்"</string>
+    <string msgid="6436447919555650534" name="recording_formate_msg">"டிஸ்க்கை ஃபார்மேட் செய்ய முடியவில்லை. ரெக்கார்டு செய்கிறது!"</string>
+    <string msgid="2437056584091944552" name="satellites">"சாட்டிலைட்கள்"</string>
+    <string msgid="4703140098131614774" name="scan_exit_tip">"ஸ்கேன் பக்கத்திலிருந்து வெளியேற [பின்செல்/வெளியேறு] என்பதை அழுத்தவும்."</string>
+    <string msgid="4432949124051604385" name="scan_trd_fav_network">"பிடித்த நெட்வொர்க்கைத் தேர்ந்தெடுக்கவும்:"</string>
+    <string msgid="8248507858900319578" name="scan_trd_lcn_CONFLICT_CHANL_NUM">"முரண்படும் சேனல் எண்:"</string>
+    <string msgid="2886988137950355383" name="scan_trd_lcn_CONFLICT_INDEX">"முரண்படும் குழுக் குறியீடு:"</string>
+    <string msgid="5499850751634484897" name="scan_trd_lcn_CONFLICT_USE_DEFAULT">"அனைத்திற்கும் இயல்புநிலை அமைப்பைப் பயன்படுத்தும்"</string>
+    <string msgid="6777686697506190937" name="scan_trd_lcnv2_title">"சேனல் பட்டியலைத் தேர்ந்தெடுக்கவும்:"</string>
+    <string msgid="7007913898492887551" name="scan_trd_pt_save_channel">"தேடல் முடிவுகளை சேமிக்க வேண்டுமா?"</string>
+    <string msgid="7414490297579669812" name="scan_trd_turkey_tkgs_update_scan">"இது புதுப்பிக்கப்பட்டதுதான்.\n பதிவிறக்குவதை தொடரவா?"</string>
+    <string msgid="7057836872283539861" name="scan_trd_uk_reg_reg_nodefine">"எதுவும் குறிப்பிடப்படவில்லை"</string>
+    <string msgid="7011732649786693105" name="scan_trd_uk_reg_reg_x">"பிராந்தியம் <ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>"</string>
+    <string msgid="2002648253057830525" name="scan_way">"ஸ்கேன் பயன்முறையைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="7033470766507631908" name="schedule_pvr_channel_num">"சேனல் தொடர்பான தகவல்"</string>
+    <string msgid="2405300786656196134" name="schedule_pvr_reminder_type">"திட்ட அட்டவணை வகை"</string>
+    <string msgid="769903071861617735" name="schedule_pvr_repeat_type">"மீண்டும் காட்டுவதற்கான வகை"</string>
+    <string msgid="7227298346850974232" name="schedule_pvr_srctype">"மூல வகை"</string>
+    <string msgid="5682115056414411309" name="schedule_pvr_start_date">"தொடங்கும் தேதி"</string>
+    <string msgid="5399050783975179444" name="schedule_pvr_start_time">"தொடக்க நேரம்"</string>
+    <string msgid="2057408639553834766" name="schedule_pvr_stop_time">"முடிவு நேரம்"</string>
+    <string msgid="1102370370491303160" name="schedulelist_nofiles">"ரெக்கார்டு செய்ய திட்டம் எதுவும் இல்லை! சேர்ப்பதற்கு \'ரெக்கார்டு செய்\' விசையை அழுத்துக."</string>
+    <string msgid="188335947614278738" name="schedulelist_nofiles_disable_add">"ரெக்கார்டு செய்ய திட்டம் எதுவும் இல்லை!"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"தேடு"</string>
+    <string msgid="6982631071764474437" name="select_channel_title">"சேனல் பட்டியலைத் தேர்ந்தெடுத்தல்"</string>
+    <string msgid="8452853862535028462" name="select_region_detail_title">"<ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>க்கான பகுதி தேர்ந்தெடுக்கப்பட்டுள்ளது"</string>
+    <string msgid="6909113383906775952" name="select_region_title">"பகுதியைத் தேர்ந்தெடுங்கள்"</string>
+    <string msgid="4653062046959284678" name="selected">"தேர்ந்தெடுத்தவை"</string>
+    <string msgid="3192336140991154148" name="settings_menu_licenses">"ஓப்பன் சோர்ஸ் உரிமங்கள்"</string>
+    <string msgid="3837780715001543416" name="setup_back">"முந்தையது"</string>
+    <string msgid="688699805047968989" name="setup_cable_select_operation">"ஆபரேட்டரைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="3046886112072318375" name="setup_cable_setting_title">"கேபிள் தகவலை உள்ளமைக்கவும்."</string>
+    <string msgid="5890077326704095589" name="setup_category_done">"மூலங்கள்"</string>
+    <string msgid="6994855730807922321" name="setup_category_new">"புதியவை"</string>
+    <string msgid="629173256579318536" name="setup_country">"நாடு"</string>
+    <string msgid="6895556328920770170" name="setup_country_cty_1">"ஆஸ்திரியா"</string>
+    <string msgid="3056297609456613005" name="setup_country_cty_10">"யுனைடெட் கிங்டம்"</string>
+    <string msgid="4886485417104780550" name="setup_country_cty_11">"இத்தாலி"</string>
+    <string msgid="2664156860205384207" name="setup_country_cty_12">"லக்சம்பர்க்"</string>
+    <string msgid="362195204633077934" name="setup_country_cty_13">"நெதர்லாந்து"</string>
+    <string msgid="4958582868096425639" name="setup_country_cty_14">"நார்வே"</string>
+    <string msgid="1646322127343084018" name="setup_country_cty_15">"சுவீடன்"</string>
+    <string msgid="8041191922706061880" name="setup_country_cty_16">"பல்கேரியா"</string>
+    <string msgid="8287793660007172956" name="setup_country_cty_17">"குரோஷியா"</string>
+    <string msgid="3342594133100842340" name="setup_country_cty_18">"கிரீஸ்"</string>
+    <string msgid="6887153920694730657" name="setup_country_cty_19">"ஹங்கேரி"</string>
+    <string msgid="2803937035365082471" name="setup_country_cty_2">"பெல்ஜியம்"</string>
+    <string msgid="3927879336029866856" name="setup_country_cty_20">"அயர்லாந்து"</string>
+    <string msgid="83779937097370574" name="setup_country_cty_21">"போலந்து"</string>
+    <string msgid="413264530388355855" name="setup_country_cty_22">"போர்ச்சுகல்"</string>
+    <string msgid="6819226363331994829" name="setup_country_cty_23">"ருமேனியா"</string>
+    <string msgid="5352514055951286995" name="setup_country_cty_24">"ரஷ்யா"</string>
+    <string msgid="305619576638207540" name="setup_country_cty_25">"செர்பியா"</string>
+    <string msgid="1534705148291674933" name="setup_country_cty_26">"ஸ்லோவாக்கியா"</string>
+    <string msgid="6357379183553936835" name="setup_country_cty_27">"ஸ்லொவேனியா"</string>
+    <string msgid="9100572966992266131" name="setup_country_cty_28">"துருக்கி"</string>
+    <string msgid="5725492303681548415" name="setup_country_cty_29">"எஸ்டோனியா"</string>
+    <string msgid="6540541202129861400" name="setup_country_cty_3">"சுவிட்சர்லாந்து"</string>
+    <string msgid="6813760029259647258" name="setup_country_cty_30">"ஆஸ்திரேலியா"</string>
+    <string msgid="90824140511863915" name="setup_country_cty_31">"நியூசிலாந்து"</string>
+    <string msgid="3334442635649234712" name="setup_country_cty_32">"இந்தோனேஷியா"</string>
+    <string msgid="6081164770807313636" name="setup_country_cty_4">"செக் குடியரசு"</string>
+    <string msgid="5026555588176089149" name="setup_country_cty_5">"ஜெர்மனி"</string>
+    <string msgid="7104231423165151711" name="setup_country_cty_6">"டென்மார்க்"</string>
+    <string msgid="1418014150397903839" name="setup_country_cty_7">"ஸ்பெயின்"</string>
+    <string msgid="5994370917125174600" name="setup_country_cty_8">"ஃபின்லாந்து"</string>
+    <string msgid="922526384418070923" name="setup_country_cty_9">"ஃபிரான்ஸ்"</string>
+    <string msgid="4280149641479169806" name="setup_dvbc_config_frequency">"அலைவரிசை (KHz)"</string>
+    <string msgid="5423558599892759094" name="setup_dvbc_config_modulation">"மாடுலேஷன்"</string>
+    <string msgid="3521583765915663578" name="setup_dvbc_config_networkid">"நெட்வொர்க் ஐடி"</string>
+    <string msgid="5698976511626122153" name="setup_dvbc_config_scanmode">"ஸ்கேன் பயன்முறை"</string>
+    <string msgid="2667479134977248624" name="setup_dvbc_config_symbolrate">"சிம்பல் ரேட் (Ksym/s)"</string>
+    <string msgid="205937058253974527" name="setup_dvbc_setting">"கேபிள் தகவலை உள்ளமைக்கவும்."</string>
+    <string msgid="7127970425088180426" name="setup_dvbs_config_info_title">"ஸ்கேன் விவரத்தை உள்ளமைக்கவும்."</string>
+    <string msgid="2064992804597231981" name="setup_dvbs_config_setting_title">"ஆண்ட்டெனா வகை உள்ளமைவை அமைக்கவும்."</string>
+    <string msgid="803120765751219932" name="setup_dvbs_satellite_config">"ஆண்ட்டெனா அமைவு"</string>
+    <string msgid="7266127057913994977" name="setup_dvbs_satellite_config_title">"சாட்டிலைட்டின் அளவுருகளை அமைக்கவும்."</string>
+    <string msgid="2131317949979552719" name="setup_dvbs_satellite_config_tp_title">"டிரான்ஸ்பாண்டர் அளவுருக்களை அமைக்கவும்."</string>
+    <string msgid="2800767936028832872" name="setup_dvbs_satellite_list_title">"தேர்ந்தெடுத்த சாட்டிலைட்டை ஸ்கேன் அல்லது திருத்த வேறு சாட்டிலைட்டுகளைத் தேர்வுசெய்யவும்."</string>
+    <string msgid="3930677461028817109" name="setup_dvbs_statellite_select_operator">"ஆபரேட்டரைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="8612565925665677402" name="setup_dvbs_statellite_select_operator_title">"இந்த ஆபரேட்டர்களிலிருந்து ஒருவரை மட்டுமே தேர்வு செய்ய இயலும்."</string>
+    <string msgid="5784290849900230632" name="setup_dvbs_statellite_type">"சாட்டிலைட் வகை"</string>
+    <string msgid="4321564817055396329" name="setup_dvbs_statellite_type_title">"சாட்டிலைட் வகையைத் தேர்ந்தெடுக்கவும்."</string>
+    <string msgid="2146465055653514914" name="setup_exit">"வெளியேறு"</string>
+    <string msgid="6042999728027852143" name="setup_input_new">"புதியவை"</string>
+    <string msgid="6259265010188436855" name="setup_input_no_channels">"சேனல்கள் எதுவுமில்லை"</string>
+    <string msgid="6101285296981157962" name="setup_input_setup_now">"அமைக்கப்படவில்லை"</string>
+    <string msgid="7977082283099331083" name="setup_language_english_value">"புரோகிராமிங்"</string>
+    <string msgid="4079616525492116810" name="setup_next">"அடுத்து"</string>
+    <string msgid="1270661539800592611" name="setup_select">"தேர்ந்தெடு"</string>
+    <string msgid="3792242598534721731" name="setup_select_country">"உங்கள் நாட்டைத் தேர்ந்தெடுக்கவும்:"</string>
+    <string msgid="2441186944736538796" name="setup_select_set">"அமை"</string>
+    <string msgid="8378902213632723169" name="setup_set_password_success_msg">"கடவுச்சொல் அமைக்கப்பட்டது!"</string>
+    <string msgid="2206368276427679430" name="setup_set_password_titile1">"புதிய கடவுச்சொல்"</string>
+    <string msgid="747455523215475524" name="setup_set_password_titile2">"கடவுச்சொல்லை உறுதிப்படுத்தவும்"</string>
+    <string msgid="4717439873577912103" name="setup_set_password_title">"கடவுச்சொல்லை அமைக்கவும்.0000 என்பது தவறு"</string>
+    <string msgid="8494012850018716458" name="setup_set_postal_code_editview">"அஞ்சல் குறியீடு"</string>
+    <string msgid="2109762842032636610" name="setup_set_postalcode">"அஞ்சல் குறியீட்டை உள்ளிடவும்."</string>
+    <string msgid="4897012831013531040" name="setup_set_timezone">"நேர மண்டலத்தை தேர்ந்தெடுக்கவும்:"</string>
+    <string msgid="3493578292062301829" name="setup_sources_description">"ஆப்ஸ் வழங்கும் ஸ்ட்ரீமிங் சேனல்களுடன் வழக்கமான டிவி சேனல்களின் அனுபவத்தை LiveTV ஒன்றிணைக்கிறது. \n\nஏற்கனவே நிறுவியுள்ள சேனல்களை அமைப்பதன் மூலமோ நேரலை சேனல்களை வழங்கும் வேறு ஆப்ஸை ஆன்லைன் ஸ்டோரில் தேடி நிறுவுவதன் மூலமோ தொடங்கவும்."</string>
+    <string msgid="1716850046551772892" name="setup_sources_text">"மூலங்களை அமைத்தல்"</string>
+    <string msgid="8379334586479456426" name="setup_timezone">"நேர மண்டலம்"</string>
+    <string msgid="7448337163528445810" name="side_panel_title_closed_caption">"வசனங்கள்"</string>
+    <string msgid="2187576517473489816" name="simple_dialog_title_error">"பிழை ஏற்பட்டுள்ளது"</string>
+    <string msgid="6154915111682423960" name="simple_dialog_title_info">"தகவல்"</string>
+    <string msgid="3614091485269772625" name="simple_dialog_title_warning">"எச்சரிக்கை"</string>
+    <string msgid="7541760001731796341" name="sleep_timer_btn_text">"தொடர்வதற்கு ஏதேனும் விசையை அழுத்துக"</string>
+    <string msgid="3481648915016121208" name="sleep_timer_tip_text">"பவர் ஆஃப் செய்யப்படும்."</string>
+    <string msgid="1081306172806831092" name="sound_category_title">"ஒலி"</string>
+    <string msgid="6145194094666622568" name="sound_tracks_hoh">"கேட்பதற்குக் கடினமாக உள்ளது"</string>
+    <string msgid="822349293465951769" name="source_setup">"மூல அமைவு"</string>
+    <string msgid="2284363079428727321" name="special_config_lable">"CH<ns1:g id="CONFIG_LABLE">%1$s</ns1:g>"</string>
+    <string msgid="8622200974026625558" name="special_input_toast">"<ns1:g id="INPUT_NAME">%1$s</ns1:g> சாதனம் எதுவுமில்லை!"</string>
+    <string msgid="5322063480296424872" name="state_file_pvr_playback">"PVR பிளேபேக்"</string>
+    <string msgid="5466156974132732806" name="state_pvr_recording">"ரெக்கார்டு செய்யப்படுகிறது!"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="4738306056683483195" name="str">"பிடித்தவை<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="7459990367583595146" name="str_Fav_x">"பிடித்தவை<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="8370264809404019282" name="str_uk_banner_indication_previous">"முந்தையது"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="877460059955531605" name="timeshfit_forwarding">"ஃபார்வர்டு ஆகிறது! பின்னர் முயலவும்."</string>
+    <string msgid="910280232790608628" name="timeshfit_no_pre_channel">"மாற்றுவதற்கு எந்தவொரு முந்தையச் சேனலும் இல்லை. \n மேலும் டைம்ஷிஃப்ட் இன்னமும் ரெக்கார்டு செய்து கொண்டிருக்கிறது."</string>
+    <string msgid="1588447156983705802" name="timeshfit_record_full">"டைம்ஷிஃப்ட் பதிவு முழுமையடைந்ததும் தானியக்கமாக இயங்கும்."</string>
+    <string msgid="7880993052133075678" name="timeshfit_rewinding">"ரீவைண்ட் ஆகிறது! பின்னர் முயலவும்."</string>
+    <string msgid="5593578809018652699" name="timeshif_formate_msg">"டிஸ்க்கை ஃபார்மேட் செய்ய முடியவில்லை. டைம்ஷிஃப்ட் இயங்குகிறது!"</string>
+    <string msgid="3296602156291996691" name="timeshift_not_available">"டைம்ஷிஃப்ட் இல்லை"</string>
+    <string msgid="1088177882921640598" name="timeshift_running_warning_msg">"டைம்ஷிஃப்ட் இயங்கிறது.\nஅதை நிறுத்திவிட்டு மீண்டும் முயலவும்!"</string>
+    <string msgid="2943130436776634575" name="timeshift_stopped">"டைம்ஷிஃப்ட் நிறுத்தப்பட்டது."</string>
+    <string msgid="4997081216642996473" name="title_pvr_running">"PVR இயங்குகிறது!"</string>
+    <string msgid="6826940873590467793" name="title_pvr_start">"ரெக்கார்டு செய்யத் தொடங்கு"</string>
+    <string msgid="1710294865725868218" name="title_pvr_stop">"ரெக்கார்டு செய்வதை நிறுத்து"</string>
+    <string msgid="5180683124416001276" name="title_timeshift">"டைம்ஷிஃப்ட்"</string>
+    <string msgid="7480797400286747706" name="tkgs_clear_all_locators">"அனைத்து லொக்கேட்டர்களையும் அழி"</string>
+    <string msgid="7141140606539254579" name="tkgs_click_add_locator">"லொக்கேட்டரைச் சேர்க்க கிளிக் செய்க"</string>
+    <string msgid="3067365535557983232" name="tkgs_delete_locator">"லொக்கேட்டரை நீக்கு"</string>
+    <string msgid="4911249617100313929" name="tkgs_existed_toast">"TKGS லொக்கேட்டர் இருக்கிறது!"</string>
+    <string msgid="8923722375264827912" name="tkgs_hidden_lacator_empty">"மறைநிலை TKGS லொக்கேட்டர்கள் காலியாக உள்ளன"</string>
+    <string msgid="7250647197764179059" name="tkgs_less_than_toast">"லொக்கேட்டர்கள் 5க்கும் குறைவாக இருக்க வேண்டும்."</string>
+    <string msgid="318185164149893952" name="tkgs_locator_item">"TKGS லொக்கேட்டர்"</string>
+    <string msgid="231010818430260587" name="tkgs_mode_auto">"தானியங்கு"</string>
+    <string msgid="6743227536838884132" name="tkgs_mode_customisable">"பிரத்தியேகமாக்கக் கூடியது"</string>
+    <string msgid="4777378373695625922" name="tkgs_no_hidden_locator">"மறைநிலை TKGS லொக்கேட்டர்கள் எதுவும் இல்லை"</string>
+    <string msgid="8002424289283210812" name="tkgs_off">"TKGSஸை ஆஃப் செய்"</string>
+    <string msgid="6577111553169632650" name="tkgs_operator_mode">"ஆப்ரேட் பயன்முறை"</string>
+    <string msgid="1689980875904912549" name="tkgs_reset_hidden_msg">"மறைந்துள்ள அனைத்து லொக்கேட்டர்களையும் அழிக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="8525335849959453030" name="tkgs_reset_table_msg">"டேபிள் பதிப்பை ரீசெட் செய்ய விரும்புகிறீர்களா?"</string>
+    <string msgid="4579987253675950461" name="tkgs_save_locator">"லொக்கேட்டரைச் சேமி"</string>
+    <string msgid="4847872721021191404" name="tkgs_select_service_list">"சேவைப் பட்டியலைத் தேர்ந்தெடுக்கவும்"</string>
+    <string msgid="1121387555194711910" name="tkgs_update_locator">"லொக்கேட்டரை மாற்று"</string>
+    <string msgid="6255941735525243539" name="tkgs_user_msg">"TKGS பயனர் மெசேஜ்"</string>
+    <string msgid="9068822818375928920" name="tnt_hd_nw_chg">"டிவி சேனல்கள் மாற்றப்பட்டுள்ளன, \'ஓகே\' என்பதை அழுத்தி புதுப்பிப்புகளைத் தேடுங்கள்."</string>
+    <string msgid="1064813271461583443" name="tone_burst_port">"டோன் பர்ஸ்ட் போர்ட்"</string>
+    <string msgid="5613585390434807631" name="tuner_tv">"டியூனர்(டிவி)"</string>
+    <string msgid="941689825014756320" name="twinkle_dialog_audio_program_msg">"சேனலில் ஆடியோ நிகழ்ச்சி மட்டுமே உள்ளது."</string>
+    <string msgid="1451097148130839000" name="twinkle_dialog_channel_lock_msg">"நீங்கள் ஒரு சேனல் லாக்கை அமைத்துள்ளதால் சேனல் லாக் செய்யப்பட்டிருக்கிறது. டிவி மெனுவின் வழியாக இதனை மாற்றலாம். திரையை அன்லாக் செய்ய சரி என்பதன் மீது அழுத்தவும்."</string>
+    <string msgid="5649175070655221463" name="twinkle_dialog_channel_lock_title">"சேனல் லாக் செய்யப்பட்டது"</string>
+    <string msgid="532101319394127685" name="twinkle_dialog_hidden_channel_msg">"சேனல் தற்போது கிடைக்கவில்லை. மேலும் தகவல்களுக்கு உங்கள் சேவை வழங்குநரைத் தொடர்புகொள்க."</string>
+    <string msgid="8635344987707182474" name="twinkle_dialog_input_lock_msg">"உங்களால் வரையறுக்கப்பட்ட உள்ளீட்டு மூலப் பூட்டுதலின்படி உள்ளீட்டு மூலம் பூட்டப்பட்டது. டிவி மெனுவின் வழியாக இதை மாற்றலாம். திரையை அன்லாக் செய்ய ENTER விசையை அழுத்துங்கள்."</string>
+    <string msgid="3845747400702657207" name="twinkle_dialog_input_lock_title">"உள்ளீடு பூட்டப்பட்டது"</string>
+    <string msgid="5099635874438955411" name="twinkle_dialog_moving_positioner_msg">"சாட்டிலைட்டைக் கண்டறிய நிலைப்படுத்தும் கருவி திரும்புகிறது. சிறிது நேரம் காத்திருக்கவும்."</string>
+    <string msgid="4062732733050175180" name="twinkle_dialog_moving_positioner_title">"நிலைப்படுத்தும் கருவி நகர்த்தப்படுகிறது"</string>
+    <string msgid="3123649722702249119" name="twinkle_dialog_nav_service_not_running_msg">"சேனல் சேவைகள் எதுவும் செயலில் இல்லை."</string>
+    <string msgid="7961373546782601065" name="twinkle_dialog_no_audio_video_msg">"சேனலில் ஆடியோ மற்றும் வீடியோ உள்ளடக்கம் இல்லை."</string>
+    <string msgid="1400369018648606465" name="twinkle_dialog_no_channel_msg">"தற்போதைய சேனல் பட்டியலில் சேனல்கள் எதுவும் இல்லை."</string>
+    <string msgid="3366899141486631222" name="twinkle_dialog_no_signal_msg">"சிக்னலைத் தேடுகிறது அல்லது எந்த சிக்னலும் கிடைக்கவில்லை. ஆண்டெனா கேபிள் சரியாக இணைக்கப்பட்டிருக்கிறதா எனச் சரிபார்க்கவும்."</string>
+    <string msgid="4531475926203448815" name="twinkle_dialog_no_signal_nontv_msg">"வெளிப்புற உள்ளீட்டைச் சரிபாருங்கள் அல்லது \'உள்ளீடு\' பட்டனைப் பயன்படுத்தி மற்றொரு உள்ளீட்டைத் தேர்ந்தெடுங்கள்."</string>
+    <string msgid="8796759935438013210" name="twinkle_dialog_no_signal_title">"சிக்னல் இல்லை"</string>
+    <string msgid="2014818369272906387" name="twinkle_dialog_non_broadcasting_msg">"இந்த உள்ளடக்கம் உங்கள் சேவை வழங்குநரால் நிறுத்தப்பட்டது."</string>
+    <string msgid="2992915289324087677" name="twinkle_dialog_please_scan_channel_msg">"சேனல்கள் எதுவும் நிறுவப்படவில்லை. டிவி மெனு வழியாக சேனல்களை ஸ்கேன் செய்யுங்கள்."</string>
+    <string msgid="1894575205131528453" name="twinkle_dialog_please_scan_channels_msg">"உள்ளடக்கம் விரைவில் வரவுள்ளது. சிறிது நேரம் காத்திருக்கவும்."</string>
+    <string msgid="5153495923123253058" name="twinkle_dialog_please_scan_channels_title">"சேனல்களை ஸ்கேன் செய்யுங்கள்"</string>
+    <string msgid="1733617360069040358" name="twinkle_dialog_please_wait_msg">"சேனல் தரவு ஏற்றப்படுகிறது. சிறிது நேரம் காத்திருக்கவும்."</string>
+    <string msgid="725264684329312017" name="twinkle_dialog_please_wait_title">"ஏற்றுகிறது"</string>
+    <string msgid="4569115641534788884" name="twinkle_dialog_program_lock_msg">"நீங்கள் வயதுக் கட்டுப்பாட்டை அமைத்துள்ளதால் இந்த நிகழ்ச்சி தடைசெய்யப்பட்டது. டிவி மெனுவின் வழியாக இதனை மாற்றலாம். திரையை அன்லாக் செய்ய சரி என்பதன் மீது அழுத்தவும்."</string>
+    <string msgid="646673269791532919" name="twinkle_dialog_program_lock_title">"நிகழ்ச்சி தடைசெய்யப்பட்டது"</string>
+    <string msgid="2879944854782896595" name="twinkle_dialog_program_lock_title_non_ziggo_title">"நிகழ்ச்சி கிடைக்கவில்லை"</string>
+    <string msgid="503031018391687811" name="twinkle_dialog_program_lock_value">"இந்த நிகழ்ச்சிக்கு <ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</ns1:g> ரேட்டிங் வழங்கப்பட்டுள்ளது"</string>
+    <string msgid="4875530805932004418" name="twinkle_dialog_retrieving_data_msg">"உள்ளடக்கம் விரைவில் வரவுள்ளது. சிறிது நேரம் காத்திருக்கவும்."</string>
+    <string msgid="1534072239248375213" name="twinkle_dialog_scrambled_msg">"(சேனல் கலைந்துள்ளது \\ உள்ளடக்கம் கலைந்துள்ளது). CI + மாடியூலும் ஸ்மார்ட் கார்டும் சரியாகச் செருகப்பட்டுள்ளனவா எனச் சரிபார்க்கவும்."</string>
+    <string msgid="5263822605368775113" name="twinkle_dialog_scrambled_title">"சேனலுக்குக் கடவுக் குறியீடு அமைக்கப்பட்டுள்ளது"</string>
+    <string msgid="4978261610177823681" name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg">"இந்த உள்ளடக்கம் உங்கள் சேவை வழங்குநரால் தடுக்கப்பட்டது."</string>
+    <string msgid="3558492969327887533" name="twinkle_dialog_video_not_support_msg">"வீடியோ வடிவம் டிவியில் ஆதரிக்கப்படவில்லை."</string>
+    <string msgid="4175870482702986083" name="uninsert_Cam_Select_broadcast">"வலைபரப்புச் சேனல்களை ஏற்ற விரும்புகிறீர்களா?"</string>
+    <string msgid="8066683266117656826" name="unrated_rating_name">"ரேட்டிங் இல்லை"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ஆஃப்"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ஆன்"</string>
+    <string msgid="6089616847361717375" name="vga_no_sinal_info">"சிக்னல் இல்லை. பவர் ஆஃப் செய்யப்படும்."</string>
+    <string msgid="8789508510792267977" name="vga_no_sinal_info_part2">\n"தொடர்வதற்கு ஏதேனும் விசையை அழுத்தவும்."</string>
+    <string msgid="6443470680010207003" name="vga_power_time">"0<ns1:g id="VGA_POWER_TIME_MIN">%1$d</ns1:g>:0<ns1:g id="VGA_POWER_TIME_SEC">%2$d</ns1:g>"</string>
+    <string msgid="5994597112286876149" name="vga_power_time_two">"0<ns1:g id="VGA_POWER_TIME_MIN_TWO">%1$d</ns1:g>:<ns1:g id="VGA_POWER_TIME_SEC_TWO">%2$d</ns1:g>"</string>
+    <string msgid="7526408112684327934" name="warning_pvr_playback_runnning">"PVR பிளேபேக் இயக்கத்தில் உள்ளது!"</string>
+    <string msgid="7457371451448496820" name="warning_pvr_runnning">"PVR இயங்குகிறது!"</string>
+    <string msgid="127366201055769457" name="warning_time_shifting_recording">"டைம்ஷிஃப்ட் ரெக்கார்டு செய்து கொண்டிருக்கிறது!"</string>
+</resources>

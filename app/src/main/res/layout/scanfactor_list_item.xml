@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp" >
+
+    <TextView
+        android:id="@+id/factor_name"
+        style="@style/Canvas.Scan.Text.Middle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="20dp" />
+
+    <LinearLayout
+        android:id="@+id/factor_num_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/factor_num"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="10dp"
+            android:gravity="center" />
+
+        <ImageView
+            android:id="@+id/factor_num_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nav_double_arrow_channeledit" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/factor_option_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <com.mediatek.wwtv.setting.view.ScanOptionView
+            android:id="@+id/factor_option"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="10dp"
+            android:gravity="center" />
+
+        <ImageView
+            android:id="@+id/factor_option_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nav_double_arrow_channeledit" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/factor_progress_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:layout_toEndOf="@id/factor_name"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/factor_progress_title"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/factor_progress_percent"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true" />
+
+        <ProgressBar
+            android:id="@+id/factor_progress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressDrawable="@drawable/progressbar_pvr_color"
+            android:layout_width="fill_parent"
+            android:layout_height="4dp"
+            android:layout_below="@id/factor_progress_title"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="4dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/factor_input_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <EditText
+            android:id="@+id/factor_input"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="10dp"
+            android:gravity="center"
+            android:focusable="false"
+            android:singleLine="true" 
+            android:background="@null"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/nav_double_arrow_channeledit"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/factor_do_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:scaleType="center"
+            android:src="@drawable/right_arrow" />
+    </LinearLayout>
+
+</RelativeLayout>

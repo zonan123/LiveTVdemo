@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/nav_duk_channel_list_item_height"
+    android:layout_gravity="center"
+    android:layout_weight="1"
+    android:gravity="center" 
+    android:paddingTop="@dimen/nav_duk_channel_list_item_padding"
+    android:paddingBottom="@dimen/nav_duk_channel_list_item_padding" 
+    android:paddingLeft="@dimen/nav_duk_channel_list_item_paddingleft">
+    <ImageView
+        android:id="@+id/nav_chanel_list_item_icon"
+        android:layout_width="@dimen/nav_duk_chanenl_list_item_icon_width"
+        android:layout_height="@dimen/nav_duk_chanenl_list_item_icon_height" />
+    <TextView
+        android:id="@+id/nav_channel_list_item_NumberTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.75"
+        android:gravity="start|center_vertical"
+        android:text="9999"
+        android:textColor="@color/nav_uk_ch_list_item_selector"
+        android:layout_marginStart="@dimen/nav_duk_channel_list_item_marginleft"
+        android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+    <TextView
+        android:id="@+id/nav_channel_list_item_NameTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.26"
+        android:ellipsize="marquee"
+        android:gravity="start|center_vertical"
+        android:singleLine="true"
+        android:scrollHorizontally="true"
+        android:layout_marginStart="@dimen/nav_duk_channel_list_item_name_marginleft"
+        android:text="@string/app_name"
+        android:textColor="@color/nav_uk_ch_list_item_selector"
+        android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+
+</LinearLayout>

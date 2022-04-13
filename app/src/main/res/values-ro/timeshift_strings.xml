@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Discul nu este pregătit!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR nu a pornit. Discul nu este pregătit!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Fișierul a fost creat"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR nu a pornit. Mai întâi închideți PIP!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR nu a pornit. Mai întâi comutați la sursa TV digitală!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR nu a pornit. Fără semnal!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR nu a pornit. Decalarea temporală rulează!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Streamul AV nu este disponibil!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Streamul nu este autorizat!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Intrarea este blocată!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Eroare legată de rezoluția videoclipului!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Eroare internă!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Decalarea temporală nu este disponibilă. Mai întâi închideți PVR!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Dispozitive inexistente sau indisponibile. Încercați mai târziu!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Opriți PVR și salvați înregistrarea."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Discul a fost deconectat"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Atenție: nu deconectați dispozitivul, deoarece acest lucru poate genera erori nespecificate!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Nu există spațiu suficient. Trebuie să existe cel puțin 1 GB de spațiu liber pe disc."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Funcția nu este acceptată."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Continuarea derulării nu este acceptată."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Fișierul nu este acceptat."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Formatarea va șterge toate datele"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Confirmați?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Fișierul va fi șters."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Testul de viteză este în desfășurare"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Nu deconectați dispozitivul"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Discul a fost formatat"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Formatarea discului nu a reușit"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Testul de viteză s-a finalizat"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Viteza maximă este "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Se înregistrează!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Redare în PVR"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Decalare temporală"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Începeți înregistrarea"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Opriți înregistrarea"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR rulează!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Doriți să opriți procesul de înregistrare\n și să accesați EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Opriți decalarea temporală\n și accesați EPG?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Doriți să opriți procesul de înregistrare\n și să schimbați canalul?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Doriți să opriți procesul de înregstrare\n și să schimbați sursa?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Opriți decalarea temporală\n și schimbați canalul?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Opriți decalarea temporală\n și schimbați sursa?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Doriți să opriți procesul de înregistrare\n și să accesați PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Opriți decalarea temporală\n și accesați PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Doriți să opriți redarea PVR\n și să accesați PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Opriți decalarea temporală\n și accesați lista de înregistrări?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Doriți să intrați în modul PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Există o înregistrare programată"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"începeți să înregistrați?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"opriți decalarea temporală?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Canalul decodificat s-ar putea întrerupe. Doriți să continuați?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Avertisment"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Setarea Informații despre dispozitiv"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Formatarea va șterge toate datele. Sigur vreți să continuați?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Decalarea temporală înregistrează!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR rulează!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Redarea PVR rulează!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Decalarea temporală nu este disponibilă"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Rulează programul de testare a vitezei de citire și de scriere a spațiului de stocare."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/s"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Există o înregistrare planificată [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>], doriți să începeți înregistrarea?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Nume:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Există un memento programat."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"urmăriți acest canal?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Încercarea de înregistrare pentru [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] nu a reușit"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Înregistrarea [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] este incompletă pentru <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> sec"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"O parte din înregistrare s-a salvat. S-a oprit alimentarea în timpul înregistrării."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Model de eveniment"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Programare temporală"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Înregistrare susținută de semnal"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"„Înregistrarea susținută de semnal” nu s-a putut edita"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Decalarea temporală s-a oprit."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Se înregistrează! Testul de viteză nu a reușit!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Decalarea temporală rulează! Testul de viteză nu a reușit!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Acces refuzat. Testul de viteză nu a reușit!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Spațiu insuficient pe disc! Testul de viteză nu a reușit!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Testul de viteză nu a reușit!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Derularea înainte și înapoi nu sunt acceptate"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"A apărut o eroare la ștergerea elementului; canalul înregistrează"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR rulează sau un fișier PVR se redă.\nOpriți-l, apoi încercați din nou!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Decalarea temporală rulează.\nOpriți-o, apoi încercați din nou!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Canalul actual este nevalid."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Se redirecționează! Încercați din nou mai târziu."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Se derulează înapoi! Încercați din nou mai târziu."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Înregistrarea decalării temporale s-a încheiat și se redă automat."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Nu se poate comuta niciun precanal! \n și decalarea temporală încă înregistrează."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Înregistrări nereușite sau incomplete"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Înregistrare parțială deoarece s-a pierdut semnalul!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Înregistrare parțială deoarece nu există EIT!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Înregistrare parțială deoarece nu există EIT și s-a pierdut semnalul!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Eroare privind ora de începere; ora este acum înaintea datei actuale!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Deficiență privind lungimea fișierului!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Adăugarea solicitată a programului depășește maximul permis!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Doriți să opriți procesul de înregistrare\n și să schimbați tipul canalului?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Opriți decalarea temporală\n și schimbați tipul de canal?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Comutarea canalelor nu este permisă în timp ce vă pregătiți să înregistrați."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formatare"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Formatarea discului nu a reușit. Se înregistrează!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Formatarea discului nu a reușit. Decalarea temporală rulează!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Viteză nevalidă!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Se formatează! Așteptați…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Derularea rapidă înainte nu este acceptată"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Derularea înapoi nu este acceptată"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Viteză redusă a discului; renunțați la date"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"unele înregistrări planificate nu au reușit sau sunt incomplete!"</string>
+</resources>

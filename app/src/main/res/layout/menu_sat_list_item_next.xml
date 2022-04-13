@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:background="@drawable/sat_list_background"
+    android:minHeight="@dimen/list_item_min_height"
+    android:paddingBottom="@dimen/list_item_vertical_padding"
+    android:paddingTop="@dimen/list_item_vertical_padding" 
+    android:paddingStart="32dp"
+    android:paddingEnd="8dp">
+    
+    <TextView
+        android:id="@+id/satellite_next"
+        style="@style/Canvas.Text.Dialog.List.Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentStart="true"
+        android:text="@string/setup_next"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>

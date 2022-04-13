@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"만 <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g>세 이상 시청가"</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"모든 연령대에 적합 프로그램에 약간의 폭력과 거친 언어, 성적 표현이 포함될 수 있습니다."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"만 13세 이상 시청자에게 적합한 콘텐츠입니다. 프로그램에 가볍거나 보통 수준의 욕설과 가벼운 폭력 및 성적 언급이 포함될 수 있습니다."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"만 16세 이상 시청자에게 적합합니다. 프로그램에 약간 높은 수위의 폭력과 거친 욕설, 부분적인 과도한 노출, 보통 수준의 성적 언급이 포함될 수 있습니다."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"성인에게만 적합한 콘텐츠입니다. 프로그램에 심한 폭력, 거친 욕설 및 노골적인 성적 언급이 포함될 수 있습니다."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"마약"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"성적 콘텐츠"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"폭력"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"P 등급으로 분류된 콘텐츠는 미취학 아동이 시청할 수 있습니다."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"C 등급으로 분류된 콘텐츠는 만 14세 미만 어린이(미취학 아동 제외)가 시청할 수 있습니다."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"G 등급으로 분류된 콘텐츠는 어린이용으로 제작된 것은 아니지만 시청자에게 미치는 영향이 적고 부모 또는 보호자의 지도 없이 시청하기에 부적절한 내용을 포함하고 있지 않아야 합니다."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"PG 등급으로 분류된 콘텐츠는 성인용 콘텐츠 또는 컨셉이 포함되어 있을 수 있지만 시청자에게 미치는 영향이 적고 부모 또는 보호자의 지도 아래에 어린이가 시청하기에 적합합니다."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"M 등급으로 분류된 콘텐츠는 성인용입니다. 만 15세 이상만 시청하는 것이 좋습니다."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"MA 등급으로 분류된 콘텐츠는 높은 강도의 폭력, 성적 묘사, 거친 언어, 성인용 콘텐츠 또는 약물 사용이 빈번하게 등장하기 때문에 만 15세 이상만 시청할 수 있습니다. 시청자에게 큰 영향을 미칩니다."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"AV 등급으로 분류된 콘텐츠는 만 15세 이상만 시청할 수 있습니다. AV 등급 콘텐츠는 강도 높은 폭력이 빈번하게 등장하거나 주된 주제이기 때문에 MA 등급으로 분류하기에는 적합하지 않습니다. 그 밖의 등급 요구사항은 MA 등급과 동일합니다."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"R 등급으로 분류된 콘텐츠는 법적으로 성인만 시청할 수 있습니다. R 등급으로 분류된 일부 콘텐츠는 성인에게도 불쾌감을 줄 수 있습니다."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"전체이용가"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"만 <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>세 미만 시청 불가"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"마약"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"성적 콘텐츠"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"폭력"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"뉴스, 스포츠, 다큐멘터리 및 기타 정보 프로그램, 토크쇼, 뮤직 비디오, 버라이어티 프로그램 등의 프로그램은 제외됩니다."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"만 8세 미만의 어린이가 시청할 수 있는 프로그램입니다."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"만 8세 이상의 어린이가 시청할 수 있는 프로그램입니다. 만 8세 미만의 어린이는 이 등급이 지정된 프로그램을 부모 또는 보호자와 함께 시청하시기 바랍니다."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"모든 연령대가 시청할 수 있으며 온 가족이 함께 시청하기 적절한 프로그램입니다."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"이 프로그램은 모든 연령대가 시청할 수 있는 프로그램이지만 만 8세 미만의 어린이에게는 적합하지 않을 수 있습니다. 부모 및 보호자는 만 8~13세 어린이가 지도 없이 시청하기에 부적합하다고 여길 수 있는 콘텐츠 요소가 포함되었을 수 있다는 점에 유의하시기 바랍니다."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"이 등급이 지정된 프로그램에는 만 14세 미만의 시청자에게 적합하지 않을 수 있는 테마나 콘텐츠 요소가 포함되어 있습니다. 10대 초반 어린이의 부모님은 어린이가 부모 또는 보호자의 지도 없이 프로그램을 시청하는 것을 허용할 때 신중하게 판단하시기 바랍니다. 이 등급이 지정된 프로그램은 실제와 유사하게 성인용 테마 및 사회적 문제를 다룰 수 있기 때문입니다."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"만 18세 이상의 시청자가 시청할 수 있는 프로그램입니다."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"분류에서 제외된 프로그램입니다."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"모든 연령대가 시청할 수 있는 프로그램입니다. G등급 프로그램은 만 8세 미만 어린이의 감수성을 다치게 할 수 있습니다."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"이 프로그램은 모든 연령대에 적합하나, 어린이에게 부적절하며 약한 수준이거나 간헐적인 폭력이 포함될 수 있습니다. 따라서 만 8세 미만 어린이의 경우 보호자 지도 아래에 시청하는 것이 좋습니다."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"만 13세 이상이 시청하기에 적합한 프로그램입니다. 만 13세 미만의 어린이는 보호자와 함께 시청하는 경우 시청이 허용됩니다."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"만 16세 이상이 시청하기에 적합한 프로그램입니다. 이 등급으로 분류된 프로그램에는 시청하기에 불편한 주제, 상황, 행동이 포함되어 있으며 사물에 관하여 보다 직접적인 관점을 취합니다."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"만 18세 이상이 시청하기에 적합한 프로그램입니다. 성인용 프로그램에서는 대부분 노골적인 성적 묘사가 이뤄집니다. 또한 매우 폭력적이며, 지나치게 현실적인 잔혹함, 고문, 공포스러운 장면이 묘사될 수 있습니다."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"전체 시청가"</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"어린이 시청가"</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"성인용"</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"어느 연령대에도 부적절한 콘텐츠가 포함되어 있지 않으므로 모든 연령대에 적절한 프로그램입니다."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"프로그램에 만 7세 미만의 어린이에게 부적절한 콘텐츠가 포함되어 있을 수 있으므로 부모의 신중한 판단이 필요합니다."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"프로그램에 만 12세 미만의 어린이에게 부적절한 콘텐츠가 포함되어 있을 수 있으므로 부모의 신중한 판단이 필요합니다."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"프로그램에 만 15세 미만의 연령대에 부적합한 콘텐츠가 포함되어 있을 수 있으므로 부모의 신중한 판단이 필요합니다."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"프로그램에 만 19세 미만의 연령대에 부적합한 콘텐츠가 포함되어 있을 수 있으므로 만 19세 미만의 청소년에게 적합하지 않습니다."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"모든 연령대에 적합"</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"모든 연령대가 시청할 수 있으나 어린 자녀의 경우 부모의 지도가 필요합니다."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"만 13세 이상 시청자에게 적합하지만 만 13세 미만 어린이가 시청할 경우 부모의 지도가 필요합니다."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"만 16세 이상에 적합"</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"만 18세 이상 적합"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"만 21세 이상의 성인에 적합"</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"만 3~6세 어린이에게 적합"</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"만 6~12세 어린이에게 적합"</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"모든 연령대에 적합"</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"만 13세 이상에 적합"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"만 18세 이상 시청자에게 적합합니다. 만 18세 미만 자녀의 경우 부모의 지도가 필요합니다."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"성인에게 적합"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"외설적인 대화"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"거친 언어"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"성적 콘텐츠"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"폭력"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"판타지 폭력"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"이 프로그램은 모든 어린이에게 적합하도록 제작되었습니다."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"만 7세 이상의 어린이를 위해 제작된 프로그램입니다."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"대부분의 부모가 모든 연령대에 적합하다고 간주할 만한 프로그램입니다."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"이 프로그램은 부모가 어린 자녀에게 부적합하다고 간주할 수 있는 내용을 포함하고 있습니다. 부모가 함께 시청하는 것이 좋습니다."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"이 프로그램은 다수의 부모가 만 14세 미만의 자녀에게 부적합하다고 간주할 만한 내용을 담고 있습니다."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"이 프로그램은 성인용으로 제작되었으므로 만 17세 미만에게는 부적합할 수 있습니다."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"모든 연령대에 적합합니다. 부모가 자녀에게 부적합하다고 간주할 만한 내용이 포함되어 있지 않습니다."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"부모의 지도가 필요합니다. 부모가 어린 자녀에게 부적합하다고 간주할 만한 내용을 일부 포함하고 있습니다."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"부모의 엄격한 지도가 필요합니다. 일부 내용은 만 13세 미만 어린이에게 부적합할 수 있습니다."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"시청이 제한되며 성인을 대상으로 한 내용을 포함하고 있습니다. 어린 자녀와 함께 시청하기 전에 먼저 부모가 영화에 관해 자세히 알아보시기 바랍니다."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"만 17세 이하는 시청할 수 없습니다. 성인용으로 어린이와 청소년에게는 부적합합니다."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"성인에게 적합"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"만 10세 미만의 어린이는 이 프로그램/영화를 시청할 수 없습니다."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"모든 연령대에 적합"</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"만 10세 미만의 어린이는 이 프로그램/영화를 보호자와 함께 시청해야 합니다."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"만 13세 미만의 어린이는 이 프로그램/영화를 보호자와 함께 시청해야 합니다."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"만 13세 미만의 어린이는 이 프로그램/영화를 시청할 수 없습니다."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"만 16세 미만의 어린이는 이 프로그램/영화를 시청할 수 없습니다."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"만 18세 미만은 이 프로그램/영화를 시청할 수 없습니다."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"매우 성적인 콘텐츠를 포함한 영화(음란물)에 매겨지는 등급입니다."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"사용 안함"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"차단"</string>
+    <string name="rating_years" msgid="2286124473198629391">"연령"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"연령 등급"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"콘텐츠 등급"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"정의되지 않음"</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+  
+    <FrameLayout
+        android:id="@+id/selector"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_centerVertical="true"
+        android:alpha="0"
+        android:background="@color/selector_color" />
+	<TextView 
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/dvbs_scan_tip"
+        android:text="@string/dvbs_scan_tip"
+        android:visibility="invisible"/>
+    <com.mediatek.wwtv.setting.widget.view.ScrollAdapterView
+        android:id="@+id/list"
+        android:layout_below="@id/dvbs_scan_tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:descendantFocusability="afterDescendants"
+        android:gravity="center_vertical"
+        android:focusable="true"
+        settings:orientation="vertical"
+        settings:scrollCenterOffsetPercent="50"
+        settings:scrollCenterStrategy="fixedPercent"/>
+    <!-- <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:id="@+id/antenna_type_tip"
+        android:text="@string/menu_dvbs_antenna_type_tip"
+        android:visibility="visible"/> -->
+
+</RelativeLayout>

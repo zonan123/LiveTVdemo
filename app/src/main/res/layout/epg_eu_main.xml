@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/epg_root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:background="#CC000000"
+    android:nextFocusDown="@id/epg_listview_layout"
+    android:orientation="vertical" >
+    
+    
+     <!-- null     -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+    
+    <!-- top -->
+    <LinearLayout
+        android:id="@+id/epg_top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.99"
+        android:focusable="false" >
+
+        <TextView
+            android:id="@+id/epg_retrieving_data"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="@string/epg_retrieving_show"
+            android:textColor="@color/epg_ts_grey_white"
+            android:textSize="@dimen/epg_ts_mini"
+            android:textStyle="bold" />
+        <!-- current time -->
+        <TextView
+            android:id="@+id/epg_top_date_info_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:textColor="@color/epg_ts_bright_white"
+            android:textSize="@dimen/epg_ts_large" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3.5"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/epg_freeviewhd_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:src="@drawable/npg_img_freeviewhd_logo"
+                android:visibility="invisible" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- program info -->
+    <LinearLayout
+        android:id="@+id/epg_content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_weight="0.80" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1" >
+
+            <!-- program name -->
+
+            <TextView
+                android:id="@+id/epg_program_info_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:text="@string/app_name"
+                android:maxEms="26"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:textSize="@dimen/epg_ts_middle"
+                android:textColor="@color/epg_ts_bright_white"
+                android:visibility="invisible" />
+            <!--
+                 <com.mediatek.wwtv.tvcenter.nav.commonview.EPGPasswordEditText
+				android:gravity="center" android:layout_alignParentRight="true"
+				android:layout_centerHorizontal="true" android:layout_toRightOf="@id/epg_program_info_name"
+				android:visibility="invisible" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:id="@+id/epg_password" />
+            -->
+            
+            <!-- sttl icon -->
+            <ImageView
+                android:id="@+id/epg_info_sttl_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/nav_banner_icon_sttl"
+                android:visibility="invisible" />
+            
+            <!-- lock icon -->
+            <ImageView
+                android:id="@+id/epg_info_lock_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_toLeftOf="@id/epg_info_sttl_icon"
+                android:src="@drawable/nav_banner_lock_icon"
+                android:visibility="invisible" />
+
+            <!-- program detail info -->
+            <TextView
+                android:id="@+id/epg_program_info_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@id/epg_program_info_name"
+                android:lineSpacingMultiplier="1.2"
+                android:lines="3"
+                android:scrollbarThumbVertical="@drawable/translucent_background"
+                android:scrollbars="vertical"
+                android:singleLine="false"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_mini" />
+
+            <!-- page info -->
+
+            <TextView
+                android:id="@+id/epg_info_page_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@id/epg_program_info_detail"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_mini" />
+            
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+
+            <!-- null -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="end"
+                android:layout_marginTop="@dimen/epg_title_dpadding"/>
+            
+            <!-- program type -->
+
+            <TextView
+                android:id="@+id/epg_program_info_type"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:layout_gravity="end"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_mini"/>
+            <!-- program rating -->
+
+            <TextView
+                android:id="@+id/epg_program_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:layout_gravity="end"
+                android:paddingTop="@dimen/epg_program_type_rating_margin"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_mini" />
+            
+           <!-- program time -->
+            <TextView
+                android:id="@+id/epg_program_info_time"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:layout_gravity="end"
+                android:paddingTop="@dimen/epg_program_type_rating_margin"
+                android:text="@string/schedulelist_nofiles_disable_add"
+                android:textSize="@dimen/epg_ts_mini"
+                android:textColor="@color/epg_ts_grey_white"
+                android:visibility="invisible" /> 
+                
+            <!-- null -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="end"
+                android:layout_marginTop="@dimen/epg_title_dpadding"/>
+            
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- title -->
+
+    <LinearLayout
+        android:id="@+id/epg_title_layout"
+        style="@style/epg_list_layout_style"
+        android:layout_marginTop="@dimen/epg_title_rmargin"
+        android:layout_weight="0.99"
+        android:background="@color/epg_title_layout_bg"
+        android:focusable="false" >
+
+        <!-- selected date -->
+        
+        <!-- null  -->
+        <TextView
+            android:layout_width="15dp"
+            android:layout_height="match_parent" />
+
+         <!-- left arrow -->
+         <ImageView
+                android:id="@+id/epg_left_arrow_icon"
+                android:layout_width="5dp"
+                android:layout_height="10dp"
+                android:layout_gravity="center_vertical"
+
+                android:src="@drawable/left_arrow_highlight" />
+
+        <TextView
+            android:id="@+id/epg_title_date_selected_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:textColor="@color/epg_ts_grey_white"
+            android:textSize="@dimen/epg_ts_small" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/epg_time_rmargin"
+            android:layout_weight="1" >
+
+            <!-- begin time -->
+
+            <TextView
+                android:id="@+id/epg_title_time_begin_tv"
+                style="@style/epg_time_zoom_text"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_small" />
+            <!-- end time -->
+
+            <TextView
+                android:id="@+id/epg_title_time_end_tv"
+                style="@style/epg_time_zoom_text"
+                android:textColor="@color/epg_ts_grey_white"
+                android:textSize="@dimen/epg_ts_small" />
+        </LinearLayout>
+        
+        
+        <!-- right arrow -->
+         <ImageView
+                android:id="@+id/epg_right_arrow_icon"
+                android:layout_width="5dp"
+                android:layout_height="10dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/right_arrow_highlight" />
+         
+                 <!-- null  -->
+        <TextView
+            android:layout_width="15dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <!-- list view -->
+
+    <FrameLayout
+        android:id="@+id/epg_listview_layout"
+        style="@style/epg_list_layout_style"
+        android:layout_weight="0.48"
+        android:focusable="true" >
+
+        <com.mediatek.wwtv.tvcenter.epg.eu.EPGListView
+            android:id="@+id/epg_program_forecast_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="@drawable/epg_listview_bg"
+            android:divider="@color/epg_horizontal_divider"
+            android:dividerHeight="2dp"
+            android:fadingEdge="none"
+            android:focusable="true"
+            android:nextFocusDown="@id/epg_program_forecast_listview"
+            android:nextFocusLeft="@id/epg_program_forecast_listview"
+            android:nextFocusRight="@id/epg_program_forecast_listview"
+            android:nextFocusUp="@id/epg_program_forecast_listview"
+            android:scrollbars="none"
+            android:scrollingCache="false" />
+        
+        
+        <LinearLayout
+	        android:id="@+id/epg_listview_time_axis_root_layout"
+	        android:layout_width="2dp"
+	        android:layout_height="1dp"
+            android:gravity="end"
+	        android:background="#992e2f32">
+
+	        <TextView
+	            android:id="@+id/epg_listview_time_axis"
+	            android:layout_width="2dp"
+	            android:layout_height="match_parent"
+	            android:background="#884a8af8"/>
+        
+        </LinearLayout>
+    </FrameLayout>
+
+   
+    <!-- bottom -->
+
+    <LinearLayout
+        android:id="@+id/epg_bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.95">
+
+        <!-- null -->
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2" />
+
+
+        <!-- prev day -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+        
+            <ImageView
+                style="@style/epg_bottom_eu_color_key"
+                android:src="@drawable/tk_cm_color_key_red" />
+
+            <TextView
+                android:id="@+id/epg_bottom_prev_day_tv"
+                style="@style/epg_bottom_textView_eu"
+                android:text="@string/epg_bottom_prev_day" />
+
+        </LinearLayout>
+    
+        <!-- next day -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+           <ImageView
+               style="@style/epg_bottom_eu_color_key"
+               android:src="@drawable/tk_cm_color_key_green" />
+
+           <TextView
+               android:id="@+id/epg_bottom_next_day_tv"
+               style="@style/epg_bottom_textView_eu"
+               android:text="@string/epg_bottom_next_day" />
+        </LinearLayout>
+   
+        <!-- view detail -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+        
+            <ImageView
+                style="@style/epg_bottom_eu_color_key"
+                android:src="@drawable/tk_cm_color_key_yellow" />
+
+            <TextView
+                android:id="@+id/epg_bottom_view_detail"
+                style="@style/epg_bottom_textView_eu" />
+
+        </LinearLayout>
+
+        <!-- type filter -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+        
+            <ImageView
+                style="@style/epg_bottom_eu_color_key"
+                android:src="@drawable/tk_cm_color_key_blue" />
+
+            <TextView
+                android:id="@+id/epg_bottom_view_filter"
+                style="@style/epg_bottom_textView_eu"
+                android:text="@string/epg_bottom_type_filter" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left" >
+
+            <ImageView
+                android:id="@+id/epg_pvr_icon"
+                android:layout_width="@dimen/epg_pvr_icon_width"
+                android:layout_height="@dimen/epg_pvr_icon_height"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/icon_pvr" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

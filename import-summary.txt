@@ -1,0 +1,71 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* androidTest\
+* androidTest\Android.mk
+* androidTest\assets\
+* androidTest\assets\dvbc_config.csv
+* androidTest\collect_test_cases.py
+* androidTest\java\
+* androidTest\java\com\
+* androidTest\java\com\mediatek\
+* androidTest\java\com\mediatek\wwtv\
+* androidTest\java\com\mediatek\wwtv\tvcenter\
+* androidTest\java\com\mediatek\wwtv\tvcenter\ExampleInstrumentedTest.kt
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_BannerTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_ChannelListDialogTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_ChannelOptionsFunctionTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_ChannelOptionsTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_ChannelUiTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_DvbcConfigTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_DvbcScanTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_DvbsScanTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_DvbtScanTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_EPG2DActivityTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_EPGUsActivityTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_InputSourceTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_MenuUiTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_PVRTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_SARegionAutoScanTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_SetupSourcePageTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_SubtitleUiTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_TimeShiftUiTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_Twinkle_NoSignalTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_UKBannerTest.java
+* androidTest\java\com\mediatek\wwtv\tvcenter\LiveTV_Utils.java
+* androidTest\json\
+* androidTest\json\testcases.json
+* proguard.flags
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\android\tv\menu\AppLinkCardView.java.back => app\src\main\resources\com\android\tv\menu\AppLinkCardView.java.back
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

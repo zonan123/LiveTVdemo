@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"Yoniq"</string>
+    <string name="common_off" msgid="7117815518726170364">"Yoqilmagan"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"Menyu"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"Video"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"Audio"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"TV"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"Sozlash"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"Ota-ona nazorati"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"Kengaytirilgan sozlamalar"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"CI kartasi"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"Simsiz tarmoqdan mustaqil yuklab olish"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"Nofaol kanallar"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Enter"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"Chiqish"</string>
+    <string name="menu_back" msgid="5914226981357187525">"Orqaga"</string>
+    <string name="menu_set" msgid="4003160032715199809">"Saqlash"</string>
+    <string name="menu_ok" msgid="549595307019821477">"OK"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"Bekor qilish"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"Saundtreklar"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"Tyuner rejimi"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"Kanallar turkumi"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"Mamlakat hududining identifikatori"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"Mamlakat hududi"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"Audio kanal"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"Ovoz yoʻlakchasi"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"2-ovoz yoʻlakchasi"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"Kanallar"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"Kanal qidiruvi"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"TV tizim"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"Rang tizimi"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"Qidiruv parametrlarini yangilash"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"Mustaqil analog kanallar qidiruvi"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"Bir simli RF kabel kanallarini qidirish"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"Kanalni tahrirlash"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"Kanalni tashlab ketish"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"Kanalni sozlash"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"Kanallar roʻyxatini tozalash"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"Kanalni joyida qotirish"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"Holat"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"Qidiruv"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"Analog kanallar"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"Raqamli kanallar"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"Boshlangʻich chastota (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"Yakuniy chastotasi (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"Qidiruv chastotasi (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"QAM uslubi"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"Belgilarni uzatish tezligi"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"Chastota tarifi"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"Modulyatsiya"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"Qidiruv rejimi"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"Boshiga"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"Oxiriga"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"Kanallar roʻyxati yangilangan.\n Yuklab olinsinmi?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"Kiritish"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"Oʻchirish"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"Kanallar hech qanday OSD ogohlantiruvisiz tozalanishi mumkin. Ishonchingiz komilmi?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"Kanal raqami 4001 dan kamligi sababli bu funksiya ishlamaydi."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"4000 dan yuqori kanal raqamini kiriting"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"Raqami."</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"Turi"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"Chast."</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"Tizim"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"Nomi"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"Tashlab ketish"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"Barcha kanallarni qidirish."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Dual Tyuner"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"LNB kanallar qidiruvi boshlansinmi? \n Agar tashlab ketilsa, standart amal bajariladi."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"RF kanali"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"Signal darajasi"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"Signal sifati"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"TS nomi :"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"Kanal raqami :"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"Kanal nomi :"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"Tarmoq nomi :"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"Chastota :"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"Kanal topilmadi."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"Tovush tizimi"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"Aniq qilib sozlash"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"Saqlash"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"Ishonchingiz komilmi?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"Saralanmoqda. Kutib turing..."</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"Koʻchirilmoqda Kutib turing..."</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"Kanal raqamlari qaytarilsin!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"Analog kanalni aniq qilib sozlash"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"Bu kanal olib tashlansinmi?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"Barcha kanallar olib tashlansinmi?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"Ekran rejimi"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Koʻk ovozsiz"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"DMR funksiyasi"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"Interaktiv kanal"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"MHEG PIN himoyasi"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"HBBTV sozlamalari"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"HBBTV koʻmak xizmati"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"Kuzatilmasin"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"Cookie sozlamalari"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"Doimiy xotira ombori"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"Kuzatuvchi saytlarni bloklash"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"Qurilma identifikatori"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"Qurilma identifikatorini tiklash"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"Qurilma identifikatori qayta tiklansinmi?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Ginga ilovasini sozlash"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"DivX(R) registratsiyasi"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"Taglavhalarni sozlash"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"Tizim yonishi musiqasi"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"Oʻchish musiqasi"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"Vaqtni sozlash"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"Telematn"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"Taglavha"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"Analog taglavha"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"Raqamli taglavha tili"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"Raqamli taglavha uchun 2-til"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"Taglavha turi"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"Tarmoq"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"Versiya haqida"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"Zavod sozlamalarini tiklash"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"Mikrodasturni yuklab olish"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"Umumiy interfeys"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"Yozib olish sozlamalasi"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"Kanalga oid xabar"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"EWBS hududi"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"TKGS sozlamasi"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"TKGS lokatorlari roʻyxati"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"TKGS yashirin joylashuvlari"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"Jadval versiyasini tiklash"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"Tanlangan kanallar"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"Pochta indeksi"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"Qurilma haqida"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"TimeShift rejimi"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"Kanalning avtomatik yangilanishi"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"Kanalga oid xabar"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"Gorizontal"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"Vertikal"</string>
+    <string name="ci_title" msgid="372414068198664695">"Sputnik antennasi haqida"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Kamera kartasi topilmadi."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Kamera menyusi"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Kamera PIN kodi"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"Mustaqil sozlamalar"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"Standart"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"Translatsiya"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Kamera kanallarini qidirish"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"Kamera PIN kodini kiriting"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"Xato. Qayta kiriting!"</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"Kutib turing..."</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"Tarmoq yangilanishi"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Ginga ilovasini yoqish"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"Ilovaning avtomatik ishga tushishi"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"Taglavhalarni yoqish"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"Analog yopiluvchan taglavhalar"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"Raqamli yopiluvchan taglavha"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"Raqamli taglavha uslubi"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"Tasvirlar ustma-ust joylanishini sozlash"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"Taglavha uslubi"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"Shrift oʻlchami"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"Shrift uslubi"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"Shrift rangi"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"Shrift shaffofligi"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"Fon rangi"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"Fon yarim tiniqligi"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"Oyna rangi"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"Oyna shaffofligi"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"Raqamli telematn tili"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"Sahifani dekodlash tili"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"TTX taqdimot darajasi"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"Avtomatik sinxronlanish"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"Belgilangan vaqtda yoqish"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"Taymer"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"Standart kanal"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"Avtomatik oʻchish vaqti"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"Wi-Fi sozlamasi"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"Axborot"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"Rejimni tanlang"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"Kanallarni chiqarish"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"Serverdan yangi mikrodasturni yuklab oling."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"Yangilanish ustasi"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"Mikrodastur yangilanishi borligi aniqlanmadi."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"Ishonchingiz komilmi?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"Analog kanallar qidirish"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"Raqamli kanallar qidirish"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"Bir simli RF kabel kanallarini qidirish (Faqat raqamli)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"Kanallar diapazoni bilan qidirish"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"Holati: Qidiruv bekor qilindi"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"Holati: qidirilmoqda"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"Sputnik nomi:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"Analog kanallar:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"Raqamli kanallar:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"Maʼlumotlar saqlansinmi?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"Barcha sozlamalar asliga qaytarilsinmi?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"Holati: Qidiruv bekor qilindi"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"Holati: skanerlashda xato"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"Holati: skanerlash tugallandi"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"Holati: antennna burilmoqda"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"Tarmoq yangilanmoqda..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"Simsiz tarmoq sozlamalari"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"TV bilan hech qanday simsiz qurilma ulanmagan!"</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"Ha"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"Yoʻq"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"Modeli nomi"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"Versiyasi"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"Seriya raqami"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"DivX® bilan himoyalangan videolarni ijro qilish uchun qurilmangizni qayd qiling.\nRegistratsiya kodi:BX9ASIKQEI\nhttp://vod.divx.com orqali qayd qiling."</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"Registratsiyani bekor qilish kodi:\nRegistratsiyani bekor qilish manzili: http://vod.divx.com\n Registratsiya davom ettirilsinmi?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"BISS kaliti"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"BISS kalitini kiritish uchun bosing"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"BISS kaliti kiritish"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"Chastota"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"Polyarizatsiya"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"Dastur identifikatori"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"CW kaliti"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"HDMI 2.0 sozlamasi"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"Signal formati"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"Parol"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"Kanal bloklandi"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"Dastur bloklandi"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"Kanallar jadvalini bloklash"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"Ishchi rejim"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"Kiritishni qulflash"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"Parolni almashtirish"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"Hammasini tozalash"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"Parol xato.\nQayta kiriting!"</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"Parolni kiriting"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"Yangi parol"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"Parolni tasdiqlang"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"Parol mos emas.\nQayta kiriting!"</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"Boshlanish sanasi"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"Boshlanish vaqti"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"Tugash vaqti"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"Tugash vaqti"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"Ruxsat berilgan reyting"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"Bloklangan yosh cheklovi"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"AQSH TV reyting tizimi"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"AQSHda filmlar uchun yosh cheklovlari"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"Kanadada (ingliz) yosh cheklovi"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"Kanadada (fransuz) yosh cheklovi"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"Yosh reytingi"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"Cheklangan ruxsat"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"Yoshga oid cheklov"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"Reytingsizlarni bloklash"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"Reytingni yoqish"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"Telematnsiz"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"TOP telematnsiz"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"Manba turi"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"Kanal tafsiloti"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"Jadval turi"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"Takrorlanish turi"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"Boshlanish sanasi"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"Boshlanish vaqti"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"Toʻxtash vaqti"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"TimeShift rejimi"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"Jadval roʻyxati"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"Litsenziyasi haqida"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"Tizim haqida"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"Avomatik yuklab olish"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"Tarmoqni tanlash"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"Kanallarni saralash"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"Kanalni surish"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"Analog kanalni aniq qilib sozlash"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"Boshqalar"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"Yuqoriga qidirish"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"Kamayish tartibida skanerlash"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"Kanallar qidirilganda avvalgi kanallar olib tashlanadi!"</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"Tarmoq identifikatori"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"Qidiruv"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"Chastota (KGs)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"Chastota (MGs)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"Belgilarni uzatish tezligi (Ksym/s)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"Sputnik kanallarini qayta qidirish"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"Sputnik kiritish"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"Sputnik uchun yangilanish"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"Sputnikni oddiy usulda sozlash"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"Tarmoqni tanlash"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"Kanalni dekodlash"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"Kanal"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"Xizmat identifikatori"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"Xizmat turi"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"Tarmoqni tanlang:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"Qidiruv natijalari saqlansinmi?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"Hech narsa berilmagan"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"Ziddiyatli guruh indeksi:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"Ziddiyatli kanal raqami:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"Hammasi uchun standart parametr ishlatish"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"Boshlash"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"Qayta ishga tushirish"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"Jarayon:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"Holati:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"Tekshirilmoqda..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"Mikrodastur tayyor. Tizim qayta ishga tushirilsinmi?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"Mikrodasturni yuklab olish uchun Boshlash tugmasini bosing!"</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"Yuklab olish boshlandi"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"Yuklab olinmoqda"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"Yuklab olindi"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"Yuklab olishni bekor qilish"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"Yuklab olishdan chiqing! Yuklab olinadigan fayl mavjud emas!"</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"Tekshiruv tamomlandi"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"Yuklab olishdan chiqing! Tarmoqda xato!"</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"Yuklab olishdan chiqing! Tekshirishda xato chiqdi."</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"Yuklab olishdan chiqing! Yuklab olinmadi!"</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"Tizim mikrodasturni yangiladi!"</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"Tizim mikrodasturni yangilay olmadi!"</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"Raqamli sputnikni sozlash"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"Kanallar roʻyxatini tanlang"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"Kanallar roʻyxatini tanlang:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"Mintaqani tanlash"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"<xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g> uchun hududni tanlang"</string>
+    <string name="scan_way" msgid="2002648253057830525">"Qidiruv rejimini tanlang"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"TV sozlamalari"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"Manba"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"Taglavhalar"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"Namoyish rejimi"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"Saralanganlarga kiritish"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"Saralanganlar"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"Tahrirlash"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"Boshqa kanallar"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"Sozlamalar"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"Karnaylar"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"Rasm rejimi"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"Yangi kanallar topildi"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"TV-dastur"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"Avvalgi kanal"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"Keyingi kanal"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"Kanallar"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"<xliff:g id="APP_NAME">%1$s</xliff:g> ilovasini ochish"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"Manbalar bloklangan"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"Kanallar bloklandi"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"Hammasini bloklash"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"Blokdan chiqarish"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"Hammasini tashlab ketish"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"Kanallarni tashlab ketishni bekor qilish"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"Berkitilgan kanallar"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"Yosh cheklovlari"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"RRT5 sozlamasi"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"RRT5 sozlamasi"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"RRT5 tizimi"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"RRT5 darajasi"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"RRT5 tiklash"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"PIN kodni almashtirish"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"Reyting tizimlari"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"Reytinglar"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"Barcha reyting tizimlari"</string>
+    <string name="other_countries" msgid="4596971851245610516">"Boshqa mamlakatlar"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"Hech qanday"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"Tasniflanmagan"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"Reytingsiz dasturlarni bloklash"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"Qatʼiy cheklovlar"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"Oʻrtacha cheklovlar"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"Yengil cheklovlar"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"Telekoʻrsatuv kabi"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"Boshqa"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"Kontent bolalar uchun mos"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"Kontent oʻrta yoshdagi bolalar uchun mos"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"Kontent oʻsmirlar uchun mos"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"Foydalanuvchi cheklovlari"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"Yosh cheklovi tavsifi uchun manbalar"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g>: quyi reytinglar"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"Quyi reytinglar"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"Bu kanalni tomosha qilish uchun PIN kodni kiriting"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"Bu dasturni tomosha qilish uchun PIN kodni kiriting"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"Bu dastur uchun yosh cheklovi: <xliff:g id="RATING">%1$s</xliff:g>. Bu dasturni tomosha qilish uchun PIN kodni kiriting"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"Bu dastur tasniflanmagan. Mazkur dasturni tomosha qilish uchun PIN kodni kiriting"</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"PIN kodni kiriting"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"Ota-ona nazoratini sozlash uchun PIN kod yarating"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"Yangi PIN kodni kiriting"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"PIN kodni tasdiqlang"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"Joriy PIN kodni kiriting"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="other">PIN kodni 5 marta xato kiritdingiz.\n<xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> soniyadan keyin qayta urining.</item>
+      <item quantity="one">PIN kodni 5 marta xato kiritdingiz.\n<xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> soniyadan keyin qayta urining.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"PIN kod xato. Qayta urining."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"PIN kod mos kelmadi, qaytadan urining"</string>
+    <string name="no_program_information" msgid="2620718003929766549">"Dastur haqida axborot mavjud emas"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"Ochiq kodli DT litsenziyalari"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"Kanal"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"Kanal manbalari"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"Kanallar roʻyxatini sozlash"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"Teledastur uchun kanallarni tanlash"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"Kanalni oʻrnatish rejimi"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"Ota-ona nazorati"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"Bir necha kanalli"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"Versiyasi"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"Tayyor"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"<xliff:g id="SEASON_NUMBER">%1$s</xliff:g>-fasl: <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>-qism"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>-qism"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>-qism – “<xliff:g id="EPISODE_TITLE">%2$s</xliff:g>”"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> <xliff:g id="SEASONNUMBER">%2$s</xliff:g>-fasl: <xliff:g id="EPISODENUMBER">%3$s</xliff:g>-qism"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"Manbalarni sozlang"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"Jonli TV ilovalar tomonidan taqdim etiladigan translatsiya qilinadigan kanallar bilan an’anaviy televizor kanallarini uygʻunlashtiradi. \n\nOldin oʻrnatilgan kanal manbalarini sozlash bilan boshlashingiz mumkin. Yoki jonli efirlarni taklif etadigan boshqa ilovalarni onlayn doʻkonlar orqali tanlashingiz mumkin."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"Yangi"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"Manbalar"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> ta kanal</item>
+      <item quantity="one"><xliff:g id="ONE">%1$d</xliff:g> ta kanal</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"Hech qanday kanal mavjud emas"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"Yangi"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"Sozlanmagan"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"Kanal qidirish turi"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"Kanallarni saqlash turi"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"Eshitishi zaiflar uchun"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"Stereo"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"Avto Stereo"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"Qamrovli ovoz"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"Aniqlanmagan"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"Antenna"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"Kabel"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"Mono"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"Asl audio"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"Asl versiya"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"Yaxshi"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"Kuchsiz"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"Analog/raqamli"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"Analog"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"Raqamli"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"Kanal tafsiloti"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"Almashish"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"ishonchsiz"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"yaxshi"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"Hech qanday"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"Ovozsiz qilish"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"Avto"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"Normal"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"Zum"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"Ovozsiz"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"Xizmat<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"Til<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"Standart holatda"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"Oʻrtacha"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"Kichik"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"Yirik"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"Uslub<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"Qora"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"Oq"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"Yashil"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"Koʻk"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"Qizil"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"Zangori"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"Sariq"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"Qirmizi"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"Yaxlit rang"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"Yarim shaffof"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"Shaffof"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"<xliff:g id="BELOW_XX">%1$d</xliff:g> yoshdan kichik"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"Umumiy"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"Ota-ona nazorati"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"Ota-ona nazorati, 13 yosh"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"16 yoshdan kichiklarga emas"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"18 yoshdan kattalar uchun"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"21 yoshdan kattalar uchun"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"3-5 yoshdagi bolalar"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"6-12 yoshdagi bolalar"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"Kattalar uchun"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"Bloklanmagan"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"R va undan yuqorisini bloklash"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"AV va undan yuqori reytingni bloklash"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"MA va undan yuqorisini bloklash"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"M va undan yuqorisini bloklash"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"PG va undan yuqorisini bloklash"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"G va undan yuqorisini bloklash"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"Giyohvand moddalar"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"Zoʻravonlik"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"Seks"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"Zoʻravonlik va narkotik moddalar"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"Seks va giyohvand moddalar"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"Zoʻravonlik va seks"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"Zoʻravonlik, seks va narkotik moddalar"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"Har kuni"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"Bir marta"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"Daraja 1,5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"2,5 daraja"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> daqiqa"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"Rejimni tanlang"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"Kanallarni chiqarish"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"Oxirgi holati"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"Foydalanuvchi tanlash"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"Gorizontal"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"Vertikal"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"Yozib olish"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"Eslatma"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"Hafta"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"Butunlay qidiruv"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"Kengaytirilgan"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"Tezkor"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"Mamlakat hududi identifikatori <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"Har kuni"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"Yakshanba"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"Dushanba"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"Seshanba"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"Chorshanba"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"Payshanba"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"Juma"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"Shanba"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"Sputnik"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"Barcha kanallar"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"Oila va bolalar"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"Sport"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"Xarid"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"Filmlar"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"Komediya"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"Sayohat"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"Drama"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"Taʼlim"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"Tabiat va jonivorlar"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"Yangiliklar"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"Geyming"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"Sanʼat"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"Hordiq"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"Hayot tarzi"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"Musiqa"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"Premyera"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"Fan va texnika"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"Faqat shirflangan kanallar"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"Faqat bepul kanallar"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"Faqat raqamli kanallar"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"Faqat radio kanallar"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"Hech qachon"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> soat"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"Uyqu rejimiga avtomatik kirish"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"Uyqu rejimi: maslahatlar"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"TV besh daqiqadan keyin uyquga kiradi. Uxlashiga ruxsat berilsinmi?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"Qidiruv fonda amalga oshirilmoqda. Keyinroq qayta urining."</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"cwkey qiymati 16 dan kichik boʻlmasligi kerak"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"Boʻsh qolishi mumkin emas!"</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"Xato kiritildi!"</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"Matnsiz."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"\'0000\' — yaroqsiz parol"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Freeview Play sozlamalari"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"Shartlar va qoidalar"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"Xizmatni oddiy usulda yangilash"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"Ovoz uslubi"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"Tovush"</string>
+    <string name="device_picture" msgid="1347473641807661535">"Rasm"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"Kalitni saqlash"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"Kalitni yangilash"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"Kalitni oʻchirish"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"DiSEqC turida ixtilof yuz berdi, DiSEqC sozlamalarini tekshiring."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"Sputnik nomini tanlash va DiSEqC sozlanishi lozim."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"Sozlamalar toʻplamini yuklash uchun roʻyxatdan kamida bitta sputnik tanlanishi lozim:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n Tanlamasangiz, sozlamalar toʻplamini yuklash imkonsiz!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"Kanallar saqlanmoqda. Kutib turing..."</string>
+</resources>

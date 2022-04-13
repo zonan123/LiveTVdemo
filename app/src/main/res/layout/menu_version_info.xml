@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:paddingTop="@dimen/pin_dialog_top_padding"
+	    android:paddingBottom="@dimen/pin_dialog_bottom_padding"
+	    android:paddingStart="@dimen/pin_dialog_horizontal_padding"
+	    android:paddingEnd="@dimen/pin_dialog_horizontal_padding"
+	    android:elevation="@dimen/pin_dialog_elevation"
+	    android:layout_gravity="center"
+	    android:background="@color/pin_dialog_background"
+	    android:orientation="vertical" >
+	    <TableLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" >
+	        <TableRow android:layout_marginTop="20dp">
+	
+	            <TextView
+	                android:id="@+id/common_versioninfo_name"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1"
+	                android:text="@string/menu_versioninfo_name" />
+	
+	            <TextView
+	                android:layout_marginLeft="20dip"
+	                android:id="@+id/common_versioninfo_name_r"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1" />
+	        </TableRow>
+	
+	        <TableRow  android:layout_marginTop="20dp">
+	
+	            <TextView
+	                android:id="@+id/common_versioninfo_ver"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1"
+	                android:text="@string/menu_versioninfo_version" />
+	
+	            <TextView
+	                android:layout_marginLeft="20dip"
+	                android:id="@+id/common_versioninfo_ver_r"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1" />
+	        </TableRow>
+	
+	        <TableRow android:layout_marginTop="20dp">
+	
+	            <TextView
+	                android:id="@+id/common_versioninfo_num"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1"
+	                android:text="@string/menu_versioninfo_number" />
+	
+	            <TextView
+	                android:layout_marginLeft="20dip"
+	                android:id="@+id/common_versioninfo_num_r"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textSize="@dimen/large_text_size1"
+	                android:layout_weight="1" />
+	        </TableRow>
+	    </TableLayout>
+	</LinearLayout>
+</ScrollView>

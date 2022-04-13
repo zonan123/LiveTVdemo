@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_th_tv_p">ป</string>
+    <string name="title_th_tv_c">ด</string>
+    <string name="title_th_tv_g">ท</string>
+    <string name="title_th_tv_pg13">น13</string>
+    <string name="title_th_tv_pg18">น18</string>
+    <string name="title_th_tv_x">ฉ</string>
+</resources>

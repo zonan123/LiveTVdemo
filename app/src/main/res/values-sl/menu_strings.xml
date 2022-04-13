@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"Vklopljeno"</string>
+    <string name="common_off" msgid="7117815518726170364">"Izklopljeno"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"Meni"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"Slika"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"Zvok"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"TV"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"Nastavitev"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"Starševski nadzor"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"Dodatne možnosti"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"Kartica CI"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"Ročni prenos OAD"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"Neaktivni kanali"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Naprej"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"Zapri"</string>
+    <string name="menu_back" msgid="5914226981357187525">"Nazaj"</string>
+    <string name="menu_set" msgid="4003160032715199809">"Nastavi"</string>
+    <string name="menu_ok" msgid="549595307019821477">"V redu"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"Prekliči"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"Filmska glasba"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"Način sprejemnika"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"Vrsta seznama kanalov"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"ID območja države"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"Območje države"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"Zvočni kanal"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"Jezik zvoka"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"Drugi jezik zvoka"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"Kanali"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"Iskanje kanalov"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"TV-sistem"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"Barvni sistem"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"Posodobitev iskanja"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"Analogno ročno iskanje"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"Enojno RF-iskanje"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"Urejanje kanala"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"Preskoči kanal"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"Nastavitev kanalov"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"Počisti seznam kanalov"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"Zamrzni kanal"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"Stanje"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"Iskanje"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"Analogni kanali"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"Digitalni kanali"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"Začetna frekvenca (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"Končna frekvenca (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"Frekvenca iskanja (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"Slog QAM"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"Simbolna hitrost"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"Frekvenčni načrt"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"Modulacija"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"Način iskanja"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"Indeks »Od«"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"Indeks »Do«"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"Seznam kanalov je že posodobljen.\n Želite nadaljevati prenos?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"Vstavi"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"Izbriši"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"Kanale je mogoče izbrisati brez opozorilnega prikaza na zaslonu. Ste prepričani?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"Ta funkcija ni podprta, ker je številka kanala nižja od 4001."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"Vnesite številko kanala, večjo od 4000"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"Št."</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"Vrsta"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"Frekvenca"</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"Sistem"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"Ime"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"Preskoči"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"Iskanje vseh kanalov."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Dvojni sprejemnik"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"Želite začeti iskanje prek pretvornika LNB? \n Če preskočite ta korak, se uporabijo privzete nastavitve."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"RF-kanal"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"Raven signala"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"Kakovost signala"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"Ime TS:"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"Številka kanala:"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"Ime kanala:"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"Ime omrežja:"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"Frekvenca:"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"Kanala ni bilo mogoče najti."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"Zvočni sistem"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"Natančno iskanje"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"Shrani"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"Ste prepričani?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"Razvrščanje. Počakajte …"</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"Premikanje. Počakajte …"</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"Podvojite številke kanalov!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"Natančno iskanje analognih kanalov"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"Ali ste prepričani, da želite odstraniti ta kanal?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"Ali ste prepričani, da želite odstraniti vse kanale?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"Način zaslona"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Modra slika z izklopljenim zvokom"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"Funkcija DMR"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"Kanal interakcije"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"Zaščita s kodo PIN za MHEG"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"Nastavitve hibridne televizije (HBBTV)"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"Podpora za HBBTV"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"Ne sledi"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"Nastavitve piškotkov"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"Trajno shranjevanje"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"Blokiranje spletnih mest s sledenjem"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"ID naprave"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"Ponastavi ID naprave"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"Ali res želite ponastaviti ID naprave?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Nastavitev aplikacije Ginga"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"Registracija DivX(R)"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"Nastavitev podnapisov"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"Glasba ob zagonu"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"Glasba ob izklopu"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"Nastavitev ure"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"Teletekst"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"Podnapisi"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"Analogni podnapisi"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"Jezik digitalnih podnapisov"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"Drugi jezik digitalnih podnapisov"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"Vrsta podnapisov"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"Omrežje"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"Podatki o različici"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"Ponastavitev na tovarniške nastavitve"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"Prenos vdelane programske opreme"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"Vmesnik CI"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"Nastavitev snemanja"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"Posodobitev kanala"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"Območje za EWBS"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"Nastavitev TKGS-ja"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"Seznam lokatorjev za TKGS"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"Skrite lokacije TKGS"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"Ponastavi različico tabele"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"Prednostni seznam"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"Poštna številka"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"Podatki o napravi"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"Način časovnega zamika"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"Samodejno posodabljanje kanalov"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"Sporočilo o posodobitvi kanala"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"Horizontalno"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"Vertikalno"</string>
+    <string name="ci_title" msgid="372414068198664695">"Podatki o modulu CAM"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Ni kartice CAM."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Meni modula CAM"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Koda PIN modula CAM"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"Prednostna nastavitev uporabnika"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"Privzeto"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"Oddajanje"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Iskanje prek modula CAM"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"Vnesite kodo PIN modula CAM"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"Nepravilno. Vnesite znova."</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"Počakajte …"</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"Nagradnja omrežja"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Omogočanje funkcije Ginga"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"Samodejni zagon aplikacije"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"Omogoči podnapise"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"Analogni podnapisi"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"Digitalni podnapisi"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"Slog digitalnih podnapisov"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"Nastavitev prekrivanja"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"Slog podnapisov"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"Velikost pisave"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"Slog pisave"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"Barva pisave"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"Neprosojnost pisave"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"Barva ozadja"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"Neprosojnost ozadja"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"Barva oken"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"Neprosojnost oken"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"Jezik digitalnega teleteksta"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"Dekodiranje jezika strani"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"Raven predstavitve teleteksta"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"Samodejna sinhronizacija"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"Ura samodejnega vklopa"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"Časovnik"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"Privzeti kanal"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"Ura za samodejni izklop"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"Nastavitev brezžične povezave"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"Informacije"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"Izbira načina"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"Pokaži kanale"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"Začnite prenašati novo vdelano programsko opremo iz strežnika."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"Posodabljanje čarovnika"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"Preverjanje nove vdelane programske opreme ni uspelo."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"Ste prepričani?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"Iskanje analognih kanalov"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"Iskanje digitalnih kanalov"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"Iskanje kanalov enojne frekvence. (samo digitalni)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"Iskanje z obsegom kanalov"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"Stanje: Iskanje je bilo preklicano."</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"Stanje: iskanje"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"Ime satelita:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"Analogni kanali:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"Digitalni kanali:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"Ali ste prepričani, da želite shraniti podatke?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"Ali res želite ponastaviti vse nastavitve?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"Stanje: Iskanje je bilo preklicano."</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"Stanje: napaka pri iskanju"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"Stanje: iskanje je končano"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"Stanje: premikanje elementa za pozicioniranje"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"Nagradnja omrežja ..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"Nastavitve brezžične naprave"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"Nobena brezžična naprava ni povezana s televizorjem."</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"Da"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"Ne"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"Ime modela"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"Različica"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"Serijska številka"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"Če želite predvajati videoposnetke, zaščitene z DivX®, morate registrirati napravo.\nRegistracijska koda: BX9ASIKQEI\n Registrirajte na http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"Koda za preklic registracije:\n Registracijo prekličete na http://vod.divx.com\n Želite nadaljevati registracijo?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"Ključ BISS"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"Kliknite za dodajanje ključa BISS"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"Dodajanje ključa BISS"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"Frekvenca"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"Polarizacija"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"ID programa"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"Ključ CW"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"Nastavitev HDMI-ja 2.0"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"Oblika signala"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"Geslo"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"Blokiran kanal"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"Blokiranje programa"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"Blokiranje razporeda kanalov"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"Način uporabe"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"Blokiranje vhoda"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"Sprememba gesla"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"Izbriši vse"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"Napačno geslo.\nVnesite ga znova."</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"Vnesite geslo"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"Novo geslo"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"Potrdite geslo"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"Geslo se ne ujema.\nZnova ga vnesite."</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"Začetni datum"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"Začetni čas"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"Končni datum"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"Končni čas"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"Dovoljena kategorija vsebine"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"Blokirana kategorija vsebine"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"Kategorije vsebine za TV-program v Združenih državah"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"Kategorije vsebine za filme za ZDA"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"Kategorije vsebine za kanadsko angleščino"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"Kategorije vsebine za kanadsko francoščino"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"Kategorija vsebine glede na starost"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"Omejitev dostopa"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"Kategorija vsebine"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"Blokiranje oddaj brez kategorije vsebine"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"Omogočanje kategorij vsebine"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"Brez teleteksta"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"Ni podatkov TOP"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"Vrsta vira"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"Podatki o kanalu"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"Vrsta razporeda"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"Vrsta ponovitve"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"Začetni datum"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"Začetni čas"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"Čas ustavitve"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"Način časovnega zamika"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"Seznam razporedov"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"Informacije o licenci"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"Podatki o sistemu"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"Samodejni prenos"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"Izbira priljubljenega omrežja"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"Razvrstitev kanalov"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"Premik kanalov"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"Natančno iskanje analognih kanalov"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"Drugo"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"Iskanje gor"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"Iskanje dol"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"Pri iskanju kanalov bodo odstranjeni prejšnji kanali."</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"ID omrežja"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"Išči"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"Frekvenca (kHz)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"Frekvenca (MHz)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"Simbolna hitrost (Ksim/s)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"Vnovično iskanje satelitov"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"Dodajanje satelita"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"Posodobitev satelita"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"Ročno uravnavanje satelita"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"Izbira priljubljenega omrežja"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"Dekodiranje kanalov"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"Kanal"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"ID storitve"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"Vrsta storitve"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"Izberite priljubljeno omrežje:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"Ali želite shraniti rezultate iskanja?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"Nič ni določeno"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"Indeks skupine v sporu:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"Številka kanala v sporu:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"Uporaba privzete nastavitve za vse"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"Začni"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"Vnovičen zagon"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"Napredek:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"Stanje:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"Preverjanje ..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"Vdelana programska oprema je pripravljena. Ali res želite zdaj znova zagnati sistem?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"Pritisnite gumb za začetek, če želite prenesti vdelano programsko opremo."</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"Prenos se je začel"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"Prenašanje"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"Prenos je končan"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"Prekliči prenos"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"Zapiranje prenosa! Datoteka za prenos ne obstaja."</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"Preverjanje je končano"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"Zapiranje prenosa! Napaka v omrežju."</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"Zapiranje prenosa! Napaka pri preverjanju."</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"Zapiranje prenosa! Prenos ni bil uspešen."</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"Sistem je uspešno nadgradil vdelano programsko opremo."</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"Sistemu ni uspelo nadgraditi vdelane programske opreme."</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"Iskanje digitalnih programov prek satelita"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"Izbira seznama kanalov"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"Izberite seznam kanalov:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"Izbira območja"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"Izbira območja za <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"Izberite način iskanja"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"Možnosti za TV"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"Vir"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"Podnapisi"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"Način prikaza"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"Dodaj mojim priljubljenim"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"Moji priljubljeni"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"Uredi"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"Več kanalov"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"Nastavitve"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"Zvočniki"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"Način slike"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"Na voljo so novi kanali"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"Programski vodnik"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"Kanal gor"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"Kanal dol"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"Kanali"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"Odpri aplikacijo <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"Blokirani vhodi"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"Blokirani kanali"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"Blokiraj vse"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"Odblokiraj vse"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"Preskoči vse"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"Prekliči preskok vseh"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"Skriti kanali"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"Omejitve programov"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"Nastavitev RRT5"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"Nastavitev RRT5"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"Zatemnitev RRT5"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"Stopnja RRT5"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"Ponastavitev RRT5"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"Spremeni kodo PIN"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"Sistemi kategorij vsebine"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"Kategorije vsebine"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"Prikaz vseh sistemov kategorij vsebine"</string>
+    <string name="other_countries" msgid="4596971851245610516">"Druge države"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"Brez"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"Brez kategorije vsebine"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"Blokiranje oddaj brez kategorije vsebine"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"Visoke omejitve"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"Srednje omejitve"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"Blage omejitve"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"V slogu oddajanja"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"Po meri"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"Vsebina, primerna za otroke"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"Vsebina, primerna za starejše otroke"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"Vsebina, primerna za najstnike"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"Ročne omejitve"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"Viri za opise kategorij vsebine"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> in podkategorije vsebine"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"Podkategorija vsebine"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"Vnesite kodo PIN, če želite gledati ta kanal"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"Vnesite kodo PIN, če želite gledati to oddajo"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"Ta oddaja ima kategorijo vsebine <xliff:g id="RATING">%1$s</xliff:g>. Vnesite kodo PIN, če si želite ogledati to oddajo."</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"Ta oddaja nima kategorije vsebine. Vnesite kodo PIN, če jo želite gledati."</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"Vnesite kodo PIN"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"Če želite nastaviti starševski nadzor, ustvarite kodo PIN."</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"Vnesite novo kodo PIN"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"Potrdite PIN"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"Vnos trenutne kode PIN"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="one">Petkrat ste vnesli napačno kodo PIN.\nPoskusite znova čez <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekundo.</item>
+      <item quantity="two">Petkrat ste vnesli napačno kodo PIN.\nPoskusite znova čez <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekundi.</item>
+      <item quantity="few">Petkrat ste vnesli napačno kodo PIN.\nPoskusite znova čez <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekunde.</item>
+      <item quantity="other">Petkrat ste vnesli napačno kodo PIN.\nPoskusite znova čez <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekund.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"Koda PIN je bila napačna. Poskusite znova."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"Poskusite znova. Koda PIN se ne ujema."</string>
+    <string name="no_program_information" msgid="2620718003929766549">"Ni informacij o programu"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"Odprtokodne licence"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"Kanal"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"Viri kanalov"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"Prilagajanje seznama kanalov"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"Izbira kanalov za programski vodnik"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"Način namestitve kanalov"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"Starševski nadzor"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"Multizvok"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"Različica"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"Končano"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"<xliff:g id="SEASON_NUMBER">%1$s</xliff:g>. sezona: <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>. epiz."</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>. epizoda"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>. epizoda: <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> – <xliff:g id="SEASONNUMBER">%2$s</xliff:g>. sezona: <xliff:g id="EPISODENUMBER">%3$s</xliff:g>. epizoda"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"Nastavitev virov"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"TV v živo združuje izkušnjo običajnih TV-kanalov in pretočno predvajanje kanalov, ki ga omogočajo aplikacije \n\nZačnite tako, da nastavite vire kanalov, ki so že nameščeni. V spletni trgovini lahko tudi poiščete druge aplikacije, ki omogočajo kanale v živo."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"Novo"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"Viri"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="one"><xliff:g id="OTHER">%1$d</xliff:g> kanal</item>
+      <item quantity="two"><xliff:g id="OTHER">%1$d</xliff:g> kanala</item>
+      <item quantity="few"><xliff:g id="OTHER">%1$d</xliff:g> kanali</item>
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> kanalov</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"Ni kanalov"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"Novo"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"Ni nastavljeno"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"Vrsta iskanja kanalov"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"Vrsta shranjevanja kanalov"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"Osebe s prizadetim sluhom"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"Stereo"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"Samodejni stereo"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"Prostorski zvok"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"Nedoločeno"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"Antena"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"Kabelska televizija"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"Mono"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"Izvirni zvok"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"Izvirna različica"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"Dobra"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"Slaba"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"Analogno/digitalno"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"Analogna"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"Digitalno"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"Podatki o kanalu"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"Zamenjaj"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"slaba"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"dobro"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"Brez"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"Izklop zvoka"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"Samodejno"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"Običajni"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"Povečava"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"Izklopljen zvok"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"Storitev <xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"Jezik <xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"Privzeto od oddaje"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"Srednje"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"Majhna"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"Velika"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"Slog <xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"Črna"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"Bela"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"Zelena"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"Modra"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"Rdeča"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"Cianova"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"Rumena"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"Škrlatna"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"Polna"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"Prosojno"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"Prosojno"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"Pod <xliff:g id="BELOW_XX">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"Splošno"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"Starševski nadzor"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"Starševski nadzor (13)"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"Prepovedano za otroke, mlajše od 16 let"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"Odrasli 18"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"Omejeno 21"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"Otroci starosti 3–5 let"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"Otroci starosti 6–12 let"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"Odrasli"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"Brez blokiranja"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"Blokiranje vsebine s kategorijo R in naprej"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"Blokiranje vsebine s kategorijo AV in naprej"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"Blokiranje vsebine s kategorijo MA in naprej"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"Blokiranje vsebine s kategorijo M in naprej"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"Blokiranje vsebine s kategorijo PG in naprej"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"Blokiranje vsebine s kategorijo G in naprej"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"Mamila"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"Nasilje"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"Spolnost"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"Nasilje in mamila"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"Seks in mamila"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"Nasilje in seks"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"Nasilje in seks in mamila"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"Dnevno"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"Enkrat"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"Stopnja 1.5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"Stopnja 2.5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> min"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"Izbira načina"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"Pokaži kanale"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"Zadnje stanje"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"Po izbiri uporabnika"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"Horizontalno"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"Navpično"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"Snemanje"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"Opomnik"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"Teden"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"Celotno"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"Napredno"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"Hitro"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"ID območja države <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"Vsak dan"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"nedelja"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"ponedeljek"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"torek"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"sreda"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"četrtek"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"petek"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"sobota"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"Satelit"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"Vsi kanali"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"Družina/otroci"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"Šport"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"Nakupovanje"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"Filmi"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"Komedije"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"Potovanja"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"Drama"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"Izobraževanje"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"Živalski svet"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"Novice"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"Igre"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"Umetnost"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"Zabava"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"Življenjski slog"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"Glasba"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"Premiera"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"Tehnika/znanost"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"Samo šifrirani kanali"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"Samo brezplačni kanali"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"Samo digitalni kanali"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"Samo radijski kanali"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"Nikoli"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> h"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"Samodejna pripravljenost"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"Nasveti za pripravljenost"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"Televizor bo čez pet minut preklopil v stanje pripravljenosti. Ali želite, da se to zgodi?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"V ozadju se izvaja iskanje. Poskusite znova pozneje."</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"cwkey ne more biti manjši od 16"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"Ne more biti prazno."</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"Neveljaven vnos."</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"Brez besedila."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"»0000« je neveljavno geslo"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Nastavitve za Freeview Play"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"Določila in pogoji"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"Ročna posodobitev storitve"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"Slog zvoka"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"Zvok"</string>
+    <string name="device_picture" msgid="1347473641807661535">"Slika"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"Shrani ključ"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"Posodobi ključ"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"Izbriši ključ"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"Vrsta protokola DiSEqC je v sporu, preverite nastavitve protokola DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"Izberite ime satelita in konfiguracijo protokola DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"Nalaganje seznama prednastavljenih zahteva, da je izbran vsaj eden od spodnjih satelitov:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n Seznama prednastavljenih zato ni bilo mogoče naložiti!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"Kanali se shranjujejo, počakajte …"</string>
+</resources>

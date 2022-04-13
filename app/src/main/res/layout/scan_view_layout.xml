@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_scan_dialog_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/scan_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/menu_scan_dialog_contentview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:layout_marginEnd="40dip" >
+
+            <TextView
+                android:id="@+id/state"
+                style="@style/Canvas.Scan.Text.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/middle_margin_edge"
+                android:maxWidth="340dp" />
+
+            <com.mediatek.wwtv.tvcenter.commonview.Loading
+                android:id="@+id/setup_tv_scan_loading"
+                style="@style/Canvas.Scan.Text.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/middle_margin_edge"
+                android:layout_toEndOf="@id/state"
+                android:focusable="false" />
+
+            <TextView
+                android:id="@+id/trun_mode"
+                style="@style/Canvas.Scan.Text.Large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="@dimen/menu_scan_layout_margin"
+                android:layout_marginTop="@dimen/middle_margin_edge"
+                android:text="@string/menu_tv_tuner_mode" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/dvbsusedigital_channels"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:text="@string/menu_tv_tuner_mode" />
+
+        <TextView
+            android:id="@+id/analoguechannel"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:text="@string/menu_tv_tuner_mode" />
+
+        <TextView
+            android:id="@+id/numberchannel"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:text="@string/menu_tv_tuner_mode" />
+
+        <TextView
+            android:id="@+id/numberchannel_from_to"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:minWidth="@dimen/menu_scan_layout_minWidth"
+            android:text="@string/menu_tv_tuner_mode" />
+        
+        <TextView
+            android:id="@+id/dvbc_network_name"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:minWidth="@dimen/menu_scan_layout_minWidth" />
+
+        <RelativeLayout
+            android:id="@+id/menu_scan_proline"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:layout_marginEnd="40dip"
+            android:layout_marginTop="15dip" >
+
+            <TextView
+                android:id="@+id/finishpercentage"
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"/>
+
+            <ProgressBar
+                android:id="@+id/scanprogressbar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:progressDrawable="@drawable/progressbar_pvr_color"
+                android:layout_width="fill_parent"
+                android:layout_height="8dip"
+                android:layout_below="@id/finishpercentage"
+                android:layout_marginTop="10dip" />
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/scan_factor_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dip"
+            android:layout_marginEnd="40dip"
+            android:layout_marginTop="10dip"
+            android:listSelector="@drawable/nav_ch_list_selector" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dip"
+        android:layout_marginBottom="40dip">
+
+        <TextView
+            android:id="@+id/scan_finish"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:text="@string/scan_exit_tip" />
+    </RelativeLayout>
+</LinearLayout>

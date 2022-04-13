@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"Aktive"</string>
+    <string name="common_off" msgid="7117815518726170364">"Joaktive"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"Menyja"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"Video"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"Audio"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"Televizor"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"Konfigurimi"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"Prindëror"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"Opsionet e përparuara"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"Karta CI"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"Shkarkimi manual OAD"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"Kanalet joaktive"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Hyr"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"Dil"</string>
+    <string name="menu_back" msgid="5914226981357187525">"Prapa"</string>
+    <string name="menu_set" msgid="4003160032715199809">"Cakto"</string>
+    <string name="menu_ok" msgid="549595307019821477">"Në rregull"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"Anulo"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"Kolonat zanore"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"Modaliteti i sintonizuesit"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"Lloji i listës së kanaleve"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"ID-ja e shtetit/rajonit"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"Shteti/rajoni"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"Kanal audio"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"Gjuha e audios"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"Gjuha e 2-të e audios"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"Kanalet"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"Skanimi i kanaleve"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"Sistemi i televizorit"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"Sistemi i ngjyrave"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"Skanimi për përditësimin"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"Skanimi manual analog"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"Një skanim RF"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"Modifiko kanalin"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"Kapërcimi i kanalit"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"Konfigurimi i kanalit"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"Pastro listën e kanaleve"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"Ngri kanalin"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"Statusi"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"Skanimi"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"Kanalet analoge"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"Kanalet dixhitale"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"Frekuenca e nisjes (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"Frekuenca e fundit (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"Frekuenca e skanimit (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"Stili i QAM"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"Shpejtësia e simboleve"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"Plani i frekuencës"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"Modulimi"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"Modaliteti i skanimit"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"Indeksi nga"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"Indeksi për"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"Lista e kanaleve është e përditësuar tashmë.\n Dëshiron të vazhdosh me shkarkimin?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"Fut"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"Fshi"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"Kanalet mund të fshihen pa asnjë OSD paralajmëruese. Je i sigurt?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"Kjo veçori nuk mbështetet pasi numri i kanalit është më i vogël se 4001."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"Fut një numër kanali më të madh se 4000"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"Num."</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"Lloji"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"Frekuenca"</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"Sistemi"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"Emri"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"Kapërce"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"Skano të gjitha kanalet."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Sintonizuesi i dyfishtë"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"Do të fillosh kërkimin e LNB-së tani? \n Nëse e kapërcen këtë hap, do të përdoren parazgjedhjet."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"Kanali RF"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"Niveli i sinjalit"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"Cilësia e sinjalit"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"Emri i transmetimit të transportit:"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"Numri i kanalit:"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"Emri i kanalit:"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"Emri i rrjetit:"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"Frekuenca:"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"Kanali nuk u gjet."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"Sistemi i zërit"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"Sintonizimi i imët"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"Dyqani"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"Je i sigurt?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"Po renditen. Qëndro në pritje..."</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"Po zhvendoset. Qëndro në pritje..."</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"Numra të përsëritur të kanaleve!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"Sintonizimi i detajuar i kanalit analog"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"Je i sigurt që dëshiron ta heqësh këtë kanal?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"Je i sigurt që dëshiron t\'i heqësh të gjitha kanalet?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"Modaliteti i ekranit"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Blu joaktive"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"Funksioni i DMR-së"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"Kanal me ndërveprime"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"Mbrojtja me PIN për MHEG"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"Cilësimet e HBBTV"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"Mbështetja për HBBTV"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"Mos gjurmo"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"Cilësimet e kukive"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"Hapësira ruajtëse e përhershme"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"Blloko sajtet e gjurmimit"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"ID-ja e pajisjes"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"Rivendos ID-në e pajisjes"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"Je i sigurt që dëshiron të rivendosësh ID-në e pajisjes?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Konfigurimi i Ginga"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"Regjistrimi DivX(R)"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"Konfigurimi i titrave"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"Muzika e nisjes"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"Mbyll muzikën"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"Konfigurimi i orës"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"Teleteksti"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"Titrat"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"Titrat analoge"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"Gjuha e titrave dixhitale"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"Gjuha e 2-të e titrave dixhitale"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"Lloji i titrave"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"Rrjeti"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"Informacionet për versionin"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"Rivendosja në gjendje fabrike"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"Shkarko firmuerin"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"Ndërfaqja e përgjithshme"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"Cilësimi i regjistrimit"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"Përditësimi i kanalit"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"Rajoni i EWBS"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"Cilësimi i TKGS"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"Lista e lokalizuesve të TKGS"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"Vendndodhjet e fshehura të TKGS"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"Rivendos versionin e tabelës"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"Lista e preferencave"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"Kodi postar"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"Informacione mbi pajisjen"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"Modaliteti i zhvendosjes në kohë"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"Përditësimi automatik i kanaleve"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"Mesazhi i përditësimit të kanalit"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"Horizontal"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"Vertikal"</string>
+    <string name="ci_title" msgid="372414068198664695">"Informacione për Cam"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Nuk ka kartë të Cam."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Menyja e Cam"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Kodi PIN për Cam"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"Preferenca e përdoruesit"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"Parazgjedhja"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"Transmeto"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Skanimi i Cam"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"Fut kodin PIN për Cam"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"E pasaktë Fut përsëri!"</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"Qëndro në pritje..."</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"Përmirësimi i rrjetit"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Aktivizo Ginga"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"Nis automatikisht aplikacionin"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"Aktivizo titrat"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"Titrat analoge"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"Titrat dixhitale"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"Stili i titrave dixhitale"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"Konfigurimi i mbivendosjes"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"Stili i titrave"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"Madhësia e fontit"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"Stili i fontit"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"Ngjyra e fontit"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"Tejdukshmëria e fontit"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"Ngjyra e sfondit"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"Tejdukshmëria e sfondit"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"Ngjyra e dritares"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"Tejdukshmëria e dritares"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"Gjuha e teletekstit dixhital"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"Gjuha për dekodimin e faqes"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"Niveli i prezantimit të teletekstit"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"Sinkronizimi automatik"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"Ndezja automatike në kohë"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"Kohëmatësi"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"Kanali i parazgjedhur"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"Koha e fikjes automatike"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"Cilësimi i lidhjes pa tel"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"Informacione"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"Zgjidh modalitetin"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"Shfaq kanalet"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"Fillo të shkarkosh firmuerin e ri nga serveri."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"Eksperti po përditësohet"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"Kontrolli i firmuerit të ri dështoi."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"Je i sigurt?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"Kërko për kanale analoge"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"Kërko për kanale dixhitale"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"Skano një kanal RF. (Vetëm dixhitale)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"Skano me një gamë kanalesh"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"Statusi: Skanimi u anulua"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"Statusi: Skanimi"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"Emri i satelitit:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"Kanalet analoge:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"Kanalet dixhitale:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"Je i sigurt që dëshiron të ruash të dhënat?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"Je i sigurt se dëshiron të rivendosësh të gjitha cilësimet?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"Statusi: Skanimi u anulua"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"Statusi: Gabim në skanim"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"Statusi: Skanimi përfundoi"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"Statusi: Lëvizja e pozicionuesit"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"Përmirësimi i rrjetit..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"Cilësimet me valë"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"Nuk është lidhur asnjë pajisje me valë me televizorin!"</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"Po"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"Jo"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"Emri i modelit"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"Versioni"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"Numri i serisë"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"Duhet të regjistrosh pajisjen tënde për të luajtur video të mbrojtura nga DivX®.\nKodi i regjistrimit: BX9ASIKQEI\n Regjistrohu te http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"Kodi i çregjistrimit:\n Çregjistrohu në http://vod.divx.com\n Dëshiron të vazhdosh me regjistrimin?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"Çelësi BISS"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"Kliko për të shtuar çelësin BISS"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"Shto çelësin BISS"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"Frekuenca"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"Polarizimi"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"ID-ja e programit"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"Çelësi CW"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"Cilësimi i HDMI 2.0"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"Formati i sinjalit"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"Fjalëkalimi"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"Kanali i bllokuar"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"Programi i bllokuar"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"Blloko programin e kanalit"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"Modaliteti i funksionimit"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"Hyrja e bllokuar"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"Ndrysho fjalëkalimin"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"Pastro të gjitha"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"Fjalëkalimi është i pasaktë.\nFute përsëri!"</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"Fut fjalëkalimin"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"Fjalëkalimi i ri"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"Konfirmo fjalëkalimin"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"Fjalëkalimi nuk përputhet.\nFute përsëri!"</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"Data e nisjes"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"Koha e fillimit"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"Data e përfundimit"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"Koha e përfundimit"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"Vlerësimi i lejuar"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"Vlerësim i bllokuar"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"Vlerësimet televizive për SHBA-në"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"Vlerësimet e filmave për SHBA-në"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"Vlerësimet në anglishten kanadeze"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"Vlerësimet në frëngjishte kanadeze"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"Vlerësimi i moshës"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"Kufizimi i qasjes"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"Vlerësimi i përmbajtjes"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"Blloko programet e pavlerësuara"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"Aktivizo vlerësimin"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"Nuk ka teletekst"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"Pa KREUN"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"Lloji i burimit"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"Informacioni i kanalit"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"Lloji i programit"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"Lloji i përsëritjes"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"Data e fillimit"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"Koha e nisjes"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"Koha e ndalimit"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"Modaliteti i zhvendosjes në kohë"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"Lista e planifikimeve"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"Informacion mbi licencën"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"Informacioni i sistemit"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"Shkarkim automatik"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"Zgjidh rrjetin e preferuar"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"Renditja e kanaleve"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"Lëvizja e kanalit"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"Sintonizimi i detajuar i kanalit analog"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"Të tjera"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"Skano lart"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"Skano poshtë"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"Skanimi i kanaleve do të heqë kanalet e mëparshme!"</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"ID-ja e rrjetit"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"Skano"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"Frekuenca (KHz)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"Frekuenca (MHz)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"Shpejtësia e simboleve (Ksym/s)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"Riskanimi i satelitit"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"Shtimi i satelitit"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"Përditësimi i satelitit"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"Sintonizimi manual i satelitit"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"Zgjidh rrjetin e preferuar"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"Dekodimi i kanalit"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"Kanali"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"ID-ja e shërbimit"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"Lloji i shërbimit"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"Zgjidh rrjetin tënd të preferuar:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"Dëshiron të ruash rezultatet e kërkimit?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"Nuk është specifikuar asnjë"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"Indeksi i grupit në konflikt:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"Numri i kanalit në konflikt:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"Përdor cilësimin e parazgjedhur për të gjitha"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"Nis"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"Rindiz"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"Progresi:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"Statusi:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"Po verifikohet ..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"Firmueri është gati. Je i sigurt se dëshiron ta rindezësh sistemin tani?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"Shtyp butonin \"Nisja\" për të shkarkuar firmuerin!"</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"Shkarkimi filloi"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"Po shkarkohet"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"Shkarkimi përfundoi"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"Anulo shkarkimin"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"Dil nga shkarkimi! Skedari i shkarkimit nuk ekziston!"</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"Vlerësimi përfundoi"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"Dil nga shkarkimi! Gabim me rrjetin!"</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"Dil nga shkarkimi! Gabim me vlerësimin!"</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"Dil nga shkarkimi! Shkarkimi dështoi!"</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"Sistemi e ka përmirësuar firmuerin me sukses!"</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"Sistemi nuk arriti të përmirësojë firmuerin!"</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"Sintonizimi satelitor dixhital"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"Zgjidh listën e kanaleve"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"Zgjidh listën e kanaleve:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"Zgjidh rajonin"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"Zgjidh rajonin për <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"Zgjidh modalitetin e skanimit"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"Opsionet e televizorit"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"Burimi"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"Titrat"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"Modaliteti i ekranit"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"Shto te \"Të preferuarat e mia\""</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"Të preferuarat e mia"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"Modifiko"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"Merr më shumë kanale"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"Cilësimet"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"Altoparlantët"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"Modaliteti i fotografisë"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"Ofrohen kanale të reja"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"Udhëzuesi i programeve"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"Kanali lart"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"Kanali poshtë"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"Kanalet"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"Hap <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"Hyrjet të bllokuara"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"Kanalet u bllokuan"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"Bllokoji të gjitha"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"Zhblloko të gjitha"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"Kapërce të gjitha"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"Hiq kapërcimin te të gjitha"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"Kanalet e fshehura"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"Kufizimet e programeve"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"Cilësimi i RRT5"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"Cilësimi i RRT5"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"Zbehja e RRT5"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"Niveli RRT5"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"Rivendos RRT5"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"Ndrysho kodin PIN"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"Sistemet e vlerësimit"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"Vlerësimet"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"Shiko të gjitha sistemet e vlerësimit"</string>
+    <string name="other_countries" msgid="4596971851245610516">"Shtete të tjera"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"Asnjë"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"I pavlerësuar"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"Blloko programet e pavlerësuara"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"Kufizimet e larta"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"Kufizimet mesatare"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"Kufizimet e ulëta"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"Si transmetim"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"Personalizo"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"Përmbajtje e përshtatshme për fëmijët"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"Përmbajtje e përshtatshme për fëmijë më të rritur"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"Përmbajtje e përshtatshme për adoleshentë"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"Kufizimet manuale"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"Burimet për përshkrimet e vlerësimeve"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> dhe vlerësimet dytësore"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"Vlerësimet dytësore"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"Fut kodin PIN për të parë këtë kanal"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"Fut kodin PIN për të shikuar këtë program"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"Ky program është vlerësuar si <xliff:g id="RATING">%1$s</xliff:g>. Fut kodin PIN për të shikuar këtë program"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"Ky program është i pavlerësuar. Fut kodin tënd PIN për të shikuar këtë program"</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"Fut kodin PIN"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"Për të caktuar kontrollet prindërore, krijo një kod PIN"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"Fut kodin e ri PIN"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"Konfirmo kodin tënd PIN"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"Fut kodin PIN aktual"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="other">Ke futur kodin e gabuar PIN 5 herë.\nProvo përsëri pas <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekondash.</item>
+      <item quantity="one">Ke futur kodin e gabuar PIN 5 herë.\nProvo përsëri pas <xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> sekonde.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"Ai kod PIN ishte i gabuar. Provo përsëri."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"Kodi PIN nuk përputhet. Provo përsëri."</string>
+    <string name="no_program_information" msgid="2620718003929766549">"Nuk ka informacione për programin"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"Licencat me burim të hapur"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"Kanali"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"Burimet e kanaleve"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"Personalizo listën e kanaleve"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"Zgjidh kanalet për udhëzuesin e programeve"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"Modaliteti i instalimit të kanalit"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"Kontrollet prindërore"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"Audioja në shumë gjuhë"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"Versioni"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"U krye"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"S<xliff:g id="SEASON_NUMBER">%1$s</xliff:g>: Ep.<xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"Ep.<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"Ep. <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g> <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> S<xliff:g id="SEASONNUMBER">%2$s</xliff:g>: Ep. <xliff:g id="EPISODENUMBER">%3$s</xliff:g>"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"Konfiguro burimet e tua"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"Kanalet drejtpërdrejt ndërthurin eksperiencën e kanaleve televizive tradicionale me kanalet në transmetim të ofruara nga aplikacionet. \n\nFillo duke konfiguruar burimet e kanaleve të instaluara tashmë. Ose shfleto në dyqanin në linjë për më shumë aplikacione që ofrojnë kanale drejtpërdrejt."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"I ri"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"Burimet"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> kanale</item>
+      <item quantity="one"><xliff:g id="ONE">%1$d</xliff:g> kanal</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"Nuk ka kanale të disponueshme"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"I ri"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"Nuk është konfiguruar"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"Lloji i skanimit të kanalit"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"Lloji i dyqanit të kanaleve"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"Vështirësi për dëgjimin"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"Stereo"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"Stereo automatike"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"Rrethues"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"I papërcaktuar"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"Antena"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"Kabllo"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"Mono"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"Audioja fillestare"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"Versioni origjinal"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"I mirë"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"I dobët"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"Analog/Dixhital"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"Analoge"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"Dixhital"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"Informacioni i kanalit"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"Shkëmbe"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"i dobët"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"i mirë"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"Asnjë"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"Pa zë"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"Automatike"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"Normale"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"Zmadho"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"Në heshtje"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"Shërbimi<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"Gjuha<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"Si transmetues"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"Mesatar"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"E vogël"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"I madh"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"Stili<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"I zi"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"E bardhë"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"E gjelbër"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"Blu"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"E kuqe"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"Gurkali"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"E verdhë"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"E purpurt"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"I patejdukshëm"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"Gjysmë i tejdukshëm"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"Transparente"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"Nën <xliff:g id="BELOW_XX">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"Të përgjithshme"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"Në shoqërinë e prindërve"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"Në shoqërinë e prindërve 13"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"Asnjë fëmijë nën 16 vjeç"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"Për të rritur 18 vjeç e lart"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"I kufizuar për 21 e lart"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"Fëmijë të moshave 3-5 vjeç"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"Fëmijë të moshave 6-12 vjeç"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"I rritur"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"Asnjë bllokim"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"Blloko \"R\" e lart"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"Blloko \"AV\" e lart"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"Blloko \"MA\" e lart"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"Blloko me \"M\" e lart"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"Blloko \"PG\" e lart"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"Blloko \"G\" e lart"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"Droga"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"Dhunë"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"Seks"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"Dhunë dhe drogë"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"Seks dhe drogë"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"Dhunë dhe seks"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"Dhunë, seks dhe drogë"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"Çdo ditë"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"Një herë"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"Niveli 1.5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"Niveli 2.5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> minuta"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"Zgjidh modalitetin"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"Shfaq kanalet"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"Statusi i fundit"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"Zgjedhur nga përdoruesi"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"Horizontal"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"Vertikal"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"Regjistro"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"Alarm rikujtues"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"Java"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"I plotë"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"I përparuar"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"Shpejt"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"ID-ja e shtetit/rajonit <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"Çdo ditë"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"E diel"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"E hënë"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"E martë"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"E mërkurë"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"E enjte"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"E premte"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"E shtunë"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"Satelit"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"Të gjitha kanalet"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"Familje/fëmijë"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"Sporte"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"Blerje"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"Filmat"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"Komedi"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"Udhëtime"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"Dramë"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"Arsim"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"Kafshët/fauna"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"Lajme"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"Këndi i lojërave"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"Arte"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"Zbavitje"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"Stil jetese"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"Muzikë"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"Premierë"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"Teknologji/shkencë"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"Vetëm kanalet e enkriptuara"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"Vetëm kanalet falas"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"Vetëm kanalet dixhitale"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"Vetëm kanalet e radios"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"Asnjëherë"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> orë"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"Gjumi automatik"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"Këshilla për gjumin"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"Televizori do të bjerë në gjumë për pesë minuta. Dëshiron ta lësh të bjerë në gjumë?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"Skanimi po kryhet në sfond. Provo përsëri më vonë."</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"cwkey nuk mund të jetë më pak se 16"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"Nuk mund të jetë bosh!"</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"Të dhënat janë të pavlefshme!"</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"Nuk ka tekst."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"\"0000\" është fjalëkalim i pavlefshëm"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Cilësimet e Freeview Play"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"Kushtet e përgjithshme"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"Përditësimi manual i shërbimit"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"Stili i tingullit"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"Tingulli"</string>
+    <string name="device_picture" msgid="1347473641807661535">"Figura"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"Ruaj çelësin"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"Përditëso çelësin"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"Fshi çelësin"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"Lloji i çelësit DiSEqC është në konflikt. Kontrollo cilësimet e DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"Sigurohu për zgjedhjen e emrit të satelitit dhe konfigurimin e DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"Ngarkimi i listës së paravendosur kërkon që të jetë zgjedhur të paktën një nga satelitët e mëposhtëm:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n Lista e paravendosur nuk mund të ngarkohej kështu!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"Kanalet po ruhen. Prit..."</string>
+</resources>

@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ampm">
+    <item msgid="2147250436361165525">"a.m."</item>
+    <item msgid="2143773709656890302">"p.m."</item>
+  </string-array>
+    <plurals formatted="false" msgid="837834894451191902" name="duration_hour">
+      <item quantity="few"><ns1:g id="OTHER">%1$d</ns1:g> ore</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> de ore</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> oră</item>
+    </plurals>
+    <plurals formatted="false" msgid="5333672761360360608" name="duration_minute">
+      <item quantity="few"><ns1:g id="OTHER">%1$d</ns1:g> minute</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> de minute</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> minut</item>
+    </plurals>
+    <plurals formatted="false" msgid="1668086011878312925" name="duration_second">
+      <item quantity="few"><ns1:g id="OTHER">%1$d</ns1:g> secunde</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> de secunde</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> secundă</item>
+    </plurals>
+    <plurals formatted="false" msgid="273148666195694222" name="pin_enter_countdown">
+      <item quantity="few">Ați introdus un cod PIN greșit de 5 ori. \nÎncercați din nou peste <ns1:g id="COUNTDOWN_XX">%1$d</ns1:g> secunde.</item>
+      <item quantity="other">Ați introdus un cod PIN greșit de 5 ori. \nÎncercați din nou peste <ns1:g id="COUNTDOWN_XX">%1$d</ns1:g> de secunde.</item>
+      <item quantity="one">Ați introdus un cod PIN greșit de 5 ori. \nÎncercați din nou peste <ns1:g id="COUNTDOWN_X_0">%1$d</ns1:g> secunde.</item>
+    </plurals>
+    <plurals formatted="false" msgid="7467087757043399175" name="setup_input_channels">
+      <item quantity="few"><ns1:g id="OTHER">%1$d</ns1:g> canale</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> de canale</item>
+      <item quantity="one"><ns1:g id="ONE">%1$d</ns1:g> canal</item>
+    </plurals>
+    <string msgid="5589947719764807067" name="TKGS_preferred_list">"Lista de preferințe"</string>
+    <string msgid="3498655065440357780" name="TKGS_reset_table_version">"Resetați versiunea tabelului"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DEZACTIVAȚI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funcție+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"spațiu"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string msgid="2445867222494847702" name="action_text_done">"Terminat"</string>
+    <string msgid="2486894067451814589" name="add_schedule">"PVR"</string>
+    <string msgid="3449389933072208075" name="atsc_end_on_screen">"Serviciul de curățare a ecranului s-a oprit."</string>
+    <string msgid="7555502536719724563" name="atsc_start_on_screen">"Serviciul de curățare a ecranului a pornit. Se va păstra starea de curățare a ecranului în.<ns1:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</ns1:g>minut"</string>
+    <string msgid="6340508038331619946" name="attention_unplug_device">"Atenție: nu deconectați dispozitivul, deoarece acest lucru poate genera erori nespecificate!"</string>
+    <string msgid="4992829616135797253" name="audio_focus_lost_warnning_info">"S-a pierdut focalizarea audio. Solicitați din nou?"</string>
+    <string msgid="7132239122157461543" name="audio_hi">"Persoane cu deficiențe de auz"</string>
+    <string msgid="5066803905413664431" name="audio_type_dts_express_p">"DTS Express"</string>
+    <string msgid="1262425049351310424" name="audio_type_dts_hd">"DTS_HD Master Audio"</string>
+    <string msgid="584091497939463376" name="audio_type_dts_hd_master_audio">"DTS-HD Master Audio"</string>
+    <string msgid="3720443854736419512" name="audio_type_dts_hd_p">"DTS-HD"</string>
+    <string msgid="1683045038949751116" name="audio_vi">"Persoane cu deficiențe de vedere"</string>
+    <string msgid="6822352280910575878" name="automatic_Channel_ordering">"Ordonarea automată a canalelor"</string>
+    <string msgid="1088782448904712799" name="banner_category_reservd_not_defined">"Rezervat-nedefinit"</string>
+    <string msgid="640307599005724967" name="banner_category_reserved_for_future_use">"Rezervat pentru folosire ulterioară"</string>
+    <string msgid="8321549590622504362" name="banner_category_user_defined">"definit de utilizator"</string>
+    <string msgid="2387680572414212216" name="banner_no_program_title">"(Programul nu are titlu.)"</string>
+    <string msgid="9163676286922283591" name="banner_transponder_frequency">"<ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</ns1:g> MHz"</string>
+    <string msgid="5761345425754357247" name="banner_transponder_sysbol_rate">"<ns1:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</ns1:g> Ksym/s"</string>
+    <string msgid="213992569753158855" name="bgm_fail_record_before">"Încercarea de înregistrare pentru [<ns1:g id="BGM_FAIL_RECORD_BE">%1$s</ns1:g>] nu a reușit"</string>
+    <string msgid="6661331936971542266" name="bgm_loss_time_pvr">"Înregistrarea [<ns1:g id="CHANNEL_INFO_0">%1$s</ns1:g>] este incompletă pentru <ns1:g id="CHANNEL_INFO_TIME">%2$s</ns1:g> sec"</string>
+    <string msgid="2301067526669124374" name="bisskey_deletekey">"Ștergeți cheia"</string>
+    <string msgid="1066739106235688236" name="bisskey_savekey">"Salvați cheia"</string>
+    <string msgid="7558012292134266265" name="bisskey_updatekey">"Actualizați cheia"</string>
+    <string msgid="2654494463009417197" name="cable_advance_scan_message">"Alegeți frecvența transponderului mux de bază din țara dvs."</string>
+    <string msgid="6043223513158402752" name="cam_scan_not_init">"Rețeaua CI Plus nu a fost inițializată. Trebuie să căutați rețeaua actualizată!"</string>
+    <string msgid="5786350609197186292" name="cam_scan_schedule">"A sosit ora programată pentru căutarea rețelei CI Plus. Puteți să căutați rețeaua actualizată!"</string>
+    <string msgid="1298120559959087457" name="cam_scan_set_satellte">"Doriți să setați satelitul? Sau puteți folosi setările prestabilite ca să instalați canalele cam?"</string>
+    <string msgid="4567776796906397627" name="cam_scan_urgent">"Rețeaua CI Plus nu este disponibilă. Trebuie să căutați rețeaua actualizată!"</string>
+    <string msgid="5146179543490482349" name="cam_scan_warning">"Rețeaua CI Plus s-a schimbat. Puteți să căutați rețeaua actualizată!"</string>
+    <string msgid="7735928820185294839" name="cannot_be_empty">"Nu poate fi gol!"</string>
+    <string msgid="2857846823041690857" name="channels_item_app_link_app_launcher">"Deschideți <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="9103178860749908818" name="channels_item_down">"Canalul următor"</string>
+    <string msgid="897725734324467870" name="channels_item_program_guide">"Ghid de programe"</string>
+    <string msgid="4398500479423430803" name="channels_item_setup">"Noi canale disponibile"</string>
+    <string msgid="788422281726191758" name="channels_item_up">"Canalul anterior"</string>
+    <string msgid="3135386254291939864" name="ci_inserted_msg">"CAM inserat."</string>
+    <string msgid="7732383317221505376" name="ci_removed_msg">"CAM eliminat."</string>
+    <string msgid="372414068198664695" name="ci_title">"Informații despre cameră"</string>
+    <string msgid="9001413346969647308" name="closed_caption_option_item_off">"Dezactivată"</string>
+    <string msgid="2542348141320667250" name="closed_caption_system_settings">"Personalizați formatarea"</string>
+    <string msgid="7265197580579923226" name="closed_caption_system_settings_description">"Setați preferințele la nivel de sistem pentru subtitrări"</string>
+    <string msgid="3850169022645102998" name="closed_caption_unknown_language">"Subtitrări în <ns1:g id="UNKNOWN_LANGUAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="4964477552557272993" name="commmon_dialog_book_reminder_content">"urmează. Doriți să comutați la acesta?"</string>
+    <string msgid="2564241104151636624" name="common_dialog_ews_service_content">"Doriți să comutați la serviciul EWS?"</string>
+    <string msgid="8611362945357749142" name="common_dialog_msg_no">"NU"</string>
+    <string msgid="7210388111074762775" name="common_dialog_msg_yes">"DA"</string>
+    <string msgid="4958454613374227587" name="common_dialog_special_service_content">"Doriți să comutați la serviciul special?"</string>
+    <string msgid="2444929547847632590" name="common_dialog_start_cc_stop_ginga">"Doriți să opriți aplicația Ginga și să deschideți subtitrarea?"</string>
+    <string msgid="7117815518726170364" name="common_off">"Dezactivat"</string>
+    <string msgid="1719893568304311442" name="common_on">"Activat"</string>
+    <string msgid="6833020719645419850" name="confirm_rescan_dialog_title">"Sigur trebuie să scanați? Se vor elimina toate canalele instalate."</string>
+    <string msgid="3378580688716744962" name="continue_to_seek_not_support">"Continuarea derulării nu este acceptată."</string>
+    <string msgid="2481650396767698912" name="cplogo_bt_adjust">"Ajustați"</string>
+    <string msgid="6981036414598823439" name="cplogo_bt_cancel">"Anulați"</string>
+    <string msgid="6449338304259426080" name="cplogo_bt_full_screen">"Ecran complet"</string>
+    <string msgid="4773541461478563031" name="cplogo_bt_no">"Nu"</string>
+    <string msgid="7875576129200767006" name="cplogo_bt_ok">"OK"</string>
+    <string msgid="915184264716301392" name="cplogo_bt_special_area">"Zona specificată"</string>
+    <string msgid="4877456366530455468" name="cplogo_capture_res_cancel">"Operațiunea a fost anulată."</string>
+    <string msgid="6731510295698263749" name="cplogo_msg_capturing">"Se capturează..."</string>
+    <string msgid="7543396001845034459" name="cplogo_msg_res_fail">"Capturarea nu a avut loc. Încercați din nou."</string>
+    <string msgid="1957282842405730989" name="cplogo_msg_res_success">"S-a capturat"</string>
+    <string msgid="1834995871503691155" name="cplogo_msg_select_position">"Selectați o poziție în care să salvați sigla."</string>
+    <string msgid="7623959933620691099" name="cplogo_msg_this_screen">"Capturați acest ecran?"</string>
+    <string msgid="1993311512365826243" name="cplogo_msg_which_screen">"Doriți să capturați ecranul complet sau o anumită zonă?"</string>
+    <string msgid="2989800886940563168" name="create_tshift_file_success">"Fișierul a fost creat"</string>
+    <string msgid="8320404648551406234" name="current_channel_invalid_msg">"Canalul actual este nevalid."</string>
+    <string msgid="2684054899428450899" name="dai_hdmi_dialog_msg">"S-a actualizat Acordul de funcții suplimentare. Afișați?"</string>
+    <string msgid="6674628934134075536" name="default_audio">"Audio prestabilit"</string>
+    <string msgid="1147638785994808407" name="delet_recording_fail">"A apărut o eroare la ștergerea elementului; canalul înregistrează"</string>
+    <string msgid="8938889174571141231" name="delete_pvr_file_dialog_confirm1">"Fișierul va fi șters."</string>
+    <string msgid="2310840604629413136" name="description_age_num">"Recomandat de la <ns1:g id="DESCRIPTION_AGE_NUM_ID">%d</ns1:g> ani în sus."</string>
+    <string msgid="275280778758600669" name="description_ar_tv_atp">"Adecvat pentru toate segmentele de public. Programele pot conține un grad redus de violență, limbaj vulgar și situații de natură sexuală."</string>
+    <string msgid="5687319465704756897" name="description_ar_tv_d">"Droguri"</string>
+    <string msgid="3649269859977270733" name="description_ar_tv_s">"Sex"</string>
+    <string msgid="395458137803720902" name="description_ar_tv_sam_13">"Adecvat de la 13 ani în sus. Programele pot conține limbaj vulgar moderat, un grad redus de violență, precum și referiri de natură sexuală."</string>
+    <string msgid="5461932730891880296" name="description_ar_tv_sam_16">"Adecvat de la 16 ani în sus. Programele pot conține violență mai intensă și limbaj grosolan, nuditate parțială și referiri de natură sexuală moderate."</string>
+    <string msgid="967289005476938628" name="description_ar_tv_sam_18">"Neadecvat pentru minori. Programele conțin violență intensă, limbaj vulgar și referiri de natură sexuală explicită."</string>
+    <string msgid="4115089510428057167" name="description_ar_tv_v">"Violență"</string>
+    <string msgid="9052849694835114072" name="description_au_tv_av">"Materialele clasificate AV sunt adecvate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani. Nu sunt adecvate pentru clasificarea MA din cauza intensității și/sau a frecvenței scenelor violente sau din cauză că tema respectivă se bazează pe violență. Din alte puncte de vedere, cerințele clasificării sunt identice cu cele ale clasificării MA."</string>
+    <string msgid="8211009928919927197" name="description_au_tv_c">"Materialele clasificate C sunt destinate copiilor (trecuți de vârsta preșcolară) cu vârsta sub 14 ani."</string>
+    <string msgid="3648769415275928051" name="description_au_tv_g">"Materialele clasificate G nu sunt neapărat destinate copiilor, dar trebuie să aibă un impact foarte mic și să nu includă conținut neadecvat pentru vizionarea de către copii nesupravegheați."</string>
+    <string msgid="3758823660530867895" name="description_au_tv_m">"Materialele clasificate M sunt destinate unui public matur. Acestea sunt recomandate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani."</string>
+    <string msgid="1560774867226204453" name="description_au_tv_ma">"Materialele clasificate MA sunt adecvate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani, din cauza intensității și/sau a frecvenței scenelor violente, a descrierilor de natură sexuală sau a limbajului vulgar, a subiectelor pentru adulți sau a consumului de droguri. Impactul poate fi puternic."</string>
+    <string msgid="8443265431119407386" name="description_au_tv_p">"Materialele clasificate P sunt destinate preșcolarilor."</string>
+    <string msgid="2474110069879436425" name="description_au_tv_pg">"Materialele clasificate PG pot să conțină subiecte sau concepte pentru adulți, dar trebuie să aibă un impact mic și să fie adecvate pentru vizionarea de către copii supravegheați."</string>
+    <string msgid="5658589437756696378" name="description_au_tv_r">"Materialele clasificate R sunt destinate exclusiv adulților. Unele materiale clasificate R pot fi considerate ofensatoare de anumite segmente ale comunității persoanelor adulte."</string>
+    <string msgid="531580256923909164" name="description_br_tv_d">"Droguri"</string>
+    <string msgid="3659480129004604299" name="description_br_tv_l">"Public general"</string>
+    <string msgid="8592393496388213855" name="description_br_tv_num">"Nerecomandat persoanelor sub <ns1:g id="DESCRIPTION_BR_TV_NUM_ID">%d</ns1:g> ani."</string>
+    <string msgid="6296128386089692428" name="description_br_tv_s">"Sex"</string>
+    <string msgid="4791910148551562553" name="description_br_tv_v">"Violență"</string>
+    <string msgid="5215879895927351742" name="description_ca_tv_en_14">"Programele cu această clasificare conțin teme sau elemente de conținut care ar putea să nu fie potrivite pentru telespectatorii cu vârsta sub 14 ani. Părinților li se recomandă ferm să ia decizii în ceea ce privește permiterea vizionării de către adolescenți și preadolescenți fără supravegherea părintelui/tutorelui, deoarece programele cu această clasificare ar putea aborda teme specifice adulților și probleme sociale într-un mod realist."</string>
+    <string msgid="728062003854446182" name="description_ca_tv_en_18">"Acest program este destinat telespectatorilor de la 18 ani în sus."</string>
+    <string msgid="4239130347733600747" name="description_ca_tv_en_c">"Acest program este destinat copiilor cu vârsta sub 8 ani."</string>
+    <string msgid="157653961756834847" name="description_ca_tv_en_c8">"Acest program este destinat copiilor cu vârsta de peste 8 ani. În cazul copiilor cu vârsta sub 8 ani, se sugerează ca aceștia să urmărească programele cu această clasificare împreună cu un părinte/tutore."</string>
+    <string msgid="4594700374681841325" name="description_ca_tv_en_exempt">"Programele exceptate includ: știri, sport, documentare și alte programe de informare; talk show-uri, videoclipuri muzicale și programe de varietăți."</string>
+    <string msgid="9011387267323394838" name="description_ca_tv_en_g">"Acest program este destinat tuturor grupelor de vârstă și poate fi urmărit de întreaga familie."</string>
+    <string msgid="1281647966041358531" name="description_ca_tv_en_pg">"Acest program, deși este destinat publicului larg, poate să nu fie potrivit pentru copiii mai mici (sub 8 ani). Părinții/tutorii ar trebui să fie conștienți de faptul că ar putea exista elemente de conținut pe care unii ar putea să le considere inadecvate pentru vizionarea nesupravegheată de către copiii cu vârste între 8 și 13 ani."</string>
+    <string msgid="3733179399640639129" name="description_ca_tv_fr_13">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 13 ani. Copiii de vârstă mai mică pot să vizioneze numai în prezența unui adult."</string>
+    <string msgid="1724956882971714521" name="description_ca_tv_fr_16">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 16 ani. Programele cu acest rating prezintă teme, situații sau comportamente deranjante și adoptă un punct de vedere mai direct asupra lucrurilor."</string>
+    <string msgid="7351531806464525403" name="description_ca_tv_fr_18">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 18 ani. Programele destinate adulților presupun cel mai adesea reprezentarea unor activități sexuale explicite. În plus, pot să fie extrem de violente și să prezinte scene realiste de cruzime, cu tortură și groază."</string>
+    <string msgid="4710290620628915788" name="description_ca_tv_fr_8">"Programul este adecvat pentru publicul general, dar ar putea conține violență moderată sau ocazională care îi poate tulbura pe copiii mici. Așadar, pentru copiii mici (cu vârsta de până la 8 ani) este recomandată vizionarea cu supraveghere din partea adulților."</string>
+    <string msgid="6181168031949930593" name="description_ca_tv_fr_e">"Programe excluse din clasificare."</string>
+    <string msgid="812712328730700550" name="description_ca_tv_fr_g">"Programul este adecvat pentru vizionarea de către persoane de toate vârstele. Programele din categoria G i-ar putea afecta pe copiii cu vârsta sub 8 ani."</string>
+    <string msgid="7613329223897343137" name="description_es_dvb_all">"Recomandat pentru toate vârstele."</string>
+    <string msgid="980267721855879361" name="description_es_dvb_c">"Recomandat pentru copii."</string>
+    <string msgid="6397110507731134043" name="description_es_dvb_x">"Recomandat pentru adulți."</string>
+    <string msgid="505880672388477268" name="description_kr_tv_12">"Programele pot conține materiale inadecvate pentru copiii sub 12 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string msgid="1424825062188417293" name="description_kr_tv_15">"Programele pot conține materiale neadecvate pentru persoanele sub 15 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string msgid="8141648682052815394" name="description_kr_tv_19">"Programele pot conține materiale neadecvate pentru persoanele sub 19 ani, motiv pentru care nu sunt recomandate tinerilor care nu au împlinit 19 ani."</string>
+    <string msgid="6294578566249258989" name="description_kr_tv_7">"Programele pot conține materiale inadecvate pentru copiii sub 7 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string msgid="2880536060037059992" name="description_kr_tv_all">"Programele nu conțin materiale inadecvate pentru vreo vârstă; prin urmare, sunt recomandate pentru orice vârstă."</string>
+    <string msgid="7534715057755212480" name="description_sa_tv_10">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 10 ani."</string>
+    <string msgid="6849007243977700328" name="description_sa_tv_13">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 13 ani."</string>
+    <string msgid="6934567274078402600" name="description_sa_tv_16">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 16 ani."</string>
+    <string msgid="6814431681831259975" name="description_sa_tv_18">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 18 ani."</string>
+    <string msgid="2839067796739398528" name="description_sa_tv_none">"Adecvat pentru toate vârstele."</string>
+    <string msgid="5232468306982287272" name="description_sa_tv_pg10">"Copiii cu vârsta sub 10 ani pot viziona acest program/film, dar trebuie să se afle în prezența unui adult."</string>
+    <string msgid="2826427571649837624" name="description_sa_tv_pg13">"Copiii cu vârsta sub 13 ani pot viziona acest program/film, dar trebuie să se afle în prezența unui adult."</string>
+    <string msgid="8966466636870535072" name="description_sa_tv_r18">"Această opțiune este rezervată pentru filmele de natură sexuală extremă (pornografie)."</string>
+    <string msgid="9207245510001823663" name="description_sg_tv_g">"Adecvat pentru toate vârstele."</string>
+    <string msgid="4495688622482686386" name="description_sg_tv_m18">"Adecvat pentru persoane de la 18 ani în sus."</string>
+    <string msgid="4655362789601793713" name="description_sg_tv_nc16">"Adecvat pentru persoane care au vârsta de cel puțin 16 ani."</string>
+    <string msgid="8807413147853484668" name="description_sg_tv_pg">"Adecvat pentru toți, însă cei mici trebuie să aibă acordul parental."</string>
+    <string msgid="1187187083836621720" name="description_sg_tv_pg13">"Adecvat pentru persoane de la 13 ani în sus, iar pentru copiii sub 13 ani se recomandă acordul parental."</string>
+    <string msgid="8469412927671691778" name="description_sg_tv_r21">"Adecvat pentru adulți, de la 21 de ani în sus."</string>
+    <string msgid="380126567363659012" name="description_th_tv_c">"Adecvat pentru copii cu vârstele între 6 și 12 ani."</string>
+    <string msgid="8696507527665670160" name="description_th_tv_g">"Adecvat pentru public general."</string>
+    <string msgid="573604443870633316" name="description_th_tv_p">"Adecvat pentru copii cu vârstele între 3 și 6 ani."</string>
+    <string msgid="1695934461809229216" name="description_th_tv_pg13">"Adecvat pentru persoane care au vârsta de cel puțin 13 ani."</string>
+    <string msgid="597070833139949945" name="description_th_tv_pg18">"Adecvat pentru persoane de la 18 ani în sus. În cazul copiilor cu vârsta sub 18 ani, este necesar avizul părinților."</string>
+    <string msgid="8921473820857112565" name="description_th_tv_x">"Adecvat pentru adulți"</string>
+    <string msgid="299794744638684056" name="description_us_mv_g">"Public general. Fără conținut pe care părinții l-ar putea considera neadecvat pentru copii."</string>
+    <string msgid="8734654245083149008" name="description_us_mv_nc17">"Interzis persoanelor sub 17 ani. Numai pentru adulți. Interzis copiilor."</string>
+    <string msgid="81027516479177975" name="description_us_mv_pg">"Se recomandă acordul parental. Poate conține anumite materiale pe care părinții le-ar putea considera neadecvate pentru copiii mai mici."</string>
+    <string msgid="2094119267970306011" name="description_us_mv_pg13">"Atenționare vehementă pentru părinți. Anumite materiale pot fi neadecvate pentru preadolescenți."</string>
+    <string msgid="2248384382323431666" name="description_us_mv_r">"Acces limitat. Conține anumite materiale pentru adulți. Părinții sunt îndemnați să afle mai multe despre film înainte de a-l viziona alături de copiii mai mici."</string>
+    <string msgid="2203823258178769659" name="description_us_mv_x">"Adecvat pentru adulți"</string>
+    <string msgid="1945274614246329605" name="description_us_tv_14">"Acest program conține anumite materiale pe care mulți părinți le pot considera neadecvate pentru copiii sub 14 ani."</string>
+    <string msgid="7417126048971563355" name="description_us_tv_d">"Dialog sugestiv sexual"</string>
+    <string msgid="5087038597184709325" name="description_us_tv_fv">"Violență ficțională"</string>
+    <string msgid="5919925009580010961" name="description_us_tv_g">"Majoritatea părinților ar considera acest program adecvat pentru toate vârstele."</string>
+    <string msgid="2276830531676175553" name="description_us_tv_l">"Limbaj vulgar"</string>
+    <string msgid="7118695706408907620" name="description_us_tv_ma">"Acest program este creat în mod special pentru a fi vizionat de adulți. Din acest motiv, poate fi neadecvat pentru persoanele sub 17 ani."</string>
+    <string msgid="7696801642081644497" name="description_us_tv_pg">"Acest program include conținut pe care mulți părinți l-ar considera nepotrivit pentru copiii mici. Mulți părinți pot dori să urmărească acest program împreună cu copiii mai mici."</string>
+    <string msgid="4966533437570326272" name="description_us_tv_s">"Conținut sexual"</string>
+    <string msgid="4340768360627689297" name="description_us_tv_v">"Violență"</string>
+    <string msgid="7153666670476947891" name="description_us_tv_y">"Acest program a fost creat pentru a fi adecvat pentru toți copiii."</string>
+    <string msgid="4388896445294252013" name="description_us_tv_y7">"Acest program a fost creat pentru copiii de peste 7 ani."</string>
+    <string msgid="6144499940145005003" name="detail_banner_category">"Gen:"</string>
+    <string msgid="5996262731054423895" name="detail_banner_dis">"Descriere:"</string>
+    <string msgid="4575884876693300911" name="detail_banner_next">"Înainte"</string>
+    <string msgid="7869959253865544969" name="detail_banner_now">"Acum"</string>
+    <string msgid="1347473641807661535" name="device_picture">"Imagine"</string>
+    <string msgid="4138595103405578192" name="digital_sat_tuning_title">"Ajustarea satelitului digital"</string>
+    <string msgid="7659644073053777732" name="diseqc_port">"Port DiSEqC"</string>
+    <string msgid="7020850762067790261" name="disk_disconnect">"Discul a fost deconectat"</string>
+    <string msgid="6643274573175153036" name="disk_formating_wait">"Se formatează! Așteptați…"</string>
+    <string msgid="3501780706543760865" name="disk_not_ready">"PVR nu a pornit. Discul nu este pregătit!"</string>
+    <string msgid="444496377616975879" name="disk_setting_format_done">"Discul a fost formatat"</string>
+    <string msgid="3777611744782439571" name="disk_setting_format_fail">"Formatarea discului nu a reușit"</string>
+    <string msgid="5191386885992163401" name="disk_setting_speeding">"Rulează programul de testare a vitezei de citire și de scriere a spațiului de stocare."</string>
+    <string msgid="1603733236399606911" name="disk_setting_speedtest_done">"Testul de viteză s-a finalizat"</string>
+    <string msgid="9023581692808320928" name="disk_setting_speedtest_maxspeed">"Viteza maximă este "</string>
+    <string msgid="4159500008692147138" name="disk_setting_speedtest_maxspeed_mb">"MB/s"</string>
+    <string msgid="511301017211685858" name="disk_setting_speedtesting">"Testul de viteză este în desfășurare"</string>
+    <string msgid="4543196640273344427" name="disk_setting_unplugdevice_warnning">"Nu deconectați dispozitivul"</string>
+    <string msgid="8108387760481208547" name="disksetting_no_enough_speed_fail">"Spațiu insuficient pe disc! Testul de viteză nu a reușit!"</string>
+    <string msgid="4811641872047486965" name="disksetting_ntfs_speed_fail">"Acces refuzat. Testul de viteză nu a reușit!"</string>
+    <string msgid="4336995221918770222" name="disksetting_recording_speed_fail">"Se înregistrează! Testul de viteză nu a reușit!"</string>
+    <string msgid="4918605528929173678" name="disksetting_speed_fail">"Testul de viteză nu a reușit!"</string>
+    <string msgid="783220768925022499" name="disksetting_timeshift_speed_fail">"Decalarea temporală rulează! Testul de viteză nu a reușit!"</string>
+    <string msgid="1377378184906101820" name="display_episode_number_format">"Sez. <ns1:g id="SEASON_NUMBER">%1$s</ns1:g>, ep. <ns1:g id="EPISODE_NUMBER">%2$s</ns1:g>"</string>
+    <string msgid="6917613965080930331" name="display_episode_number_format_no_season_number">"Episodul <ns1:g id="EPISODE_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="3912670160529339468" name="display_episode_title_format_no_season_number">"Episodul <ns1:g id="EPISODE_NUMBER">%1$s</ns1:g>: <ns1:g id="EPISODE_TITLE">%2$s</ns1:g>"</string>
+    <string msgid="3199049722134706179" name="divx_dialog_warning">"Dispozitivul este deja înregistrat.\nSigur doriți să anulați înregistrarea dispozitivului?"</string>
+    <string msgid="4782613096912733081" name="dobly_audio">"Dolby Audio"</string>
+    <string msgid="55797026286728957" name="download_firmware_progress_textview_text">"Progres:"</string>
+    <string msgid="1433346694752099465" name="download_firmware_reboot_button_text">"Reporniți"</string>
+    <string msgid="6186600724359406693" name="download_firmware_start_button_text">"Începeți"</string>
+    <string msgid="8644139064217773221" name="download_firmware_status_textview_text">"Stare:"</string>
+    <string msgid="6026239865587351590" name="download_firmware_status_value_cancel_down">"Anulați descărcarea"</string>
+    <string msgid="647678136629697974" name="download_firmware_status_value_complete">"Descărcare finalizată"</string>
+    <string msgid="6859186634668850800" name="download_firmware_status_value_downloading">"Se descarcă"</string>
+    <string msgid="8839366151705837548" name="download_firmware_status_value_start">"A început descărcarea"</string>
+    <string msgid="3232164838989608671" name="download_firmware_toast_textview_download_exit_fail">"Închideți descărcarea! Descărcarea nu a reușit."</string>
+    <string msgid="4044079832519768043" name="download_firmware_toast_textview_download_exit_network_error">"Închideți descărcarea! Eroare la nivelul rețelei!"</string>
+    <string msgid="2317579984559465646" name="download_firmware_toast_textview_download_exit_none">"Închideți descărcarea! Fișierul descărcat nu există!"</string>
+    <string msgid="9093460341791920709" name="download_firmware_toast_textview_download_exit_validate_error">"Închideți descărcarea! Eroare de validare!"</string>
+    <string msgid="5026601491883723923" name="download_firmware_toast_textview_to_start_text">"Apăsați butonul Start pentru a descărca firmware-ul!"</string>
+    <string msgid="8456190132216922491" name="download_firmware_toast_textview_upgrade_text">"Firmware-ul este pregătit. Sigur reporniți sistemul acum?"</string>
+    <string msgid="7644949143448739457" name="download_firmware_toast_textview_validate_complete">"Validarea s-a încheiat"</string>
+    <string msgid="8785529636944055113" name="download_firmware_toast_textview_validating_text">"Se validează..."</string>
+    <string msgid="2394430484481002527" name="download_firmware_upgrade_successfully">"Sistemul a actualizat firmware-ul!"</string>
+    <string msgid="7068385964836530550" name="download_firmware_upgrade_unsuccessfully">"Sistemul nu a putut actualiza firmware-ul!"</string>
+    <string msgid="7175024292677524576" name="dvbs_add_new_satl">"Adăugați sateliți noi"</string>
+    <string msgid="4087291986765580179" name="dvbs_add_new_tp">"Adăugați transpondere noi"</string>
+    <string msgid="2972753815380328403" name="dvbs_antenna_setup">"Configurarea antenei"</string>
+    <string msgid="4022715171586673363" name="dvbs_antenna_type">"Tip de antenă"</string>
+    <string msgid="8699988951473827384" name="dvbs_antenna_type_single">"Unic"</string>
+    <string msgid="1287040189459737002" name="dvbs_antenna_type_singlecable">"Un singur cablu"</string>
+    <string msgid="1804642576387540677" name="dvbs_antenna_type_universal">"Universală"</string>
+    <string msgid="7651396014614696697" name="dvbs_band_freq">"Banda de frecvențe"</string>
+    <string msgid="707512341400473759" name="dvbs_band_freq_user_define">"Definită de utilizator"</string>
+    <string msgid="742279976036704869" name="dvbs_cable">"Cablu"</string>
+    <string msgid="6553210874716752432" name="dvbs_channel_all">"Toate"</string>
+    <string msgid="7382339597398479690" name="dvbs_channel_encrypted">"Numai canalele criptate"</string>
+    <string msgid="6736055147307084973" name="dvbs_channel_free">"Numai canalele gratuite"</string>
+    <string msgid="5930404812310851470" name="dvbs_channel_story_type_digital">"Numai canalele digitale"</string>
+    <string msgid="7336947157467722757" name="dvbs_channel_story_type_radio">"Numai canale radio"</string>
+    <string msgid="9045990222417359716" name="dvbs_conflict_diseqc_toast">"Tip DiSEqC în conflict, verificați setările DiSEqC."</string>
+    <string msgid="1489559417633513786" name="dvbs_diseqc12_motor_disablelimits">"Dezactivați limitele"</string>
+    <string msgid="4537336399129014090" name="dvbs_diseqc12_motor_gotoposition">"Accesați Poziția"</string>
+    <string msgid="6254795571170735105" name="dvbs_diseqc12_motor_gotoreference">"Accesați Referința"</string>
+    <string msgid="6395392274966864246" name="dvbs_diseqc12_motor_limiteast">"Limitați spre est"</string>
+    <string msgid="8457578140107894074" name="dvbs_diseqc12_motor_limitwest">"Limitați spre vest"</string>
+    <string msgid="137363920323826557" name="dvbs_diseqc12_motor_movementcontrol">"Controlul mișcărilor"</string>
+    <string msgid="7831370800809423106" name="dvbs_diseqc12_motor_storeposition">"Poziția magazinului"</string>
+    <string msgid="7047409663259036827" name="dvbs_diseqc12_movement_GotoXX">"Accesați x.x°"</string>
+    <string msgid="6733476973734632871" name="dvbs_diseqc12_movement_latitude">"Latitudinea mea"</string>
+    <string msgid="3678228778221741011" name="dvbs_diseqc12_movement_longitude">"Longitudinea mea"</string>
+    <string msgid="2827351788964268809" name="dvbs_diseqc12_movement_moveeast">"Mutați spre est"</string>
+    <string msgid="7123211228805919889" name="dvbs_diseqc12_movement_movewest">"Mutați spre vest"</string>
+    <string msgid="7793161872139465990" name="dvbs_diseqc12_movement_orbit_position">"Poziția pe orbită a satelitului"</string>
+    <string msgid="8682323610592008764" name="dvbs_diseqc12_movement_stepsize">"Pasul avansului"</string>
+    <string msgid="1462218797182659459" name="dvbs_diseqc12_movement_stopmovement">"Opriți deplasarea"</string>
+    <string msgid="313118780591552706" name="dvbs_diseqc12_movement_timeout">"Timp limită"</string>
+    <string msgid="2904564865763683800" name="dvbs_diseqc_input_0">"Dezactivați"</string>
+    <string msgid="4057062345858532690" name="dvbs_general_satellite">"Satelit general"</string>
+    <string msgid="4612812454674154948" name="dvbs_lnb_configration">"Configurații LNB"</string>
+    <string msgid="6030869505379137523" name="dvbs_lnb_power">"Alimentare LNB"</string>
+    <string msgid="3743833568050427349" name="dvbs_lnb_skip_scan">"Omiteți scanarea"</string>
+    <string msgid="6239879639460583996" name="dvbs_manual_tuning">"Ajustarea manuală a satelitului"</string>
+    <string msgid="6032112355240733150" name="dvbs_network_search">"Căutarea rețelei"</string>
+    <string msgid="4597539354587303004" name="dvbs_position">"Poziție"</string>
+    <string msgid="2318484385999187895" name="dvbs_preferred_satellite">"Satelit preferat"</string>
+    <string msgid="3116396672861528026" name="dvbs_rescan_dialog_title">"Sigur scanați din nou toți sateliții? Se vor elimina toate canalele instalate."</string>
+    <string msgid="8182980047456997930" name="dvbs_rescan_more">"Mai multe"</string>
+    <string msgid="951113880294713457" name="dvbs_same_port_lnb_toast">"Unele porturi de satelit nu pot fi identice, verificați setările DiSEqC."</string>
+    <string msgid="3047792918924070124" name="dvbs_sat_name_empty_alarm">"Numele satelitului nu este completat.\nIntroduceți-l!"</string>
+    <string msgid="3184206254184333211" name="dvbs_sat_no_satl">"(Fără satelit.)"</string>
+    <string msgid="4338485354553994282" name="dvbs_sat_no_tp">"(Fără transponder.)"</string>
+    <string msgid="6344968304652340601" name="dvbs_sat_off">"Dezactivat"</string>
+    <string msgid="3030836158325577633" name="dvbs_sat_on">"Activată"</string>
+    <string msgid="562016984880548647" name="dvbs_satellite_add">"Adăugarea satelitului"</string>
+    <string msgid="3895707561303710877" name="dvbs_satellite_antenna_type">"Tipul antenei de satelit"</string>
+    <string msgid="5074556275726412795" name="dvbs_satellite_channel">"Tip de scanare"</string>
+    <string msgid="5716197702446157151" name="dvbs_satellite_channel_store_type">"Tip de magazin"</string>
+    <string msgid="4776876001455788631" name="dvbs_satellite_detail">"Detalii despre satelit"</string>
+    <string msgid="3859616799929488652" name="dvbs_satellite_detail_high_freq">"Frecvență înaltă"</string>
+    <string msgid="362470160273770698" name="dvbs_satellite_detail_low_freq">"Frecvență joasă"</string>
+    <string msgid="7011227087621403482" name="dvbs_satellite_detail_switch_freq">"Schimbați frecvența"</string>
+    <string msgid="1084080307775292449" name="dvbs_satellite_name">"Numele satelitului"</string>
+    <string msgid="7359611960869875178" name="dvbs_satellite_orbit">"Poziția pe orbită"</string>
+    <string msgid="1127096646056480525" name="dvbs_satellite_rescan">"Rescanare prin satelit"</string>
+    <string msgid="2524642316348336755" name="dvbs_satellite_search">"Căutați"</string>
+    <string msgid="4720894419273187517" name="dvbs_satellite_selection">"Listă de canale prin satelit"</string>
+    <string msgid="3053329371093705283" name="dvbs_satellite_setting">"Satelit"</string>
+    <string msgid="7318477883891109028" name="dvbs_satellite_status">"Starea satelitului"</string>
+    <string msgid="8417770524403541865" name="dvbs_satellite_tuning">"Ajustarea satelitului"</string>
+    <string msgid="8654948129962734041" name="dvbs_satellite_update">"Actualizarea satelitului"</string>
+    <string msgid="1637251811528417434" name="dvbs_scan_download_sdx">"Descărcați SatcoDX"</string>
+    <string msgid="8283847435432638067" name="dvbs_scan_mode">"Modul de scanare"</string>
+    <string msgid="6427513165971616257" name="dvbs_scan_mode_auto">"Auto"</string>
+    <string msgid="5079949030817709762" name="dvbs_scan_mode_full">"Completă"</string>
+    <string msgid="397846288165617698" name="dvbs_scan_mode_network">"Rețea"</string>
+    <string msgid="4526803816932732504" name="dvbs_scan_mode_preset">"Presetare"</string>
+    <string msgid="1931453765281387830" name="dvbs_scan_positon">"Poziție"</string>
+    <string msgid="39135175175659536" name="dvbs_scan_satellites">"Sateliți"</string>
+    <string msgid="4028961194688664591" name="dvbs_scan_tip">"Apăsați tasta din dreapta pentru scanare"</string>
+    <string msgid="8431491600467381774" name="dvbs_scan_type_normal">"Scanare normală"</string>
+    <string msgid="8828241765191566761" name="dvbs_scan_type_sdx">"Scanare SatcoDX"</string>
+    <string msgid="3586313354629667245" name="dvbs_sdx_select_satellite_tip">"Selectați numele de satelit și realizați configurația DiSEqC."</string>
+    <string msgid="934739686877164305" name="dvbs_sdx_select_satellite_warning">"Încărcarea listei de presetări necesită ca măcar unul dintre sateliții de mai jos să fie selectat:\n\n\n    <ns1:g id="SATELLITE_NAME">%1$s</ns1:g>\n Nu s-a putut încărca lista de presetări!"</string>
+    <string msgid="7107319723055117254" name="dvbs_status_storing">"Stare: se stochează"</string>
+    <string msgid="5066779230374934082" name="dvbs_storing_wait">"Se stochează canalele; așteptați…"</string>
+    <string msgid="6486203450059492940" name="dvbs_sub_band_frequency">"Frecvența sub bandă"</string>
+    <string msgid="6055266277998312868" name="dvbs_sub_user_band">"Subtuner"</string>
+    <string msgid="7874453770844029312" name="dvbs_sub_user_define_frequency">"Frecvența definită de utilizatorul secundar"</string>
+    <string msgid="1373442618400041462" name="dvbs_tone_22khz">"Ton: 22 KHz"</string>
+    <string msgid="2135233828771513065" name="dvbs_tone_22khz_auto">"Auto"</string>
+    <string msgid="3268883660443420418" name="dvbs_tone_22khz_off">"Dezactivat"</string>
+    <string msgid="6752287281718331623" name="dvbs_tone_22khz_on">"Activat"</string>
+    <string msgid="2243245840655328045" name="dvbs_tone_burst">"Grup de oscilații de joasă frecvență și de scurtă durată"</string>
+    <string msgid="2720610846391022032" name="dvbs_tone_burst_a">"Grup de oscilații de joasă frecvență și de scurtă durată A"</string>
+    <string msgid="178126213400576111" name="dvbs_tone_burst_b">"Grup de oscilații de joasă frecvență și de scurtă durată B"</string>
+    <string msgid="3874748353266460431" name="dvbs_tone_burst_disable">"Dezactivați"</string>
+    <string msgid="29263512803296005" name="dvbs_tp_fre">"Frecvență"</string>
+    <string msgid="1197912184998798968" name="dvbs_tp_pol">"Polarizare"</string>
+    <string msgid="5653469867422424846" name="dvbs_tp_pol_0_unknown">"Necunoscut"</string>
+    <string msgid="2719356412874668259" name="dvbs_tp_pol_1_HORIZONTAL">"Orizontală"</string>
+    <string msgid="4316294256100373911" name="dvbs_tp_pol_2_VERTICAL">"Verticală"</string>
+    <string msgid="6229301100202150697" name="dvbs_tp_pol_3_LEFT">"Stânga"</string>
+    <string msgid="4289490618801741661" name="dvbs_tp_pol_4_RIGHT">"Dreapta"</string>
+    <string msgid="8005246419544394607" name="dvbs_tp_sys_rate">"Viteza de transmisie (Ksym/s)"</string>
+    <string msgid="1452034905307894504" name="dvbs_trasponder">"Transponder"</string>
+    <string msgid="7993112503468933797" name="dvbs_user_band">"Tuner"</string>
+    <string msgid="3936352644748717288" name="dvbs_user_band_item_id">"Banda utilizatorului: <ns1:g id="DVBS_USER_BAND_ID">%d</ns1:g>"</string>
+    <string msgid="1929522613437163818" name="dvbs_user_define_frequency">"Frecvență definită de utilizator"</string>
+    <string msgid="3618328259182471233" name="dvbt_inactivechannel_nw_chg">"Anumite canale devin inactive din cauza schimbării rețelei. Doriți să le eliminați acum?"</string>
+    <string msgid="6838309354217896476" name="dvbt_ita_no_channels">"Nu s-au instalat canale digitale. Apăsați pe OK ca să scanați automat ordinea canalelor."</string>
+    <string msgid="27559318606000652" name="dvbt_single_rf_frequency">"<ns1:g id="FREQUENCY_NAME">%1$s</ns1:g> (<ns1:g id="FREQUENCY_0">%2$s</ns1:g> KHz)"</string>
+    <string msgid="2122762489369759402" name="dvr_device_formate_title">"Formatarea va șterge toate datele. Sigur vreți să continuați?"</string>
+    <string msgid="5629036414782412313" name="dvr_device_info_title">"Setarea Informații despre dispozitiv"</string>
+    <string msgid="4638709416180940311" name="dvr_device_no">"Niciun dispozitiv"</string>
+    <string msgid="1234820896587479766" name="dvr_devices_mount">"Dispozitivul USB a fost conectat"</string>
+    <string msgid="3498310333268513772" name="dvr_dialog_message_desramble">"Canalul decodificat s-ar putea întrerupe. Doriți să continuați?"</string>
+    <string msgid="2872115340693460333" name="dvr_dialog_message_pip">"Doriți să intrați în modul PIP/POP?"</string>
+    <string msgid="8528375250371620271" name="dvr_dialog_message_playback_pip">"Doriți să opriți redarea PVR\n și să accesați PIP/POP?"</string>
+    <string msgid="7326803297218411233" name="dvr_dialog_message_record_channel">"Doriți să opriți procesul de înregistrare\n și să schimbați canalul?"</string>
+    <string msgid="45392879517475466" name="dvr_dialog_message_record_epg">"Doriți să opriți procesul de înregistrare\n și să accesați EPG?"</string>
+    <string msgid="3926706775392648872" name="dvr_dialog_message_record_pip">"Doriți să opriți procesul de înregistrare\n și să accesați PIP/POP?"</string>
+    <string msgid="4498121837579811401" name="dvr_dialog_message_record_source">"Doriți să opriți procesul de înregstrare\n și să schimbați sursa?"</string>
+    <string msgid="1689154925747366258" name="dvr_dialog_message_record_type">"Doriți să opriți procesul de înregistrare\n și să schimbați tipul canalului?"</string>
+    <string msgid="8516324929831781272" name="dvr_dialog_message_schedule_pvr">"Există o înregistrare planificată [<ns1:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</ns1:g>], doriți să începeți înregistrarea?"</string>
+    <string msgid="4708146321028406075" name="dvr_dialog_message_schedule_record">"începeți să înregistrați?"</string>
+    <string msgid="4418553876378578935" name="dvr_dialog_message_schedule_timeshift">"opriți decalarea temporală?"</string>
+    <string msgid="76319744670730127" name="dvr_dialog_message_schedule_title">"Avertisment"</string>
+    <string msgid="1454735178842495094" name="dvr_dialog_message_shcedule_before">"Există o înregistrare programată"</string>
+    <string msgid="2687376893468785064" name="dvr_dialog_message_timeshift_channel">"Opriți decalarea temporală\n și schimbați canalul?"</string>
+    <string msgid="6401245722652707495" name="dvr_dialog_message_timeshift_epg">"Opriți decalarea temporală\n și accesați EPG?"</string>
+    <string msgid="4026877154963099921" name="dvr_dialog_message_timeshift_pip">"Opriți decalarea temporală\n și accesați PIP/POP?"</string>
+    <string msgid="7504548204570690417" name="dvr_dialog_message_timeshift_record">"Opriți decalarea temporală\n și accesați lista de înregistrări?"</string>
+    <string msgid="2747832318245383768" name="dvr_dialog_message_timeshift_source">"Opriți decalarea temporală\n și schimbați sursa?"</string>
+    <string msgid="5274533061439991720" name="dvr_dialog_message_timeshift_type">"Opriți decalarea temporală\n și schimbați tipul de canal?"</string>
+    <string msgid="1612091177824337611" name="dvr_msg_disk_speed_slow">"Viteză redusă a discului; renunțați la date"</string>
+    <string msgid="7878420357993411563" name="dvr_play_speed_invalied">"Viteză nevalidă!"</string>
+    <string msgid="4216962952591911215" name="dvr_playback_name">"Nume:"</string>
+    <string msgid="8151755810271812155" name="dvr_schedule_event_toast">"„Înregistrarea susținută de semnal” nu s-a putut edita"</string>
+    <string msgid="238593508388029913" name="dvr_schedule_event_type_name">"Model de eveniment"</string>
+    <string msgid="8918968976378102585" name="dvr_schedule_event_type_normal">"Programare temporală"</string>
+    <string msgid="8289362504238612522" name="dvr_schedule_event_type_track">"Înregistrare susținută de semnal"</string>
+    <string msgid="8078152277135454645" name="dvr_schedule_watch_after">"urmăriți acest canal?"</string>
+    <string msgid="1939668473819679446" name="dvr_schedule_watch_content">"Există un memento programat."</string>
+    <string msgid="2720694528780337887" name="dvr_starting_not_switch_channel">"Comutarea canalelor nu este permisă în timp ce vă pregătiți să înregistrați."</string>
+    <string msgid="1167274067666724348" name="dvr_stop_reason_fail">"Înregistrări nereușite sau incomplete"</string>
+    <string msgid="6821810428678641140" name="epg_bottom_ENTER">"ACCESAȚI"</string>
+    <string msgid="3569371225335446793" name="epg_bottom_next_day">"Ziua următoare"</string>
+    <string msgid="2541424065169620680" name="epg_bottom_next_page">"O pagină mai jos"</string>
+    <string msgid="6400043693394476392" name="epg_bottom_prev_day">"Ziua anterioară"</string>
+    <string msgid="1630450278083496915" name="epg_bottom_prev_page">"O pagină mai sus"</string>
+    <string msgid="3310556571928273711" name="epg_bottom_type_filter">"Filtru pentru tip"</string>
+    <string msgid="8139815806235866958" name="epg_bottom_view_detail">"Vedeți detalii"</string>
+    <string msgid="4158534457218991762" name="epg_info_program_type">"Niciunul"</string>
+    <string msgid="8012355648918471162" name="epg_password">"Parolă"</string>
+    <string msgid="6211665596718748186" name="epg_password_message">"Parolă greșită"</string>
+    <string msgid="2896633488111871263" name="epg_rating_unclassified">"Neclasificat"</string>
+    <string msgid="914621654709744814" name="epg_retrieving_show">"Se preiau datele..."</string>
+    <string msgid="2513297384655608276" name="epg_type_none">"Nu există"</string>
+    <string msgid="451574410866097453" name="ews_status">"STAREA <ns1:g id="EWS_STATUS_EWS">%1$s</ns1:g>"</string>
+    <string msgid="7630821608627714353" name="exit">"Ieșiți"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Avansat"</string>
+    <string msgid="4210998606974173799" name="fav_list_is_full">"Lista de preferințe este plină."</string>
+    <string msgid="3826438517111496497" name="feature_not_support">"Funcția nu este acceptată."</string>
+    <string msgid="2046907877432770190" name="file_notsupport">"Fișierul nu este acceptat."</string>
+    <string msgid="6901492378026442073" name="format_confirm_dialog_line1">"Formatarea va șterge toate datele"</string>
+    <string msgid="8219710721924911870" name="format_confirm_dialog_line2">"Confirmați?"</string>
+    <string msgid="2659951684849881728" name="fvp_advise_scan_msg">"Este posibil să se fi actualizat canalele în regiunea dvs.\nSe recomandă să scanați din nou televizorul.\nApăsați OK ca să actualizați lista de canale.\nApăsați Ieșiți pentru a ignora momentan."</string>
+    <string msgid="3800139600742058804" name="fvp_scan_error_msg">"Lista de canale Freeview Play nu este disponibilă momentan.\nTelevizorul va continua cu lista de canale de difuzat. \nApăsați OK ca să continuați."</string>
+    <string msgid="1348613590087653692" name="fvp_scan_timeout_tip">"Conectarea serverului durează <ns1:g id="FVP_SCAN_TIP_MSG_WAIT_TIME_FIRST">%1$d</ns1:g> secunde, dar nu se primește niciun răspuns de la rețea. Puteți apăsa pe Ieșire ca să anulați instalarea listei de canale Freeview Play."</string>
+    <string msgid="2608187961502463042" name="hbbtv_close_dialog">"închideți"</string>
+    <string msgid="734528083985709244" name="hbbtv_failed_message">"Emisiunea pe care ați selectat-o nu este disponibilă"</string>
+    <string msgid="1707645071224134304" name="hbbtv_failed_title">"Avertisment"</string>
+    <string msgid="2183428351070826605" name="inputspanel_android_tv_home">"Pagina de pornire Android TV"</string>
+    <string msgid="8986022644010668512" name="insert_Cam_Select_Canscan">"Încărcați canalele operator?"</string>
+    <string msgid="8306486065781450378" name="ip_channels">"Canale IP:"</string>
+    <string msgid="1043639557116394355" name="italy_clarify_text">"Selectați metoda de ordonare a canalelor. Ordonarea automată a canalelor este metoda prestabilită.\n        Ordonarea Pay TV permite prezentarea numerelor canalelor într-o formă convenabilă dedicată clienților Pay TV.\n        Folosiți ordonarea automată a canalelor dacă ordonarea Pay TV nu poate instala canalele."</string>
+    <string msgid="5735084199521518293" name="keep_least_one_channel_skip">"Nu omiteți toate canalele."</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"Continuați"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"Finalizați"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"Cod de eroare MediaPlayer %1$d suplimentar %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"Meniu de navigare"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"Înainte"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"ÎNCEPEȚI"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"Dezactivați subtitrările"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"Activați subtitrările"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"Derulați rapid înainte"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"Derulați rapid înainte cu %1$dX"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"Comenzile media sunt ascunse. Apăsați pe butonul direcțional pentru a le afișa."</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"Dezactivați calitatea înaltă"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"Activați calitatea înaltă"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"Mai multe acțiuni"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"Întrerupeți"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"Activați modul Picture-in-Picture"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"Redați"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"Repetați toate"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"Nu repetați"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"Repetați unul"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"Derulați înapoi"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"Derulați înapoi cu %1$dX"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"Comenzile media sunt afișate"</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"Dezactivați redarea în mod aleatoriu"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"Activați redarea în mod aleatoriu"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"Ignorați articolul următor"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"Ignorați articolul anterior"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"Deselectați „Nu îmi place”"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"Selectați „Nu îmi place”"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"Deselectați „Îmi place”"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"Selectați „Îmi place”"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"Căutați"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"Rostiți pentru a căuta"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"Căutați <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"Rostiți pentru a căuta <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="312621538618828980" name="license_info_dialog_sign">"<ns1:g id="SIGN_ONE">%1$d</ns1:g>/<ns1:g id="SIGN_TWO">%2$d</ns1:g>"</string>
+    <string msgid="4767050238622861788" name="lnb_universal">"Universal"</string>
+    <string msgid="8237027936565795122" name="mediaset_premium_ordering">"Comenzi Pay TV"</string>
+    <string msgid="8627341690980667363" name="menu_advanced_ci">"Card CI"</string>
+    <string msgid="4684187535340097577" name="menu_advanced_oad">"Descărcare manuală OAD"</string>
+    <string msgid="6087419409021029702" name="menu_advanced_options">"Opțiuni avansate"</string>
+    <string msgid="1533025008287767607" name="menu_age_ratings">"Evaluare în funcție de vârstă"</string>
+    <string msgid="2513172428085896841" name="menu_allowed_rating">"Evaluare permisă"</string>
+    <string msgid="2607530786101957614" name="menu_app_link">"Linkul aplicației"</string>
+    <string msgid="5968738389591460509" name="menu_arrays_Adult">"Adult"</string>
+    <string msgid="8153584011983662479" name="menu_arrays_Advance">"Avansată"</string>
+    <string msgid="8294956944079962717" name="menu_arrays_All_channels">"Toate canalele"</string>
+    <string msgid="3866596728065174354" name="menu_arrays_Analog">"Analogic"</string>
+    <string msgid="7801497378825097110" name="menu_arrays_Analog_Digital">"Analog/Digital"</string>
+    <string msgid="5931500471481039191" name="menu_arrays_Animal_Wildlife">"Animale/Faună"</string>
+    <string msgid="792654887538581337" name="menu_arrays_Antenna">"Antenă"</string>
+    <string msgid="8639640177143632897" name="menu_arrays_Arts">"Artă"</string>
+    <string msgid="6749516296190568227" name="menu_arrays_As_Broadcast">"Ca transmisiune"</string>
+    <string msgid="3890922072205931808" name="menu_arrays_As_Broadcaster">"Drept canal de difuzare"</string>
+    <string msgid="6718568285833546090" name="menu_arrays_Auto">"Auto"</string>
+    <string msgid="6974199440945968182" name="menu_arrays_Auto_Stereo">"Auto Stereo"</string>
+    <string msgid="2908704526338195080" name="menu_arrays_Bahasa_Melayu">"Bahasa Melayu"</string>
+    <string msgid="5316206528757697812" name="menu_arrays_Below_xx">"Sub <ns1:g id="BELOW_XX">%1$d</ns1:g>"</string>
+    <string msgid="7650695801370292338" name="menu_arrays_Black">"Negru"</string>
+    <string msgid="4098581090645860027" name="menu_arrays_Block_AV_and_above">"Blocați programele evaluate cu AV sau mai mult"</string>
+    <string msgid="1010482734674538428" name="menu_arrays_Block_G_and_above">"Blocați programele evaluate cu G sau mai mult"</string>
+    <string msgid="2902158154405770928" name="menu_arrays_Block_MA_and_above">"Blocați programele evaluate cu MA sau mai mult"</string>
+    <string msgid="1587547949824334092" name="menu_arrays_Block_M_and_above">"Blocați programele evaluate cu M sau mai mult"</string>
+    <string msgid="2329755086870199923" name="menu_arrays_Block_PG_and_above">"Blocați programele evaluate cu PG sau mai mult"</string>
+    <string msgid="3931509965632385919" name="menu_arrays_Block_R_and_above">"Blocați programele evaluate cu R sau mai mult"</string>
+    <string msgid="4489389407640869527" name="menu_arrays_Blue">"Albastru"</string>
+    <string msgid="9203263115989080926" name="menu_arrays_Cable">"Cablu"</string>
+    <string msgid="4442342875896881705" name="menu_arrays_Channel_Info">"Informațiile canalului"</string>
+    <string msgid="367778033888365230" name="menu_arrays_Comedy">"Comedie"</string>
+    <string msgid="994203875824149303" name="menu_arrays_Country_Region_ID_x">"Codul regiunii țării: <ns1:g id="COUNTRY_REGION_ID">%1$d</ns1:g>"</string>
+    <string msgid="590587736732468788" name="menu_arrays_Cyan">"Cyan"</string>
+    <string msgid="2887502959851143306" name="menu_arrays_Daily">"Zilnic"</string>
+    <string msgid="8926526950352798110" name="menu_arrays_Digital">"Digital"</string>
+    <string msgid="6692493348087982008" name="menu_arrays_Drama">"Dramă"</string>
+    <string msgid="9017988031684735231" name="menu_arrays_Drugs">"Droguri"</string>
+    <string msgid="1237203245379622776" name="menu_arrays_Dual1">"Dual1"</string>
+    <string msgid="767741546937732184" name="menu_arrays_Dual2">"Dual2"</string>
+    <string msgid="6824372712457352356" name="menu_arrays_Education">"Educație"</string>
+    <string msgid="8501789414043300586" name="menu_arrays_Entertainment">"Divertisment"</string>
+    <string msgid="2121237939250683484" name="menu_arrays_Everyday">"Zilnic"</string>
+    <string msgid="4282409277333173747" name="menu_arrays_Family_Kids">"Familie/Copii"</string>
+    <string msgid="1452726097579727890" name="menu_arrays_Friday">"Vineri"</string>
+    <string msgid="5670561186156834834" name="menu_arrays_Full">"Completă"</string>
+    <string msgid="2723175717685708412" name="menu_arrays_Gaming">"Jocuri"</string>
+    <string msgid="2366515706387927382" name="menu_arrays_General">"General"</string>
+    <string msgid="875594988593992607" name="menu_arrays_Good">"Bun"</string>
+    <string msgid="7251521462222533405" name="menu_arrays_Green">"Verde"</string>
+    <string msgid="8311117292032115988" name="menu_arrays_Hearing_Impaired">"Persoane cu deficiențe de auz"</string>
+    <string msgid="42985913839454918" name="menu_arrays_Horizonal">"Orizontal"</string>
+    <string msgid="3539750662826305136" name="menu_arrays_Kid_3_5_years">"Copii între 3 și 5 ani"</string>
+    <string msgid="4677503582394369759" name="menu_arrays_Kid_6_12_years">"Copii între 6 și 12 ani"</string>
+    <string msgid="566368717632187973" name="menu_arrays_Language_x">"Limba <ns1:g id="LANGUAGE_X">%1$d</ns1:g>"</string>
+    <string msgid="6438453482331796882" name="menu_arrays_Large">"Mare"</string>
+    <string msgid="6538332406071163031" name="menu_arrays_Last_Status">"Ultima stare"</string>
+    <string msgid="4991501223080491744" name="menu_arrays_Level1.5">"Nivelul 1,5"</string>
+    <string msgid="9174733134991326263" name="menu_arrays_Level2.5">"Nivelul 2,5"</string>
+    <string msgid="344628403976644794" name="menu_arrays_Lifestyle">"Stil de viață"</string>
+    <string msgid="7514447619769965477" name="menu_arrays_Magenta">"Magenta"</string>
+    <string msgid="5434190892591659150" name="menu_arrays_Mature18">"Adulți"</string>
+    <string msgid="966172060318708541" name="menu_arrays_Medium">"Mediu"</string>
+    <string msgid="4833956775933039776" name="menu_arrays_Minutes_xx">"<ns1:g id="MENU_XX_MINUTES">%1$d</ns1:g> minute"</string>
+    <string msgid="6089505777337669562" name="menu_arrays_Monday">"Luni"</string>
+    <string msgid="1872841660228144707" name="menu_arrays_Mono">"Mono"</string>
+    <string msgid="4554329450078702658" name="menu_arrays_Movies">"Filme"</string>
+    <string msgid="6280028735889729793" name="menu_arrays_Music">"Muzică"</string>
+    <string msgid="7694795603142535821" name="menu_arrays_Mute">"Dezactivați sunetul"</string>
+    <string msgid="8364326211751387772" name="menu_arrays_Narrative">"Narativă"</string>
+    <string msgid="5951599407676855210" name="menu_arrays_News">"Știri"</string>
+    <string msgid="4677413236939830581" name="menu_arrays_No_Block">"Fără blocare"</string>
+    <string msgid="3761088778488343013" name="menu_arrays_No_Children_Under16">"Interzis publicului sub 16 ani"</string>
+    <string msgid="3939586204187095405" name="menu_arrays_None">"Niciuna"</string>
+    <string msgid="8450245846110938402" name="menu_arrays_On_mute">"Sunet dezactivat"</string>
+    <string msgid="78172329685696222" name="menu_arrays_Once">"O singură dată"</string>
+    <string msgid="5948689983034815513" name="menu_arrays_Only_Digital_Channels">"Numai canalele digitale"</string>
+    <string msgid="4367710654894958021" name="menu_arrays_Only_Encrypted_Channels">"Numai canalele criptate"</string>
+    <string msgid="7444597831655990785" name="menu_arrays_Only_Free_Channels">"Numai canalele gratuite"</string>
+    <string msgid="3856332747833315514" name="menu_arrays_Only_Radio_Channels">"Numai canale radio"</string>
+    <string msgid="5680611572652053920" name="menu_arrays_Original_Audio">"Conținutul audio original"</string>
+    <string msgid="7669493811810041115" name="menu_arrays_Original_Version">"Versiunea originală"</string>
+    <string msgid="3583103550639620032" name="menu_arrays_Parental_Guidance">"Acord parental"</string>
+    <string msgid="7832333703315486939" name="menu_arrays_Parental_Guidance13">"Acord parental 13"</string>
+    <string msgid="1871527522087522120" name="menu_arrays_Poor">"Slabă"</string>
+    <string msgid="1245737364617765732" name="menu_arrays_Premier">"Premieră"</string>
+    <string msgid="4522212572776781883" name="menu_arrays_Quick">"Rapid"</string>
+    <string msgid="8172781096094246445" name="menu_arrays_Record">"Înregistrați"</string>
+    <string msgid="1933455370143022832" name="menu_arrays_Red">"Roșu"</string>
+    <string msgid="5837609288498586246" name="menu_arrays_Reminder">"Memento"</string>
+    <string msgid="5314572088286729983" name="menu_arrays_Restricted21">"Restricționat la 21 de ani"</string>
+    <string msgid="3014742644407817155" name="menu_arrays_Satellite">"Satelit"</string>
+    <string msgid="6457750443619059503" name="menu_arrays_Saturday">"Sâmbătă"</string>
+    <string msgid="2790938579764517097" name="menu_arrays_Select_Mode">"Selectați un mod"</string>
+    <string msgid="1993919359250833212" name="menu_arrays_Service_x">"Serviciul <ns1:g id="SERVICE_X">%1$d</ns1:g>"</string>
+    <string msgid="9102359352375833921" name="menu_arrays_Sex">"Sex"</string>
+    <string msgid="8516289371524201010" name="menu_arrays_Sex_Drugs">"Sex &amp; droguri"</string>
+    <string msgid="1395709079436543836" name="menu_arrays_Shopping">"Cumpărături"</string>
+    <string msgid="2560822427714396463" name="menu_arrays_Show_Channels">"Vedeți canalele"</string>
+    <string msgid="6190182690420474185" name="menu_arrays_Small">"Mică"</string>
+    <string msgid="6891683596561584387" name="menu_arrays_Solid">"Uniform"</string>
+    <string msgid="1029187922022865730" name="menu_arrays_Sports">"Sport"</string>
+    <string msgid="4783706065008964795" name="menu_arrays_Stereo">"Stereo"</string>
+    <string msgid="3013547987820441012" name="menu_arrays_Style_x">"Stilul <ns1:g id="STYLE_X">%1$d</ns1:g>"</string>
+    <string msgid="6056429344349439537" name="menu_arrays_Sunday">"Duminică"</string>
+    <string msgid="2101357483063576435" name="menu_arrays_Surround">"Surround"</string>
+    <string msgid="8766910158959028063" name="menu_arrays_Swap">"Schimbați"</string>
+    <string msgid="7281119021136267294" name="menu_arrays_Tech_Science">"Tehnică/Știință"</string>
+    <string msgid="1999854984006489035" name="menu_arrays_Thursday">"Joi"</string>
+    <string msgid="7348561646063373298" name="menu_arrays_Translucent">"Translucid"</string>
+    <string msgid="46136886913020453" name="menu_arrays_Transparent">"Transparent"</string>
+    <string msgid="4428017033007530561" name="menu_arrays_Travel">"Călătorii"</string>
+    <string msgid="6626938724432544424" name="menu_arrays_Tuesday">"Marți"</string>
+    <string msgid="4977177148723430553" name="menu_arrays_Undefined">"Nespecificat"</string>
+    <string msgid="7223702514123201590" name="menu_arrays_User_Select">"Selecția utilizatorului"</string>
+    <string msgid="4770707067174121725" name="menu_arrays_Vertical">"Verticală"</string>
+    <string msgid="2700477239280676011" name="menu_arrays_Violence">"Violență"</string>
+    <string msgid="3176289985356955366" name="menu_arrays_Violence_Drugs">"Violență &amp; droguri"</string>
+    <string msgid="3260356191627313395" name="menu_arrays_Violence_Sex">"Violență &amp; sex"</string>
+    <string msgid="7414018789604350251" name="menu_arrays_Violence_Sex_Drugs">"Violență &amp; sex &amp; droguri"</string>
+    <string msgid="1140866814494390450" name="menu_arrays_Wednesday">"Miercuri"</string>
+    <string msgid="8587984779955216982" name="menu_arrays_Week">"Săptămână"</string>
+    <string msgid="893891783815283563" name="menu_arrays_White">"Alb"</string>
+    <string msgid="3350543070837348044" name="menu_arrays_Yellow">"Galben"</string>
+    <string msgid="585012643680792280" name="menu_arrays_Zoom">"Zoom"</string>
+    <string msgid="2283340712722771515" name="menu_arrays_good">"bun"</string>
+    <string msgid="8307380298233816683" name="menu_arrays_hun_Multiple_Languages">"Inițială"</string>
+    <string msgid="8074088613393007873" name="menu_arrays_hun_Original_Audio">"Locală"</string>
+    <string msgid="5277088484737758554" name="menu_arrays_narrator">"Narator"</string>
+    <string msgid="597094537003544099" name="menu_arrays_normal">"Normal"</string>
+    <string msgid="8700230837493236303" name="menu_arrays_other">"Altă limbă"</string>
+    <string msgid="2357352005580864666" name="menu_arrays_poor">"slab"</string>
+    <string msgid="7727208149710895180" name="menu_arrays_power_never">"Niciodată"</string>
+    <string msgid="2838991471999484316" name="menu_arrays_power_x_hours">"<ns1:g id="POWER_X_HOURS">%1$d</ns1:g> ore"</string>
+    <string msgid="5252553235566818161" name="menu_arrays_second_audio">"A doua limbă a conținutului audio"</string>
+    <string msgid="8451764896926365139" name="menu_arrays_third_audio">"A treia limbă a conținutului audio"</string>
+    <string msgid="5977833251658879047" name="menu_audio_sound_tracks">"Coloane sonore"</string>
+    <string msgid="5914226981357187525" name="menu_back">"Înapoi"</string>
+    <string msgid="6345177090175746888" name="menu_band_width">"Lățimea de bandă"</string>
+    <string msgid="1801906907555044876" name="menu_block_unrated">"Blocați programele neevaluate"</string>
+    <string msgid="1260923144167079695" name="menu_blocked_rating">"Evaluare blocată"</string>
+    <string msgid="2306081694127448305" name="menu_c_analog_tune">"Ajustarea canalelor analogice"</string>
+    <string msgid="6616915979489704399" name="menu_c_analogscan_scandown">"Scanați în jos"</string>
+    <string msgid="5915910429110056976" name="menu_c_analogscan_scanup">"Scanați în sus"</string>
+    <string msgid="2246890877020986294" name="menu_c_chanel_Move">"Mutarea canalului"</string>
+    <string msgid="927992480379525339" name="menu_c_chanel_sor">"Sortați canalele"</string>
+    <string msgid="6359117351919737306" name="menu_c_chanel_swap">"Inversarea canalelor"</string>
+    <string msgid="4197159836237043495" name="menu_c_channelscan_oth">"Altele"</string>
+    <string msgid="5910290796430986311" name="menu_c_favorite_net">"Selectarea rețelei preferate"</string>
+    <string msgid="1556844292658590881" name="menu_c_net">"Cod de rețea"</string>
+    <string msgid="3785625249318213028" name="menu_c_rfscan_frequency">"Frecvență (KHz)"</string>
+    <string msgid="3582109260440911431" name="menu_c_rfscan_frequency_cn">"Frecvență (MHz)"</string>
+    <string msgid="5717582981249177051" name="menu_c_rfscan_symbol_rate">"Viteza de transmisie (Ksym/s)"</string>
+    <string msgid="4426044028697789748" name="menu_c_scan">"Scanați"</string>
+    <string msgid="8979396675252722869" name="menu_c_scan_clear_channel">"Scanarea canalelor le va elimina pe cele anterioare!"</string>
+    <string msgid="2928633248904936695" name="menu_canadian_english_ratings">"Evaluări pentru engleza canadiană"</string>
+    <string msgid="2471635396093309696" name="menu_canadian_french_ratings">"Evaluări pentru franceza canadiană"</string>
+    <string msgid="2096723547222310575" name="menu_cancel">"Anulați"</string>
+    <string msgid="7628333882345060865" name="menu_channel">"Canal"</string>
+    <string msgid="8241064516725478588" name="menu_channel_channel_installation_mode">"Modul de instalare a canalelor"</string>
+    <string msgid="4438235370530709088" name="menu_channel_channel_sources">"Sursele canalelor"</string>
+    <string msgid="9083666960081625903" name="menu_channel_customize_channel_list">"Personalizați lista de canale"</string>
+    <string msgid="1881145392080367595" name="menu_channel_customize_channel_list_summary">"Alegeți canale pentru ghidul de programe"</string>
+    <string msgid="7576326090930705049" name="menu_channel_freeze_switch">"Blocați comutarea"</string>
+    <string msgid="168032913015984240" name="menu_channel_multi_audio">"Multi-audio"</string>
+    <string msgid="5517855524451929591" name="menu_channel_parental_controls">"Control parental"</string>
+    <string msgid="4360471719008301149" name="menu_channel_scan_type">"Tipul de scanare a canalului"</string>
+    <string msgid="6273001423492188772" name="menu_channel_store_type">"Tipul magazinului de canale"</string>
+    <string msgid="8003712676262175836" name="menu_channel_version">"Versiune"</string>
+    <string msgid="3317168911929978611" name="menu_ci_cam_scan">"Scanarea Cam"</string>
+    <string msgid="5000700797059162381" name="menu_ci_user_preference">"Preferința utilizatorului"</string>
+    <string msgid="9182964994599355185" name="menu_ci_user_preference_item_broadcast">"Transmisie"</string>
+    <string msgid="4209458683747214463" name="menu_ci_user_preference_item_default">"Prestabilită"</string>
+    <string msgid="235468670940168173" name="menu_content_ratings">"Evaluarea conținutului"</string>
+    <string msgid="270119160492034920" name="menu_delete_biss_key_tip">"Sigur doriți să ștergeți această cheie BISS?"</string>
+    <string msgid="940569276553637894" name="menu_dialog_numrepeat">"Numerele canalelor se repetă!"</string>
+    <string msgid="6992271585072387734" name="menu_dialog_numzero">"Numărul canalului nu poate fi 0!"</string>
+    <string msgid="4953749502243337505" name="menu_dvbs_antenna_type_tip">"Apăsați tasta de culoare ROȘU pentru a afișa setările pentru bandă și frecvență."</string>
+    <string msgid="5339894688140615789" name="menu_enter">"Accesați"</string>
+    <string msgid="5916797899906131306" name="menu_exit">"Ieșiți"</string>
+    <string msgid="6258255290936085690" name="menu_interface_name">"Meniu"</string>
+    <string msgid="1005475185681009858" name="menu_net_name">"Numele rețelei"</string>
+    <string msgid="5238174741692232278" name="menu_oceania_aus_ratings">"Restricționarea accesului"</string>
+    <string msgid="549595307019821477" name="menu_ok">"OK"</string>
+    <string msgid="1410237592394733548" name="menu_parental_change_password">"Schimbați parola"</string>
+    <string msgid="7003428954204171196" name="menu_parental_channel_block">"Blocarea canalelor"</string>
+    <string msgid="3727018689983113284" name="menu_parental_channel_schedule_block">"Bloc de planificare a canalelor"</string>
+    <string msgid="3378946292723662496" name="menu_parental_channel_schedule_block_operation_mode">"Modul de operare"</string>
+    <string msgid="6825571214422092711" name="menu_parental_channel_schedule_end_date">"Data de încheiere"</string>
+    <string msgid="6705925703363265697" name="menu_parental_channel_schedule_end_time">"Ora de încheiere"</string>
+    <string msgid="3342250424179084140" name="menu_parental_channel_schedule_start_date">"Data de începere"</string>
+    <string msgid="1010861759252974627" name="menu_parental_channel_schedule_start_time">"Ora de începere"</string>
+    <string msgid="4257280620467440277" name="menu_parental_clean_all">"Ștergeți tot"</string>
+    <string msgid="4737097429483474525" name="menu_parental_input_block">"Intrare blocată"</string>
+    <string msgid="4576879579547866045" name="menu_parental_password">"Parolă"</string>
+    <string msgid="3506796281997230270" name="menu_parental_password_enter">"Introduceți parola"</string>
+    <string msgid="3411313245296435031" name="menu_parental_password_incorrect">"Parolă incorectă.\nIntroduceți din nou!"</string>
+    <string msgid="4526902774665782344" name="menu_parental_password_matchinfo">"Parola nu se potrivește.\nIntroduceți-o din nou!"</string>
+    <string msgid="8309978901021454441" name="menu_parental_password_new">"Parola nouă"</string>
+    <string msgid="4377338006931748859" name="menu_parental_password_new_re">"Confirmați parola"</string>
+    <string msgid="3017893895583981306" name="menu_parental_program_block">"Blocarea programului"</string>
+    <string msgid="3440392780424732761" name="menu_rating_enable">"Evaluare activată"</string>
+    <string msgid="4755397422752027961" name="menu_s_channel_decode">"Decodați canalul"</string>
+    <string msgid="4204530918013827303" name="menu_s_favorite_network">"Selectați rețeaua preferată"</string>
+    <string msgid="4676645206696055795" name="menu_s_sate_add">"Adăugarea satelitului"</string>
+    <string msgid="385551134194359571" name="menu_s_sate_rescan">"Rescanare prin satelit"</string>
+    <string msgid="6641088672339130577" name="menu_s_sate_tuning">"Ajustarea manuală a satelitului"</string>
+    <string msgid="8295522446305537505" name="menu_s_sate_update">"Actualizarea satelitului"</string>
+    <string msgid="4003160032715199809" name="menu_set">"Setați"</string>
+    <string msgid="8629595673599201848" name="menu_settings">"Setări"</string>
+    <string msgid="3884334439195257889" name="menu_setup_HBBTV_Support">"Asistență pentru HBBTV"</string>
+    <string msgid="7047780262945384208" name="menu_setup_HBBTV_cookie_settings">"Setări pentru cookie-uri"</string>
+    <string msgid="744961147888622795" name="menu_setup_HBBTV_deviceid">"ID-ul gadgetului"</string>
+    <string msgid="1290321132030841986" name="menu_setup_HBBTV_not_track">"Nu urmări"</string>
+    <string msgid="5270967485634552113" name="menu_setup_HBBTV_persistent_storage">"Stocare persistentă"</string>
+    <string msgid="4896116549707782493" name="menu_setup_HBBTV_reset_deviceid">"Resetați ID-ul dispozitivului"</string>
+    <string msgid="2255284996722827595" name="menu_setup_HBBTV_reset_deviceid_message">"Sigur doriți să resetați ID-ul dispozitivului?"</string>
+    <string msgid="425628542732834431" name="menu_setup_HBBTV_settings">"Setări HBBTV"</string>
+    <string msgid="8030054744169205932" name="menu_setup_HBBTV_track_sites">"Blocați site-urile de urmărire"</string>
+    <string msgid="9013322575297645333" name="menu_setup_MHEG_PIN_Protection">"Protecția prin cod PIN pentru MHEG"</string>
+    <string msgid="8369273652687922192" name="menu_setup_TKGS_hidden_locations">"Locații ascunse TKGS"</string>
+    <string msgid="6239011973619252782" name="menu_setup_TKGS_locate_list">"Lista de identificatori TKGS"</string>
+    <string msgid="6717317359786252162" name="menu_setup_TKGS_setting">"Setarea TKGS"</string>
+    <string msgid="4796051211945790617" name="menu_setup_analog_closed_caption">"Subtitrare analogică"</string>
+    <string msgid="5130643060755546036" name="menu_setup_analog_subtitle">"Subtitrare analogică"</string>
+    <string msgid="8749345286614488535" name="menu_setup_auto_channel_update">"Actualizare automată a canalului"</string>
+    <string msgid="554655984033409887" name="menu_setup_auto_network_upgrade">"Upgrade-ul rețelei"</string>
+    <string msgid="759687874059635844" name="menu_setup_auto_synchronization">"Sincronizare automată"</string>
+    <string msgid="8613742900179692970" name="menu_setup_background_color">"Culoarea fundalului"</string>
+    <string msgid="2867502947414945383" name="menu_setup_background_opacity">"Opacitatea fundalului"</string>
+    <string msgid="4743414048883762640" name="menu_setup_biss_key">"Cheia BISS"</string>
+    <string msgid="6638397470781538366" name="menu_setup_biss_key_add_item">"Dați clic pentru a adăuga cheia BISS"</string>
+    <string msgid="1420141670124972197" name="menu_setup_biss_key_add_key">"Adăugați o cheie BISS"</string>
+    <string msgid="3155790790689603575" name="menu_setup_biss_key_cw_key">"Cheie CW"</string>
+    <string msgid="4922467304547321006" name="menu_setup_biss_key_freqency">"Frecvență"</string>
+    <string msgid="3025566519316825016" name="menu_setup_biss_key_horizonal">"Orizontală"</string>
+    <string msgid="5179872075186805913" name="menu_setup_biss_key_polazation">"Polarizare"</string>
+    <string msgid="5573105310385768872" name="menu_setup_biss_key_prog_id">"Codul programului"</string>
+    <string msgid="4933737876683018945" name="menu_setup_biss_key_vertical">"Verticală"</string>
+    <string msgid="3507814533347681742" name="menu_setup_bluemute">"Dezactivarea sunetului Blue"</string>
+    <string msgid="4719936931569572435" name="menu_setup_button_no">"Nu"</string>
+    <string msgid="5030166851411264581" name="menu_setup_button_yes">"Da"</string>
+    <string msgid="8322539698238533246" name="menu_setup_caption_enable">"Activați subtitrările"</string>
+    <string msgid="8962718484127042364" name="menu_setup_caption_setup">"Configurarea subtitrării"</string>
+    <string msgid="2961061197730048776" name="menu_setup_caption_style">"Stilul subtitrării"</string>
+    <string msgid="2473477203683812249" name="menu_setup_channel_scan">"Stare: se scanează"</string>
+    <string msgid="5931927842967932526" name="menu_setup_channel_scan_ana">"Canale analogice:"</string>
+    <string msgid="392557174041827451" name="menu_setup_channel_scan_cancel">"Stare: scanare anulată"</string>
+    <string msgid="323883741930144178" name="menu_setup_channel_scan_dig">"Canale digitale:"</string>
+    <string msgid="1165298550342951653" name="menu_setup_channel_scan_done">"Stare: scanare finalizată"</string>
+    <string msgid="1033963070035499350" name="menu_setup_channel_scan_error">"Stare: eroare de scanare"</string>
+    <string msgid="6637458773533512380" name="menu_setup_channel_scan_positioner_moving">"Stare: instrumentul de poziționare se deplasează"</string>
+    <string msgid="2527134179338036692" name="menu_setup_channel_update">"Actualizarea canalului"</string>
+    <string msgid="6065600598875680983" name="menu_setup_channel_update_msg">"Mesaj privind actualizarea canalului"</string>
+    <string msgid="7499549794650029556" name="menu_setup_ci_10s_answer_tip">"Așteptați..."</string>
+    <string msgid="7752969960527081420" name="menu_setup_ci_cam_menu">"Meniul Cam"</string>
+    <string msgid="7764806669482503026" name="menu_setup_ci_no_card">"Niciun card Cam."</string>
+    <string msgid="6804982608273473218" name="menu_setup_ci_pin_code">"Codul PIN al camerei"</string>
+    <string msgid="1196513370440084482" name="menu_setup_ci_pin_code_correct_tip">"Corect!"</string>
+    <string msgid="2243160300655248439" name="menu_setup_ci_pin_code_incorrect_tip">"Greșit. Introduceți-l din nou!"</string>
+    <string msgid="3326787881056337207" name="menu_setup_ci_pin_code_input_tip">"Introduceți codul PIN al camerei"</string>
+    <string msgid="1459027740499472507" name="menu_setup_ci_pin_invalid_type_tip">"Tip nevalid!"</string>
+    <string msgid="1895934295290944977" name="menu_setup_common_interface">"Interfață comună"</string>
+    <string msgid="3849734594378853028" name="menu_setup_decoding_page_language">"Limba paginii de decodificare"</string>
+    <string msgid="8499914504929052590" name="menu_setup_device_info">"Informații despre dispozitiv"</string>
+    <string msgid="7752290991660565843" name="menu_setup_digital_caption">"Subtitrare digitală"</string>
+    <string msgid="1817076601837960094" name="menu_setup_digital_style">"Stilul subtitrării digitale"</string>
+    <string msgid="3126491673293834539" name="menu_setup_digital_subtitle">"Subtitlu digital"</string>
+    <string msgid="8584442274273067902" name="menu_setup_digital_subtitle_lang">"Limba subtitrării digitale"</string>
+    <string msgid="5633803120810655815" name="menu_setup_digital_subtitle_lang_2nd">"A doua limbă a subtitrării digitale"</string>
+    <string msgid="891930341886844341" name="menu_setup_digital_teletext_language">"Limba teletextului digital"</string>
+    <string msgid="3134377856178382070" name="menu_setup_divx_reg_setup">"Înregistrarea DivX(R)"</string>
+    <string msgid="1455485346175283490" name="menu_setup_divxdea">"Cod de anulare a înregistrării:\n Anulați înregistrarea la http://vod.divx.com\n Continuați înregistrarea?"</string>
+    <string msgid="3215046319317947249" name="menu_setup_divxreg">"Trebuie să vă înregistrați dispozitivul ca să redați videoclipuri protejate prin DivX®.\nCod de înregistrare: BX9ASIKQEI\n Înregistrați-vă la http://vod.divx.com"</string>
+    <string msgid="6189576467095870271" name="menu_setup_download_firmware">"Descărcați firmware-ul"</string>
+    <string msgid="1179707257557128411" name="menu_setup_font_color">"Culoarea fontului"</string>
+    <string msgid="7083632641371332767" name="menu_setup_font_opacity">"Opacitatea fontului"</string>
+    <string msgid="1648009250200871183" name="menu_setup_font_size">"Dimensiunea fontului"</string>
+    <string msgid="754747015410559718" name="menu_setup_font_style">"Stilul fontului"</string>
+    <string msgid="1790004477593697582" name="menu_setup_ginga_auto_start_app">"Pornirea automată a aplicației"</string>
+    <string msgid="2417958483244058708" name="menu_setup_ginga_enable">"Activarea funcției Ginga"</string>
+    <string msgid="6584004260595154530" name="menu_setup_ginga_setup">"Configurarea Ginga"</string>
+    <string msgid="7614647649314796771" name="menu_setup_hdmi_2_0_setting">"Setare HDMI 2.0"</string>
+    <string msgid="5050066137876562783" name="menu_setup_hdmi_signalformat">"Formatul semnalului"</string>
+    <string msgid="3212334206785779338" name="menu_setup_information">"Informații"</string>
+    <string msgid="4630365409947205646" name="menu_setup_interaction_channel">"Canal de interacțiune"</string>
+    <string msgid="463873547645757115" name="menu_setup_license_info">"Informații despre licență"</string>
+    <string msgid="1839888825103443088" name="menu_setup_modes_dmr_control">"Funcția DMR"</string>
+    <string msgid="7885202064630994111" name="menu_setup_network">"Rețea"</string>
+    <string msgid="8873285800776457027" name="menu_setup_network_no_net">"Niciun dispozitiv wireless nu este conectat la televizor!"</string>
+    <string msgid="6904467374965461541" name="menu_setup_network_upgrade">"Upgrade-ul rețelei..."</string>
+    <string msgid="3798727644774125311" name="menu_setup_network_wireless">"Setări wireless"</string>
+    <string msgid="6308706999803471830" name="menu_setup_oad_set_auto_dl">"Descărcați automat"</string>
+    <string msgid="6161218000501401501" name="menu_setup_postal_code_setting">"Cod poștal"</string>
+    <string msgid="7365397437405062965" name="menu_setup_power_off_timer">"Ora de închidere automată"</string>
+    <string msgid="3304493181284351914" name="menu_setup_power_on_channel">"Canal prestabilit"</string>
+    <string msgid="3982599806537535251" name="menu_setup_power_on_channel_mode">"Selectați un mod"</string>
+    <string msgid="6273815747191069139" name="menu_setup_power_on_show_channels">"Afișați canalele"</string>
+    <string msgid="8213142792432806791" name="menu_setup_power_on_timer">"Ora de pornire automată"</string>
+    <string msgid="6376833337222407361" name="menu_setup_poweroff_music">"Muzică la oprire"</string>
+    <string msgid="9196505526630859181" name="menu_setup_poweron_music">"Muzică la pornire"</string>
+    <string msgid="3735181891975276255" name="menu_setup_record_setting">"Setarea înregistrării"</string>
+    <string msgid="248617517946500738" name="menu_setup_region_setting">"Regiunea EWBS"</string>
+    <string msgid="5394108608331615342" name="menu_setup_reset_default">"Reveniți la setările din fabrică"</string>
+    <string msgid="2604438744325405839" name="menu_setup_reset_info1">"Confirmați?"</string>
+    <string msgid="4733344701470024023" name="menu_setup_satellite_name">"Numele satelitului:"</string>
+    <string msgid="5737465981898547696" name="menu_setup_schedule_list">"Listă de programe"</string>
+    <string msgid="1980108423170746383" name="menu_setup_screenmode">"Modul ecranului"</string>
+    <string msgid="4440344959181499609" name="menu_setup_subtitle">"Subtitrare"</string>
+    <string msgid="3422400611429742301" name="menu_setup_subtitle_type">"Tip de subtitrare"</string>
+    <string msgid="5727231442927827407" name="menu_setup_superimpose_setup">"Configurarea suprapunerii"</string>
+    <string msgid="5689257233500612565" name="menu_setup_system_info">"Informații despre sistem"</string>
+    <string msgid="2721981902427685784" name="menu_setup_teletext">"Teletext"</string>
+    <string msgid="3758184248573228819" name="menu_setup_time_setup">"Configurarea timpului"</string>
+    <string msgid="1673392370191940227" name="menu_setup_time_shifting_mode">"Modul Decalare temporală"</string>
+    <string msgid="3817173332451714750" name="menu_setup_timer">"Temporizator"</string>
+    <string msgid="4780183199961225027" name="menu_setup_ttx_presentation_level">"Nivelul prezentării TTX"</string>
+    <string msgid="5395481546668942228" name="menu_setup_upgrade_info1">"Începeți să descărcați firmware nou de pe server."</string>
+    <string msgid="27929881756666210" name="menu_setup_upgrade_info2">"Nu s-a putut verifica noua versiune de firmware."</string>
+    <string msgid="8691864032506489497" name="menu_setup_upgrade_info2_title">"Se actualizează asistentul"</string>
+    <string msgid="8473165394531457450" name="menu_setup_version_info">"Informații privind versiunea"</string>
+    <string msgid="724136219399454577" name="menu_setup_window_color">"Culoarea ferestrei"</string>
+    <string msgid="4647626132198382426" name="menu_setup_window_opacity">"Opacitatea ferestrei"</string>
+    <string msgid="8863057864727370068" name="menu_setup_wireless_setting">"Setarea conexiunii wireless"</string>
+    <string msgid="1614323014281173540" name="menu_string_block_3rd_new">"Cookie-uri de blocare terță parte"</string>
+    <string msgid="1631822952530836203" name="menu_string_freeview_setting">"Setări Freeview Play"</string>
+    <string msgid="692387196497397664" name="menu_string_postal_code_toast_cannot_empty">"Nu poate fi gol!"</string>
+    <string msgid="1333218593666594370" name="menu_string_postal_code_toast_invalid_input">"Intrare nevalidă!"</string>
+    <string msgid="8068824565893800120" name="menu_string_postal_code_toast_less_than16">"cwkey nu poate fi mai mică de 16"</string>
+    <string msgid="922025259667122726" name="menu_string_power_content">"TV va deveni inactiv în cinci minute. Permiteți acest lucru?"</string>
+    <string msgid="2855368982497716492" name="menu_string_power_setting">"Inactivitate automată"</string>
+    <string msgid="1651628824563369102" name="menu_string_power_tips">"Sfaturi pentru inactivitate"</string>
+    <string msgid="2790323775706670191" name="menu_string_rrt5_none_title">"Nu există text."</string>
+    <string msgid="7741932472480967423" name="menu_string_term_condition">"Termeni și condiții"</string>
+    <string msgid="8145876274007994574" name="menu_string_toast_scanning_background">"Scanarea rulează pe fundal. Încercați mai târziu"</string>
+    <string msgid="6783272571611214508" name="menu_subtitle_track">"Subtitrări"</string>
+    <string msgid="6958085423021208435" name="menu_system_info_ber">"Ber"</string>
+    <string msgid="2890078060935000199" name="menu_system_info_channel">"Canal"</string>
+    <string msgid="3452677003187359490" name="menu_system_info_channel_title">"Numărul canalului RF"</string>
+    <string msgid="6242392172548735366" name="menu_system_info_service_id">"ID serviciu"</string>
+    <string msgid="8080844306048103018" name="menu_system_info_symbol_svctype">"Tip de serviciu"</string>
+    <string msgid="8708057766635951249" name="menu_tab_audio">"Audio"</string>
+    <string msgid="7246686894971088412" name="menu_tab_inactive_channels">"Canale inactive"</string>
+    <string msgid="2437139766892902869" name="menu_tab_parent">"Control parental"</string>
+    <string msgid="7109847756230324037" name="menu_tab_setup">"Configurație"</string>
+    <string msgid="3742429458000810169" name="menu_tab_tv">"TV"</string>
+    <string msgid="4331109997413003863" name="menu_tab_video">"Video"</string>
+    <string msgid="4353539071531837451" name="menu_teletext_no_top_tip">"Fără partea de sus"</string>
+    <string msgid="3112153343567716372" name="menu_teletext_notsupport_tip">"Fără teletext"</string>
+    <string msgid="3390192267994167470" name="menu_title_channels">"Canale"</string>
+    <string msgid="7217170962187655180" name="menu_title_options">"Opțiuni TV"</string>
+    <string msgid="6782223608461116398" name="menu_tv_analog_channels">"Canale analogice"</string>
+    <string msgid="5873694513744888407" name="menu_tv_analog_manual_scan">"Scanare manuală analogică"</string>
+    <string msgid="4554600010019688554" name="menu_tv_analog_manual_scan_cancel">"Stare: scanare anulată"</string>
+    <string msgid="5059349028560346222" name="menu_tv_analog_manual_scan_init">"Căutați canale analogice"</string>
+    <string msgid="6779595551399926489" name="menu_tv_audio_language">"Limba conținutului audio"</string>
+    <string msgid="3882877571377539936" name="menu_tv_audio_language2nd">"A doua limbă audio"</string>
+    <string msgid="7669615966645353924" name="menu_tv_channel_delete">"Ștergerea canalelor"</string>
+    <string msgid="4220014947121388564" name="menu_tv_channel_edit">"Editarea canalului"</string>
+    <string msgid="3520189529118882493" name="menu_tv_channel_edit_info">"Informații despre editarea canalului"</string>
+    <string msgid="5985398262786058250" name="menu_tv_channel_list_type">"Tipul listei de canale"</string>
+    <string msgid="5666152567700519485" name="menu_tv_channel_name">"Numele canalului:"</string>
+    <string msgid="8812504182847087421" name="menu_tv_channel_no">"Numărul canalului:"</string>
+    <string msgid="8114676020485306916" name="menu_tv_channel_scan">"Scanarea canalelor"</string>
+    <string msgid="2281034408241451410" name="menu_tv_channel_setup">"Configurarea canalului"</string>
+    <string msgid="7390004344012497423" name="menu_tv_channel_skip">"Omiterea canalelor"</string>
+    <string msgid="4383566614098451792" name="menu_tv_channel_tsname">"Numele TS:"</string>
+    <string msgid="4660659962974681532" name="menu_tv_channel_type">"Tipul de canal"</string>
+    <string msgid="4671898427743017872" name="menu_tv_channelfine_tune">"Ajustarea canalelor analogice"</string>
+    <string msgid="7222930204275471898" name="menu_tv_channels">"Canale"</string>
+    <string msgid="2579995964359144257" name="menu_tv_clear_channel_info">"Confirmați?"</string>
+    <string msgid="5696948603488738154" name="menu_tv_clear_channel_list">"Ștergeți lista de canale"</string>
+    <string msgid="2134749435885210203" name="menu_tv_color_system">"Sistem de culori"</string>
+    <string msgid="184277561339631204" name="menu_tv_country_region_id">"Codul regiunii țării"</string>
+    <string msgid="8619464517901908860" name="menu_tv_delete">"Ștergeți"</string>
+    <string msgid="8422587329057147750" name="menu_tv_delete_loading">"Se șterge. Așteptați..."</string>
+    <string msgid="5525068056883731934" name="menu_tv_delete_message">"Canalele pot fi șterse fără avertismente pe ecran. Confirmați?"</string>
+    <string msgid="2193262484180007326" name="menu_tv_delete_not_forM7Number">"Funcția nu este acceptată, deoarece numărul canalului este mai mic decât 4001."</string>
+    <string msgid="571325254394265803" name="menu_tv_digital_channels">"Canale digitale"</string>
+    <string msgid="5580627258710695873" name="menu_tv_dual_tuner">"Dual tuner"</string>
+    <string msgid="8836617212317116080" name="menu_tv_edit_M7_num_more4000">"Introduceți un număr de canal mai mare decât 4000"</string>
+    <string msgid="1288459543538148961" name="menu_tv_end_frequency">"Frecvența finală (MHz)"</string>
+    <string msgid="2704466796908770615" name="menu_tv_finetune">"Ajustați"</string>
+    <string msgid="6021649320973642221" name="menu_tv_freeze_channel">"Înghețați canalul"</string>
+    <string msgid="7386267125400334008" name="menu_tv_freq">"Frecvență:"</string>
+    <string msgid="6453522331200699877" name="menu_tv_freq_scan_no_channel">"Canalul nu a fost găsit."</string>
+    <string msgid="6571318152971176638" name="menu_tv_frequency">"Frecv."</string>
+    <string msgid="1358321819225060000" name="menu_tv_insert">"Inserați"</string>
+    <string msgid="1747546514998305717" name="menu_tv_keep_least_one_channel">"Păstrați cel puțin un canal"</string>
+    <string msgid="8058358981133927877" name="menu_tv_m7_scan_confirm">"Începeți acum căutarea LNB? \n Dacă omiteți acest pas, se vor folosi valorile prestabilite."</string>
+    <string msgid="8701126040235187294" name="menu_tv_manual_service_update">"Actualizare manuală serviciu"</string>
+    <string msgid="8489824467735386755" name="menu_tv_move_loading">"Se mută. Așteptați..."</string>
+    <string msgid="256769042292806112" name="menu_tv_mts">"Canal audio"</string>
+    <string msgid="7227721405917128844" name="menu_tv_name">"Nume"</string>
+    <string msgid="1671388845426299891" name="menu_tv_network_name">"Numele rețelei:"</string>
+    <string msgid="7616075285030351284" name="menu_tv_number">"Num."</string>
+    <string msgid="40103874127321459" name="menu_tv_oceania_country_region">"Regiunea țării"</string>
+    <string msgid="8801789215514635871" name="menu_tv_remove_all_inactive_channels">"Sigur doriți să eliminați toate canalele?"</string>
+    <string msgid="4037172677462149166" name="menu_tv_remove_inactive_channel">"Sigur doriți să eliminați canalul?"</string>
+    <string msgid="325888876117294389" name="menu_tv_reset_all">"Resetați toate setările?"</string>
+    <string msgid="1796042308306874502" name="menu_tv_rf_scan_frequency">"Frecvența de scanare (MHz)"</string>
+    <string msgid="3370179992000118544" name="menu_tv_rf_scan_mode">"Stilul QAM"</string>
+    <string msgid="6308736417074941026" name="menu_tv_rf_sym_rate">"Viteza de transmisie"</string>
+    <string msgid="5772702059253361594" name="menu_tv_scan_digital_channel_init">"Căutați canale digitale"</string>
+    <string msgid="6560723639956889117" name="menu_tv_scann_allchannels">"Scanați toate canalele."</string>
+    <string msgid="5986186956365767139" name="menu_tv_sigle_frequency_plan">"Planul de frecvențe"</string>
+    <string msgid="7773224697874334577" name="menu_tv_sigle_from_channel">"Index inițial"</string>
+    <string msgid="8466442069650929933" name="menu_tv_sigle_modulation">"Modulație"</string>
+    <string msgid="6790730560440038639" name="menu_tv_sigle_scan_mode">"Modul de scanare"</string>
+    <string msgid="3097529181862261069" name="menu_tv_sigle_to_channcel">"Index final"</string>
+    <string msgid="551119918966787868" name="menu_tv_single_rf_channel">"Canal RF"</string>
+    <string msgid="8917066043207412602" name="menu_tv_single_rf_scan">"O singură scanare RF"</string>
+    <string msgid="1496999582183630210" name="menu_tv_single_rf_scan_init">"Scanați un singur canal RF. (Exclusiv digital)"</string>
+    <string msgid="6749915054386007806" name="menu_tv_single_signal_level">"Nivelul semnalului"</string>
+    <string msgid="5426229316907070059" name="menu_tv_single_signal_quality">"Calitatea semnalului"</string>
+    <string msgid="1248357537058558355" name="menu_tv_skip">"Omiteți"</string>
+    <string msgid="4269723226624021325" name="menu_tv_sort_loading">"Se sortează. Așteptați..."</string>
+    <string msgid="6046361573130329018" name="menu_tv_sound_system">"Sistem audio"</string>
+    <string msgid="9061427598128187616" name="menu_tv_start_frequency">"Frecvența de pornire (MHz)"</string>
+    <string msgid="126959169937779632" name="menu_tv_status">"Stare"</string>
+    <string msgid="8528401689277276496" name="menu_tv_status_value">"Se scanează"</string>
+    <string msgid="5870426199870476614" name="menu_tv_store">"Magazin"</string>
+    <string msgid="6069293662781579793" name="menu_tv_store_data">"Sigur doriți să salvați datele?"</string>
+    <string msgid="2906413096735599257" name="menu_tv_system">"Sistem"</string>
+    <string msgid="1983044089621021765" name="menu_tv_tshift_config">"Modul Decalare temporală"</string>
+    <string msgid="4534577012277218806" name="menu_tv_tuner_mode">"Modul tuner"</string>
+    <string msgid="7347482638955677242" name="menu_tv_tv_system">"Sistemul TV"</string>
+    <string msgid="5559784090794274350" name="menu_tv_type">"Tip"</string>
+    <string msgid="17835394959085982" name="menu_tv_update_scan">"Verificarea actualizărilor"</string>
+    <string msgid="8106372407195238776" name="menu_tv_us_range_scan">"Scanați cu o serie de canale"</string>
+    <string msgid="8116488007741874603" name="menu_us_movie_ratings">"Evaluări de filme din S.U.A."</string>
+    <string msgid="3755104139396309977" name="menu_us_tv_ratings">"Evaluările pentru TV în S.U.A."</string>
+    <string msgid="6872910755941077113" name="menu_versioninfo_name">"Numele modelului"</string>
+    <string msgid="4181667293912833576" name="menu_versioninfo_number">"Număr de serie"</string>
+    <string msgid="5598308716341968435" name="menu_versioninfo_version">"Versiune"</string>
+    <string msgid="2428163831513361272" name="menu_wrong_new_pin_notify">"„0000” este o parolă nevalidă"</string>
+    <string msgid="1823379068466406534" name="motor_settings">"Setări motoare"</string>
+    <string msgid="8891453665943022634" name="msg_channel_added_one">"A fost adăugat <ns1:g id="MSG_CHANNEL">%1$d</ns1:g> canal"</string>
+    <string msgid="8259822376614850146" name="msg_delet_schedule_item">"unele înregistrări planificate nu au reușit sau sunt incomplete!"</string>
+    <string msgid="6012765156842077538" name="msg_no_channel_added">"Niciun canal adăugat"</string>
+    <string msgid="1293770946898508954" name="msg_no_channel_added_other">"Au fost adăugate <ns1:g id="MSG_NO_CHANNEL_ADDED">%1$d</ns1:g> canale"</string>
+    <string msgid="1072183791129632173" name="msg_no_setup_activity">"Intrarea nu acceptă scanarea automată."</string>
+    <string msgid="5981825030398555360" name="msg_unable_to_start_setup_activity">"Nu poate fi inițiată scanarea automată pentru „<ns1:g id="TV_INPUT">%s</ns1:g>”"</string>
+    <string msgid="2023371839435704614" name="msg_unable_to_start_system_captioning_settings">"Eroare la inițierea preferințelor pentru subtitrări la nivel de sistem."</string>
+    <string msgid="5362034951962029463" name="nav_A2_DUAL1_DUAL2">"Dual I+II"</string>
+    <string msgid="6067522758623414409" name="nav_ADULT">"Adulți"</string>
+    <string msgid="3292151116834016023" name="nav_ADULT_UK">"Adulți"</string>
+    <string msgid="7109269795352673155" name="nav_ANIMATION_SA">"Filme de animație / efecte speciale"</string>
+    <string msgid="76277791819234215" name="nav_ARTS">"Artă/cultură (fără muzică)"</string>
+    <string msgid="8238446431321376675" name="nav_ARTS_AUS">"Artă/cultură"</string>
+    <string msgid="7548118392838609215" name="nav_Accept">"Accept"</string>
+    <string msgid="4892417368489212947" name="nav_Adult">"adulți (generale)"</string>
+    <string msgid="3331444442028338542" name="nav_Adult_Movie">"filme pentru adulți/dramă"</string>
+    <string msgid="1562432260333771131" name="nav_Adult_cartoon">"desene animate pentru adulți"</string>
+    <string msgid="2020233948494351594" name="nav_Adventure">"aventură/western/război"</string>
+    <string msgid="5363575588003558517" name="nav_Advertisement">"reclame/cumpărături"</string>
+    <string msgid="4092498780895009315" name="nav_Animation_movies_sa">"Animație"</string>
+    <string msgid="1231222501166526460" name="nav_Appendix_bs_sa">"Anexă a programului de transmisiune digitală terestră/BS"</string>
+    <string msgid="517955942667234433" name="nav_Appendix_server_type_sa">"Informații anexă pentru programul de tip server"</string>
+    <string msgid="6554614247798295199" name="nav_Art_hobby_sa">"Muzică, artă, artă industrială"</string>
+    <string msgid="3778760294295379300" name="nav_Arts">"artă/cultură (fără muzică)"</string>
+    <string msgid="2972164873743815729" name="nav_Arts_magazines">"reviste de artă"</string>
+    <string msgid="1638796230059292318" name="nav_Athletics">"atletism"</string>
+    <string msgid="750651562397983758" name="nav_Audio_Program">"Program audio"</string>
+    <string msgid="4569731673631345789" name="nav_Auditorium">"amfiteatru"</string>
+    <string msgid="5674152464877812744" name="nav_Ballad_sa">"Baladă japoneză, muzică tradițională japoneză"</string>
+    <string msgid="4569418398390525032" name="nav_Ballet">"balet"</string>
+    <string msgid="6716071109682846442" name="nav_Baseball_sa">"Baseball"</string>
+    <string msgid="8166473152648563258" name="nav_Biography">"biografii"</string>
+    <string msgid="123677481804570864" name="nav_Black_and_White">"alb-negru"</string>
+    <string msgid="1769647110854572386" name="nav_Broadcasting">"transmisie/presă"</string>
+    <string msgid="8876419163301754170" name="nav_CHILDREN">"Copii"</string>
+    <string msgid="6383058919905217882" name="nav_CHILDRENS">"Programe pentru copii/tineri"</string>
+    <string msgid="5844351978428938279" name="nav_COMEDY">"Comedie"</string>
+    <string msgid="344493986982126341" name="nav_COMICAL">"Comedie"</string>
+    <string msgid="1728721321904544994" name="nav_CURRENT_AFFAIRS">"Actualități"</string>
+    <string msgid="7485655405127911626" name="nav_CURRENT_AFFAIRS_AUS">"Actualități"</string>
+    <string msgid="7617524187961590647" name="nav_Cancel">"Anulați"</string>
+    <string msgid="2691198266609566393" name="nav_Cars_sa">"Mașini, motociclete"</string>
+    <string msgid="3119574119243171205" name="nav_Cartoons">"desene animate/marionete"</string>
+    <string msgid="2352759515560215768" name="nav_Channel_Locked">"Canalul este blocat!"</string>
+    <string msgid="873820541320552860" name="nav_Children">"programe pentru copii/tineri"</string>
+    <string msgid="6831456170842790872" name="nav_Childrens">"Pentru copii"</string>
+    <string msgid="5424477391960867406" name="nav_Childrens_song_sa">"Melodie pentru copii"</string>
+    <string msgid="2234409890948755317" name="nav_Classic_sa">"Muzică clasică, operă"</string>
+    <string msgid="6993507339935504263" name="nav_Cocking_sa">"Varietăți culinare"</string>
+    <string msgid="7487834454945416514" name="nav_Comedy">"comedie"</string>
+    <string msgid="9029624226612544774" name="nav_Comedy_program_sa">"Program de comedie"</string>
+    <string msgid="1515257472064134851" name="nav_Comic_story_sa">"Comedie, divertisment"</string>
+    <string msgid="3706642553609961619" name="nav_Comical">"comedii"</string>
+    <string msgid="2740628597884358931" name="nav_Computer_games_sa">"Computer, jocuri TV"</string>
+    <string msgid="1696469391180059577" name="nav_Conversation_sa">"Conversație, limbi"</string>
+    <string msgid="6317662479870562229" name="nav_Cooking">"culinar"</string>
+    <string msgid="4774122318391503820" name="nav_Country">"țară"</string>
+    <string msgid="4447376466213581085" name="nav_Culture_sa">"Cultură, cultură tradițională"</string>
+    <string msgid="2306180072443523238" name="nav_Current_Affairs">"știri/actualități (generale)"</string>
+    <string msgid="1732520131708701722" name="nav_DEBATE_INTERVIEW">"Dezbatere/interviu"</string>
+    <string msgid="7005982821525458545" name="nav_DOCUMENTARY">"Documentar"</string>
+    <string msgid="273709365086519291" name="nav_DOCUMENTARY_SA">"Documentar / cultură"</string>
+    <string msgid="1875946404286373763" name="nav_DRAMA">"Dramă"</string>
+    <string msgid="9134229304370094253" name="nav_DRAMA_SA">"Dramă"</string>
+    <string msgid="519339402026386669" name="nav_DUAL1">"Dual1"</string>
+    <string msgid="5675496762534505028" name="nav_DUAL2">"Dual2"</string>
+    <string msgid="1360518573780719910" name="nav_Dance_sa">"Dans, balet"</string>
+    <string msgid="6944832467084835207" name="nav_Detective">"polițist/thriller"</string>
+    <string msgid="4267005461999346240" name="nav_Disable">"Dezactivați"</string>
+    <string msgid="7576113986215044245" name="nav_Discussion">"discuție/interviu/dezbatere"</string>
+    <string msgid="5929362767175579586" name="nav_Discussion_sa">"Discuție, conferință"</string>
+    <string msgid="2844670789033271646" name="nav_Documentary">"documentar"</string>
+    <string msgid="8593035086403306433" name="nav_Drama">"film/dramă (generale)"</string>
+    <string msgid="3673009370247312330" name="nav_Dual_Mono">"Dual mono"</string>
+    <string msgid="938224962511736802" name="nav_EDUCATION">"Subiecte din educație/științe/realitate"</string>
+    <string msgid="5056937358866165681" name="nav_EDUCATION_AUS">"Informații/educație"</string>
+    <string msgid="653065048554614545" name="nav_EDUCATION_UK">"Educație"</string>
+    <string msgid="4605496354611843816" name="nav_ENTERTAINMENT">"Divertisment"</string>
+    <string msgid="1304583066017461593" name="nav_EROTIC">"Erotice"</string>
+    <string msgid="5439953435078101179" name="nav_Economics">"informații economice/sociale"</string>
+    <string msgid="3307470267321933669" name="nav_Economics_sa">"Economie, raport de marcatori"</string>
+    <string msgid="5394706074492599081" name="nav_Education">"subiecte din educație/științe/realitate (generale)"</string>
+    <string msgid="1192313608379234158" name="nav_Educational_problem_sa">"Problemă educațională"</string>
+    <string msgid="6376185534207789971" name="nav_Educative">"educativ"</string>
+    <string msgid="4955515426374623029" name="nav_Entertainment_for_10_to">"divertisment pentru vârste de cel puțin 10 ani"</string>
+    <string msgid="4596895874459228120" name="nav_Entertainment_for_10_to_16">"programe de divertisment pentru 10 – 16 ani"</string>
+    <string msgid="6579986337624167499" name="nav_Entertainment_for_6_to_14">"programe de divertisment pentru 6 – 14 ani"</string>
+    <string msgid="1196221104874175057" name="nav_Equestrian">"echitație"</string>
+    <string msgid="1046901442635212556" name="nav_Erotic">"erotice"</string>
+    <string msgid="5443791148920743588" name="nav_Events_sa">"Evenimente"</string>
+    <string msgid="6437946401259902116" name="nav_Experimental">"film/videoclip experimental"</string>
+    <string msgid="4244257989998469079" name="nav_Explanation_sa">"Explicație privind transmisiunea multiplex sonoră"</string>
+    <string msgid="6032109737121463545" name="nav_Extension_cs_sa">"Extensie de transmisiune digitală CS bandă largă"</string>
+    <string msgid="2472481098917054792" name="nav_Extension_digital_sa">"Extensie transmisiune sonoră prin satelit digital"</string>
+    <string msgid="2543877636805414180" name="nav_FM_MONO">"FM Mono"</string>
+    <string msgid="7770673071379369067" name="nav_FM_STEREO">"FM Stereo"</string>
+    <string msgid="1211905037639289115" name="nav_FOR_EXTENSION_SA">"Pentru extensie"</string>
+    <string msgid="2050823462294515705" name="nav_Fashion">"modă"</string>
+    <string msgid="1080670509158220474" name="nav_Fashion_sa">"Modă"</string>
+    <string msgid="7060627966765049296" name="nav_Feminine">"feminine"</string>
+    <string msgid="1204508655031614719" name="nav_Film">"film/cinema"</string>
+    <string msgid="5482394381748298762" name="nav_Fine_Arts">"arte plastice"</string>
+    <string msgid="2432505034639236793" name="nav_Fitness_and_Health">"fitness și sănătate"</string>
+    <string msgid="5975600553529084616" name="nav_Folk">"muzică folk/tradițională"</string>
+    <string msgid="4206693975914382487" name="nav_Folk_sa">"Muzică folk, muzică internațională"</string>
+    <string msgid="1765978463317525263" name="nav_Football">"fotbal/fotbal american"</string>
+    <string msgid="6375836042317483758" name="nav_Foreign_Countries">"țări străine/expediții"</string>
+    <string msgid="259476765651855513" name="nav_Freeze_Off">"Înghețare: dezactivată"</string>
+    <string msgid="2487572919806462214" name="nav_Freeze_On">"Înghețare: activată"</string>
+    <string msgid="7464890933282521242" name="nav_Friday">"Vineri"</string>
+    <string msgid="3652921897487755257" name="nav_Further_Education">"aprofundarea cunoștințelor"</string>
+    <string msgid="8709132440378345463" name="nav_Game_Show">"emisiune-concurs/test/concurs"</string>
+    <string msgid="8860523726680025850" name="nav_Game_sa">"Joc"</string>
+    <string msgid="6322886775783788914" name="nav_Game_show">"emisiune-concurs"</string>
+    <string msgid="1358278892867306976" name="nav_Gardening">"grădinărit"</string>
+    <string msgid="1765059596896216380" name="nav_Gardening_sa">"Grădinărit, animale de companie, meșteșuguri"</string>
+    <string msgid="1253151215784285549" name="nav_Golf_sa">"Golf"</string>
+    <string msgid="4113658340252435541" name="nav_Gossip_sa">"Bârfe / emisiune de tip tabloid"</string>
+    <string msgid="1897210291128847840" name="nav_Gourmet_sa">"Gourmet, culinare"</string>
+    <string msgid="5014328749354031501" name="nav_HD_Service">"Nu se acceptă"</string>
+    <string msgid="8223174910041052349" name="nav_HOBBY_SA">"Hobby / educație"</string>
+    <string msgid="584686890574365542" name="nav_Handicapped_sa">"Persoane cu handicap"</string>
+    <string msgid="5446091048096305473" name="nav_Handicraft">"artizanat"</string>
+    <string msgid="459265531175632531" name="nav_Health">"sănătate"</string>
+    <string msgid="6203438185267447781" name="nav_Health_sa">"Sănătate, tratamente medicale"</string>
+    <string msgid="7840175771914493133" name="nav_Hidden_Channel">"Canalul este ascuns!"</string>
+    <string msgid="5436756662158442209" name="nav_History_sa">"Istorie, jurnal de călătorii"</string>
+    <string msgid="2646061752919784406" name="nav_Horse_race_sa">"Cursă de cai, cursă publică"</string>
+    <string msgid="7646455434505072002" name="nav_INFORMATION">"Informații"</string>
+    <string msgid="5773850341168412017" name="nav_INFORMATION_SA">"Informații / emisiune de tip tabloid"</string>
+    <string msgid="2818083324816896145" name="nav_INFOTAINMENT">"Infotainment"</string>
+    <string msgid="1676270512417122332" name="nav_Informational">"programe informative/educative/pentru școală"</string>
+    <string msgid="4656472229392175517" name="nav_Input_Locked">"Intrarea este blocată!"</string>
+    <string msgid="4944475415599607499" name="nav_Interactive">"interactive"</string>
+    <string msgid="5936247805082909748" name="nav_Interview">"interviu"</string>
+    <string msgid="6630052105744757311" name="nav_Interviews_sa">"Interviuri, discuții"</string>
+    <string msgid="8140497578825267884" name="nav_Japanese_animation_sa">"Animație japoneză"</string>
+    <string msgid="5407129016759357530" name="nav_Japanese_movies_sa">"Filme japoneze"</string>
+    <string msgid="1809142524497621993" name="nav_Japanese_sa">"Drame japoneze"</string>
+    <string msgid="5950908321643041601" name="nav_Japenese_chess_sa">"Șah japonez (shogi) și „go”"</string>
+    <string msgid="1794190714262750095" name="nav_Jazz">"jazz"</string>
+    <string msgid="5565281119863947709" name="nav_Jazz_sa">"Jazz, fusion"</string>
+    <string msgid="4946731424053160407" name="nav_Junior_high_school_sa">"Elevi de gimnaziu și liceu"</string>
+    <string msgid="6701718622445257554" name="nav_Kabuki_sa">"Kabuki, dramă clasică"</string>
+    <string msgid="7118383045713716846" name="nav_Karaoke_sa">"Karaoke, concursuri de cântat pentru amatori"</string>
+    <string msgid="6265660683742541759" name="nav_LEISURE">"Hobby-uri"</string>
+    <string msgid="4859934281880943797" name="nav_LIFESTYLE">"Stil de viață"</string>
+    <string msgid="8979824056359689450" name="nav_Languages">"limbi"</string>
+    <string msgid="2742977934574491795" name="nav_Leisure_Hobbies">"hobby-uri pentru timpul liber (generale)"</string>
+    <string msgid="7667815794777596798" name="nav_Lifelong_education_sa">"Educație pe tot parcursul vieții, calificări"</string>
+    <string msgid="4660226768709528314" name="nav_Literature">"literatură"</string>
+    <string msgid="8402565093184706475" name="nav_Literature_sa">"Literatură, artă literară"</string>
+    <string msgid="8335075907050996501" name="nav_Little_children_sa">"Copii mici, școlari"</string>
+    <string msgid="4429081938116334804" name="nav_Live_Broadcast">"difuzare live"</string>
+    <string msgid="5914271084697251230" name="nav_Live_concert_sa">"Concert live"</string>
+    <string msgid="7775026060503448530" name="nav_Living_sa">"Viață, casă"</string>
+    <string msgid="2184453960648947427" name="nav_Local_program_sa">"Program local"</string>
+    <string msgid="67683936489138963" name="nav_MINI_SERIES">"Miniserie"</string>
+    <string msgid="5964204903436155057" name="nav_MONO">"Mono"</string>
+    <string msgid="8372923047639889285" name="nav_MOVIE">"Film/dramă"</string>
+    <string msgid="109821876319564851" name="nav_MOVIES_SA">"Filme"</string>
+    <string msgid="1808781462551154183" name="nav_MUSIC">"Muzică/balet/dans"</string>
+    <string msgid="3808874808023664795" name="nav_MUSIC_AUS">"Muzică"</string>
+    <string msgid="6627059359192965422" name="nav_MUSIC_SA">"Muzică"</string>
+    <string msgid="2682584552541018208" name="nav_Magazines">"magazine/rapoarte/documentare"</string>
+    <string msgid="1478304511748361803" name="nav_Making_of">"realizarea"</string>
+    <string msgid="7592732997388665678" name="nav_Marathon_sa">"Maraton, sporturi atletice, natație"</string>
+    <string msgid="7338901193038264886" name="nav_Marine_sa">"Sporturi marine, sporturi de iarnă"</string>
+    <string msgid="2430164779675552067" name="nav_Martial_Sport">"arte marțiale"</string>
+    <string msgid="8460091950412007364" name="nav_Martial_Sports">"arte marțiale"</string>
+    <string msgid="6843793782660520156" name="nav_Medicine">"medicină/fiziologie/psihologie"</string>
+    <string msgid="1992816844029786986" name="nav_Mini_series">"miniserie"</string>
+    <string msgid="521384632051767107" name="nav_Modern_drama_sa">"Dramă modernă, dramă în stil occidental"</string>
+    <string msgid="6992612570374105204" name="nav_Monday">"Luni"</string>
+    <string msgid="6070562989096653251" name="nav_Motor_Sport">"sporturi cu motor"</string>
+    <string msgid="5240740911241940133" name="nav_Motor_sa">"Sporturi cu motor"</string>
+    <string msgid="4160103961980735576" name="nav_Motoring">"automobilistice"</string>
+    <string msgid="373389300795401657" name="nav_Movie">"Film"</string>
+    <string msgid="2192749429911603964" name="nav_Moving_Positioner">"Instrumentul de poziționare se deplasează..."</string>
+    <string msgid="7070642218067196085" name="nav_Music">"muzică/balet/dans (generale)"</string>
+    <string msgid="5960536243378369431" name="nav_Music_variety_sa">"Varietăți muzicale"</string>
+    <string msgid="4298905131042350427" name="nav_Musical">"musicaluri/operă"</string>
+    <string msgid="3923446084419312125" name="nav_Musical_sa">"Musical"</string>
+    <string msgid="79298973506310292" name="nav_NEWS">"Știri/actualități"</string>
+    <string msgid="4069664565249248929" name="nav_NEWS_AND_FACTUAL">"Știri și realitate"</string>
+    <string msgid="588403828661392490" name="nav_NEWS_SA">"Buletin de știri"</string>
+    <string msgid="6525638479776627839" name="nav_NICAM_DUAL1">"Nicam Dual1"</string>
+    <string msgid="4001223863545237570" name="nav_NICAM_DUAL1_DUAL2">"NICAM Dual I+II"</string>
+    <string msgid="1754387769798722520" name="nav_NICAM_DUAL2">"Nicam Dual2"</string>
+    <string msgid="7769686848165289720" name="nav_NICAM_MONO">"Nicam Mono"</string>
+    <string msgid="3856113660877677151" name="nav_NICAM_STEREO">"Nicam Stereo"</string>
+    <string msgid="4885492493461552592" name="nav_Nature">"natură/animale/mediu"</string>
+    <string msgid="6134317789671534472" name="nav_Nature_sa">"Natură, animale, mediu"</string>
+    <string msgid="6618211849118048631" name="nav_New_Media">"tehnologii media noi"</string>
+    <string msgid="3663290212801352195" name="nav_News">"Știri"</string>
+    <string msgid="7736306538834483698" name="nav_News_Epg">"știri"</string>
+    <string msgid="4271562254297752472" name="nav_News_Magazine">"revistă de știri"</string>
+    <string msgid="2709673854663011997" name="nav_News_analisis_sa">"Analiză de știri"</string>
+    <string msgid="4078485895049636995" name="nav_News_sa">"Obișnuit,general"</string>
+    <string msgid="8708600459640992732" name="nav_No_Audio_Stream">"Niciun stream audio"</string>
+    <string msgid="5246878918070447382" name="nav_No_Audio_and_Video">"Fără conținut audio și video"</string>
+    <string msgid="8000498560272966399" name="nav_No_Channel">"Niciun canal"</string>
+    <string msgid="4425690584431331306" name="nav_No_Signal">"Fără semnal!"</string>
+    <string msgid="7517504210645255208" name="nav_No_Video_Stream">"Fără stream video"</string>
+    <string msgid="2108452697412045355" name="nav_No_channel_details">"(Nu există detalii despre canal.)"</string>
+    <string msgid="6784347151583110026" name="nav_No_program_details">"(Nu există detalii despre program.)"</string>
+    <string msgid="1025175380273805238" name="nav_No_program_title">"(Programul nu are titlu.)"</string>
+    <string msgid="1925028466418229027" name="nav_Non_Broadcasting">"Nu transmite"</string>
+    <string msgid="6562125397170361637" name="nav_Nonstop">"Non-stop"</string>
+    <string msgid="2948113502898065100" name="nav_OTHER">"Alta"</string>
+    <string msgid="1470108166158892565" name="nav_OTHERS_SA">"Altele"</string>
+    <string msgid="88965773203853871" name="nav_Old_aged_sa">"Persoane în vârstă"</string>
+    <string msgid="6401967282343973836" name="nav_Olympic_sa">"Olimpic,jocuri internaționale"</string>
+    <string msgid="2573570488640913389" name="nav_Original_language">"limba originală"</string>
+    <string msgid="5932267196244939155" name="nav_Other_ball_sa">"Alte jocuri cu mingea"</string>
+    <string msgid="998409201479443361" name="nav_Others_sa">"Altele"</string>
+    <string msgid="6015556343656852650" name="nav_Outdoor_entertainment_sa">"Călătorie, pescuit, divertisment în aer liber"</string>
+    <string msgid="908857413571897711" name="nav_Overseas_animation_sa">"Animație de peste hotare"</string>
+    <string msgid="5788384233415248264" name="nav_Overseas_dramas_sa">"Drame de peste hotare"</string>
+    <string msgid="1023323435201154306" name="nav_Overseas_movies_sa">"Filme de peste hotare"</string>
+    <string msgid="468372470690578128" name="nav_Overseas_rock_sa">"Muzică pop, rock de peste hotare"</string>
+    <string msgid="3747956060154665943" name="nav_Overseas_sa">"Raport internațional de peste hotare"</string>
+    <string msgid="3423846309658711747" name="nav_Performing_Arts">"arte de scenă"</string>
+    <string msgid="3768546977583292215" name="nav_Period_sa">"Drame de epocă"</string>
+    <string msgid="2845711634208725361" name="nav_Pinball_sa">"Jocuri mah-jong, pinball"</string>
+    <string msgid="6921350197405145179" name="nav_Please_Scan_Channels">"Scanați canalele!"</string>
+    <string msgid="1823765577040951588" name="nav_Please_Wait">"Așteptați..."</string>
+    <string msgid="611381502727473653" name="nav_Policy">"politică"</string>
+    <string msgid="8692797935325382999" name="nav_Politics_sa">"Politică,adunare națională"</string>
+    <string msgid="3538911329306522366" name="nav_Popular_culture">"cultură populară/arte tradiționale"</string>
+    <string msgid="7248744440286912124" name="nav_Popular_sa">"Melodii populare, melodii populare japoneze (enka)"</string>
+    <string msgid="7412140885112394816" name="nav_Pre_school_children">"programe pentru preșcolari"</string>
+    <string msgid="6378939082932407980" name="nav_Prizing">"premii"</string>
+    <string msgid="5136827293232303669" name="nav_Program_Locked">"Programul este blocat!"</string>
+    <string msgid="172370616761362438" name="nav_Program_guide_sa">"Ghid de programe, informații"</string>
+    <string msgid="7889254320652743571" name="nav_Quiz_sa">"Test"</string>
+    <string msgid="2122184619914848507" name="nav_REALITY_SHOW">"Reality show"</string>
+    <string msgid="4287254519782291875" name="nav_RESERVED_FOR_FUTURE_USE">"Rezervată pentru folosire ulterioară"</string>
+    <string msgid="2550264511464017973" name="nav_RESERVED_NOT_DEFINED_AUS">"Rezervată-nedefinită"</string>
+    <string msgid="5312180884586333534" name="nav_RESERVED_SA">"Rezervat"</string>
+    <string msgid="9145757814283258059" name="nav_Raffle">"tombolă"</string>
+    <string msgid="1852915244795225252" name="nav_Ranking_sa">"Clasament, solicitări muzicale"</string>
+    <string msgid="6822104968805792840" name="nav_Reality_show">"reality show"</string>
+    <string msgid="4374185644835531434" name="nav_Reject">"Respingeți"</string>
+    <string msgid="1281646817926297685" name="nav_Religion">"religie"</string>
+    <string msgid="3742201560954935131" name="nav_Remarkable_people">"oameni remarcabili"</string>
+    <string msgid="984453100440930687" name="nav_Remind_me_Later">"Amintește-mi mai târziu"</string>
+    <string msgid="8158583781925215416" name="nav_Report">"raport"</string>
+    <string msgid="3701653096900603586" name="nav_Reserved_for_future_use">"rezervată pentru folosire ulterioară"</string>
+    <string msgid="4035149701030955594" name="nav_Reserved_sa">"Rezervat"</string>
+    <string msgid="7969007055616561943" name="nav_Retrieving_Data">"Se preiau datele"</string>
+    <string msgid="5492160504993631426" name="nav_Rock">"rock/pop"</string>
+    <string msgid="5243261233617607998" name="nav_Rock_sa">"Muzică pop, rock japonez"</string>
+    <string msgid="4288777205288123674" name="nav_Romance">"de dragoste"</string>
+    <string msgid="8659770437081469248" name="nav_SAP">"SAP"</string>
+    <string msgid="4188569780353472703" name="nav_SERIES">"Seriale"</string>
+    <string msgid="5994064519730822726" name="nav_SHOW">"emisiune/emisiune-concurs"</string>
+    <string msgid="2915219109639202163" name="nav_SOAP_OPERA">"Telenovelă"</string>
+    <string msgid="38770600701306654" name="nav_SOCIAL">"Aspecte sociale/politice/economie"</string>
+    <string msgid="8320732507229913515" name="nav_SPECIAL">"Caracteristici speciale"</string>
+    <string msgid="5227083605335899206" name="nav_SPECIAL_AUS">"Speciale"</string>
+    <string msgid="4833965674434744387" name="nav_SPORT">"Sport"</string>
+    <string msgid="4706156904091255021" name="nav_SPORTS">"Sport"</string>
+    <string msgid="9144720611589594382" name="nav_SPORTS_SA">"Sport"</string>
+    <string msgid="1173990767733612620" name="nav_STEREO">"Stereo"</string>
+    <string msgid="6454861943592948168" name="nav_Saturday">"Sâmbătă"</string>
+    <string msgid="5515239166867063341" name="nav_Science_Fiction">"SF/fantezie/horror"</string>
+    <string msgid="6329251948867332296" name="nav_Science_sa">"Spațiu, științe, științe medicale"</string>
+    <string msgid="9151790137831251844" name="nav_Scrambled">"Codificat"</string>
+    <string msgid="1509682219514074688" name="nav_Series">"serie"</string>
+    <string msgid="5276406648850963863" name="nav_Serious">"film serios/clasic/religios/istoric/dramă"</string>
+    <string msgid="6008559901931855472" name="nav_Serious_Music">"muzică gravă/muzică clasică"</string>
+    <string msgid="5008698094740226314" name="nav_Service_Not_Running">"Serviciul nu rulează"</string>
+    <string msgid="5359730743422967430" name="nav_Shopping_sa">"Cumpărături, comenzi prin poștă"</string>
+    <string msgid="7044536302317720750" name="nav_Show">"emisiune/emisiune-concurs (generale)"</string>
+    <string msgid="4470690495472078506" name="nav_Sign_language_sa">"Limbajul semnelor"</string>
+    <string msgid="5834787426533334001" name="nav_Soap">"telenovelă/melodramă/folclor"</string>
+    <string msgid="1312563792331939305" name="nav_Soccer_sa">"Fotbal"</string>
+    <string msgid="8326463219159687252" name="nav_Social">"aspecte sociale/politice/economie (generale)"</string>
+    <string msgid="6955041851599591609" name="nav_Social_events_sa">"Social, actualități"</string>
+    <string msgid="2552058953348385271" name="nav_Social_sciences">"științe sociale/spirituale"</string>
+    <string msgid="269526386269476136" name="nav_Social_welfare_sa">"Asistență socială"</string>
+    <string msgid="2277333606337532836" name="nav_Special_Events">"evenimente speciale (Jocurile Olimpice, Cupa Mondială)"</string>
+    <string msgid="6195397241263387785" name="nav_Special_effects_sa">"Efecte speciale"</string>
+    <string msgid="9047394715031764418" name="nav_Special_program_sa">"Program special, documentar"</string>
+    <string msgid="516418317017980926" name="nav_Special_report_sa">"Raport special"</string>
+    <string msgid="3192435822872843947" name="nav_Sports">"sport (generale)"</string>
+    <string msgid="8476324860214116667" name="nav_Sports_Magazines">"emisiuni sportive"</string>
+    <string msgid="7684740721075142318" name="nav_Sports_news_sa">"Știri din sport"</string>
+    <string msgid="4655841880997766309" name="nav_Sports_sa">"Sport"</string>
+    <string msgid="1535888822361943521" name="nav_Step">"Pasul"</string>
+    <string msgid="40361118503172651" name="nav_Sumo_sa">"Sumo, sporturi de contact"</string>
+    <string msgid="1543041185005799709" name="nav_Sunday">"Duminică"</string>
+    <string msgid="5461235279942804744" name="nav_Surround">"Surround"</string>
+    <string msgid="8608301678331658729" name="nav_Surround_2CH">"Canale Surround 2"</string>
+    <string msgid="8974332067209571570" name="nav_THEATRE_SA">"Teatru / reprezentație publică"</string>
+    <string msgid="2702838823518690813" name="nav_Talk_Show">"talk-show"</string>
+    <string msgid="3146815438836614710" name="nav_Talk_variety_sa">"Emisiune varietăți"</string>
+    <string msgid="8210098159890432892" name="nav_Team_Sports">"sporturi de echipă (exclusiv fotbal)"</string>
+    <string msgid="1095093673781711334" name="nav_Technology">"tehnologie/științele naturii"</string>
+    <string msgid="280610584178386772" name="nav_Television_sales">"teleshopping"</string>
+    <string msgid="1887994633207213742" name="nav_Tennis">"tenis/squash"</string>
+    <string msgid="5684928688361598169" name="nav_Text_sa">"Text (subtitrări)"</string>
+    <string msgid="7972345876792877737" name="nav_This_content_is_blocked">"Conținutul este blocat de către furnizorul de servicii."</string>
+    <string msgid="2086750884783388391" name="nav_Thursday">"Joi"</string>
+    <string msgid="2717698496855049019" name="nav_Timeout">"Timp limită"</string>
+    <string msgid="8359072777003907639" name="nav_Total_documentary_sa">"Documentar total"</string>
+    <string msgid="1064217920952534771" name="nav_Tour_sa">"Varietate turneu"</string>
+    <string msgid="2206534807802085595" name="nav_Tourism">"turism/călătorii"</string>
+    <string msgid="4864896650781813095" name="nav_Traffic_report_sa">"Raport de trafic"</string>
+    <string msgid="6590886423819622433" name="nav_Travel">"călătorii"</string>
+    <string msgid="46359676068985925" name="nav_Tuesday">"Marți"</string>
+    <string msgid="3061043482995318058" name="nav_UNDEFINED">"Conținut nedefinit"</string>
+    <string msgid="2329192642842883800" name="nav_UNKNOW">"NECUNOSCUT"</string>
+    <string msgid="8325702713371074686" name="nav_USER_DEFINED">"Definită de utilizator"</string>
+    <string msgid="7618135808979427930" name="nav_Undefined">"conținut nedefinit"</string>
+    <string msgid="7068372345809953307" name="nav_University_sa">"Studenți, examene"</string>
+    <string msgid="3767225414701637677" name="nav_Unpublished">"nepublicate"</string>
+    <string msgid="7464246612076601850" name="nav_User_defined">"definită de utilizator"</string>
+    <string msgid="335916253460870247" name="nav_VARIETY">"Varietăți"</string>
+    <string msgid="665812415541556131" name="nav_VARIETY_SA">"Emisiune de varietăți"</string>
+    <string msgid="6392866565801802457" name="nav_Variety_Show">"emisiune de varietăți"</string>
+    <string msgid="8818543693009711253" name="nav_Video_not_Support">"Videoclipul nu este acceptat"</string>
+    <string msgid="879615490910022244" name="nav_Volunteers_sa">"Voluntari"</string>
+    <string msgid="2784119023122415578" name="nav_WELFARE_SA">"Asistență socială"</string>
+    <string msgid="2935243954220193670" name="nav_Water_Sport">"sporturi acvatice"</string>
+    <string msgid="4787310984803157387" name="nav_Weather_Report">"știri/buletin meteo"</string>
+    <string msgid="2966360176726167336" name="nav_Weather_Report_sa">"Buletin meteo"</string>
+    <string msgid="7437812315228564561" name="nav_Wednesday">"Miercuri"</string>
+    <string msgid="1235064337232238883" name="nav_Winter_Sport">"sporturi de iarnă"</string>
+    <string msgid="4784673586234419251" name="nav_Zoom">"Zoom"</string>
+    <string msgid="1423416146353180751" name="nav_au_ARTS">"Artă/cultură"</string>
+    <string msgid="8175958670018776911" name="nav_au_EDUCATION_INFORMATION">"Informații/educație"</string>
+    <string msgid="7535536656101098890" name="nav_au_MUSIC">"Muzică"</string>
+    <string msgid="8557902401422354877" name="nav_au_SPECIAL">"Special"</string>
+    <string msgid="2373226362601702644" name="nav_au_undefined">"Conținut nedefinit"</string>
+    <string msgid="5924250989831727442" name="nav_banner_not_rating">"Neevaluat"</string>
+    <string msgid="1888349023955299704" name="nav_channel_All">"Toate"</string>
+    <string msgid="4411622601976729909" name="nav_channel_Radio">"Radio"</string>
+    <string msgid="6714245276115596065" name="nav_channel_antenna">"Antenă"</string>
+    <string msgid="2971064824022070667" name="nav_channel_audio_scrambled">"Conținutul audio este codificat"</string>
+    <string msgid="1545463507484207611" name="nav_channel_details">"Detaliile canalului"</string>
+    <string msgid="4775598194894742710" name="nav_channel_has_locked">"Canalul este blocat!"</string>
+    <string msgid="5877629862359097611" name="nav_channel_infoNoChannelDetail">"(Nu există detalii despre canal.)"</string>
+    <string msgid="8125356897518159307" name="nav_channel_infoNoProgram">"(Nu există detalii despre program.)"</string>
+    <string msgid="1636614751099482229" name="nav_channel_infoTitle">"(Programul nu are titlu.)"</string>
+    <string msgid="1142928191994319781" name="nav_channel_list">"Lista de canale"</string>
+    <string msgid="2611146848768461491" name="nav_channel_list_loading">"Se încarcă, așteptați..."</string>
+    <string msgid="8360955300780574598" name="nav_channel_list_options">"Operațiune"</string>
+    <string msgid="9098272571468415489" name="nav_channel_list_title_categories">"Categorii –"</string>
+    <string msgid="1217609978878169061" name="nav_channel_list_title_packs">"Pachete –"</string>
+    <string msgid="3435097407068737744" name="nav_channel_list_type_favs">"Preferate"</string>
+    <string msgid="713004835192195038" name="nav_channel_new_channels">"Au fost găsite canale noi care au fost adăugate în lista de canale."</string>
+    <string msgid="5292674760045443656" name="nav_channel_no_audio">"Niciun conținut audio"</string>
+    <string msgid="8707542275819348335" name="nav_channel_retrieving">"Se preiau datele..."</string>
+    <string msgid="7081152459657498495" name="nav_channel_selection">"Selectarea listei de canale"</string>
+    <string msgid="367408450916090783" name="nav_channel_sources_title_string">"Sursele canalelor"</string>
+    <string msgid="9177381028485366425" name="nav_channel_video_scrambled">"Videoclip codificat"</string>
+    <string msgid="4815143002852141012" name="nav_ci_dns_text">"Ceva nu a mers bine. Accesați site-ul!"</string>
+    <string msgid="5383639720278755347" name="nav_conflict_source_toast">"Sursa intră în conflict cu sursa <ns1:g id="CONFLICTS">%s</ns1:g>!"</string>
+    <string msgid="6481409432739745356" name="nav_delete">"Ștergeți"</string>
+    <string msgid="1099353673572719034" name="nav_dialog_go_page">"Accesați canalul"</string>
+    <string msgid="9049343424723101309" name="nav_dialog_input_channel">"Introduceți numărul canalului:"</string>
+    <string msgid="4057770614821115856" name="nav_dialog_no_available">"Nu este disponibil"</string>
+    <string msgid="8145344817948499664" name="nav_epg_April">"Aprilie"</string>
+    <string msgid="326780788387758757" name="nav_epg_August">"August"</string>
+    <string msgid="878290796792074056" name="nav_epg_December">"Decembrie"</string>
+    <string msgid="8254919892260259823" name="nav_epg_February">"Februarie"</string>
+    <string msgid="3825317046745111285" name="nav_epg_Friday">"Vineri"</string>
+    <string msgid="6958561583226781835" name="nav_epg_January">"Ianuarie"</string>
+    <string msgid="7142740960448747031" name="nav_epg_July">"Iulie"</string>
+    <string msgid="8911826908826022098" name="nav_epg_June">"Iunie"</string>
+    <string msgid="7343064359703214822" name="nav_epg_March">"Martie"</string>
+    <string msgid="3565567303285876674" name="nav_epg_May">"Mai"</string>
+    <string msgid="969996435840031725" name="nav_epg_Monday">"Luni"</string>
+    <string msgid="8640654708843667157" name="nav_epg_November">"Noiembrie"</string>
+    <string msgid="8150183876804566043" name="nav_epg_October">"Octombrie"</string>
+    <string msgid="2286230218393646059" name="nav_epg_Saturday">"Sâmbătă"</string>
+    <string msgid="8307634148805832687" name="nav_epg_September">"Septembrie"</string>
+    <string msgid="8808578073829723099" name="nav_epg_Sunday">"Duminică"</string>
+    <string msgid="5472944470032659615" name="nav_epg_Thursday">"Joi"</string>
+    <string msgid="3646506390857345808" name="nav_epg_Tuesday">"Marți"</string>
+    <string msgid="7947487725306919118" name="nav_epg_Wednesday">"Miercuri"</string>
+    <string msgid="2630159311350270597" name="nav_epg_book_list">"Lista de evenimente rezervate"</string>
+    <string msgid="591922857604718278" name="nav_epg_book_program_coming_tip">"urmează, comutați la canal?"</string>
+    <string msgid="7361331741956827556" name="nav_epg_book_program_tip">"Rezervați acest program?"</string>
+    <string msgid="8675888537206947431" name="nav_epg_no_program_data">"(Nu există date despre program.)"</string>
+    <string msgid="2350918894053522934" name="nav_epg_no_program_detail">"(Nu există detalii despre program.)"</string>
+    <string msgid="3830058099413781902" name="nav_epg_no_program_title">"(Programul nu are titlu.)"</string>
+    <string msgid="8227107983496133464" name="nav_epg_no_title">"(Fără titlu)"</string>
+    <string msgid="6100488274899427539" name="nav_epg_not_rated">"Neevaluat"</string>
+    <string msgid="6264564394682202113" name="nav_epg_not_support">"Nu se acceptă"</string>
+    <string msgid="1421720457481076348" name="nav_epg_schedule">"Program"</string>
+    <string msgid="6465437649178270457" name="nav_epg_sub_type">"Subtip"</string>
+    <string msgid="8178656973753219626" name="nav_epg_type">"Tip"</string>
+    <string msgid="246000861326408008" name="nav_epg_unbook_program_tip">"Ați rezervat deja programul. Îl anulați?"</string>
+    <string msgid="5310604557008494360" name="nav_epg_unclassified">"Neclasificat"</string>
+    <string msgid="1246372268607241556" name="nav_epg_unlock">"Deblocați"</string>
+    <string msgid="2816528467979628243" name="nav_epg_unschedule">"Anulați programarea"</string>
+    <string msgid="4170843803038412946" name="nav_epg_zero_tip">"Lista de canale rezervate"</string>
+    <string msgid="2672205946282525690" name="nav_exit">"Lista de preferințe"</string>
+    <string msgid="1059045593510301629" name="nav_fav_list_move">"Mutați"</string>
+    <string msgid="5544785394685074068" name="nav_fav_move_down">"Mutați în jos"</string>
+    <string msgid="7635027935866366524" name="nav_fav_move_up">"Mutați în sus"</string>
+    <string msgid="177926793187779212" name="nav_fav_skip_flow">"Canalul este omis și operațiunea actuală nu este permisă."</string>
+    <string msgid="759713397693032080" name="nav_favourite_selection">"Selectarea listei de preferințe"</string>
+    <string msgid="1893172445136839503" name="nav_ginga_tv_for_infobar">"Aplicația Ginga se încarcă..."</string>
+    <string msgid="2350058975169490403" name="nav_ginga_tv_for_tips">"Doriți să opriți CC și să porniți aplicația Ginga?"</string>
+    <string msgid="3599403232886227504" name="nav_ginga_tv_message">"Nu există nicio aplicație!"</string>
+    <string msgid="1190205865791226140" name="nav_ginga_tv_title">"Lista de aplicații"</string>
+    <string msgid="1761740323940190763" name="nav_hidden_channel">"Canal ascuns"</string>
+    <string msgid="5259404886694911270" name="nav_input_has_locked">"Intrarea este blocată!"</string>
+    <string msgid="7097484280828194219" name="nav_list_satellite">"Lista de canale prin satelit"</string>
+    <string msgid="2374763601211492934" name="nav_local_or_regional">"locale sau regionale"</string>
+    <string msgid="1488845112444335210" name="nav_mheg5_tips">"SUBTITRAREA trebuie închisă înainte de a activa TEXTUL digital. Doriți să continuați?"</string>
+    <string msgid="585210386773818333" name="nav_movie">"film"</string>
+    <string msgid="5703823134403932882" name="nav_no_category">"Nicio categorie"</string>
+    <string msgid="2648028768044488333" name="nav_no_function">"Nicio funcție"</string>
+    <string msgid="6367428274317270544" name="nav_no_signal">"Fără semnal!"</string>
+    <string msgid="4211951000080501477" name="nav_no_support">"Fără asistență!"</string>
+    <string msgid="5561694487375138270" name="nav_not_supported">"nu se acceptă"</string>
+    <string msgid="3330063422869273430" name="nav_num_CH">"Canale <ns1:g id="MSG_NO_CHANNEL_ADDED">%1$s</ns1:g>"</string>
+    <string msgid="1437884667675036114" name="nav_oad_atuo_download_with_bgm">"A fost detectat un software nou!\nSunteți de acord cu descărcarea automată a software-ului când televizorul este în modul standby?"</string>
+    <string msgid="575331343673401409" name="nav_oad_auto_download_confirm">"Actualizare de software. Este disponibilă o nouă actualizare de software recomandată. Este posibil ca actualizarea să dureze și ca ecranul să se dezactiveze. Nu opriți televizorul în timpul actualizării. Doriți să actualizați acum? Procesul va începe automat în <ns1:g id="NAV_OAD_AUTO_DOWNLOAD">%s</ns1:g> secunde."</string>
+    <string msgid="7886426790561725864" name="nav_oad_dialog_title">"Descărcare over the air"</string>
+    <string msgid="7704252632696691146" name="nav_oad_downloading">"Se descarcă"</string>
+    <string msgid="8436439616432319259" name="nav_oad_downloading_info">"Procesul poate dura maximum 25 de minute"</string>
+    <string msgid="9005641290426065580" name="nav_oad_flash_confirm">"Software-ul a fost descărcat. Doriți să începeți actualizarea?"</string>
+    <string msgid="5810878089947893577" name="nav_oad_flash_fail">"Programarea nu a reușit. Încercați din nou?\n\nApelați centrul de service."</string>
+    <string msgid="2156547052157466619" name="nav_oad_latest_version_already">"Sistemul dvs. este actualizat."</string>
+    <string msgid="2696288320604118343" name="nav_oad_manual_download_confirm">"Actualizare de software. Este disponibilă o nouă actualizare de software recomandată. Este posibil ca actualizarea să dureze și ca ecranul să se dezactiveze. Nu opriți televizorul în timpul actualizării. Doriți să actualizați acum?"</string>
+    <string msgid="6744258775934844120" name="nav_oad_manual_download_fail">"Software-ul nu poate fi descărcat. Doriți să încercați din nou?"</string>
+    <string msgid="7797666180604743461" name="nav_oad_programming">"Programare"</string>
+    <string msgid="4544167256333729358" name="nav_oad_progress">"Progres: <ns1:g id="OAD_PROPGRESS">%1$s %%</ns1:g>"</string>
+    <string msgid="3572563769792982424" name="nav_oad_restart_confirm">"Software-ul a fost descărcat! Reporniți televizorul acum?"</string>
+    <string msgid="1604402042149950254" name="nav_oad_scanning">"Se scanează"</string>
+    <string msgid="3646282039113187291" name="nav_oad_scanning_result_fail">"Nu s-a putut găsi un software nou over the air."</string>
+    <string msgid="3811421261290979294" name="nav_oad_schedule_oad_accept_schedule_confirm">"Actualizare de software. O nouă actualizare de software recomandată va fi disponibilă la <ns1:g id="ACCEPT_SCHEDULE">%s</ns1:g>. Este posibil ca actualizarea să dureze și ca ecranul să se dezactiveze. Nu opriți receptorul în timpul actualizării. Dacă acceptați actualizarea, lăsați televizorul aprins sau în modul standby la ora programată. Acceptați actualizarea?"</string>
+    <string msgid="5861191929380008667" name="nav_oad_schedule_oad_change_channel_confirm">"Actualizare de software. Este posibil ca pe un alt canal să fie disponibilă o nouă actualizare de software recomandată. Dacă sunteți de acord să o descărcați, schimbarea canalului se poate face automat. Doriți să o descărcați acum? Va începe în <ns1:g id="AUTOMATICALLY">%s</ns1:g> sec."</string>
+    <string msgid="2980413146743195968" name="nav_oad_warning_msg_str">"Avertisment: nu deconectați cablul de alimentare al televizorului pe durata procesului, deoarece aceasta poate duce la defectarea televizorului."</string>
+    <string msgid="8785354636981485708" name="nav_page_down">"O pagină mai jos"</string>
+    <string msgid="3270051581100408370" name="nav_page_up">"O pagină mai sus"</string>
+    <string msgid="308348470614629015" name="nav_parent_dvbs_hint">"Ați introdus o parolă greșită de trei ori!\nAșteptați aproximativ 15 minute..."</string>
+    <string msgid="46198784024271122" name="nav_parent_psw">"Introduceți parola"</string>
+    <string msgid="1525620521477162152" name="nav_parent_wrong_psw">"Parolă greșită. Introduceți-o din nou!"</string>
+    <string msgid="1804434214124447939" name="nav_percent_sign">"<ns1:g id="NAV_PERCENT_SIGN_VALUE">%1$d</ns1:g>%%"</string>
+    <string msgid="7900614697578947188" name="nav_plano_stereoscopic">"plano-stereoscopice"</string>
+    <string msgid="3487093583724429407" name="nav_please_scan_channels">"Scanați canalele!"</string>
+    <string msgid="6948099854934642276" name="nav_program_has_locked">"Programul este blocat!"</string>
+    <string msgid="3552956286008541271" name="nav_resolution_null">"Niciun videoclip"</string>
+    <string msgid="7295892735269658347" name="nav_satellite_list">"Selectați Satelit"</string>
+    <string msgid="990203763701782141" name="nav_select">"Selectați"</string>
+    <string msgid="1430232488103132351" name="nav_select_find">"Căutați"</string>
+    <string msgid="4955181758886475830" name="nav_select_find_no_channel">"Nu au fost găsite canale."</string>
+    <string msgid="4496521336500791773" name="nav_select_find_text">"Introduceți numărul sau numele canalului."</string>
+    <string msgid="1027121931380049166" name="nav_select_list">"Selectați lista"</string>
+    <string msgid="8780703315157174233" name="nav_select_list_cn">"Selectați"</string>
+    <string msgid="3349417212025190988" name="nav_select_more">"Selectați Mai multe"</string>
+    <string msgid="6508271100062731920" name="nav_select_sort">"Sortați"</string>
+    <string msgid="8581827442683448193" name="nav_select_sort_default">"Prestabilit"</string>
+    <string msgid="1594866560728134004" name="nav_select_sort_encrypted">"Criptate"</string>
+    <string msgid="6921153400093046784" name="nav_select_sort_namedown">"Nume de la Z la A"</string>
+    <string msgid="5580908348787749506" name="nav_select_sort_nameup">"Nume de la A la Z"</string>
+    <string msgid="9076713592287522086" name="nav_select_type">"Selectați tipul"</string>
+    <string msgid="2592457661994643123" name="nav_select_type_analogue">"Analogic"</string>
+    <string msgid="2256433531995539017" name="nav_select_type_broadcast">"Transmisie"</string>
+    <string msgid="131884890129452289" name="nav_select_type_categories">"Categorii"</string>
+    <string msgid="7079139882636642651" name="nav_select_type_digital">"Digital"</string>
+    <string msgid="3947438160597205615" name="nav_select_type_encrypted">"Criptat"</string>
+    <string msgid="4515366205034945174" name="nav_select_type_fav">"Preferate"</string>
+    <string msgid="4236873277834252882" name="nav_select_type_free">"Gratuit"</string>
+    <string msgid="7350628433970151756" name="nav_select_type_network">"Rețea"</string>
+    <string msgid="4606980815353766703" name="nav_select_type_no_channel">"Nu există canale de acest tip. Selectați alte tipuri."</string>
+    <string msgid="6781847657898029815" name="nav_select_type_packs">"Pachete"</string>
+    <string msgid="2544353653799094620" name="nav_select_type_radio">"Radio"</string>
+    <string msgid="3566331474323594407" name="nav_sleep__off">"Modul inactiv: dezactivat"</string>
+    <string msgid="1273142476991172762" name="nav_sleep_label">"Modul inactiv:"</string>
+    <string msgid="7071964790067590983" name="nav_sleep_min">"Mod inactiv: <ns1:g id="NAV_SLEEP_TIME">%d</ns1:g> minute"</string>
+    <string msgid="3683886457066438960" name="nav_sleep_minutes">"Minute"</string>
+    <string msgid="8552794208521851300" name="nav_sleep_off">"Dezactivat"</string>
+    <string msgid="6199547169049414230" name="nav_source_atv">"ATV"</string>
+    <string msgid="5152302644958567371" name="nav_source_dtv">"DTV"</string>
+    <string msgid="2932465973368848409" name="nav_source_main_title">"Intrări"</string>
+    <string msgid="3984145309082960750" name="nav_source_sub_title">"Fereastră secundară"</string>
+    <string msgid="7937093959037218994" name="nav_ttx_favorite_list">"Lista de pagini preferate"</string>
+    <string msgid="4965343578621302243" name="nav_ttx_no_top">"Fără partea de sus"</string>
+    <string msgid="1849434056018291267" name="nav_ttx_top_block">"BLOC"</string>
+    <string msgid="9049629479556534806" name="nav_ttx_top_group">"GRUP"</string>
+    <string msgid="6221648624822109190" name="nav_ttx_top_page">"PAGINĂ"</string>
+    <string msgid="6769591863518754361" name="nav_uk_EDUCATION">"Educație"</string>
+    <string msgid="8189882236519482485" name="nav_uk_NEWS">"Știri și realitate"</string>
+    <string msgid="4595599306746256896" name="nav_uk_category_Lifestyle_Leisure_hobbies">"Stil de viață / hobby-uri și timp liber"</string>
+    <string msgid="5030403358718427171" name="nav_uk_channellist_add_fav">"Adăugați canale preferate"</string>
+    <string msgid="8496350159150880462" name="nav_uk_channellist_player">"Jucători"</string>
+    <string msgid="219791164528735785" name="nav_uk_channellist_remove_fav">"Eliminați canale preferate"</string>
+    <string msgid="7303511441302991257" name="nav_uk_channellist_type_fav">"Preferate"</string>
+    <string msgid="5986175772967350438" name="nav_uk_channellist_type_hd">"Canale HD"</string>
+    <string msgid="2219677295274235253" name="nav_uk_channellist_type_interactive">"Canale interactive"</string>
+    <string msgid="3901748556238195401" name="nav_uk_channellist_type_ipapp">"Canale de aplicație IP"</string>
+    <string msgid="4852246670688130011" name="nav_uk_channellist_type_ipapp_ip_channel">"Canale IP"</string>
+    <string msgid="3039380889608556576" name="nav_uk_channellist_type_radio">"Posturi de radio"</string>
+    <string msgid="418747611250263057" name="nav_unknown_audio">"Tip de conținut audio necunoscut"</string>
+    <string msgid="1960427620589764744" name="nav_unknown_audio_sundry">"Necunoscut"</string>
+    <string msgid="6851427853792848474" name="nav_unknown_stereo">"Tip stereo necunoscut"</string>
+    <string msgid="7378640345883431032" name="nav_upgrader_MoreInfo">"Mai multe informații."</string>
+    <string msgid="68677685977452446" name="nav_upgrader_check_fail">"Nu s-a putut verifica noua versiune de firmware."</string>
+    <string msgid="1433605412771472680" name="nav_upgrader_completed">"Firmware-ul s-a actualizat.\nReporniți televizorul pentru a activa noul firmware."</string>
+    <string msgid="185592686475555093" name="nav_upgrader_confirm">"Sigur actualizați firmware-ul?"</string>
+    <string msgid="6277453313226388182" name="nav_upgrader_decry_fail">"Decriptarea a eșuat."</string>
+    <string msgid="2568138728137239753" name="nav_upgrader_download_fail">"Nu s-a descărcat firmware-ul din rețea."</string>
+    <string msgid="2054272664938450834" name="nav_upgrader_failed">"Nu s-a actualizat.\nReporniți televizorul pentru a descărca din nou firmware-ul."</string>
+    <string msgid="217630650334359123" name="nav_upgrader_firmware_invalid">"Firmware-ul nu este valid."</string>
+    <string msgid="4389691957216704028" name="nav_upgrader_internal_err">"Eroare internă."</string>
+    <string msgid="1502059087895454643" name="nav_upgrader_invalid">"Fișierul imagine pentru firmware este nevalid!"</string>
+    <string msgid="7871307630536776066" name="nav_upgrader_no_update">"Nu există niciun firmware disponibil pentru actualizare."</string>
+    <string msgid="3579172277955128322" name="nav_upgrader_not_avail_firmware">"Nu este disponibilă nicio versiune de firmware."</string>
+    <string msgid="2148803173276888193" name="nav_upgrader_power">"Alimentare"</string>
+    <string msgid="4322711666412270344" name="nav_upgrader_retry">"Nu s-a actualizat.\nDoriți să încercați din nou?"</string>
+    <string msgid="8339244791652128051" name="nav_upgrader_retry2">"Nu s-a actualizat. Introduceți unitatea USB.\nDoriți să încercați din nou?"</string>
+    <string msgid="2584420305904044750" name="nav_upgrader_title">"Se actualizează asistentul"</string>
+    <string msgid="9104450900608728584" name="nav_upgrader_updating">"Se actualizează..."</string>
+    <string msgid="5391382330036796702" name="nav_upgrader_usb_not_ready">"Cheia hardware USB nu este gata, conectați-o și încercați din nou."</string>
+    <string msgid="8543029645051862073" name="nav_upgrader_usb_problem">"A apărut o problemă cu cheia hardware USB."</string>
+    <string msgid="7664091580717615400" name="nav_upgrader_usb_space_not_enough">"Nu există suficient spațiu pe cheia hardware USB."</string>
+    <string msgid="4761068359114556988" name="nav_upgrader_validate">"Se validează firmware-ul..."</string>
+    <string msgid="8436059139284528381" name="nav_upgrader_warnning">"NU deconectați cheia hardware USB și NU închideți televizorul în timpul actualizării firmware-ului!"</string>
+    <string msgid="8985415486230287339" name="nav_volume_main">"Volum principal"</string>
+    <string msgid="385809644281808411" name="nav_zoom_x1">"Zoom X 1"</string>
+    <string msgid="6011779723156123987" name="nav_zoom_x1_2">"Zoom X 1/2"</string>
+    <string msgid="2720215545960741306" name="nav_zoom_x2">"Zoom X 2"</string>
+    <string msgid="6176108713668500983" name="network_not_avaiable">"Rețea indisponibilă"</string>
+    <string msgid="2620718003929766549" name="no_program_information">"Nu există informații despre program"</string>
+    <string msgid="2138706123507764923" name="no_support_epg">"EPG nu este acceptat!"</string>
+    <string msgid="2564706635374985520" name="not_enough_space">"Nu există spațiu suficient. Trebuie să existe cel puțin 1 GB de spațiu liber pe disc."</string>
+    <string msgid="4949105063973409628" name="not_support_fb">"Derularea înapoi nu este acceptată"</string>
+    <string msgid="4915685677306383736" name="not_support_ff">"Derularea rapidă înainte nu este acceptată"</string>
+    <string msgid="2945606375091157535" name="not_support_ff_fb">"Derularea înainte și înapoi nu sunt acceptate"</string>
+    <string msgid="2577844873443781633" name="oad_channel_jump_title">"Reglați canalul cu OAD"</string>
+    <string msgid="3047029303285767785" name="oad_download_bgm_title">"Descărcați cu BGM"</string>
+    <string msgid="4877708338250766856" name="oad_downloading_title">"Se descarcă"</string>
+    <string msgid="7192443817118007645" name="oad_flash_failed_title">"Nu s-a făcut upgrade"</string>
+    <string msgid="2410275374412762890" name="oad_linkage_found">"S-a detectat conectarea OAD. Doriți să reglați canalul?"</string>
+    <string msgid="6948481951924283977" name="oad_restart_to_proceed_title">"Reporniți pentru a instala"</string>
+    <string msgid="7014087140650340990" name="oad_scan_failed_description">"Nu s-a scanat. Doriți să încercați din nou?"</string>
+    <string msgid="4968696677300239126" name="oad_scanning_tip">"Scanarea OAD poate dura un timp"</string>
+    <string msgid="1737670690057789082" name="oad_schedule_title">"Programul OAD"</string>
+    <string msgid="4850983469749879770" name="one_key_ch_last">"CH -"</string>
+    <string msgid="209588048760330201" name="one_key_ch_next">"CH +"</string>
+    <string msgid="4009784748638794309" name="one_key_power_off">"Alimentare"</string>
+    <string msgid="79156765527125949" name="one_key_powered_off">"Opriți"</string>
+    <string msgid="6554721728000374639" name="one_key_source_control">"Sursă"</string>
+    <string msgid="8730424095805619277" name="one_key_title">"Meniul cu taste funcționale"</string>
+    <string msgid="2022523121682095052" name="one_key_volume_decrease">"Vol. -"</string>
+    <string msgid="8173734395735427399" name="one_key_volume_increase">"Vol. +"</string>
+    <string msgid="5859306912976445887" name="option_attribution">"Surse pentru descrierile evaluărilor"</string>
+    <string msgid="919063147302651327" name="option_block_unrated_programs">"Blocați programele neevaluate"</string>
+    <string msgid="1933418586775188460" name="option_change_pin">"Schimbați PIN-ul"</string>
+    <string msgid="1308860815117282408" name="option_channels_lock_all">"Blocați-le pe toate"</string>
+    <string msgid="4278553646650920903" name="option_channels_locked">"Canale blocate"</string>
+    <string msgid="8525566190972924859" name="option_channels_skip_all">"Omiteți-le pe toate"</string>
+    <string msgid="7577132153514645863" name="option_channels_subheader_hidden">"Canale ascunse"</string>
+    <string msgid="8863189264168651216" name="option_channels_unlock_all">"Deblocați toate"</string>
+    <string msgid="2008840585521526440" name="option_channels_unskip_all">"Anulați omiterea"</string>
+    <string msgid="1392413757942636834" name="option_country_rating_systems">"Sisteme de evaluare"</string>
+    <string msgid="5018552805474427630" name="option_inputs_locked">"Intrări blocate"</string>
+    <string msgid="4556667077460286621" name="option_item_source">"Sursă"</string>
+    <string msgid="893654855305492748" name="option_no_locked_channel">"Niciunul"</string>
+    <string msgid="2858973210829446465" name="option_program_open_vchip">"Setare RRT5"</string>
+    <string msgid="4040225166560427264" name="option_program_restrictions">"Restricții pentru program"</string>
+    <string msgid="7979151968299060057" name="option_rating_custom">"Personalizat"</string>
+    <string msgid="5626098292379342615" name="option_rating_custom_description">"Restricții manuale"</string>
+    <string msgid="4823561495527911126" name="option_rating_high">"Restricții majore"</string>
+    <string msgid="2263330370930290830" name="option_rating_high_description">"Conținut potrivit pentru copii"</string>
+    <string msgid="6799595596891724805" name="option_rating_low">"Restricții minore"</string>
+    <string msgid="6998332910682382011" name="option_rating_low_description">"Conținut potrivit pentru adolescenți"</string>
+    <string msgid="1315066690064706951" name="option_rating_medium">"Restricții medii"</string>
+    <string msgid="5208544963533615943" name="option_rating_medium_description">"Conținut adecvat pentru copii mai mari"</string>
+    <string msgid="2660806052790302617" name="option_ratings">"Evaluări"</string>
+    <string msgid="4730040709343309680" name="option_ratings_age">"Evaluări în funcție de vârstă"</string>
+    <string msgid="2743117466268053677" name="option_ratings_content">"Evaluări de conținut"</string>
+    <string msgid="6201049705170695880" name="option_see_all_rating_systems">"Afișați toate sistemele de evaluare"</string>
+    <string msgid="8076550601405699796" name="option_subrating_header">"Clasificări secundare"</string>
+    <string msgid="8895683546288375781" name="option_subrating_title">"<ns1:g id="OPTION_SUBRATING">%1$s</ns1:g> și clasificări secundare"</string>
+    <string msgid="1676835230755231708" name="options_item_add_to_favorite_normal">"Adăugați la Preferințe"</string>
+    <string msgid="1544428407279964983" name="options_item_add_to_favorite_selected">"Preferințe"</string>
+    <string msgid="5853195639158707605" name="options_item_closed_caption">"Subtitrări"</string>
+    <string msgid="7841703877115700888" name="options_item_display_mode">"Mod de afișare"</string>
+    <string msgid="8072740194649321532" name="options_item_more_channels">"Obțineți mai multe canale"</string>
+    <string msgid="1114519104794016159" name="options_item_my_fav_edit">"Editați"</string>
+    <string msgid="5810386866875884047" name="options_item_picture_style">"Modul fotografie"</string>
+    <string msgid="1453090179989181072" name="options_item_settings">"Setări"</string>
+    <string msgid="122267496452408739" name="options_item_sounds_style">"Stilul sunetului"</string>
+    <string msgid="713533890590523853" name="options_item_speakers">"Difuzoare"</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"Acțiunea de căutare"</string>
+    <string msgid="4596971851245610516" name="other_countries">"Alte țări"</string>
+    <string msgid="5916835708420351938" name="pager_left">"Pagina anterioară"</string>
+    <string msgid="4968062902568815399" name="pager_mid">"Ștergeți"</string>
+    <string msgid="7603224449754953394" name="pager_right">"Pagina următoare"</string>
+    <string msgid="7370943383274566757" name="parental_open_vchip_dim">"RRT5 Dim"</string>
+    <string msgid="2714124932028883408" name="parental_open_vchip_level">"Nivel RRT5"</string>
+    <string msgid="1033206366441155458" name="parental_open_vchip_region">"Setare RRT5"</string>
+    <string msgid="1524137500002115214" name="parental_rrt5_reset">"Resetați RRT5"</string>
+    <string msgid="5659508326927657540" name="pin_enter_again">"Confirmați codul PIN"</string>
+    <string msgid="6301919043650037174" name="pin_enter_create_pin">"Pentru a seta controlul parental, creați un cod PIN"</string>
+    <string msgid="4029016259168851554" name="pin_enter_new_pin">"Introduceți noul PIN"</string>
+    <string msgid="616711077575827250" name="pin_enter_old_pin">"Introduceți codul PIN actual"</string>
+    <string msgid="3413604816599667866" name="pin_enter_pin">"Introduceți codul PIN"</string>
+    <string msgid="3985838512650380181" name="pin_enter_unlock_channel">"Introduceți codul PIN pentru a viziona acest canal"</string>
+    <string msgid="5027150578792028257" name="pin_enter_unlock_dvr">"Acest program este evaluat cu <ns1:g id="RATING">%1$s</ns1:g>. Pentru a viziona programul, introduceți codul PIN"</string>
+    <string msgid="1457727956598351054" name="pin_enter_unlock_dvr_unrated">"Acest program nu este evaluat. Introduceți codul PIN pentru a-l viziona"</string>
+    <string msgid="4241029038098662965" name="pin_enter_unlock_program">"Introduceți codul PIN pt. a viziona acest program"</string>
+    <string msgid="2549043675305454893" name="pin_toast_not_match">"Încercați din nou. Codul PIN nu se potrivește"</string>
+    <string msgid="7295547708747589572" name="pin_toast_wrong">"Codul PIN a fost greșit. Încercați din nou."</string>
+    <string msgid="4986405808790790433" name="power_on_off_time_same">"Temporizatoarele nu pot fi identice. Resetați-le."</string>
+    <string msgid="6467202054236523688" name="pro_disk_remove">"Dispozitive inexistente sau indisponibile. Încercați mai târziu!"</string>
+    <string msgid="6329568671163429699" name="pro_input_lock">"Intrarea este blocată!"</string>
+    <string msgid="8983754404763649181" name="pro_internal_error">"Eroare internă!"</string>
+    <string msgid="1640001084557796517" name="pro_none_tv_source">"PVR nu a pornit. Mai întâi comutați la sursa TV digitală!"</string>
+    <string msgid="7362200187733688632" name="pro_pip_running">"PVR nu a pornit. Mai întâi închideți PIP!"</string>
+    <string msgid="6520366875348857107" name="pro_pvr_running">"Decalarea temporală nu este disponibilă. Mai întâi închideți PVR!"</string>
+    <string msgid="317426771654592603" name="pro_signal_loss">"PVR nu a pornit. Fără semnal!"</string>
+    <string msgid="1518360166410122547" name="pro_stream_not_authorized">"Streamul nu este autorizat!"</string>
+    <string msgid="6945804649462258510" name="pro_stream_not_available">"Streamul AV nu este disponibil!"</string>
+    <string msgid="8744947546295367404" name="pro_time_shift_disk_not_ready">"Discul nu este pregătit!"</string>
+    <string msgid="299292333603331577" name="pro_tshift_running">"PVR nu a pornit. Decalarea temporală rulează!"</string>
+    <string msgid="8338964372355276797" name="pro_video_resolution_error">"Eroare legată de rezoluția videoclipului!"</string>
+    <string msgid="4637995776353107319" name="program_title_with_episode_number">"<ns1:g id="PROGRAMNAME">%1$s</ns1:g>, Sezonul <ns1:g id="SEASONNUMBER">%2$s</ns1:g>, Episodul <ns1:g id="EPISODENUMBER">%3$s</ns1:g>"</string>
+    <string msgid="1743483596922267494" name="pvr_confirm_no">"Nu"</string>
+    <string msgid="1960977629850737637" name="pvr_confirm_yes">"Da"</string>
+    <string msgid="732207163687513098" name="pvr_deviceinfo_format">"Formatați"</string>
+    <string msgid="8686619785147159232" name="pvr_deviceinfo_info">"Informații"</string>
+    <string msgid="1812035881698409659" name="pvr_deviceinfo_set_pvr">"Setați PVR"</string>
+    <string msgid="638982818771137638" name="pvr_deviceinfo_set_timeshift">"Setați decalarea temporală"</string>
+    <string msgid="1705696933436508819" name="pvr_deviceinfo_speed_test">"Test de viteză"</string>
+    <string msgid="473183767606082352" name="pvr_dialog_Loadding">"Se încarcă"</string>
+    <string msgid="3411787444556554562" name="pvr_dialog_formatting">"Formatare"</string>
+    <string msgid="6695036643563889270" name="pvr_disk_ispvr_pvr_tshift">"PVR/Decalare temporală"</string>
+    <string msgid="8895833207517205045" name="pvr_disk_no_name">"Fără nume"</string>
+    <string msgid="5047713114089933131" name="pvr_disksetup_disk_setup">"Configurația discului"</string>
+    <string msgid="2027643471229072718" name="pvr_disksetup_select">"Selectați"</string>
+    <string msgid="286512503027071771" name="pvr_file_list_no_eit">"Înregistrare parțială deoarece nu există EIT!"</string>
+    <string msgid="5063609682989327692" name="pvr_file_list_no_eit_singal_loss">"Înregistrare parțială deoarece nu există EIT și s-a pierdut semnalul!"</string>
+    <string msgid="3168384973802632224" name="pvr_file_list_singal_loss">"Înregistrare parțială deoarece s-a pierdut semnalul!"</string>
+    <string msgid="3971729435570427497" name="pvr_file_list_specia_toast">"O parte din înregistrare s-a salvat. S-a oprit alimentarea în timpul înregistrării."</string>
+    <string msgid="2700249281983575436" name="pvr_playlist_channel_name">"Numele canalului"</string>
+    <string msgid="7441439086772670454" name="pvr_playlist_channel_num">"Numărul canalului"</string>
+    <string msgid="5088425874562384948" name="pvr_playlist_date">"Data"</string>
+    <string msgid="8154163383737436183" name="pvr_playlist_duration">"Durată"</string>
+    <string msgid="2832544805028365267" name="pvr_playlist_info">"Informații"</string>
+    <string msgid="462603358423284402" name="pvr_playlist_page_down">"O pagină mai jos"</string>
+    <string msgid="7872028984404843967" name="pvr_playlist_page_up">"O pagină mai sus"</string>
+    <string msgid="7787340288465263048" name="pvr_playlist_program_name">"Numele fișierului"</string>
+    <string msgid="7464433327310697729" name="pvr_playlist_programe_info">"Informații despre program"</string>
+    <string msgid="6676719393966953458" name="pvr_playlist_record_detail">"Detaliile înregistrării"</string>
+    <string msgid="6385411317725709030" name="pvr_playlist_record_list">"Listă de înregistrări"</string>
+    <string msgid="7665349581842466301" name="pvr_playlist_time">"Oră"</string>
+    <string msgid="3866986988910255809" name="pvr_playlist_week">"Săptămână"</string>
+    <string msgid="2667946459618756921" name="pvr_running_warning_msg">"PVR rulează sau un fișier PVR se redă.\nOpriți-l, apoi încercați din nou!"</string>
+    <string msgid="2572035665912933037" name="pvr_save_record">"Opriți PVR și salvați înregistrarea."</string>
+    <string msgid="6110852830700398259" name="pvr_schedule_add">"Adăugați"</string>
+    <string msgid="3135146425081661396" name="pvr_schedule_cancel">"Anulați"</string>
+    <string msgid="6869378196887302864" name="pvr_schedule_edit">"Editați"</string>
+    <string msgid="2077309687182548451" name="pvr_schedule_max_schedule_error">"Adăugarea solicitată a programului depășește maximul permis!"</string>
+    <string msgid="7896175252425269525" name="pvr_schedule_ok">"OK"</string>
+    <string msgid="5856456294154475187" name="pvr_schedule_replace">"Înlocuiți"</string>
+    <string msgid="6133534846130873072" name="pvr_schedule_time_error">"Eroare privind ora de începere; ora este acum înaintea datei actuale!"</string>
+    <string msgid="3584652870083785079" name="pvr_schedulelist_delete_line1">"Ștergeți programul!"</string>
+    <string msgid="1095814224051622093" name="pvr_schedulelist_delete_line2">"Doriți să ștergeți aceste programe?"</string>
+    <string msgid="1964336334167319443" name="pvr_schedulelist_replace_line1">"Programele se suprapun!"</string>
+    <string msgid="3784414124800559080" name="pvr_schedulelist_replace_line2">"Doriți să înlocuiți aceste programe?"</string>
+    <string msgid="5117651242858869047" name="pvr_schedulepvr_add_schedule">"Adăugați un program"</string>
+    <string msgid="3263076279672391726" name="pvr_schedulepvr_record">"Înregistrare"</string>
+    <string msgid="319347236544867326" name="pvr_schedulepvr_schedule_list">"Listă de programe"</string>
+    <string msgid="7027839432116753202" name="pvr_schedulepvr_schedule_list2">"Listă de programe"</string>
+    <string msgid="2575698815926464983" name="pvr_schedulepvr_selected">"Selectat"</string>
+    <string msgid="5040919860922460694" name="pvr_schedulepvr_week">"Săptămână"</string>
+    <string msgid="5062139540953124754" name="pvr_title_device_info">"Informații despre dispozitiv"</string>
+    <string msgid="2905842702207528862" name="pvrplay_file_deficiency">"Deficiență privind lungimea fișierului!"</string>
+    <string msgid="3930030730202531332" name="rating_not_defined">"Nu s-a definit"</string>
+    <string msgid="8052768659911065234" name="rating_schedule_block">"Blocați"</string>
+    <string msgid="90379047922234847" name="rating_schedule_off">"Dezactivat"</string>
+    <string msgid="2286124473198629391" name="rating_years">"Ani"</string>
+    <string msgid="6436447919555650534" name="recording_formate_msg">"Formatarea discului nu a reușit. Se înregistrează!"</string>
+    <string msgid="2437056584091944552" name="satellites">"Sateliți"</string>
+    <string msgid="4703140098131614774" name="scan_exit_tip">"Apăsați [înapoi/ieșiți] pentru a ieși din pagina de scanare."</string>
+    <string msgid="4432949124051604385" name="scan_trd_fav_network">"Selectați rețeaua preferată:"</string>
+    <string msgid="8248507858900319578" name="scan_trd_lcn_CONFLICT_CHANL_NUM">"Număr de canal conflictual:"</string>
+    <string msgid="2886988137950355383" name="scan_trd_lcn_CONFLICT_INDEX">"Index de grup conflictual:"</string>
+    <string msgid="5499850751634484897" name="scan_trd_lcn_CONFLICT_USE_DEFAULT">"Folosiți setarea prestabilită pentru toate"</string>
+    <string msgid="6777686697506190937" name="scan_trd_lcnv2_title">"Selectați lista de canale:"</string>
+    <string msgid="7007913898492887551" name="scan_trd_pt_save_channel">"Salvați rezultatele căutării?"</string>
+    <string msgid="7414490297579669812" name="scan_trd_turkey_tkgs_update_scan">"Lista de canale a fost deja actualizată.\n Doriți să continuați descărcarea?"</string>
+    <string msgid="7057836872283539861" name="scan_trd_uk_reg_reg_nodefine">"Nu s-a specificat nimic"</string>
+    <string msgid="7011732649786693105" name="scan_trd_uk_reg_reg_x">"Regiunea <ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>"</string>
+    <string msgid="2002648253057830525" name="scan_way">"Selectați modul de scanare"</string>
+    <string msgid="7033470766507631908" name="schedule_pvr_channel_num">"Informațiile canalului"</string>
+    <string msgid="2405300786656196134" name="schedule_pvr_reminder_type">"Tipul planificării"</string>
+    <string msgid="769903071861617735" name="schedule_pvr_repeat_type">"Tipul repetării"</string>
+    <string msgid="7227298346850974232" name="schedule_pvr_srctype">"Tipul de sursă"</string>
+    <string msgid="5682115056414411309" name="schedule_pvr_start_date">"Dată de începere"</string>
+    <string msgid="5399050783975179444" name="schedule_pvr_start_time">"Ora de începere"</string>
+    <string msgid="2057408639553834766" name="schedule_pvr_stop_time">"Ora opririi"</string>
+    <string msgid="1102370370491303160" name="schedulelist_nofiles">"Nu există niciun program înregistrat! Apăsați tasta Înregistrați pentru a adăuga unul."</string>
+    <string msgid="188335947614278738" name="schedulelist_nofiles_disable_add">"Nu există niciun program înregistrat!"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Căutați"</string>
+    <string msgid="6982631071764474437" name="select_channel_title">"Selectați lista de canale"</string>
+    <string msgid="8452853862535028462" name="select_region_detail_title">"Selectați regiunea pentru <ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>"</string>
+    <string msgid="6909113383906775952" name="select_region_title">"Selectați regiunea"</string>
+    <string msgid="4653062046959284678" name="selected">"Selectat"</string>
+    <string msgid="3192336140991154148" name="settings_menu_licenses">"Licențe open source"</string>
+    <string msgid="3837780715001543416" name="setup_back">"Înapoi"</string>
+    <string msgid="688699805047968989" name="setup_cable_select_operation">"Selectați un operator"</string>
+    <string msgid="3046886112072318375" name="setup_cable_setting_title">"Configurați informațiile despre cablu."</string>
+    <string msgid="5890077326704095589" name="setup_category_done">"Surse"</string>
+    <string msgid="6994855730807922321" name="setup_category_new">"Noi"</string>
+    <string msgid="629173256579318536" name="setup_country">"Țară"</string>
+    <string msgid="6895556328920770170" name="setup_country_cty_1">"Austria"</string>
+    <string msgid="3056297609456613005" name="setup_country_cty_10">"Regatul Unit"</string>
+    <string msgid="4886485417104780550" name="setup_country_cty_11">"Italia"</string>
+    <string msgid="2664156860205384207" name="setup_country_cty_12">"Luxemburg"</string>
+    <string msgid="362195204633077934" name="setup_country_cty_13">"Țările de Jos"</string>
+    <string msgid="4958582868096425639" name="setup_country_cty_14">"Norvegia"</string>
+    <string msgid="1646322127343084018" name="setup_country_cty_15">"Suedia"</string>
+    <string msgid="8041191922706061880" name="setup_country_cty_16">"Bulgaria"</string>
+    <string msgid="8287793660007172956" name="setup_country_cty_17">"Croația"</string>
+    <string msgid="3342594133100842340" name="setup_country_cty_18">"Grecia"</string>
+    <string msgid="6887153920694730657" name="setup_country_cty_19">"Ungaria"</string>
+    <string msgid="2803937035365082471" name="setup_country_cty_2">"Belgia"</string>
+    <string msgid="3927879336029866856" name="setup_country_cty_20">"Irlanda"</string>
+    <string msgid="83779937097370574" name="setup_country_cty_21">"Polonia"</string>
+    <string msgid="413264530388355855" name="setup_country_cty_22">"Portugalia"</string>
+    <string msgid="6819226363331994829" name="setup_country_cty_23">"România"</string>
+    <string msgid="5352514055951286995" name="setup_country_cty_24">"Rusia"</string>
+    <string msgid="305619576638207540" name="setup_country_cty_25">"Serbia"</string>
+    <string msgid="1534705148291674933" name="setup_country_cty_26">"Slovacia"</string>
+    <string msgid="6357379183553936835" name="setup_country_cty_27">"Slovenia"</string>
+    <string msgid="9100572966992266131" name="setup_country_cty_28">"Turcia"</string>
+    <string msgid="5725492303681548415" name="setup_country_cty_29">"Estonia"</string>
+    <string msgid="6540541202129861400" name="setup_country_cty_3">"Elveția"</string>
+    <string msgid="6813760029259647258" name="setup_country_cty_30">"Australia"</string>
+    <string msgid="90824140511863915" name="setup_country_cty_31">"Noua Zeelandă"</string>
+    <string msgid="3334442635649234712" name="setup_country_cty_32">"Indonezia"</string>
+    <string msgid="6081164770807313636" name="setup_country_cty_4">"Republica Cehă"</string>
+    <string msgid="5026555588176089149" name="setup_country_cty_5">"Germania"</string>
+    <string msgid="7104231423165151711" name="setup_country_cty_6">"Danemarca"</string>
+    <string msgid="1418014150397903839" name="setup_country_cty_7">"Spania"</string>
+    <string msgid="5994370917125174600" name="setup_country_cty_8">"Finlanda"</string>
+    <string msgid="922526384418070923" name="setup_country_cty_9">"Franța"</string>
+    <string msgid="4280149641479169806" name="setup_dvbc_config_frequency">"Frecvență (KHz)"</string>
+    <string msgid="5423558599892759094" name="setup_dvbc_config_modulation">"Modulație"</string>
+    <string msgid="3521583765915663578" name="setup_dvbc_config_networkid">"Cod de rețea"</string>
+    <string msgid="5698976511626122153" name="setup_dvbc_config_scanmode">"Modul de scanare"</string>
+    <string msgid="2667479134977248624" name="setup_dvbc_config_symbolrate">"Viteza de transmisie (Ksym/s)"</string>
+    <string msgid="205937058253974527" name="setup_dvbc_setting">"Configurați informațiile despre cablu."</string>
+    <string msgid="7127970425088180426" name="setup_dvbs_config_info_title">"Configurați informațiile despre scanare."</string>
+    <string msgid="2064992804597231981" name="setup_dvbs_config_setting_title">"Setați configurația tipului de antenă."</string>
+    <string msgid="803120765751219932" name="setup_dvbs_satellite_config">"Configurarea antenei"</string>
+    <string msgid="7266127057913994977" name="setup_dvbs_satellite_config_title">"Setați parametrii satelitului."</string>
+    <string msgid="2131317949979552719" name="setup_dvbs_satellite_config_tp_title">"Setați parametrii transponderului."</string>
+    <string msgid="2800767936028832872" name="setup_dvbs_satellite_list_title">"Selectați sateliții pentru a scana sau a edita satelitul selectat."</string>
+    <string msgid="3930677461028817109" name="setup_dvbs_statellite_select_operator">"Selectați un operator"</string>
+    <string msgid="8612565925665677402" name="setup_dvbs_statellite_select_operator_title">"Puteți selecta un singur operator din lista următoare."</string>
+    <string msgid="5784290849900230632" name="setup_dvbs_statellite_type">"Tip de satelit"</string>
+    <string msgid="4321564817055396329" name="setup_dvbs_statellite_type_title">"Selectați tipul de satelit."</string>
+    <string msgid="2146465055653514914" name="setup_exit">"Ieșiți"</string>
+    <string msgid="6042999728027852143" name="setup_input_new">"Noi"</string>
+    <string msgid="6259265010188436855" name="setup_input_no_channels">"Niciun canal disponibil"</string>
+    <string msgid="6101285296981157962" name="setup_input_setup_now">"Neconfigurat"</string>
+    <string msgid="7977082283099331083" name="setup_language_english_value">"Programare"</string>
+    <string msgid="4079616525492116810" name="setup_next">"Înainte"</string>
+    <string msgid="1270661539800592611" name="setup_select">"Selectați"</string>
+    <string msgid="3792242598534721731" name="setup_select_country">"Selectați țara:"</string>
+    <string msgid="2441186944736538796" name="setup_select_set">"Setați"</string>
+    <string msgid="8378902213632723169" name="setup_set_password_success_msg">"Parola a fost setată!"</string>
+    <string msgid="2206368276427679430" name="setup_set_password_titile1">"Parola nouă"</string>
+    <string msgid="747455523215475524" name="setup_set_password_titile2">"Confirmați parola"</string>
+    <string msgid="4717439873577912103" name="setup_set_password_title">"Setați parola. 0000 nu este o parolă validă"</string>
+    <string msgid="8494012850018716458" name="setup_set_postal_code_editview">"Cod poștal"</string>
+    <string msgid="2109762842032636610" name="setup_set_postalcode">"Introduceți codul poștal."</string>
+    <string msgid="4897012831013531040" name="setup_set_timezone">"Selectați-vă fusul orar:"</string>
+    <string msgid="3493578292062301829" name="setup_sources_description">"LiveTV combină experiența canalelor TV tradiționale cu cea a canalelor de streaming oferită de aplicații. \n\nÎncepeți prin a configura sursele canalelor care au fost deja instalate sau căutați în magazinul online mai multe aplicații care oferă canale live."</string>
+    <string msgid="1716850046551772892" name="setup_sources_text">"Configurați sursele"</string>
+    <string msgid="8379334586479456426" name="setup_timezone">"Fus orar"</string>
+    <string msgid="7448337163528445810" name="side_panel_title_closed_caption">"Subtitrări"</string>
+    <string msgid="2187576517473489816" name="simple_dialog_title_error">"Eroare"</string>
+    <string msgid="6154915111682423960" name="simple_dialog_title_info">"Informații"</string>
+    <string msgid="3614091485269772625" name="simple_dialog_title_warning">"Avertisment"</string>
+    <string msgid="7541760001731796341" name="sleep_timer_btn_text">"Apăsați pe orice tastă pentru a continua"</string>
+    <string msgid="3481648915016121208" name="sleep_timer_tip_text">"Alimentarea va fi oprită."</string>
+    <string msgid="1081306172806831092" name="sound_category_title">"Sunet"</string>
+    <string msgid="6145194094666622568" name="sound_tracks_hoh">"Deficiențe de auz"</string>
+    <string msgid="822349293465951769" name="source_setup">"Configurarea sursei"</string>
+    <string msgid="2284363079428727321" name="special_config_lable">"CH<ns1:g id="CONFIG_LABLE">%1$s</ns1:g>"</string>
+    <string msgid="8622200974026625558" name="special_input_toast">"Nu a fost găsit niciun dispozitiv <ns1:g id="INPUT_NAME">%1$s</ns1:g>!"</string>
+    <string msgid="5322063480296424872" name="state_file_pvr_playback">"Redare în PVR"</string>
+    <string msgid="5466156974132732806" name="state_pvr_recording">"Se înregistrează!"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="4738306056683483195" name="str">"Preferate<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="7459990367583595146" name="str_Fav_x">"Favorite<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="8370264809404019282" name="str_uk_banner_indication_previous">"Înapoi"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="877460059955531605" name="timeshfit_forwarding">"Se redirecționează! Încercați din nou mai târziu."</string>
+    <string msgid="910280232790608628" name="timeshfit_no_pre_channel">"Nu se poate comuta niciun precanal! \n și decalarea temporală încă înregistrează."</string>
+    <string msgid="1588447156983705802" name="timeshfit_record_full">"Înregistrarea decalării temporale s-a încheiat și se redă automat."</string>
+    <string msgid="7880993052133075678" name="timeshfit_rewinding">"Se derulează înapoi! Încercați din nou mai târziu."</string>
+    <string msgid="5593578809018652699" name="timeshif_formate_msg">"Formatarea discului nu a reușit. Decalarea temporală rulează!"</string>
+    <string msgid="3296602156291996691" name="timeshift_not_available">"Decalarea temporală nu este disponibilă"</string>
+    <string msgid="1088177882921640598" name="timeshift_running_warning_msg">"Decalarea temporală rulează.\nOpriți-o, apoi încercați din nou!"</string>
+    <string msgid="2943130436776634575" name="timeshift_stopped">"Decalarea temporală s-a oprit."</string>
+    <string msgid="4997081216642996473" name="title_pvr_running">"PVR rulează!"</string>
+    <string msgid="6826940873590467793" name="title_pvr_start">"Începeți înregistrarea"</string>
+    <string msgid="1710294865725868218" name="title_pvr_stop">"Opriți înregistrarea"</string>
+    <string msgid="5180683124416001276" name="title_timeshift">"Decalare temporală"</string>
+    <string msgid="7480797400286747706" name="tkgs_clear_all_locators">"Ștergeți toți identificatorii"</string>
+    <string msgid="7141140606539254579" name="tkgs_click_add_locator">"Dați clic ca să adăugați un identificator"</string>
+    <string msgid="3067365535557983232" name="tkgs_delete_locator">"Ștergeți identificatorul"</string>
+    <string msgid="4911249617100313929" name="tkgs_existed_toast">"Identificatorul TKGS exista!"</string>
+    <string msgid="8923722375264827912" name="tkgs_hidden_lacator_empty">"Identificatorii TKGS ascunși sunt necompletați"</string>
+    <string msgid="7250647197764179059" name="tkgs_less_than_toast">"Identificatorii trebuie să aibă mai puțin de cinci elemente."</string>
+    <string msgid="318185164149893952" name="tkgs_locator_item">"Element de identificator TKGS"</string>
+    <string msgid="231010818430260587" name="tkgs_mode_auto">"Automat"</string>
+    <string msgid="6743227536838884132" name="tkgs_mode_customisable">"Care se pot personaliza"</string>
+    <string msgid="4777378373695625922" name="tkgs_no_hidden_locator">"Fără identificatori TKGS ascunși"</string>
+    <string msgid="8002424289283210812" name="tkgs_off">"Dezactivați TKGS"</string>
+    <string msgid="6577111553169632650" name="tkgs_operator_mode">"Modul de funcționare"</string>
+    <string msgid="1689980875904912549" name="tkgs_reset_hidden_msg">"Ștergeți toți identificatorii ascunși?"</string>
+    <string msgid="8525335849959453030" name="tkgs_reset_table_msg">"Resetați versiunea tabelului?"</string>
+    <string msgid="4579987253675950461" name="tkgs_save_locator">"Salvați identificatorul"</string>
+    <string msgid="4847872721021191404" name="tkgs_select_service_list">"Selectați o listă de servicii"</string>
+    <string msgid="1121387555194711910" name="tkgs_update_locator">"Actualizați identificatorul"</string>
+    <string msgid="6255941735525243539" name="tkgs_user_msg">"Mesaj pentru utilizatorii TKGS"</string>
+    <string msgid="9068822818375928920" name="tnt_hd_nw_chg">"Canalele TV au fost modificate, apăsați OK pentru a căuta actualizări."</string>
+    <string msgid="1064813271461583443" name="tone_burst_port">"Port Tone Burst"</string>
+    <string msgid="5613585390434807631" name="tuner_tv">"Tuner (TV)"</string>
+    <string msgid="941689825014756320" name="twinkle_dialog_audio_program_msg">"Canalul conține doar programul audio."</string>
+    <string msgid="1451097148130839000" name="twinkle_dialog_channel_lock_msg">"Canalul a fost blocat din cauza unei blocări definite de dvs. Acest lucru se poate schimba din meniul televizorului. Apăsați pe OK pentru a debloca ecranul."</string>
+    <string msgid="5649175070655221463" name="twinkle_dialog_channel_lock_title">"Canal blocat"</string>
+    <string msgid="532101319394127685" name="twinkle_dialog_hidden_channel_msg">"Canalul este momentan indisponibil. Contactați furnizorul de servicii pentru mai multe informații."</string>
+    <string msgid="8635344987707182474" name="twinkle_dialog_input_lock_msg">"Sursa de intrare a fost blocată din cauza blocării sursei de intrare definite de dvs. Acest lucru se poate schimba din meniul televizorului. Apăsați ENTER pentru a debloca ecranul."</string>
+    <string msgid="3845747400702657207" name="twinkle_dialog_input_lock_title">"Intrare blocată"</string>
+    <string msgid="5099635874438955411" name="twinkle_dialog_moving_positioner_msg">"Instrumentul de poziționare se rotește pentru a găsi satelitul. Așteptați un moment."</string>
+    <string msgid="4062732733050175180" name="twinkle_dialog_moving_positioner_title">"Instrumentul de poziționare se deplasează"</string>
+    <string msgid="3123649722702249119" name="twinkle_dialog_nav_service_not_running_msg">"Nu există servicii de canale active."</string>
+    <string msgid="7961373546782601065" name="twinkle_dialog_no_audio_video_msg">"Canalul nu are conținut video și audio."</string>
+    <string msgid="1400369018648606465" name="twinkle_dialog_no_channel_msg">"Nu există canale în lista de canale actuală."</string>
+    <string msgid="3366899141486631222" name="twinkle_dialog_no_signal_msg">"Se caută sau nu se găsește semnal. Verificați dacă s-a conectat corect cablul antenei."</string>
+    <string msgid="4531475926203448815" name="twinkle_dialog_no_signal_nontv_msg">"Verificați intrarea externă sau selectați altă intrare folosind butonul INTRARE."</string>
+    <string msgid="8796759935438013210" name="twinkle_dialog_no_signal_title">"Fără semnal"</string>
+    <string msgid="2014818369272906387" name="twinkle_dialog_non_broadcasting_msg">"Conținutul este blocat de furnizorul de servicii."</string>
+    <string msgid="2992915289324087677" name="twinkle_dialog_please_scan_channel_msg">"Nu s-au instalat canale. Scanați canalele prin intermediul meniului TV."</string>
+    <string msgid="1894575205131528453" name="twinkle_dialog_please_scan_channels_msg">"Conținutul va fi disponibil în curând. Așteptați un moment."</string>
+    <string msgid="5153495923123253058" name="twinkle_dialog_please_scan_channels_title">"Scanați canalele"</string>
+    <string msgid="1733617360069040358" name="twinkle_dialog_please_wait_msg">"Datele canalului se încarcă. Așteptați un moment."</string>
+    <string msgid="725264684329312017" name="twinkle_dialog_please_wait_title">"Se încarcă"</string>
+    <string msgid="4569115641534788884" name="twinkle_dialog_program_lock_msg">"Programul a fost blocat din cauza unei blocări în funcție de vârstă definite de dvs. Acest lucru se poate schimba din meniul televizorului. Apăsați pe OK pentru a debloca ecranul."</string>
+    <string msgid="646673269791532919" name="twinkle_dialog_program_lock_title">"Programul a fost blocat"</string>
+    <string msgid="2879944854782896595" name="twinkle_dialog_program_lock_title_non_ziggo_title">"Program blocat"</string>
+    <string msgid="503031018391687811" name="twinkle_dialog_program_lock_value">"Acest program este clasificat ca <ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</ns1:g>"</string>
+    <string msgid="4875530805932004418" name="twinkle_dialog_retrieving_data_msg">"Conținutul va fi disponibil în curând. Așteptați un moment."</string>
+    <string msgid="1534072239248375213" name="twinkle_dialog_scrambled_msg">"(Canal codificat \\ Conținut codificat). Verificați dacă CI + modulul și cardul inteligent au fost introduse corect."</string>
+    <string msgid="5263822605368775113" name="twinkle_dialog_scrambled_title">"Canal codificat"</string>
+    <string msgid="4978261610177823681" name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg">"Conținutul este blocat de furnizorul de servicii."</string>
+    <string msgid="3558492969327887533" name="twinkle_dialog_video_not_support_msg">"Formatul video nu este acceptat de televizor."</string>
+    <string msgid="4175870482702986083" name="uninsert_Cam_Select_broadcast">"Încărcați canalele de transmisiune?"</string>
+    <string msgid="8066683266117656826" name="unrated_rating_name">"Neevaluat"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"DEZACTIVAT"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ACTIVAT"</string>
+    <string msgid="6089616847361717375" name="vga_no_sinal_info">"Fără semnal. Alimentarea va fi oprită."</string>
+    <string msgid="8789508510792267977" name="vga_no_sinal_info_part2">\n"Apăsați orice tastă ca să continuați."</string>
+    <string msgid="6443470680010207003" name="vga_power_time">"0<ns1:g id="VGA_POWER_TIME_MIN">%1$d</ns1:g>:0<ns1:g id="VGA_POWER_TIME_SEC">%2$d</ns1:g>"</string>
+    <string msgid="5994597112286876149" name="vga_power_time_two">"0<ns1:g id="VGA_POWER_TIME_MIN_TWO">%1$d</ns1:g>:<ns1:g id="VGA_POWER_TIME_SEC_TWO">%2$d</ns1:g>"</string>
+    <string msgid="7526408112684327934" name="warning_pvr_playback_runnning">"Redarea PVR rulează!"</string>
+    <string msgid="7457371451448496820" name="warning_pvr_runnning">"PVR rulează!"</string>
+    <string msgid="127366201055769457" name="warning_time_shifting_recording">"Decalarea temporală înregistrează!"</string>
+</resources>

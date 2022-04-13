@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Дыск не гатовы!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Не ўдалося запусціць прыладу запісу. Дыск не гатовы!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Файл створаны"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Не ўдалося запусціць прыладу запісу. Спачатку выйдзіце з рэжыму PIP!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Не ўдалося запусціць прыладу запісу. Спачатку пераключыцеся на лічбавае ТБ!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Не ўдалося запусціць прыладу запісу. Сігнал не выяўлены!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Не ўдалося запусціць асабістую прыладу для запісу відэа. Зрух часу працуе!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Аўдыявідэаплынь недаступная!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Плынь абаронена ад запісу!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Увод заблакіраваны!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Памылка раздзяляльнасці відэа!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Унутраная памылка!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Зрух часу недаступны. Спачатку выйдзіце з асабістай прылады для запісу відэа!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Няма прылад, або прылады недаступныя. Паспрабуйце пазней!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Спыніць прыладу відэазапісу і захаваць запіс."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Дыск адключаны"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Увага! Не адключайце прыладу, гэта можа прывесці да нявызначаных памылак!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Недастаткова памяці. На дыску павінен быць мінімум 1 ГБ свабоднага месца."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Функцыя не падтрымліваецца."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Працяг пошуку не падтрымліваецца."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Файл не падтрымліваецца."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Пры фармаціраванні будуць сцёрты ўсе даныя"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Вы ўпэўненыя?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Гэта дзеянне выдаліць гэты файл."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Выконваецца тэсціраванне хуткасці"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Не адключайце прыладу"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Фармаціраванне дыску завершана"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Збой фармаціравання дыска"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Тэсціраванне хуткасці скончана"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Максімальная хуткасць складае "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Ідзе запіс!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Прайграванне прылады запісу"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Зрух часу"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Пачаць запіс"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Спыніць запіс"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"Працуе прылада запісу!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Спыніць працэс запісу\n і ўвесці EPG?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Спыніць зрух часу\n і запусціць электронны тэлегід?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Спыніць працэс запісу \n і змяніць канал?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Спыніць працэс запісу\n і змяніць крыніцу?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Спыніць зрух часу\n і змяніць канал?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Спыніць зрух часу\n і змяніць крыніцу?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Спыніць працэс запісу\n і ўвесці PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Спыніць зрух часу\n і запусціць рэжым прагляду PIP/POP?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Спыніць прайграванне прылады запісу\n і ўвесці PIP/POP?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Спыніць зрух часу\n і паказаць спіс запісаў?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Увесці PIP/POP?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Гэта запланаваны запіс"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"запусціць запіс?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"спыніць зрух часу?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Дэскрэмбліраванне канала перарвана. Працягнуць?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Заўвага"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Налада \"Інфармацыя пра прыладу\""</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Фармаціраванне сатрэ ўсе даныя. Сапраўды выканаць?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Зрух часу выконвае запіс!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"Працуе прылада запісу!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Прайграванне прылады запісу запушчана!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Зрух часу недаступны"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Запушчана праграма для тэсціравання хуткасці чытання са сховішча і запісу ў яго."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"МБ/С"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Гэта запланаваны запіс [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Запусціць запіс?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Назва:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Гэта запланаваны напамін."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"хочаце глядзець гэты канал?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Збой спробы запісу [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>]"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Запіс [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] не зроблены на працягу апошніх<xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> с"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Захавана толькі частка запісу, бо падчас яго выканання было выключана сілкаванне."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Мадэль падзеі"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Складанне праграмы для сінхранізацыі"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Запіс з падтрымкай сігналу"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Не ўдалося змяніць \"Запіс з падтрымкай сігналу\""</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Зрух часу спынены."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Ідзе запіс! Не ўдалося выканаць тэсціраванне хуткасці!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Выконваецца зрух часу! Не ўдалося выканаць тэсціраванне хуткасці!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Доступ забаронены. Не ўдалося выканаць тэсціраванне хуткасці!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Недастаткова месца на дыску! Не ўдалося выканаць тэсціраванне хуткасці!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Не ўдалося выканаць тэсціраванне хуткасці!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Перамотка ўперад і назад не падтрымліваецца"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Падчас выдалення элемента ўзнікла памылка. Канал выконвае запіс"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"Працуе асабістая прылада для запісу відэа ці прайграецца файл PVR.\nСпыніце і паўтарыце спробу!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Выконваецца зрух часу.\nСпыніце яго і паўтарыце спробу!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Бягучы канал несапраўдны."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Выконваецца перамотка ўперад! Паўтарыце спробу пазней."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Выконваецца перамотка назад! Паўтарыце спробу пазней."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Месца для запісу руху часу перапоўнена. Запісы будуць прайгравацца аўтаматычна."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Не ўдалося пераключыцца на папярэдні канал праз яго адсутнасць! \n І ўсё яшчэ запісваецца зрух часу."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Збой ці памылка запісаў"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Няпоўны запіс, праз страту сігналу запісана часткова!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Няпоўны запіс, праз адсутнасць EIT запісана часткова!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Няпоўны запіс, праз адсутнасць EIT і страту сігналу запісана часткова!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Памылка часу запуску – ён ранейшы за бягучы час!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Недастатковая даўжыня файла!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Памер запланаванага запісу, дадаванне якога вы запытваеце, перавышае максімальна дазволеную велічыню!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Спыніць працэс запісу \n і змяніць тып канала?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Спыніць зрух часу\n і змяніць тып канала?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Падчас падрыхтоўкі да запісу пераключаць каналы забаронена."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Выконваецца фармаціраванне"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Збой фармаціравання дыска. Ідзе запіс!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Збой фармаціравання дыска. Запушчаны зрух часу!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Няправільная хуткасць!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Ідзе фармаціраванне! Пачакайце…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Перамотка ўперад не падтрымліваецца"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Перамотка назад не падтрымліваецца"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Нізкая хуткасць працы дыска. Даныя адхілены"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"некаторыя запланаваныя запісы не выкананы ці не завершаны"</string>
+</resources>

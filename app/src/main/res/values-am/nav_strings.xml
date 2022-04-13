@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"ተመለስ"</string>
+    <string name="setup_select" msgid="1270661539800592611">"ይምረጡ"</string>
+    <string name="setup_next" msgid="4079616525492116810">"ቀጣይ"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"ውጣ"</string>
+    <string name="satellites" msgid="2437056584091944552">"ሳተላይቶች"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"ግቤቶች"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"ንዑስ"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"ዲቲቪ"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ኤቲቪ"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"የጣቢያ ምንጮች"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"እባክዎ ጣቢያዎችን ይቃኙ!"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"ምንም ተግባር የለም"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"ዝርዝር ይምረጡ"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"ተጨማሪ ይምረጡ"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"ይምረጡ"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"ደርድር"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"ነባሪ"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"ስም ወደ ላይ"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"ስም ከታች"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"ተመሳጥሯል"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"አግኝ"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"እባክዎ የጣቢያ ቁጥር ወይም የጣቢያ ስም ያስገቡ።"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"ስርጭት"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"ምድቦች"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"ጥቅሎች"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"ዲጂታል"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"ይህ ዓይነት ምንም ጣቢያዎች የሉትም። እባክዎ ሌሎች ዓይነቶችን ይምረጡ።"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"ሬዲዮ"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"አናሎግ"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"ነጻ"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"ተመሳጥሯል"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"አውታረ መረብ"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"ዓይነት ይምረጡ"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"በመጫን ላይ፣ እባክዎ ይጠብቁ..."</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"ገጽ ወደ ላይ"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"ገጽ ወደ ታች"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"ወደላይ አውጣ"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"ወደታች አውርድ"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"የተወዳጆች ዝርዝር"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"ሰርዝ"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"የዝርዝር ሳተላይት"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"ሳተላይት ይምረጡ"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"የጣቢያ ዝርዝር"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"አዳዲስ ጣቢያዎች ተገኝተው ወደ ጣቢያ ዝርዝር ታክለዋል።"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"ምድቦች -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"ጥቅሎች -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"የጣቢያ ዓይነት ምርጫ"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"የተወዳጆች ዝርዝር ምርጫ"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"የጣቢያ ዝርዝሮች"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"ዋናው ድምፅ መቆጣጠሪያ"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"ይለፍ ቃልዎን ያስገቡ"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"የተሳሳተ የይለፍ ቃል ሦስት ጊዜ አስገብተዋል!\nእባክዎ 15 ደቂቃዎች ያክል ይጠብቁ..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"የተሳሳተ ይለፍ ቃል። እባክዎ እንደገና ያስገቡ!"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"አንቴና"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(ምንም የፕሮግራም አርዕስት የለም)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(ምንም የፕሮግራም ዝርዝሮች የሉም።)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(ምንም የጣቢያ ዝርዝሮች የሉም።)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"ሲግናል የለም!"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"አይደገፍም!"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"ጣቢያ ተቆልፏል!"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"ግቤት ተቆልፏል!"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"ፕሮግራም ተቆልፏል!"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"የተደበቀ ጣቢያ"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"የተዘበራረቀ ኦዲዮ"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"የተዘበራረቀ ቪዲዮ"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"እንቅልፍ፦"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"አጥፋ"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"ደቂቃዎች"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"ምንም ቪዲዮ የለም"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"ውሂብን ሰርስሮ በማውጣት ላይ..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"ያልታወቀ ኦዲዮ"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"ያልታወቀ ስቴሪዮ"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"ያልታወቀ"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"ምንም ድምፅ የለም"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"ዓይነት"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"ንዑስ ዓይነት"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"ቦታ የተያዘለት ዝርዝር"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"ቦታ የተያዘለት ኹነት ዝርዝር"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"ይህ ፕሮግራም ቦታ ይያዝለት?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"አስቀድመው ይህን ፕሮግራም ቦታ አስይዘውለታል፣ ይሰረዝ?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"እየመጣ ነው፣ ወደ ጣቢያ ይለወጥ?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"ደረጃ አልወጣለትም"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(ምንም የፕሮግራም ዝርዝር የለም።)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"( ምንም የፕሮግራም ውሂብ የለም።)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(ምንም የፕሮግራም አርዕስት የለም።)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(ርዕስ የለም)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"ክፈት"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"ከመርሐግብር ውጭ አድርግ"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"መርሐግብር"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"አልተመደበም"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"አይደገፍም"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"እሺ"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"ይቅር"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"ሙሉ ገጽ"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"ልዩ አካባቢ"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"አይ"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"ያስተካክሉ"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"ሙሉውን ማያ ገጽ ወይስ ልዩ ቦታን መቅረጽ ይፈልጋሉ?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"ይህን ማያ ገጽ ፎቶ ማንሣት ይፈልጋሉ?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"አርማውን ለማስቀመጥ እባክዎ አቀማመጥ ይምረጡ።"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"በመቅረጽ ላይ..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"በተሳካ ሁኔታ ፎቶ ተቀርጿል"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"መቅረጽ አልተሳካም፣ እባክዎ እንደገና ይሞክሩ።"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"ይህ ሥርዓተ ክወና ተሰርዟል።"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"ምንም ምልክት የለም። ኃይሉ ይጠፋል።"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"ለመቀጠል ማናቸውንም ቁልፍ እባክዎ ይጫኑ።"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"ቀዳሚው ቀን"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"ቀጣዩ ቀን"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"ዝርዝር ይመልከቱ"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"ዓይነት ማጣሪያ"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"ገጽ ወደ ላይ"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"ገጽ ወደ ታች"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"አስገባ"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"አልተመደበም"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"ምንም"</string>
+    <string name="epg_password" msgid="8012355648918471162">"የይለፍ ቃል"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"የተሳሳተ ይለፍ ቃል"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"ውሂብን ሰርስሮ በማውጣት ላይ..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"ጃኑዋሪ"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"ፌብሩዋሪ"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"ማርች"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"ኤፕሪል"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"ሜይ"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"ጁን"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"ጁላይ"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"ኦገስት"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"ሴፕቴምበር"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"ኦክቶበር"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"ኖቬምበር"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"ዲሴምበር"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"እሑድ"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"ሰኞ"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"ማክሰኞ"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"ረቡዕ"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"ሐሙስ"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"ዓርብ"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"ቅዳሜ"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"የመተግበሪያ ዝርዝር"</string>
+    <string name="nav_select" msgid="990203763701782141">"ይምረጡ"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"ምንም መተግበሪያ የለም!"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Ginga መተግበሪያ በመጫን ላይ..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"CC ን ለማስቆም እና Ginga መተግበሪያ ማስጀመር ይፈልጋሉ?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"ማዘመኛ አዋቂ"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"ተጨማሪ መረጃ።"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"ልክ ያልኾነ የፈርምዌር ምስል ፋይል!"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"በማዘመን ላይ..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"እባክዎ በፈርምዌር ዝማኔው ወቅት የዩኤስቢ ዶንግሉን አይንቀሉት እና የቴሌቪዥን ቅንብሩን አያጥፉት!"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"ፈርምዌርን በማረጋገጥ ላይ..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"ፈርምዌሩን ማዘመን እንደሚፈልጉ እርግጠኛ ነዎት?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"ፈርምዌሩ በተሳካ ሁኔታ ተዘምኗል።\nአዲሱን ፈርምዌር ለማግበር እባክዎ ቴሌቪዥኑን ዳግም ይስጀምሩት።"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"ማዘመን አልተሳካም።\nፈርምዌርን ዳግም ለማውረድ እባክዎ ቴሌቪዥኑን ዳግም ያስጀምሩ።"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"ማዘመን አልተሳካም።\nዳግመኛ መሞከር ይፈልጋሉ?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"ማዘመን አልተሳካም። እባክዎ ዩኤስቢ ያስገቡ።\nዳግመኛ መሞከር ይፈልጋሉ?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"በእርስዎ የዩኤስቢ ዶንግል ላይ ያለው ቦታ በቂ አይደለም።"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"ዩኤስቢ ዶንግል ዝግጁ አይደለም፣ እባክዎ ይሰኩ እና ዳግመኛ ይሞክሩ።"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"ውስጣዊ ስህተት።"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"ምንም የሚገኝ የፊርምዌር ስሪት የለም።"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"ምስጠራ መፍታት አልተሳካም።"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"ፈርምዌሩ ልክ ያልኾነ ነው።"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"ምንም የሚዘመን ፈርምዌር ማግኘት አልተቻለም።"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"አዲስ ፈርምዌርን መፈተሽ አልተሳካም።"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"ከአውታረ መረብ ፈርምዌር ማውረድ አልተሳካም።"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"ከ USB ዶንግል ጋር የሆነ ችግር አለ።"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"ኃይል"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"ከዲጂታል ጽሑፍን ከማንቃት በፊት የመግለጫ ጽሑፍ መዘጋት አለበት። ለመቀጠል ተስማምተዋል?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"አዎ"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"አይ"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"ወደ EWS አገልግሎት መቀየር ይፈልጋሉ?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"ወደ ልዩ አገልግሎቱ መቀየር ይፈልጋሉ?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"እየመጣ ነው፣ ወደ እሱ መቀየር ይፈልጋሉ?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Ginga መተግበሪያን ማስቆም እና ዝግ መግለጫ ጽሑፍን መክፈት ይፈልጋሉ?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"አግድ"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"ቡድን"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"ገጽ"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"ከላይ ምንም የለም"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"የተወዳጅ ገጽ ዝርዝር"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"ደረጃ አልወጣለትም"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus Network ተለውጧል። የተዘመነ አውታረ መረብን መፈልግ ይችላሉ!"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"የCI Plus አውታረ መረብ አይገኝም። የተዘመነ አውታረ መረብ መፈለግ አለብዎት!"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus Network አልጀመረም። የተዘመነ አውታረ መረብ መፈለግ አለብዎት!"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plus Network ፍለጋ መርሐግብር ጊዜ ላይ ተደርሷል። የተዘመነ አውታረ መረብን መፈልግ ይችላሉ!"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"እባክዎ አገርዎን ይምረጡ፦"</string>
+    <string name="setup_country" msgid="629173256579318536">"አገር"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"የገመድ መረጃን እባክዎ ያዋቅሩ።"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"የሰዓት ሰቅ"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"የቅኝት ሁነታ"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"ሞገድ (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"ማስተካከያ"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"የምልክት ደረጃ (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"የአውታረ መረብ አይዲ"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"የፖስታ ኮድ"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"አዲስ ይለፍ ቃል"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"የይለፍ ቃል ያረጋግጡ"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"ሥርዓት ከዋኝ ይምረጡ"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"የሳተላይት ዓይነት"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"እባክዎ የሳተላይት ዓይነት ይምረጡ።"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"ሥርዓት ከዋኝ ይምረጡ"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"ከሚከተለው ዝርዝር አንድ ብቻ ሥርዓት ከዋኝ መምረጥ ይችላሉ።"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"የገመድ መረጃን እባክዎ ያዋቅሩ።"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"እባክዎ የቅኝት መረጃውን ያዋቅሩ።"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"ለመቃኘት እባክዎ ሳተላይቶችን ይምረጡ ወይም የተመረጠውን ሳተለይት አርትዕ ያድርጉ።"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"የአንቴና ዓይነት ውቅረትን እባክዎ ያቀናብሩ።"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"የአንቴና ቅንብር"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"እባክዎ የሳተላይቱን መለኪያዎች ያቀናብሩ።"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"የትራንስፖንደሩን መለኪያዎች እባክዎ ያቀናብሩ።"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"ያዋቅሩ"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"በአየር ላይ ማውረድ ላይ"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"በመቃኘት ላይ"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"በአየር ላይ አዲስ ሶፍትዌር ማግኘት አልተሳካም።"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"ፕሮግራሚንግ"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"በማውረድ ላይ"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"ይህ ሂደት እስከ 25 ደቂቃዎች ድረስ ሊወስድ ይችላል"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ሶፍትዌሩ በተሳካ ሁኔታ ወርዷል። ብልጭ ማድረግን መጀመር ይፈልጋሉ?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"ፕሮግራሚንግ አልተሳካም። እንደገና ይሞከር?\n\nእባክዎ ወደ አገልግሎት ማዕከል ይደውሉ።"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ሶፍትዌር በተሳካ ሁኔታ ወርዷል! ቴሌቪዥኑ አሁን ዳግመኛ ይጀምር?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"ማስጠንቀቂያ፦ በሂደቱ ወቅት፣ የተበላሸ ቴሌቪዥንን ወደ ማግኘት ሊያመራ ስለሚችል የቴሌቪዥኑን የኃይል ገመድ እባክዎ አይንቀሉ።"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"የሶፍትዌር ዝማኔ። አዲስ የሚመከር ሶፍትዌር ሊገኝ ይችላል። ዝማኔው የተወሰነ ጊዜ ሊወስድ ይችላል እና ማያ ገጹ ሊጨልም ይችላል። በዝማኔው ወቅት ቴሌቪዥኑን አያጥፉት። አሁን ማዘመን ይፈልጋሉ?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"ሶፍትዌሩን ማውረድ አልተቻለም። እንደገና መሞከር ይፈልጋሉ?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"የሶፍትዌር ዝማኔ። አዲስ የሚመከር ሶፍትዌር ሊገኝ ይችላል። ዝማኔው የተወሰነ ጊዜ ሊወስድ ይችላል እና ማያ ገጹ ሊጨልም ይችላል። በዝማኔው ወቅት ቴሌቪዥኑን አያጥፉት። አሁን ማዘመን ይፈልጋሉ? በ<xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> ሰከንድ(ዶች) ውስጥ በራስ-ሰር ይጀምራል"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"የሶፍትዌር ዝማኔ። አዲስ የሚመከር ሶፍትዌር <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g> ላይ የሚገኝ ይሆናል። ዝማኔው የተወሰነ ጊዜ ሊወስድ እና ማያ ገጹ ሊጨልም ይችላል። ዝማኔው እየተደረገ ሳለ ተቀባዩን አያጥፉት። ይህን ዝማኔ ከተቀበሉት እባክዎ ቴሌቪዥኑን በተያዘለት መርሐግብር ላይ እንደበራ ወይም በዝግጁ ሁነታ ይተዉት። ይህን ዝማኔ መቀበል ይፈልጋሉ?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"የሶፍትዌር ዝማኔ። አዲስ የሚመከር ሶፍትዌር ዝማኔ በሌላ ጣቢያ ላይ ሊገኝ ይችል ይሆናል። ለማውረድ ከተስማሙ፣ በራስሰር ወደ ጣቢያው ሊለወጥ ይችል ይሆናል። አሁን ላይ ሊያደርጉት ይፈልጋሉ? በ <xliff:g id="AUTOMATICALLY">%s</xliff:g> ሰከንድ(ዶች) በራስሰር ይጀምራል(ሉ)"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"አዲስ ሶፍትዌር እንዳለ ተደርሶበታል!\nቴሌቪዥኑ በዝግጁ ሁነታ ላይ ሲሆን ሶፍትዌሩን በራስሰር ለማውረድ ይስማማሉ?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"ፕሮግራሚንግ"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"ኦስትሪያ"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"ቤልጂየም"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"ስዊዘርላንድ"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"ቼክ ሪፐብሊክ"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"ጀርመን"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"ዴንማርክ"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"ስፔን"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"ፊንላንድ"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"ፈረንሳይ"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"ዩናይትድ ኪንግደም"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"ጣሊያን"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"ሉክዘምበርግ"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"ኔዘርላንድስ"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"ኖርዌይ"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"ስዊድን"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"ቡልጋሪያ"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"ከሮሽያ"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"ግሪክ"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"ሃንጋሪ"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"አየርላንድ"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"ፖላንድ"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"ፖርቱጋል"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"ሮማኒያ"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"ሩሲያ"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"ሰርቢያ"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"ስሎቫኪያ"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"ስሎቬኒያ"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"ቱርክ"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"ኤስቶኒያ"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"አውስትራሊያ"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"ኒው ዚላንድ"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"ኢንዶኔዥያ"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"እባክዎ የእርስዎን የጊዜ ሰቅ ይምረጡ፦"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"የተቀናበረው ይለፍ ቃል.0000 እባክዎ የሚሠራ የይለፍ ቃል አይደለም"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"እባክዎ የፖስታ ኮድ ያስገቡ።"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"ይለፍ ቃል በተሳካ ሁኔታ ተቀናብሯል!"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"አንዳንድ ጣቢያዎች በአውታረ መረብ ለውጥ ምክንያት ቦዝነዋል። አሁን ሊያስወግዷቸው ይችላሉ?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"የቴሌቪዥን ጣቢያዎቹ ተለውጠዋል፣ ዝማኔዎችን ለመቃኘት እሺ የሚለውን ይጫኑ።"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"የአንቴና ቅንብር"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"ሳተላይት"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"የሳተላይት ስም"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"የምህዋር አቀማመጥ"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"የእንቅስቃሴ መቆጣጠሪያ"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"ገደቦችን አሰናክል"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"ምሥራቅን ገደብ"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"ምዕራብ ገድብ"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"አቀማመጥን አስቀምጥ"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Goto አቀማመጥ"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Goto ማጣቀሻ"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"የእርምጃ መጠን"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"ዕረፍት(ቶች)"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"ወደ ምሥራቅ አንቀሳቅስ"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"ወደ ምዕራብ ያንቀሳቅሱ"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"እንቅስቃሴ አስቁም"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"አሰናክል"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"የድምፅ ቃና 22KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"አጥፋ"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"አብራ"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"ራስ-ሰር"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"ትራንስፖንደር"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"ሞገድ"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"የምልክት ደረጃ (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"ፖላራይዜሽን"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"ያልታወቀ"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"አግድመት"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"አቀባዊ"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"ግራ"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"ቀኝ"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"አዳዲስ ሳተላይቶችን ያክሉ"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"አዳዲስ ትራንስፖንደሮችን ያክሉ"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"ሳተላይት ቅኝት"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"የቅኝት ዓይነት"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"የመደብር ዓይነት"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"የቅኝት ሁነታ"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"የአውታረ መረብ ፍለጋ"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"ፈልግ"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"ራስ-ሰር"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"ቅድመ-ቅምጥ"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"የተመሳጠሩ ጣቢያዎች ብቻ"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"ነጻ ጣቢያዎች ብቻ"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"ሁሉም"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"ዲጂታል ጣቢያዎች ብቻ"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"ሬዲዮ ጣቢያዎች ብቻ"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(ምንም ጣቢያ የለም።)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"የሳተላይት በእጅ ማስተካከል"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(ምንም ትራንስፖንደር የለም።)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"የሳተላይት ስም ባዶ ነው።\nእባክዎ ያስገቡት!"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"የሳተላይት ዳግም ቅኝት"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"ሳተላይት አክል"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"ሳተላይት ዝማኔ"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"የሳተላይት ሁኔታ"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"አውታረ መረብ"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"ሙሉ"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"ሳተላይቶች"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"አቀማመጥ"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB ኃይል"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"የአንቴና ዓይነት"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"ዓለም አቀፍ"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"ነጠላ ገመድ"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"መቃኛ"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"ንዑስ ማስተካከያ"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"የተጠቃሚ ባንድ <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"የባንድ ሞገድ"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"በተጠቃሚ የተገለጸ"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"አቀማመጥ"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"ገመድ"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"ተመራጭ ሳተላይት"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"አጠቃላይ ሳተላይት"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"ዓለም አቀፍ"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"የድምፀት ፍንጥቅ"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"አሰናክል"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"የድምፀት ፍንጥቅ A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"የድምፀት ፍንጥቅ B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"አብራ"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"አጥፋ"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"ምንጩ ከ <xliff:g id="CONFLICTS">%s</xliff:g> ምንጭ ጋር ያጋጫል!"</string>
+    <string name="ews_status" msgid="451574410866097453">"ሁኔታ <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"ምንጭን አዋቅር"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"ራስሰር የጣቢያ ቅደም ተከተል አቀማመጥ"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"የክፍያ ቴሌቪዥን ትዕዛዝ"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(ምንም የፕሮግራም አርዕስት የለም።)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"ግቤቱ ራስ-ቃኝን አይደግፍም።"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"ለ«<xliff:g id="TV_INPUT">%s</xliff:g>» ራስ-ቃኝን መጀመር አልተቻለም"</string>
+    <string name="str" msgid="4738306056683483195">"<xliff:g id="FAV_INDEX">%d</xliff:g> ተወዳጆች"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"ሁሉም"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"ሬዲዮ"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"አንቀላፋ፦ ጠፍቷል"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"አንቀላፋ፦ <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> ደቂቃዎች"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"አጉላ X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"አጉላ X 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"አጉላ X 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"ባለበት አቁም፦ በርቷል"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"ባለበት አቁም፦ ጠፍቷል"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"ምንም ምድብ የለም"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"ፊልም/ድራማ"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"ዜና/ወቅታዊ ጉዳዮች"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"ትርዒት/የጨዋታ ትርዒት"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"ስፖርት"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"ስፖርት (አጠቃላይ)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"የሕፃናት/ ወጣቶች ፕሮግራሞች"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"ሙዚቃ/ባሌት/ዳንስ"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"ሥነጥበብ/ባህል (ያለ ሙዚቃ)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"ማኅበራዊ/ፖለቲካዊ ጉዳዮች/ኢኮኖሚ"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"ትምህርታዊ/ሳይንስ/እውነታ ላይ የተመረኮዙ ርዕሰ ጉዳዮች"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"የትርፍ ጊዜ መዝናኛዎች"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"ልዩ ባሕርያት"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"ሕፃናት"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"ወሲብ ነክ"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"ሌላ"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"መዝናኛ"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"ወቅታዊ ጉዳዮች"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"ኢንፎቴንመንት"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"አስቂኝ"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"ድራማ"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"ጥናታዊ ፊልም"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"ዜና እና ተጨባጭ እውነታ"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"ስፖርት"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"የአኗኗር ዘይቤ"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"ዜና እና እውነታ"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"አይደገፍም"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"ተከታታይ"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"የተለያየ"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"መረጃ"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"ኮሚክ"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"ፍቅር"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"ቁምነገር/ዘመን ተሻጋሪ/ሃይማኖታዊ/ታሪካዊ ፊልም/ድራማ"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"ቁምነገር ሙዚቃ/ዘመን ተሻጋሪ ሙዚቃ"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"የዐዋቂ ፊልም/ድራማ"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"ዜና/ወቅታዊ ጉዳዮች (አጠቃላይ)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"ዜና/የአየር ሁኔታ ሪፖርት"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"የዜና መጽሔት"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"ጥናታዊ ፊልም"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"ውይይት/ቃለ መጠይቅ/ክርክር"</string>
+    <string name="nav_News" msgid="3663290212801352195">"ዜና"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"ትርዒት/የጨዋታ ትርዒት (አጠቃላይ)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"የጨዋታ ትርዒት/የጥያቄ ውድድር/ውድድር"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"ኅብረ ትርዒት"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"የንግግር ትዕይንት"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"የስፖርት መጽሔቶች"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"የአሜሪካ እግር ኳስ/እግር ኳስ"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"ቴኒስ/ስኳሽ"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"የቡድን ስፖርቶች (እግርኳስን ሳይጨምር)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"አትሌቲክስ"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"ሞተር ስፖርት"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"ዉኃ ስፖርት"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"የክረምት ስፖርት"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"የፈረስ ስፖርት"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"ማርሻል ስፖርቶች"</string>
+    <string name="nav_Children" msgid="873820541320552860">"የሕፃናት/ወጣቶች ፕሮግራሞች"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"ቅድመ ትምህርት ቤት ዕድሜ ያሉ ሕፃናት ፕሮግራሞች"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"ከ6 እስከ 14 ለሚሆኑ የመዝናና ፕሮግራሞች"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"ከ10 እስከ 16 ለሚሆኑ የመዝናና ፕሮግራሞች"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"መረጃ ሰጪ/ትምህርታዊ/የትምህርት ፕሮግራሞች"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"ካርቱኖች/አሻንጉሊቶች"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"ሙዚቃ/ባሌት/ዳንስ (አጠቃላይ)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"ሮክ/ፖፕ ሙዚቃ"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"የሀገረሰብ/ባህላዊ ሙዚቃ"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"ጃዝ"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"ሙዚቃዊ ትርዒት/ኦፔራ"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"ባሌት"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"ሥነጥበብ/ባህል (ያለ ሙዚቃ)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"የሥነጥበብ ትርዒት"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"ረቂቅ ሥነ-ጥበባት"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"ሃይማኖት"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"ተወዳጅ ባህል/ባህላዊት ሥነ ጥበቦች"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"ሥነጽሑፍ"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"ፊልም/ሲኒማ"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"ሙከራ ፊልም/ቪዲዮ"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"በማሰራጨት ላይ/ፕሬስ"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"ቀጥታ ስርጭት"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"አዲስ ሚዲያ"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"የሥነ ጥበብ መጽሔቶች"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"ፋሽን"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"አትቀበል"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"ማኅበራዊ/ፖለቲካዊ ጉዳዮች/ኢኮኖሚ (አጠቃላይ)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"መጽሔቶች/ሪፖርቶች/ጥናታዊ ፊልም"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"ኢኮኖሚ/ማኅበራዊ ምክር አገልግሎት"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"ለየት ያሉ ሰዎች"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"ትምህርታዊ/ሳይንስ/እውነታ ላይ የተመረኮዙ ርዕሰ ጉዳዮች (አጠቃላይ)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"ተፈጥሮ/እንስሳት/አካባቢ"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"ቴክኖሎጂ/የተፈጥሮ ሳይንሶች"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"ሕክምና/ፊዚዮሎጂ/ሳይኮሎጂ"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"የውጭ አገሮች/የመስፋፋት ጉዞዎች"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"ማኅበራዊ/መንፈሳዊ ሳይንሶች"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"ተጨማሪ ትምህርት"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"ቋንቋዎች"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"ፊልም"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"የመዝናኛ የትርፍ ጊዜ እንቅስቃሴዎች (አጠቃላይ)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"ቱሪዝም/ጉዞ"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"እደ-ጥበባት"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"በተሽከርካሪ መጓዝ"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"የአካል ብቃት እና ጤና"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"ማስታወቂያ/ግብይት"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"አትክልት እንክብካቤ"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"የመጀመሪያው ቋንቋ"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"ጥቁር እና ነጭ"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"አልታተመም"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"ፕላኖ-ስቴሪዮስኮፒክ"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"አካባቢያዊ ወይም ክልላዊ"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"ያልታወቀ"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"ሞኖ"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"ስቲሪዮ"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"ድርብ1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"ድርብ2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam ሞኖ"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam ስቴሪዮ"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"ኤፍኤም ሞኖ"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"ኤፍኤም ስቴሪዮ"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"ድርብ ሞኖ"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"ዙሪያ 2 ጣቢያዎች"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"ዙሪያ"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> ጣቢያዎች"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"እሑድ"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"ሰኞ"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"ማክሰኞ"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"ረቡዕ"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"ሐሙስ"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"ዓርብ"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"ቅዳሜ"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"ይቅር"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"ተቀበል"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"በኋላ አስታውሰኝ"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"ሲግናል የለም!"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"እባክዎ ጣቢያዎችን ይቃኙ!"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"ውሂብን ሰርስሮ በማውጣት ላይ"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"የልጆች"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"ጣቢያ ተቆልፏል!"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"ፕሮግራም ተቆልፏል!"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"ግቤት ተቆልፏል!"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(ምንም የፕሮግራም አርዕስት የለም።)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"የተደበቀ ጣቢያ!"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"ኦዲዮ ፕሮግራም"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"ምንም ኦዲዮ እና ቪድዮ የለም"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(ምንም የፕሮግራም ዝርዝሮች የሉም።)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(ምንም የጣቢያ ዝርዝሮች የሉም።)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"ምንም ኦዲዮ ዥረት የለም"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"ምንም የቪዲዮ ዥረት የለም"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"እባክዎን ይጠብቁ…"</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"ቪዲዮ አይደገፍም"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"አይደገፍም"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"ስርጭት ያልሆነ"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"ጣቢያ የለም"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"ይህ ይዘት በእርስዎ አገልግሎት አቅራቢ ታግዷል።"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"ተዘበራርቋል"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"አቀማመጥ አስተካካይን በማንቀሳቀስ ላይ..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"አገልግሎት እየሠራ አይደለም"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"አሰናክል"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"ያለማቋረጥ"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"ደረጃ"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"ጊዜው አልቋል"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"አጉላ"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> ጣቢያ ታክሏል"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> ጣቢያዎች ታክለዋል"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"ምንም ሰርጦች አልታከሉም"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"የዩኤስቢ መሣሪያ ተገናኝቷል"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"ጣቢያ <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"ዜና፣ ዘገባ"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"መደበኛ፣ አጠቃላይ"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"የአየር ሁኔታ ሪፖርት"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"ልዩ ፕሮግራም፣ ጥናታዊ ፊልም"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"ፖለቲካ፣ ብሔራዊ ስብሰባ"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"ኢኮኖሚክስ፣ የምልክት ማድረጊያ ሪፖርት"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"ባህር ማዶ፣ ዓለም አቀፍ ዘገባ"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"የዜና ትንታኔ"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"ውይይት፣ ጉባኤ"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"ልዩ ሪፖርት"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"አካባቢያዊ ፕሮግራም"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"የትራፊክ ሪፖርት"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"ሌሎች"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"ስፖርት"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"የስፖርት ዜና"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"ቤዝቦል"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"እግር ኳስ"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"ጎልፍ"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"ሌሎች የኳስ ጨዋታዎች"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"ሱሞ፣ የትግል ስፖርቶች"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"ኦሎምፒክ፣ ዓለም አቀፍ ጨዋታዎች"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"ማራቶን፣ የአትሌቲክስ ስፖርቶች፣ ዋና"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"የሞተር ስፖርቶች"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"የባህር ስፖርቶች፣ የክረምት ስፖርቶች"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"የፈረስ ውድድር፣ የህዝብ ውድድር"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"መረጃ/የታብሎይድ ትርዒት"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"ሐሜት/የታብሎይድ ትርዒት"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"ፋሽን"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"መኖር፣ ቤት"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"ጤና፣ የሕክምና እንክብካቤ"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"ሸመታ፣ በደብዳቤ ትዕዛዝ ንግድ"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"ቡፌ፣ ማብሰል"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"ክስተቶች"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"የፕሮግራም መመሪያ፣ መረጃ"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"ድራማ"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"የጃፓን ድራማዎች"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"የባህር ማዶ ድራማዎች"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"የድሮ ጊዜ ድራማዎች"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"ሙዚቃ"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"የጃፓን ሮክ፣ ፖፕ ሙዚቃ"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"የባህር ማዶ ሮክ፣ ፖፕ ሙዚቃ"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"ክላሲክ፣ ኦፔራ"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"ጃዝ፣ ፊዩዥን"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"ታዋቂ ዘፈኖች፣ የጃፓን ታዋቂ ዘፈኖች (የኤንካ ዘፈኖች)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"የቀጥታ ስርጭት ኮንሰርት"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"ደረጃ አሰጣጥ፣ ሙዚቃን ይጠይቁ"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"ካራኦኬ፣ የአማተር ዘፈን ውድድሮች"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"የጃፓን ባላድ፣ የጃፓን ባህላዊ ሙዚቃ"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"የልጆች ዘፈን"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"የአገረሰብ ሙዚቃ፣ የዓለም ሙዚቃ"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"ኅብረ ትርዒት"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"የፈተና ጥያቄ"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"ጨዋታ"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"የንግግር ዓይነት"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"የኮሜዲ ፕሮግራም"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"የሙዚቃ ዓይነት"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"የጉብኝት ዓይነት"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"የማሞቅ ስብጥር"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"ፊልሞች"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"የባህር ማዶ ፊልሞች"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"የጃፓን ፊልሞች"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"እነማ"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"እነማ/ልዩ ውጤት ፊልሞች"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"የጃፓን እነማ"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"የባህር ማዶ እነማ"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"ልዩ ተጽዕኖዎች"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"ጥናታዊ ፊልም/ባህል"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"ማህበራዊ፣ ወቅታዊ ክስተቶች"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"ታሪክ፣ የጉዞ መዝገብ"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"ተፈጥሮ፣ እንስሳ፣ አካባቢ"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"ጠፈር፣ ሳይንስ፣ የሕክምና ሳይንስ"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"ባህል፣ የልማድ ባህል"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"ሥነ ጽሑፍ፣ የሥነ ጽሑፍ ሥነ ጥበብ"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"ስፖርት"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"ጠቅላላ ጥናታዊ ፊልም"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"ቃለ-መጠይቆች፣ ውይይቶች"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"ቲያትር/የህዝብ ትርዒት"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"ዘመናዊ ድራማ፣ የምዕራባውያን ዓይነት ድራማ"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"ሙዚቃዊ"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"ዳንስ፣ ባሌት"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"ኮሚክ ታሪክ፣ መዝናኛ"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"ካቡኪ፣ ክላሲካል ድራማ"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"የትርፍ ጊዜ ማሳለፊያ/ትምህርት"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"ጉዞ፣ አሳ ማጥመድ፣ ከቤት ውጭ መዝናኛ"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"አትክልት መንከባከብ፣ የቤት እንስሳ፣ ዕደ ጥበቦች"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"ሙዚቃ፣ ኪነ ጥበብ፣ የኢንዱስትሪ ኪነ ጥበብ"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"የጃፓን ቼዝ (ሾጊ) እና «ጎ»"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"ማህ-ጆንግ፣ የፒንቦል ጨዋታዎች"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"መኪናዎች፣ ሞተርሳይክሎች"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"ኮምፒውተር፣ የቴሌቪዥን ጨዋታዎች"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"ውይይት፣ ቋንቋዎች"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"ትናንሽ ልጆች፣ የትምህርት ቤት ልጆች"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"የመለስተኛ ደረጃ እና የሁለተኛ ደረጃ ትምህርት ቤት ተማሪዎች"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"የዩኒቨርሲቲ ተማሪዎች፣ ፈተናዎች"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"የዕድሜ ልክ ትምህርት፣ ብቃቶች"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"የትምህርት ችግር"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"ማህበራዊ ዋስትና"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"ያረጁ ሰዎች"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"አካል ጉዳተኞች"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"ማኅበራዊ ዋስትና"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"በጎ ፈቃደኞች"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"የምልክት ቋንቋ"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"ጽሁፍ (የግርጌ ጽሑፎች)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"በድምጽ መልቲፕሌክስ ስርጭት ላይ ማብራሪያ"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"ቦታ ተይዟል"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"ቦታ ተይዟል"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"ለቅጥያ"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"የአባሪ መረጃ ለቢኤስ/ምድራዊ ዲጂታል ስርጭት ፕሮግራም"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"ቅጥያ ለብሮድባንድ ሲኤስ ዲጂታል ስርጭት"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"ቅጥያ ለዲጂታል ሳተላይት ድምጽ ስርጭት"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"የአባሪ መረጃ ለአገልጋይ ዓይነት ፕሮግራም"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"ሌሎች"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"ቀዳሚ"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"የAndroid TV መነሻ"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"ምንም"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"ይህ ፕሮግራም የ<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g> ደረጃ ነው የተሰጠው"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"ግቤት ተቆልፏል"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"በእርስዎ በተገለጸው የግቤት ምንጭ መቆለፊያ ምክንያት የግቤት ምንጭ ተቆልፏል። ይህ በቲቪው ምናሌ በኩል መቀየር ይችላል። ማያ ገጹን ለመክፈት አስገባን ይጫኑ።"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"የውጫዊውን ግቤት ይፈትሹ ወይም የግቤት አዝራርን በመጠቀም ሌላ ግቤትን ይምረጡ።"</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"ምንም ጣቢያዎች አልተጫኑም። እባክዎ ጣቢያዎችን በቴሌቪዥን ምናሌው በኩል ይቃኙ።"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"ይዘቱ በቅርቡ ይመጣል። እባክዎ ትንሽ ይጠብቁ።"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"ጣቢያው በአሁኑ ጊዜ አይገኝም። ለተጨማሪ መረጃ እባክዎ አገልግሎት ሰጪዎን ያነጋግሩ።"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"ጣቢያው የኦዲዮ ፕሮግራም ብቻ በው የሚይዘው።"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"ጣቢያው የቪዲዮ እና የኦዲዮ ይዘት የለውም።"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"በመጫን ላይ"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"የጣቢያው ውሂብ እየተጫነ ነው። እባክዎ ትንሽ ይጠብቁ።"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"የቪዲዮ ቅርጸቱ በቴሌቪዥኑ ላይ አይደገፍም።"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"ይህ ይዘት በእርስዎ አገልግሎት ሰጪ ቆሟል።"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"በአሁኑ የጣቢያው ዝርዝር ውስጥ ጣቢያዎች የሉም።"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"ይህ ይዘት በእርስዎ አገልግሎት አቅራቢ ታግዷል።"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"አቀማመጥ አስተካካዩን በማንቀሳቀስ ላይ"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"አቀማመጥ አስተካካዩ ሳተላይቱን ለማግኘት እየዞረ ነው። እባክዎ ትንሽ ይጠብቁ።"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"ምንም ንቁ የጣቢያ አገልግሎቶች የሉም።"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"ፕሮግራም ተቆልፏል"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"እባክዎ ጣቢያዎችን ይቃኙ"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"ይዘቱ በቅርቡ ይመጣል። እባክዎ ትንሽ ይጠብቁ።"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"የአይፒ ስርጦች"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"የአኗኗር ዘይቤ/የዕረፍት ጊዜ ማሳለፊያዎች"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"የሰርጡን ማዘዣ ዘዴ ይምረጡ። ራስ-ሰር የሰርጥ ማዘዣ ነባሪው ዘዴ ነው።\n የሚከፈልበት ቴሌቪዥን ማዘዣ ለቴሌቪዥን ደንበኛዎች ለመክፈል በተዘጋጀ ምቹ ቅጽ ላይ የተጠቃሚ የሰርጥ ብዛትን አቀራረብን ያስችላል።\n የሚከፈልበት የቴሌቪዥን ማዘዣ ጣቢያዎችን ለመጫን ካልተቻለ ራስ-ሰር ሰርጥ ማዘዣን ይጠቀሙ።"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> ሜኸዝ"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> ኪስ/ሰ"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"ዝጋ"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"ትክክል!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"አንዳንድ ልክ ያልሆነ ዓይነት!"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"ባዶ መሆን አይችልም!"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"የንጹህ ማያ ገጽ አገልግሎት ተጀምሯል፣ የማያ ገጽ ንፅህና ሁኔታን በ<xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> ደቂቃ ውስጥ ያቆየዋል"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"የንጹህ ማያ ገጽ አገልግሎት ቆሟል።"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"እርግጠኛ ነዎት መቃኘት አለብዎት? ሁሉም የተጫኑ ጣቢያዎች ይወገዳሉ።"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"ባሃሳ መላዩ"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"አካባቢያዊ"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"ዋና"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"ሌላ ቋንቋ"</string>
+</resources>

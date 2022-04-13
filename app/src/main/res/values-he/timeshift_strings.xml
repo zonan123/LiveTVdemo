@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pro_time_shift_disk_not_ready">"Disk Not Ready!"</string>
+    <string name="disk_not_ready">"Start PVR Failed. Disk Not Ready!"</string>
+    <string name="create_tshift_file_success">"Create File Success"</string>
+
+    <string name="pro_pip_running">"Start PVR Failed. Exit PIP First!"</string>
+    <string name="pro_none_tv_source">"Start PVR Failed. Change to Digital TV Source First!"</string>
+    <string name="pro_signal_loss">"Start PVR Failed. Signal Loss!"</string>
+    <string name="pro_tshift_running">"Start PVR Failed,TimeShift Running!"</string>
+    <string name="pro_stream_not_available">"AV Stream Not Available!"</string>
+    <string name="pro_stream_not_authorized">"Stream Not Authorized!"</string>
+    <string name="pro_input_lock">"Input Locked!"</string>
+    <string name="pro_video_resolution_error">"Video Resolution Error!"</string>
+    <string name="pro_internal_error">"Internal Error!"</string>
+    <string name="pro_pvr_running">"Timeshift Not Available. Exit PVR First!"</string>
+    <string name="pro_disk_remove">"No Devices or Devices not Available. Try Later!"</string>
+
+    <string name="pvr_save_record">Stop PVR and save the record.</string>
+    <string name="disk_disconnect">Disk Disconnect</string>
+    <string name="attention_unplug_device">Attention: do not unplug device, or may cause unspecified errors!</string>
+    <string name="not_enough_space">There is not enough space.The disk should have 1G free space.</string>
+    <string name="feature_not_support">Feature not supported.</string>
+    <string name="continue_to_seek_not_support">Continue to seek not supported.</string>
+    <string name="file_notsupport">File not supported</string>
+    <string name="format_confirm_dialog_line1">Format will erase All Data</string>
+    <string name="format_confirm_dialog_line2">Are you sure?</string>
+    <string name="delete_pvr_file_dialog_confirm1">Will delete this file</string>
+    <string name="disk_setting_speedtesting">"Speed Test Doing"</string>
+    <string name="disk_setting_unplugdevice_warnning">"Don't unplug the Device"</string>
+    <string name="disk_setting_format_done">"Format Devices Done"</string>
+    <string name="disk_setting_format_fail">"Format Disk Done"</string>
+    <string name="disk_setting_speedtest_done">"Speed Test Done"</string>
+    <string name="disk_setting_speedtest_maxspeed">"The MAX Speed is %3.1f MB/S"</string>
+    <string name="state_pvr_recording">Recording!</string>
+    <string name="state_file_pvr_playback">PVR Playback</string>
+
+    <string name="title_timeshift">Timeshift</string>
+    <string name="title_pvr_start">Start Record</string>
+    <string name="title_pvr_stop">Stop Record</string>
+ 	<string name="title_pvr_running">Pvr is Running!</string>
+</resources>

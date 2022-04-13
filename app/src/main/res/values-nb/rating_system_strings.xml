@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Anbefales for personer som er <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> år eller eldre."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Passer for alle. Programmer kan inneholde mild vold, mildt språk og voksne situasjoner."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Passer for de som er 13 år eller eldre. Programmer kan inneholde mildt til moderat språk, mild vold og seksuelle referanser."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Passer for de som er 16 år eller eldre. Programmer kan inneholde mer intens vold og grovt språk, delvis nakenhet og moderate seksuelle referanser."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Ikke egnet for barn. Programmer inneholder sterk vold, grovt språk og eksplisitte seksuelle referanser."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Rusmidler"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sex"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Vold"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Materiale som er klassifisert som P, er beregnet på førskolebarn."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Materiale som er klassifisert som C, er beregnet for barn (unntatt førskolebarn) under 14 år."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Materiale som er klassifisert som G, er ikke nødvendigvis beregnet for barn, men må ha veldig mild innvirkning og ikke inneholde emner som sannsynligvis ikke er passende for at barn kan se på uten tilsyn."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Materiale som er klassifisert som PG, kan inneholde voksne temaer eller konsepter, men må ha mild innvirkning og være passende for at barn kan se på med tilsyn."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Materiale som er klassifisert som M, er for voksne målgrupper. Det anbefales bare for personer som er 15 år eller eldre."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Materiale som er klassifisert som MA, er bare egnet for personer som er 15 år eller eldre, på grunn av intensiteten og/eller hyppigheten av vold, seksuelle skildringer eller grovt språk, voksne temaer eller bruk av rusmidler. Det kan ha sterk innvirkning."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Materiale som er klassifisert som AV, er bare egnet for personer som er 15 år eller eldre. Det er uegnet for MA-klassifisering på grunn av intensiteten og/eller hyppigheten av vold eller fordi vold er en sentral del av temaet. På andre måter er kravene for klassifisering identiske med MA-klassifiseringen."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Materiale som er klassifisert som R, er juridisk begrenset til voksne. Noe materiale som er klassifisert som R, kan virke støtende på en del voksne."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Generelt publikum"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Anbefales ikke for personer under <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> år"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Rusmidler"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sex"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Vold"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Fritatte TV-programmer inkluderer: nyheter, sport, dokumentarer og andre informasjonsprogrammer, talkshows, musikkvideoer og varietéprogrammer."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Dette TV-programmet er beregnet for barn under 8 år."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Dette TV-programmet er beregnet for barn som er 8 år og eldre. Det anbefales at barn under 8 år bare se på TV-programmer med denne klassifiseringen sammen med foreldre/verger."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Dette TV-programmet er beregnet for alle aldersgrupper og kan sees av hele familien."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Selv om dette TV-programmet er beregnet på et generelt publikum, er det kanskje ikke egnet for små barn (under 8 år). Foreldre og verger bør være klar over at dette programmet kan inneholde elementer enkelte ikke synes det er passende at barn mellom 8 og 13 ser på uten tilsyn."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"TV-programmer med denne klassifiseringen inneholder temaer eller innholdselementer som kanskje ikke er passende for seere under 14 år. Foreldre anbefales på det sterkeste å være forsiktige med å tillate barn og unge tenåringer å se på slike programmer uten tilsyn av foreldre/verger, da TV-programmer med denne klassifiseringen kan behandle voksne temaer og samfunnsspørsmål på en realistisk måte."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Dette TV-programmet er beregnet på seere som er 18 år eller eldre."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programmer som er fritatt klassifisering."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Dette programmet er passende for personer i alle aldre. Et program med G-vurdering kan såre følelsene til barn under 8 år."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Programmet er egnet for et generelt publikum, men kan inneholde mild eller sporadisk vold som kan opprøre unge barn. Det anbefales derfor at unge barn (8 år eller yngre) ser med tilsyn fra voksne."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Programmet er egnet for personer som er 13 år eller eldre. Barn under 13 år kan bare slippe inn i følge med en voksen."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Programmet er egnet for personer som er 16 år eller eldre. Programmer med denne vurderingen presenterer problematiske temaer, situasjoner eller atferd og fremmer mer direkte synspunkter."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Programmet er egnet for personer som er 18 år eller eldre. Programmer som er forbeholdt voksne, inneholder vanligvis eksplisitte seksuelle situasjoner. De kan også være ekstremt voldelige og vise scener med veldig realistisk mishandling, tortur og skrekk."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Anbefales for alle aldre."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Anbefales for barn."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Anbefales for voksne."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programmene inneholder ikke materiale som er upassende for noen aldersgrupper."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programmene kan inneholde materiale som er upassende for barn under 7 år. Foreldre bør derfor bruke eget skjønn."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"TV-programmer kan inneholde materiale som er upassende for barn under 12 år. Foreldre bør derfor bruke eget skjønn."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programmer kan inkludere innhold som er upassende for seere under 15 år. Foreldre bør bruke eget skjønn."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programmer kan inkludere innhold som er upassende for seere under 19 år, og er derfor ikke passende for personer under 19 år."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Egnet for alle aldre."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Passer for alle, men foreldre bør veilede barna sine."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Egnet for personer som er 13 år eller eldre, men foreldreveiledning anbefales for barn under 13 år."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Egnet for personer som er 16 år eller eldre."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Egnet for personer som er 18 år eller eldre."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Egnet for voksne som er 21 år eller eldre."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Egnet for barn i alderen 3–6 år."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Egnet for barn i alderen 6–12 år."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Passer for alle."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Egnet for personer som er 13 år eller eldre."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Egnet for personer som er 18 år eller eldre. Barn under 18 år bør ledsages av voksne."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Egnet for voksne"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Usømmelig dialog"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Grovt språk"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Seksuelt innhold"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Vold"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Fantasivold"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Dette programmet er laget for barn i alle aldre."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Dette programmet er laget for barn fra 7 år og oppover."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"De fleste foreldre anser dette programmet som passende for alle aldre."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Dette programmet inneholder scener som foreldre kan synes er upassende for yngre barn. Mange foreldre foretrekker at yngre barn ser på sammen med foreldrene."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Dette programmet inneholder scener som mange foreldre ikke synes er passende for barn under 14 år."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Dette programmet er laget spesifikt for en voksen målgruppe og kan derfor være upassende for barn under 17 år."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Generell målgruppe. Har ikke innhold som foreldre kan finne støtende for barn."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Foreldreveiledning anbefales. Mange foreldre kan mene at noe av innholdet ikke er egnet for yngre barn."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Foreldre advares på det sterkeste. Noe av innholdet er kanskje ikke egnet for barn under 13 år."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Begrenset – inneholder noe voksent materiale. Foreldre oppfordres til å finne ut mer om filmen før de tar med seg små barn."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Ikke tillatt for personer under 18 år. Tydelig voksent innhold. Ikke tillatt for barn."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Egnet for voksne"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Barn under 10 år har ikke tillatelse til å se programmet/filmen."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Egnet for alle aldre."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Barn under 10 år kan se programmet/filmen, men må være i følge med en voksen."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Barn under 13 år kan se programmet/filmen, men må være i følge med en voksen."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Barn under 13 år har ikke tillatelse til å se programmet/filmen."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Barn under 16 år har ikke tillatelse til å se programmet/filmen."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Barn under 18 år har ikke tillatelse til å se programmet/filmen."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"dette er forbeholdt filmer av ekstrem seksuell natur (pornografi)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Av"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blokkér"</string>
+    <string name="rating_years" msgid="2286124473198629391">"År"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Aldersgrenser"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Egnethet"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Ikke definert"</string>
+</resources>

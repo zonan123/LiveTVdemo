@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name" translatable="false">Live TV</string>
+    <string name="menu_samba_setting" translatable="false">Samba Interactive TV</string>
+    <string name="menu_setup_automatic_content" translatable="false">Alphonso Automatic Content Recognition</string>
+    <string name="menu_setup_recommendations" translatable="false">Recommendations</string>
+    <string name="dvbc_operator_vodafone" translatable="false">Vodafone</string>
+    <string name="dvbc_operator_akado_russia" translatable="false">АКАДО Телеком</string>
+    <string name="dvbc_operator_magenta" translatable="false">Magenta</string>
+    <string name="dvbc_operator_telenor" translatable="false">Telenor</string>
+    <string name="dvbc_operator_dsmart" translatable="false">D-Smart</string>
+
+    <string name="hdr_hdr10" translatable="false">HDR10</string>
+    <string name="hdr_hlg" translatable="false">HLG</string>
+    <string name="hdr_dovi" translatable="false">DOVI</string>
+    <string name="hdr_technt" translatable="false">TECHNT</string>
+    <string name="hdr_hdr10_" translatable="false">HDR10+</string>
+
+    <string name="title_pvr_total_time" translatable="false">100000:00:00</string>
+
+    <!-- dvbs operators  -->
+    <string name="dvbs_operator_name_joyne_nld" translatable="false">Joyne Netherlands</string>
+    <string name="dvbs_operator_name_joyne_bel" translatable="false">Joyne Belgium</string>
+    <string name="dvbs_operator_name_upc_direct" translatable="false">UPC Direct</string>
+    <string name="dvbs_operator_name_upc_direct_sd" translatable="false">UPC Direct SD</string>
+    <string name="dvbs_operator_name_focussat" translatable="false">FocusSAT</string>
+    <string name="dvbs_operator_name_focussat_sd" translatable="false">FocusSAT SD</string>
+    <string name="dvbs_operator_name_freesat" translatable="false">Freesat</string>
+    <string name="dvbs_operator_name_freesat_cz" translatable="false">freeSAT CZ</string>
+    <string name="dvbs_operator_name_freesat_cz_sd" translatable="false">freeSAT CZ SD</string>
+    <string name="dvbs_operator_name_freesat_sk" translatable="false">freeSAT SK</string>
+    <string name="dvbs_operator_name_freesat_sk_sd" translatable="false">freeSAT SK SD</string>
+    <string name="dvbs_operator_name_m7_fast_scan" translatable="false">FastScan</string>
+    <string name="dvbs_region_select_finish_tip">Press [right] to swap channels.</string>
+    <string name="menu_tv_m7_scan_confirm_new" >Start LNB search now? If you skip this step, users need to setup the settings and it also could be performed in Menu.</string>
+    <string name="dvbs_same_orbits_lnb_toast"><xliff:g id="satellite_name">%1$s</xliff:g> exists in different LNBs!</string>
+    <string name="dvbs_fast_scan_operator_list">Operator List</string>
+    <string name="dvbs_fast_scan_operator_dialog_msg">There has no matched operator for current country. No channels are installed.</string>
+    <string name="dvbs_fast_update_scan_msg">Are you sure to install channels with the new operator? All the installed channels will be removed.</string>
+    <string name="dvbs_fast_version_change_msg">There has a new version availble, do you want to update to the latest? Or you can update it by "Menu -> Satellite Update" later.</string>
+    <plurals name="dvbs_fast_orbits_error_msg">
+        <item quantity="one">Operator <xliff:g id="one">%1$s</xliff:g> cannot be installed - missing SAT position <xliff:g id="one">%2$s</xliff:g></item>
+        <item quantity="other">Operator <xliff:g id="one">%1$s</xliff:g> cannot be installed - missing SAT position <xliff:g id="two">%2$s</xliff:g> and <xliff:g id="three">%3$s</xliff:g></item>
+    </plurals>
+    <string name="nav_USALS" translatable="false">USALS</string>
+    <string name="options_item_ginga" translatable="false">Ginga</string>
+
+    <string name="audio_type_dts_x" translatable="false">DTS:X</string>
+
+    <string name="ews_bencana" translatable="false">BENCANA:</string>
+    <string name="ews_tanggal" translatable="false">TANGGAL:</string>
+    <string name="ews_posisi" translatable="false">POSISI:</string>
+    <string name="ews_karakter" translatable="false">KARAKTER:</string>
+    <string name="ews_pesan" translatable="false">PESAN:</string>
+
+    <string name="dvbs_diseqc_10" translatable="false">DiSEqC 1.0</string>
+    <string name="dvbs_diseqc_11" translatable="false">DiSEqC 1.1</string>
+    <string name="dvbs_diseqc_unicable1" translatable="false">Unicable Ⅰ</string>
+    <string name="dvbs_diseqc_unicable2" translatable="false">Unicable Ⅱ</string>
+
+    <string name="full_max_percent" translatable="false">100%</string>
+    <string name="time_zero_start" translatable="false">00:00:00</string>
+    <string name="pvr_play_start_time" translatable="false">00:00:00/00:00:00</string>
+    <string name="channel_finetune_MHz" translatable="false">%1sMHz</string>
+    <string name="channel_name_too_lang" translatable="false">%1s…</string>
+    <string name="str_uk_banner_ad_icon" translatable="false">"AD"</string>
+    <string name="str_uk_banner_sl_icon" translatable="false">"SL"</string>
+
+    <string name="menu_arrays_French">French</string>
+    <string name="menu_arrays_German">German</string>
+    <string name="menu_arrays_Greek">Greek</string>
+    <string name="menu_arrays_Icelandic">Icelandic</string>
+    <string name="menu_arrays_Mandarin">Mandarin</string>
+    <string name="menu_arrays_Maori">Maori</string>
+    <string name="menu_arrays_Romanian">Romanian</string>
+    <string name="menu_arrays_Sami">Sami</string>
+    <string name="menu_arrays_Serbian">Serbian</string>
+    <string name="menu_arrays_Slovak">Slovak</string>
+    <string name="menu_arrays_Spanish">Spanish</string>
+    <string name="menu_arrays_Valencian">Valencian</string>
+    <string name="menu_arrays_Welsh">Welsh</string>
+    <string name="menu_arrays_Basque">Basque</string>
+    <string name="menu_arrays_Croatian">Croatian</string>
+    <string name="menu_arrays_Czech">Czech</string>
+    <string name="menu_arrays_Dutch">Dutch</string>
+    <string name="menu_arrays_Persian">Persian</string>
+    <string name="channel_name_can_not_edit">Can not edit</string>
+    <string name="nav_select_type_groups">"Groups"</string>
+    <string name="nav_select_type_tv">"TV"</string>
+    <string name="dvbs_operator_ntvplus_56E" translatable="false">NTV-PLUS 56E</string>
+    <string name="dvbs_operator_ntvplus_140E" translatable="false">NTV-PLUS 140E</string>
+    <string name="dvbs_operator_name_tricolor_siberia" translatable="false">Tricolor TV Siberia</string>
+    <string name="dvbs_operator_name_tricolor_far_east" translatable="false">Tricolor TV Far East</string>
+    <string name="dvbs_operator_name_telekarta_140E" translatable="false">Telekarta 140E</string>
+    <string name="epg_active_minute">"00"</string>
+    <string name="menu_tv_block_loading">Blocking. Please wait...</string>
+    <string name="nav_tip_AD_feature_not_available">"Feature not available"</string>
+    <string name="nav_uk_channellist_show_player">Show Players</string>
+</resources>

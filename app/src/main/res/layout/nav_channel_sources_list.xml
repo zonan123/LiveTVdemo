@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- input resource list -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_ll_sourceList_model"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nav_channel_sources_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.88"
+        android:gravity="center"
+        android:text="@string/nav_channel_sources_title_string"
+        android:textColor="@color/white"
+        android:textSize="@dimen/nav_textsize_large"
+        android:background="@color/nav_list_common_title_color" />
+
+    <com.mediatek.wwtv.tvcenter.commonview.CustListView
+        android:id="@+id/nav_channel_sources_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.12"
+        android:choiceMode="singleChoice"
+        android:background="@color/nav_list_common_view_back_color"
+        android:divider="@drawable/translucent_background"
+        android:listSelector="@drawable/nav_source_list_selector" >
+
+        <requestFocus />
+    </com.mediatek.wwtv.tvcenter.commonview.CustListView>
+    
+    <LinearLayout android:id="@+id/nav_channel_source_toast_ly"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.88"
+        android:background="@color/nav_list_common_view_back_color" >
+        <TextView android:id="@+id/nav_channel_source_enter_textview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableRight="@drawable/tk_cm_key_enter"
+            android:layout_marginRight="@dimen/lb_dialog_list_item_right_padding" />
+        <TextView android:id="@+id/nav_channel_source_exit_textview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/tk_cm_key_exit"
+            android:layout_marginLeft="@dimen/lb_dialog_list_item_right_padding" />
+    </LinearLayout>
+
+</LinearLayout>

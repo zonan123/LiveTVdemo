@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Rekomenduojama asmenims nuo <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> m."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Tinka visoms auditorijoms. Programose gali būti neintensyvaus smurto, vartojama nešiurkšti kalba ir rodoma nedaug situacijų suaugusiesiems."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Tinka asmenims nuo 13 m. Programose gali būti neintensyvaus smurto, vartojama nešiurkšti ar šiek tiek šiurkšti kalba ir rodoma šiek tiek nepadorių seksualinio pobūdžio užuominų."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Tinka asmenims nuo 16 m. Programose gali būti intensyvesnio smurto ir vartojama nemandagi kalba, rodomos dalinės nuogybės ir šiek tiek daugiau nepadorių seksualinio pobūdžio užuominų."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Tinka tik suaugusiesiems. Programose yra intensyvaus smurto, vartojama nemandagi kalba ir rodoma atvirų seksualinio pobūdžio užuominų."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Narkotikai"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Seksas"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Smurtas"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Medžiaga, klasifikuojama kaip P, skirta priešmokyklinukams."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Medžiaga, klasifikuojama kaip C, skirta jaunesniems nei 14 m. vaikams (ne priešmokyklinukams)."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Medžiaga, klasifikuojama kaip G, nebūtinai yra skirta vaikams, bet ji turi daryti labai nedidelę įtaką ir joje negali būti dalykų, netinkamų žiūrėti neprižiūrimiems vaikams."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Medžiagoje, klasifikuojamoje kaip PG, gali būti suaugusiesiems skirtų temų ar koncepcijų, bet ji turi daryti nedidelę įtaką ir būti tinkama žiūrėti prižiūrimiems vaikams."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Medžiaga, klasifikuojama kaip M, skirta suaugusiųjų auditorijoms. Rekomenduojama žiūrėti tik ne jaunesniems nei 15 m. asmenims."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Medžiaga, klasifikuojama kaip MA, tinka žiūrėti tik ne jaunesniems nei 15 m. asmenims dėl smurto intensyvumo ir (arba) dažnio, seksualinių vaizdų, nemandagios kalbos, temų suaugusiesiems ar narkotikų vartojimo. Gali smarkiai paveikti."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Medžiaga, klasifikuojama kaip AV, tinka žiūrėti tik ne jaunesniems nei 15 m. asmenims. Ji netinkama MA klasifikacijai dėl smurto intensyvumo ir (arba) dažnio arba dėl to, kad smurtas yra pagrindinė tema. Kitais atžvilgiais klasifikacijos reikalavimai yra tokie patys kaip ir MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Medžiaga, klasifikuojama kaip R, yra teisėtai ribojama ir tinkama tik suaugusiesiems. Tam tikra R kategorijai priskiriama medžiaga gali įžeisti tam tikrų suaugusiųjų bendruomenės segmentų atstovus."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Bendrosios auditorijos"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Nerekomenduojama asmenims iki <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> m."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Narkotikai"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Seksas"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Smurtas"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Leidžiamos programos: naujienų, sporto, dokumentikos ir kitos informacinės programos; pokalbių laidos, muzikiniai vaizdo įrašai ir daug kitų programų."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Šis programavimas skirtas jaunesniems nei 8 m. mažiesiems."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Šis programavimas skirtas 8 m. ir vyresniems jaunuoliams. Tėvams ir (ar) globėjams siūloma programas, pagal klasifikaciją skirtas jaunesniems nei 8 m. mažiesiems, žiūrėti kartu."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Šis programavimas skirtas visoms amžiaus grupėms ir programos tinkamos žiūrėti visai šeimai."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Nors šis programavimas skirtas bendrajai auditorijai, jis gali būti netinkamas mažiesiems (jaunesniems nei 8 m. vaikams). Tėvai ir (ar) globėjai turėtų žinoti, kad programose gali būti turinio elementų, kurie gali būti laikomi netinkamais be priežiūros žiūrėti 8–13 m. vaikams."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Šios klasifikacijos programose yra temų ar turinio elementų, kurie gali būti netinkami jaunesniems nei 14 m. žiūrintiesiems. Tėvams labai rekomenduojama savo nuožiūra leisti ar neleisti mažamečiams ir jauniems paaugliams žiūrėti jas be tėvų ir (ar) globėjų priežiūros, nes programuojant pagal šią klasifikaciją gali būti įtraukta suaugusiesiems skirtų ir realistiškų socialinių temų."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Šis programavimas skirtas 18 m. ir vyresniems žiūrintiesiems."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programos neklasifikuojamos."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Programą tinka žiūrėti įvairaus amžiaus asmenims. Programa, priskirta G kategorijai, gali užgauti jaunesnių nei 8 m. vaikų jausmus."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Programa tinka plačiajai visuomenei, bet joje gali būti lengvo ar netyčinio smurto, kuris gali trikdyti mažus vaikus. Mažiems vaikams (iki 8 m.) rekomenduojama žiūrėti prižiūrint suaugusiajam."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Programą tinka žiūrėti 13 m. ar vyresniems asmenims. Jaunesniems nei 13 m. vaikams žiūrėti galima tik kartu su suaugusiuoju."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Programą tinka žiūrėti 16 m. ar vyresniems asmenims. Šios kategorijos programose rodomos probleminės temos, situacijos ar elgesys ir į dalykus žvelgiama atviriau."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Programą tinka žiūrėti 18 m. ar vyresniems asmenims. Suaugusiesiems skirtose programose dažniausiai pirmiausia rodomas atviras seksualinis turinys. Jos taip pat gali būti labai smurtinės, jose rodomos hiperrealistinio žiaurumo, kankinimų ir siaubo scenos."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Rekomenduojama bet kokio amžiaus asmenims."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Rekomenduojama vaikams."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Rekomenduojama suaugusiesiems."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programose nėra medžiagos, netinkamos kuriai nors amžiaus grupei, tad programos tinka visiems."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programose gali būti medžiagos, netinkamos jaunesniems nei 7 m. vaikams, ir ją turėtų įvertinti tėvai."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programose gali būti medžiagos, netinkamos jaunesniems nei 12 m. vaikams, ir ją turėtų įvertinti tėvai."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programose gali būti jaunesnėms nei 15 m. auditorijoms nepriimtino turinio ir jas turėtų įvertinti tėvai."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programose gali būti jaunesnėms nei 19 m. auditorijoms nepriimtino turinio, todėl jos nėra tinkamos jaunesniems nei 19 m. jaunuoliams."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Tinka bet kokio amžiaus asmenims."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Tinka visiems, bet tėvai turėtų prižiūrėti mažus vaikus."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Tinka 13 m. ir vyresniems asmenims, tėvai turėtų prižiūrėti jaunesnius nei 13 m. vaikus."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Tinka 16 m. ir vyresniems asmenims."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Tinka 18 m. ir vyresniems asmenims."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Tinka 21 m. ir vyresniems suaugusiesiems."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Tinka vaikams nuo 3 iki 6 m."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Tinka vaikams nuo 6 iki 12 m."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Tinka bendrosioms auditorijoms."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Tinka 13 m. ir vyresniems asmenims."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Tinka 18 m. ir vyresniems asmenims bei jaunesniems asmenims su tėvų priežiūra."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Tinka suaugusiesiems"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dviprasmiškas dialogas"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Nemandagi kalba"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Seksualinis turinys"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Smurtas"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Maginės fantastikos smurtas"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Ši programa sukurta, kad būtų tinkama visiems vaikams."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Ši programa sukurta 7 m. ir vyresniems vaikams."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Dauguma tėvų šią programą laikytų tinkama bet kurio amžiaus vaikams."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Šioje programoje yra turinio, kurį tėvai gali laikyti netinkamu jaunesniems vaikams. Dauguma tėvų turėtų žiūrėti kartu su jaunesniais vaikais."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Šioje programoje yra turinio, kurį dauguma tėvų laikytų netinkamu jaunesniems nei 14 m. vaikams."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Ši programa skirta žiūrėti tik suaugusiesiems, todėl gali būti netinkama vaikams iki 17 m."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Bendrosios auditorijos. Nėra nieko, dėl ko tėvai neleistų vaikams žiūrėti."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Rekomenduojama tėvų priežiūra. Gali būti turinio, dėl kurio tėvai gali neleisti mažiems vaikams žiūrėti."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Labai rekomenduojama tėvų priežiūra. Tam tikras turinys gali būti netinkamas jaunesniems nei 13 m. vaikams."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Apribota, yra turinio suaugusiesiems. Tėvams labai rekomenduojame daugiau sužinoti apie filmą prieš pasiimant mažus vaikus kartu."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Leidžiama tik vyresniems nei 17 m. asmenims. Aiškiai skirta tik suaugusiesiems. Vaikams neleidžiama."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Tinka suaugusiesiems"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Jaunesniems nei 10 m. vaikams šią programą ar vaizdo įrašą žiūrėti draudžiama."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Tinka bet kokio amžiaus asmenims."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Jaunesni nei 10 m. vaikai gali žiūrėti šią programą ar filmą kartu su suaugusiuoju."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Jaunesni nei 13 m. vaikai gali žiūrėti šią programą ar filmą kartu su suaugusiuoju."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Jaunesniems nei 13 m. vaikams šią programą ar vaizdo įrašą žiūrėti draudžiama."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Jaunesniems nei 16 m. vaikams šią programą ar vaizdo įrašą žiūrėti draudžiama."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Jaunesniems nei 18 m. vaikams šią programą ar vaizdo įrašą žiūrėti draudžiama."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"skirta atviro seksualinio pobūdžio filmams (pornografijai)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Išjungta"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blokuoti"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Metai"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Amžiaus įvertinimai"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Turinio įvertinimai"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Neapibrėžta"</string>
+</resources>

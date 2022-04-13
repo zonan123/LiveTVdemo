@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"დისკი მზად არ არის!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR-ის დაწყება ვერ მოხერხდა. დისკი მზად არ არის!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ფაილი წარმატებით შეიქმნა"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR-ის დაწყება ვერ მოხერხდა. ჯერ გამოდით PIP-დან!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR-ის დაწყება ვერ მოხერხდა. ჯერ გადადით ციფრულ სატელევიზიო წყაროზე!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR-ის დაწყება ვერ მოხერხდა. სიგნალი ვერ მოიძებნა!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR-ის დაწყება ვერ მოხერხდა. დროის გადაწევა გაშვებულია!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV ნაკადი მიუწვდომელია!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"ნაკადი ავტორიზებული არ არის!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"შეყვანის წყარო ჩაკეტილია!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"ვიდეოს გარჩევადობის შეცდომა!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"მოხდა შიდა შეცდომა!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"დროის გადაწევა მიუწვდომელია. ჯერ გადით PVR-დან!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"მოწყობილობები არ არის ან მიუწვდომელია. ცადეთ მოგვიანებით!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR-ის შეჩერება და შემდეგ ჩანაწერის შენახვა."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"დისკი გათიშულია"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ყურადღება: არ გამორთოთ კვებიდან მოწყობილობა, ამან შეიძლება დაუდგენელი შეცდომები გამოიწვიოს!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"საკმარისი ადგილი არ არის. დისკზე მინიმუმ 1 გბაიტი თავისუფალი მეხიერება უნდა იყოს."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"ფუნქცია მხარდაჭერილი არ არის."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"გადახვევის გაგრძელება მხარდაჭერილი არ არის."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ფაილი მხარდაჭერილი არ არის."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ფორმატირება ყველა მონაცემს ამოშლის"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"დარწმუნებული ხართ?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"ამ ფაილს წავშლი."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"მიმდინარეობს სიჩქარის ტესტირება"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"არ გამორთოთ კვებიდან მოწყობილობა"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"დისკის ფორმატირება დასრულებულია"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"დისკის ფორმატირება ვერ მოხერხდა"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"სიჩქარის ტესტირება დასრულებულია"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"მაქსიმალური სიჩქარეა "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"მიმდინარეობს ჩაწერა!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR-ის დაკვრა"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"დროის შეცვლა"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"ჩაწერის დაწყება"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"ჩაწერის შეწყვეტა"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR გაშვებულია!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"გსურთ, შეწყვიტოთ ჩაწერა\n და EPG-ზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და EPG-ზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"გსურთ, შეწყვიტოთ ჩაწერა \n და არხი შეცვალოთ?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"გსურთ, შეწყვიტოთ ჩაწერა\n და წყარო შეცვალოთ?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და არხი შეცვალოთ?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და შეცვალოთ წყარო?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"გსურთ, შეწყვიტოთ ჩაწერა\n და PIP/POP რეჟიმზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და PIP/POP რეჟიმზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"გსურთ, შეწყვიტოთ PVR დაკვრა\n და PIP/POP რეჟიმზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და ჩანაწერების სიაზე გადახვიდეთ?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"გსურთ PIP/POP რეჟიმზე გადასვლა?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"დაგეგმილია ჩაწერა"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"გსურთ, დაიწყოთ ჩაწერა?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"გსურთ, შეწყვიტოთ დროის გადაწევა?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"დესკრემბლირებულ არხს ხელის შეშლა შეუძლია. გსურთ გაგრძელება?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"გაფრთხილება"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"მოწყობილობის ინფორმაციის პარამეტრი"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"დაფორმატება მთლიანად წაშლის მონაცემებს. ნამდვილად გსურთ ეს?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"დროის გადაწევის ფუნქცია იწერს!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR გაშვებულია!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"გაშვებულია PVR დაკვრა!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"დროის გადაწევის ფუნქცია მიუწვდომელია"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"გაშვებულია მეხსიერების წაკითხვისა და ჩაწერის ტესტირების პროგრამა."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"მბაიტი/წმ"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"დაგეგმილია ჩაწერა: [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>], გსურთ ჩაწერის დაწყება?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"სახელი:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"დაგეგმილია შეხსენება."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"გსურთ არხის ყურება?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>]-ის ჩაწერის მცდელობა ჩაიშალა"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>]-ის ჩანაწერს <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> წამი აკლია"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"შენახულია ჩანაწერის ნაწილი. ელკვება გამოირთო ჩაწერის განმავლობაში."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"მოვლენების მოდელი"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"პროგრამების დროის განსაზღვრა"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"სიგნალით მხარდაჭერილი ჩაწერა"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"„სიგნალით მხარდაჭერილი ჩაწერის“ რედაქტირება ვერ მოხერხდა"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"დროის გადაწევა შეწყდა."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"მიმდინარეობს ჩაწერა! სიჩქარის ტესტირება ვერ მოხერხდა!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"გაშვებულია დროის გადაწევა! სიჩქარის ტესტირება ვერ მოხერხდა!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"წვდომა უარყოფილია. სიჩქარის ტესტირება ვერ მოხერხდა!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"დისკის მეხსიერება არ არის საკმარისი! სიჩქარის ტესტირება ვერ მოხერხდა!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"სიჩქარის ტესტირება ვერ მოხერხდა!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"წინ და უკან გადახვევა მხარდაუჭერელია"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"ერთეულის წაშლისას წარმოიშვა შეცდომა, რადგან არხი ახორციელებს ჩაწერას"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"გაშვებულია PVR ან მიმდინარეობს PVR ფაილის დაკვრა.\nგთხოვთ, შეაჩეროთ ეს პროცესი, შემდეგ კი ხელახლა ცადოთ!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"დროის გადაწევა გაშებულია.\nგთხოვთ, შეაჩეროთ ის, შემდეგ კი ხელახლა ცადოთ!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"მიმდინარე არხი არასწორია."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"მიმდინარეობს გადაგზავნა! ცადეთ მოგვიანებით."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"მიმდინარეობს გადახვევა! ცადეთ მოგვიანებით."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"დროის გადაწევის ჩანაწერები სავსეა, ისევე როგორც ავტომატური დაკვრა."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"წინა არხზე გადართვა ვერ მოხერხდება! \n და დროის გადაწევა ისევ ახორციელებს ჩაწერას."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"შეუსრულებელი ან არასრული ჩაწერები"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"ნაწილობრივი ჩანაწერი, ნაწილობრივი ჩაწერა სიგნალის დაკარგვის გამო მოხდა!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"ნაწილობრივი ჩანაწერი, ნაწილობრივი ჩაწერა EIT-ის არარსებობის გამო მოხდა!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"ნაწილობრივი ჩანაწერი, ნაწილობრივი ჩაწერა EIT-ის არარსებობის და სიგნალის დაკარგვის გამო მოხდა!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"დაფიქსირდა დასაწყისი დროის შეცდომა — მითითებული ახლანდელი დრო მიმდინარე დროზე ადრეა!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"დაფიქსირდა ფაილის სიგრძის უკმარისობა!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"განრიგის მოთხოვნილი დამატება აჭარბებს დაშვებულების მაქსიმალურ რაოდენობას."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"გსურთ, შეწყვიტოთ ჩაწერის პროცესი \n და არხის ტიპი შეცვალოთ?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"გსურთ, შეწყვიტოთ დროის გადაწევა\n და არხის ტიპი შეცვალოთ?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"არხების გადართვა დაუშვებელია ჩაწერისთვის მზადებისას."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"მიმდინარეობს ფორმატირება"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"დისკის ფორმატირება ვერ მოხერხდა. მიმდინარეობს ჩაწერა!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"დისკის ფორმატირება ვერ მოხერხდა. დროის გადაწევა გაშვებულია!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"სიჩქარე არასწორია!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"მიმდინარეობს ფორმატირება! მოითმინეთ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"წინ გადახვევის რეჟიმი მხარდაჭერილი არ არის"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"უკან გადახვევის რეჟიმი მხარდაჭერილი არ არის"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"დისკის დაბალი სიჩქარე და მონაცემების ჩამოყრა"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"ზოგიერთი დაგეგმილი ჩანაწერის გაკეთება არ მოხერხდა ან არასრულია!"</string>
+</resources>

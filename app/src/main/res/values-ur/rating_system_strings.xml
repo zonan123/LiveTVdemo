@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"<xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> سال اور اس سے زیادہ عمر کے افراد کیلئے تجویز کردہ۔"</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"سبھی ناظرین کیلئے موزوں۔ پروگرامز میں ہلکا تشدد، ناشائستہ زبان اور بالغوں کے حالات شامل ہو سکتے ہیں۔"</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"13 سال اور اس سے زیادہ عمر کے افراد کیلئے موزوں ہیں۔ پروگرامز میں ہلکے سے لیکر معتدل تک ناشائستہ زبان، ہلکا تشدد اور جنسی حوالے شامل ہو سکتے ہیں۔"</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"16 سال اور اس سے زیادہ عمر کے افراد کیلئے موزوں۔ پروگرامز میں انتہائی تشدد اور نامناسب زبان، جزوی عریانیت اور معتدل جنسی حوالے شامل ہو سکتے ہیں۔"</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"صرف بالغ ناظرین کیلئے مناسب ہے۔ پروگرامز میں زبردست تشدد، نامناسب زبان اور واضح جنسی حوالے شامل ہو سکتے ہیں۔"</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"منشیات"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"جنسیت"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"تشدد"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"P زمرہ بندی والا مواد پری اسکول کے بچوں کیلئے ہے۔"</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"C زمرہ بندی والا مواد بچوں (پری اسکول کے بچوں کے علاوہ) کیلئے ہے جن کی عمر 14 سال سے کم ہے۔"</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"G زمرہ بندی والا مواد ضروری نہیں کہ بچوں کیلئے ہو لیکن اس کا اثر بہت ہلکا ہونا چاہیے اور اس میں کوئی ایسا مواد نہیں ہونا چاہیے جس کا نگرانی کے بغیر دیکھنا بچوں کیلئے ممکنہ طور پر نامناسب ہو۔"</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"PG زمرہ بندی والے مواد میں بالغانہ تھیمز یا تصورات شامل ہو سکتے ہیں لیکن اس کا اثر معتدل ہونا چاہئے اور نگرانی کے ساتھ بچوں کے دیکھنے کیلئے موزوں ہونا چاہئے۔"</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"M زمرہ بندی والا مواد بالغ ناظرین کیلئے ہے۔ 15 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے اس کی تجویز کی جاتی ہے۔"</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"شدت اور/یا بار بار تشد، جنسی تفصیلات، نامناسب زبان اور بالغوں کی تھیمز یا منشیات کے استعمال کی وجہ سے MA زمرہ بندی والا مواد 15 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ اس کا اثر بہت زیادہ ہو سکتا ہے۔"</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"AV زمرہ بندی والا مواد 15 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ یہ MA کی درجہ بندی کیلئے غیر موزوں ہے، اسلئے کہ اس میں شدت اور/یا بار بار تشدد ہو سکتا ہے یا تشدد ہی اس کا اصل موضوع ہو سکتا ہے۔ دوسرے الفاظ میں، درجہ بندی کی ضروریات MA درجہ بندی جیسی ہی ہیں۔"</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"R زمرہ بندی والے مواد کو قانونی طور پر بالغ افراد ہی دیکھ سکتے ہیں۔ R زمرہ بندی والا کچھ مواد بالغ کمیونٹی کے سیکشنز کیلئے جارحانہ ہو سکتا ہے۔"</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"عمومی ناظرین"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"<xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> سال سے کم عمر کیلئے تجویز کردہ نہیں ہے۔"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"منشیات"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"جنسیت"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"تشدد"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"مبراء پروگرامنگ میں شامل ہیں: خبریں، کھیل، ڈاکومنٹری اور دیگر معلوماتی پروگرامنگ جیسے: ٹاک شوز، میوزک ویڈیوز، اور ورائٹی پروگرامنگ۔"</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"یہ پروگرام 8 سال سے کم عمر کے بچوں کیلئے ہے۔"</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"یہ پروگرام 8 سال اور اس سے بڑے بچوں کیلئے ہے۔ ہماری یہ تجویز ہے کہ اس کلاسیفیکیشن والے پروگرام کو والدین/سرپرست 8 سال سے کم عمر بچوں کے ساتھ مل کر دیکھیں۔"</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"یہ پروگرام تمام عمر کے ناظرین کے لیے ہے۔ اسے فیملی کا ہر رکن دیکھ سکتا ہے۔"</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"یہ پروگرامنگ اگرچہ عمومی ناظرین کیلئے ہے لیکن شاید (8 سال سے کم عمر کے) چھوٹے بچوں کیلئے مناسب نہ ہو۔ والدین/سرپرستوں کو پتہ ہونا چاہئیے کہ مواد میں ایسے عناصر ہو سکتے ہیں جنہیں کچھ لوگ 8 سے 13 سال کی عمر کے بچوں کا بغیر نگرانی کے دیکھنا مناسب نہ سمجھیں۔"</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"اس کلاسیفیکیشن والی پروگرامنگ میں ایسے تھیمز اور مواد والے عناصر شامل ہیں جو شاید 14 سال سے کم عمر کے ناظرین کیلئے مناسب نہ ہوں۔ والدین کو سختی سے تنبیہ کی جاتی ہے کہ لڑکپن سے پہلے اور لڑکپن کے شروع والی عمر کے بچوں کو والدین/سرپرست کی نگرانی کے بغیر اسے دیکھنے کی اجازت دینے کے سلسلے میں صوابدید ضرور برتیں، کیونکہ اس کلاسیفیکیشن والی پروگرامنگ میں سنجیدہ تھیمز اور سماجی مسائل کو حقیقی تناظر میں دکھایا جاتا ہے۔"</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"یہ پروگرامنگ 18 سال یا اس سے زیادہ عمر کے ناظرین کیلئے ہے۔"</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"درجہ بندی سے مبرا پروگرامز۔"</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"یہ پروگرام تمام عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ G درجہ بندی والا پروگرام آٹھ سال سے کم عمر کے بچوں کے جذبات کو ٹھیس پہنچا سکتا ہے۔"</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"پروگرام عام عوام کیلئے موزوں ہے لیکن اس میں معتدل یا کبھی کبھار تشدد ہوسکتا ہے جس کی وجہ چھوٹے بچوں کو پریشانی لاحق ہو سکتی ہے۔ اسی وجہ سے بالغوں کی نگرانی کے ساتھ چھوٹے بچوں (8 سال اور اس سے کم عمر) کے لیے دیکھنے کی تجویز کی جاتی ہے۔"</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"یہ پروگرام 13 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ 13 سال سے کم عمر کے بچے کسی بڑے کے ساتھ ہونے پر ہی دیکھ سکتے ہیں۔"</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"یہ پروگرام 16 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ اس درجہ بندی والے پروگرامز میں پریشان کن تھیمز، حالات یا رویے ہوتے ہیں۔ ساتھ ہی اس میں چیزوں کے بارے میں زیادہ واضح نظریہ ہوتا ہے۔"</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"یہ پروگرام 18 سال یا اس سے زیادہ عمر کے افراد کے دیکھنے کیلئے مناسب ہے۔ بالغوں کیلئے مخصوص کردہ پروگرامز میں بنیادی طور پر زیادہ تر صریح جنسی مناظر ہوتے ہیں۔ وہ انتہائی پر تشدد بھی ہو سکتے ہیں، جن میں بالکل اصلی لگنی والی سفاکی، اذیت اور خوف کے مناظر ہو سکتے ہیں۔"</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"سبھی عمر کے افراد کیلئے تجویز کردہ۔"</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"بچوں کیلئے تجویز کردہ۔"</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"بالغوں کیلئے تجویز کردہ۔"</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"پروگرامز ایسے مواد پر مشتمل نہیں جو تمام عمر کے افراد کیلئے نامناسب ہو، اس لئے تمام عمر کے افراد کیلئے موزوں ہیں۔"</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"پروگرامز میں ایسا مواد ہو سکتا ہے جو 7 سال سے کم عمر کے بچوں کیلئے غیر مناسب ہو، اسلئے بچوں کا دیکھنا والدین کی صوابدید پر منحصر ہے۔"</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"پروگرامز میں ایسا مواد ہو سکتا ہے جو 12 سال سے کم عمر کے بچوں کیلئے غیر مناسب ہو، اسلئے بچوں کا دیکھنا والدین کی صوابدید پر منحصر ہے۔"</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"پروگرامز میں ایسا مواد ہو سکتا ہے جو 15 سال سے کم عمر کے بچوں کیلئے غیر مناسب ہو، اسلئے بچوں کا دیکھنا والدین کی صوابدید پر منحصر ہے۔"</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"پروگراموں میں ایسا مواد ہو سکتا ہے جو 19 سال سے کم عمر افراد کیلئے غیر مناسب ہو اور اس لئے یہ پروگرام 19 سال سے چھوٹے نوجوانوں کیلئے موزوں نہیں ہے۔"</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"سبھی عمر کے افراد کیلئے مناسب ہے۔"</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"سبھی کیلئے موزوں لیکن والدین کو اپنے بچوں کی رہنمائی کرنی چاہیے۔"</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"13 سال اور اس سے زیادہ عمر کے افراد کیلئے موزوں لیکن 13 سال سے کم عمر کے بچوں کیلئے والدین کی رہنمائی کا مشورہ دیا جاتا ہے۔"</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"16 سال اور اس سے زیادہ عمر کے لوگوں کیلئے مناسب ہے۔"</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"18 سال اور اس سے زیادہ عمر کے لوگوں کیلئے موزوں۔"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"21 سال اور اس سے زیادہ عمر کے بالغوں کیلئے مناسب ہے۔"</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"3 سے 6 سال تک کے بچوں کیلئے مناسب ہے۔"</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"6 سے 12 سال تک کے بچوں کیلئے مناسب ہے۔"</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"عام سامعین کے لئے موزوں ہے۔"</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"13 اور اس سے زیادہ عمر کے لوگوں کیلئے مناسب ہے۔"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"18 سال اور اس سے زیادہ عمر کے لوگوں کے لیے مناسب ہے۔ 18 سال سے کم عمر کے بچوں کو والدین کی رہنمائی طلب کرنی چاہئے"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"بالغوں کیلئے موزوں"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"فحش مکالمہ"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"نامناسب زبان"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"جنسی مواد"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"تشدد"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"تصوراتی تشدد"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"اس پروگرام کو سبھی بچوں کیلئے مناسب ہونے کیلئے بنایا گیا ہے۔"</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"یہ پروگرام 7 سال اور اس سے زیادہ عمر کے بچوں کیلئے ڈیزائن کیا گیا ہے۔"</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"زیادہ تر والدین اس پروگرام کو سبھی عمر کے افراد کیلئے مناسب پائیں گے۔"</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"اس پروگرام میں ایسا مواد شامل ہے جسے ممکن ہے والدین چھوٹے بچوں کیلئے نامناسب سمجھیں۔ ممکن ہے بہت سے والدین اپنے چھوٹے بچوں کے ساتھ اسے دیکھنا چاہیں۔"</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"اس پروگرام میں کچھ ایسا مواد شامل ہے جسے بہت سے والدین 14 سال سے کم عمر کے بچوں کیلئے نامناسب سمجھیں گے۔"</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"یہ پروگرام خاص طور پر بالغوں کے دیکھنے کیلئے ڈیزائن کیا گیا ہے اور اسی لیے 17 سال سے کم عمر بچوں کیلئے نامناسب ہو سکتا ہے۔"</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"عام ناظرین. اس میں کوئی ایسی چیز نہیں جسے بچے دیکھ لیں تو والدین کو ناگوار گزرے۔"</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"والدین کی رہنمائی کی تجویز دی جاتی ہے۔ اس میں کچھ ایسا مواد ہو سکتا ہے جسے ممکن ہے والدین اپنے چھوٹے بچوں کیلئے پسند نہ کریں۔"</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"والدین کو سختی سے تنبیہ کی جاتی ہے۔ کچھ مواد قبل از لڑکپن بچوں کیلئے نامناسب ہو سکتا ہے۔"</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"عمر کے لحاظ سے پابندی ہے۔ کچھ بالغ مواد شامل ہے۔ والدین سے گزارش ہے کہ اپنے چھوٹے بچوں کو ساتھ لے کر جانے سے پہلے فلم کے متعلق مزید جان لیں۔"</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"17 سال اور اس سے کم عمر کے بچے نہیں دیکھ سکتے۔ یہ مواد صرف بالغین کے لیے ہے۔ بچوں کا دیکھنا منع ہے۔"</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"بالغوں کے لیے موزوں"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"10 سال سے کم عمر کے بچوں کیلئے یہ پروگرام/فلم دیکھنا ممنوع ہے۔"</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"سبھی عمر کے افراد کیلئے مناسب ہے۔"</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"10 سال سے کم عمر کے بچے یہ پروگرام/فلم دیکھ سکتے ہیں، لیکن انہیں ایک بالغ کے ساتھ ہونا ضروری ہے۔"</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"13 سال سے کم عمر کے بچے یہ پروگرام/فلم دیکھ سکتے ہیں، لیکن انہیں ایک بالغ کے ساتھ ہونا ضروری ہے۔"</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"13 سال سے کم عمر کے بچوں کیلئے یہ پروگرام/فلم دیکھنا ممنوع ہے۔"</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"16 سال سے کم عمر کے بچوں کیلئے یہ پروگرام/فلم دیکھنا ممنوع ہے۔"</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"18 سال سے کم عمر کے بچوں کیلئے یہ پروگرام/فلم دیکھنا ممنوع ہے۔"</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"یہ انتہائی جنسی فحش قسم (پورنوگرافی) کی فلموں کیلئے مخصوص ہے۔"</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"آف کریں"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"مسدود کریں"</string>
+    <string name="rating_years" msgid="2286124473198629391">"سال"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"عمر کی درجہ بندیاں"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"مواد کی درجہ بندیاں"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"متعین نہیں ہے"</string>
+</resources>

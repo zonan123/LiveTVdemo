@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Дискът не е готов!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"Стартирането на ЛВР не бе успешно. Дискът не е готов!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Файлът е създаден успешно"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"Стартирането на ЛВР не бе успешно. Първо излезте от режима „Картина в картина (PIP)“!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"Стартирането на ЛВР не бе успешно. Първо превключете към източника на дигитална телевизия!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"Стартирането на ЛВР не бе успешно. Няма намерен сигнал!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"Стартирането на ЛВР не бе успешно. Отложеното възпроизвеждане работи!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"Аудио-/видеопотокът не е налице!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Достъпът до потока не е разрешен!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Входът е заключен!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Грешка в разделителната способност на видеоклипа!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Вътрешна грешка!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Отложеното възпроизвеждане не може да стартира. Първо затворете ЛВР!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Няма устройства или достъп до тях. Опитайте по-късно!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"Спиране на ЛВР и запазване на записа."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Дискът не е свързан"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Внимание: Не изключвайте устройството, защото това може да доведе до неизвестни грешки!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Няма достатъчно място. Свободното място на диска трябва да е поне 1 ГБ."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Функцията не се поддържа."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Многократното придвижване не се поддържа."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Файлът не се поддържа."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"При форматирането ще се изтрият всички данни"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Наистина ли искате това?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Този файл ще бъде изтрит."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Провежда се тест за скоростта"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Не изключвайте устройството"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Форматирането на диска завърши"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Форматирането на диска не бе успешно"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Тестът за скоростта завърши"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"Максималната скорост е "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Записва се!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"Възпроизвеждане от ЛВР"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Отложено възпроизвеждане"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Стартиране на записа"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Спиране на записа"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"ЛВР работи!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Искате ли да спрете записването\n и да отворите електронната програма?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Искате ли да спрете отложеното възпроизвеждане\n и да отворите електронната програма?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Искате ли да спрете записването\n и да промените канала?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Искате ли да спрете записването\n и да промените източника?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Искате ли да спрете отложеното възпроизвеждане\n и да промените канала?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Искате ли да спрете отложеното възпроизвеждане\n и да промените източника?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Искате ли да спрете записването\n и да стартирате режима „Картина в картина“ (PIP) или „Картина до картина“ (POP)?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Искате ли да спрете отложеното възпроизвеждане\n и да влезете в режима „Картина в картина“ (PIP) или „Картина до картина“ (POP)?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Искате ли да спрете възпроизвеждането от ЛВР\n и да влезете в режима „Картина в картина“ (PIP) или „Картина до картина“ (POP)?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Искате ли да спрете отложеното възпроизвеждане\n и да отворите списъка със записи?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Наистина ли искате да влезете в режима „Картина в картина“ (PIP) или „Картина до картина“ (POP)?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Има насрочено записване"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"Искате ли да стартирате записването?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"Искате ли да спрете отложеното възпроизвеждане?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Разкодирането на канала може да доведе до прекъсвания. Искате ли да продължите?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Предупреждение"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Настройка „Информация за устройството“"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Форматирането ще изтрие всички данни. Наистина ли искате да продължите?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Функцията за отложено възпроизвеждане записва!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"ЛВР работи!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"Възпроизвежда се от ЛВР!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Отложеното възпроизвеждане не е достъпно"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Изпълнява се програмата за тестване на скоростта на четене и писане на хранилището."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"МБ/сек"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Има насрочен запис [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Искате ли да стартирате записването?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Име:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Има насрочено напомняне."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"искате ли да гледате този канал?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Опитът за записване за [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] не бе успешен"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"Записването на [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] не бе завършено за <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> сек"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Част от записа бе запазена. Захранването бе изключено по време на записа."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Модел за събития"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Записване в определен час"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Записване спрямо сигнала"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"Настройката „Записване спрямо сигнала“ не може да бъде редактирана"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Функцията за отложено възпроизвеждане спря да работи."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Записва се! Тестът за скорост не бе успешен."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Функцията за отложено възпроизвеждане работи. Тестът за скорост не бе успешен."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Достъпът е отказан. Тестът за скорост не бе успешен."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Недостатъчно място на диска. Тестът за скорост не бе успешен."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Тестът за скорост не бе успешен."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Не се поддържа превъртане напред и назад"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"При изтриването на елемент възникна грешка. Каналът се записва"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"ЛВР работи или възпроизвежда файл.\nМоля, спрете рекордера и опитайте отново!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Функцията за отложено възпроизвеждане работи.\nМоля, спрете я и опитайте отново!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Текущият канал е невалиден."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Превърта се напред. Моля, опитайте отново по-късно."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Превърта се назад! Моля, опитайте отново по-късно."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Записът от функцията за отложено възпроизвеждане е пълен и пуснат автоматично."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Не може да се превключи към предишния канал! \nФункцията за отложено възпроизвеждане още записва."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Неуспешен или непълен запис"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Частичен запис поради загуба на сигнал."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Частичен запис поради липса на EIT."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Частичен запис поради липса на EIT и загуба на сигнал."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Грешка: началният час е преди текущия."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Файлът е прекалено къс!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Заявеното добавяне на насрочено записване надхвърля максималния брой!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Искате ли да спрете записването\n и да промените типа на канала?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Искате ли да спрете отложеното възпроизвеждане\n и да промените типа на канала?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Превключването на каналите не е разрешено, докато тече подготовката за запис."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Форматиране"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Форматирането на диска не бе успешно. Записва се!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Форматирането на диска не бе успешно. Отложеното възпроизвеждане работи!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Невалидна скорост."</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Форматира се. Моля, изчакайте…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Функцията за превъртане напред не се поддържа"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Функцията за превъртане назад не се поддържа"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Данните бяха отхвърлени поради ниската скорост на диска"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"някои насрочени записи не бяха успешни или са незавършени!"</string>
+</resources>

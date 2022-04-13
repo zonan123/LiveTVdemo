@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"နောက်သို့"</string>
+    <string name="setup_select" msgid="1270661539800592611">"ရွေးရန်"</string>
+    <string name="setup_next" msgid="4079616525492116810">"ရှေ့သို့"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"ထွက်ရန်"</string>
+    <string name="satellites" msgid="2437056584091944552">"စလောင်းများ"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"ထည့်သွင်းမှုများ"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"အခွဲ"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"ချန်နယ် အရင်းအမြစ်များ"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"ချန်နယ်များကို ရှာဖွေပါ။"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"လုပ်ဆောင်ချက် မရှိပါ"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"စာရင်း ရွေးရန်"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"နောက်ထပ် ရွေးချယ်ရန်"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"ရွေးရန်"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"စီရန်"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"မူလ"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"အမည်နှင့် ငယ်စဉ်ကြီးလိုက် စီရန်"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"အမည်နှင့် ကြီးစဉ်ငယ်လိုက် စီရန်"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"အသွင်ဝှက်ထားသည်"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"ရှာဖွေရန်"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"ချန်နယ် အမှတ် သို့မဟုတ် အမည်ကို ထည့်သွင်းပါ။"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"ထုတ်လွှင့်ခြင်း"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"အမျိုးအစားများ"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"အတွဲများ"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"ဒစ်ဂျစ်တယ်"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"ဤအမျိုးအစားတွင် ချန်နယ်များ မရှိပါ။ အခြား အမျိုးအစား ရွေးချယ်ပါ။"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"ရေဒီယို"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"ရိုးရိုး"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"အခမဲ့"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"အသွင်ဝှက်ထားသည်"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"ကွန်ရက်"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"အမျိုးအစား ရွေးရန်"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"ဖွင့်နေသည်၊ ခဏစောင့်ပါ..."</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"စာမျက်နှာ အပေါ်သို့"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"စာမျက်နှာ အောက်သို့"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"အပေါ်ရွှေ့ရန်"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"အောက်သို့ရွှေ့ရန်"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"အနှစ်သက်ဆုံးများ စာရင်း"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"ဖျက်ရန်"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"စလောင်းများ ဖော်ပြရန်"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"စလောင်း ရွေးရန်"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"ချန်နယ်စာရင်း"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"ချန်နယ်အသစ်များ တွေ့ရှိထားပြီး ချန်နယ်စာရင်းသို့ ထည့်ထားသည်။"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"အမျိုးအစားများ −"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"အတွဲများ −"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"လက်ရွေးစင် ချန်နယ်စာရင်း"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"အနှစ်သက်ဆုံးများ စာရင်း ရွေးချယ်မှု"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"ချန်နယ် အသေးစိတ်များ"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"ပင်မအသံ"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"သင့်စကားဝှက် ထည့်ပါ"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"စကားဝှက်အမှားကို သုံးကြိမ်ထည့်ထားသည်။\n၁၅ မိနစ်ခန့် စောင့်ပါ..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"စကားဝှက် မှားနေသည်။ ထပ်ထည့်ပါ။"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"အင်တင်နာ"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(အစီအစဉ် အကြောင်းအရာ မရှိပါ။)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(အစီအစဉ် အသေးစိတ် မရှိပါ။)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(ချန်နယ် အသေးစိတ် မရှိပါ။)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"လိုင်းမမိပါ။"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"ပံ့ပိုးမှုမရှိပါ။"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"ချန်နယ် လော့ခ်ချထားသည်။"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"ထည့်သွင်းမှုကို လော့ခ်ချထားသည်။"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"အစီအစဉ်ကို လော့ခ်ချထားသည်။"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"ဖျောက်ထားသော ချန်နယ်"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"ဗလုံးဗထွေးဖြစ်နေသည့် အသံ"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"ဗလုံးဗထွေးဖြစ်နေသည့် ဗီဒီယို"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"နားခြင်း−"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"ပိတ်ထားသည်"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"မိနစ်"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"ဗီဒီယိုမရှိပါ"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"ဒေတာ ပြန်ယူနေသည်..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"အမျိုးအမည်မသိ အသံ"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"အမျိုးအမည်မသိ စတီရီယို"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"မသိ"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"အသံမရှိပါ"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"အမျိုးအစား"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"တစ်ဆင့်ခံ အမျိုးအစား"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"ကြိုတင်မှာယူထားသော စာရင်း"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"ကြိုတင်မှာယူထားသော အစီအစဉ်စာရင်း"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"ဤအစီအစဉ်ကို ကြိုတင်မှာယူမလား။"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"ဤအစီအစဉ်ကို ကြိုတင်မှာယူပြီးပါပြီ၊ ပယ်ဖျက်လိုသလား။"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"လာနေပြီ၊ ဤချန်နယ်သို့ ပြောင်းလိုသလား။"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"အဆင့်သတ်မှတ်မထားပါ"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(အစီအစဉ် အသေးစိတ် မရှိပါ။)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"( အစီအစဉ်ဒေတာ မရှိပါ။)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(အစီအစဉ် အကြောင်းအရာ မရှိပါ။)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(အကြောင်းအရာ မရှိပါ)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"လော့ခ်ဖွင့်ထားသည်"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"စီစဉ်မထားပါ"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"အချိန်ဇယား"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"အမျိုးအစား သတ်မှတ်မထားပါ"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"ပံ့ပိုးမထားပါ"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"OK"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"မလုပ်တော့"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"မျက်နှာပြင်အပြည့်"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"အထူး ဧရိယာ"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"No"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"ချိန်ညှိရန်"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"မျက်နှာပြင်အပြည့် သို့မဟုတ် အထူးဧရိယာတစ်ခုကို ရိုက်ယူလိုသလား။"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"ဤဖန်သားပြင်ကို ရိုက်ယူလိုပါသလား။"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"လိုဂိုသိမ်းရန် အနေအထား ရွေးပါ။"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"ရိုက်ယူနေသည်..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"အောင်မြင်စွာ ရိုက်ယူပြီးပါပြီ"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"ရိုက်ယူ၍ မရပါ။ ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"ဤလုပ်ဆောင်ချက်ကို ပယ်ဖျက်လိုက်သည်။"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"လိုင်းမမိပါ။ ပါဝါ ပိတ်သွားပါမည်။"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"ရှေ့ဆက်ရန် ခလုတ်တစ်ခုခု နှိပ်ပါ။"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"ပြီးခဲ့သည့် နေ့"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"နောက်နေ့"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"အသေးစိတ်ကို ကြည့်ရန်"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"စစ်ထုတ်မှု အမျိုးအစား"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"ယခင် စာမျက်နှာသို့"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"နောက်စာမျက်နှာသို့"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"ဝင်ရန်"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"အမျိုးအစား သတ်မှတ်မထားပါ"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"မရှိပါ"</string>
+    <string name="epg_password" msgid="8012355648918471162">"စကားဝှက်"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"စကားဝှက် မမှန်ကန်ပါ"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"ဒေတာ ပြန်ယူနေသည်..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"ဇန်နဝါရီ"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"ဖေဖော်ဝါရီ"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"မတ်"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"ဧပြီ"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"မေ"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"ဇွန်"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"ဇူလိုင်"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"ဩဂုတ်"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"စက်တင်ဘာ"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"အောက်တိုဘာ"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"နိုဝင်ဘာ"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"ဒီဇင်ဘာ"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"တနင်္ဂနွေ"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"တနင်္လာ"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"အင်္ဂါ"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"ဗုဒ္ဓဟူး"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"ကြာသပတေး"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"သောကြာ"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"စနေ"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"အပလီကေးရှင်း စာရင်း"</string>
+    <string name="nav_select" msgid="990203763701782141">"ရွေးရန်"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"အပလီကေးရှင်း မရှိပါ။"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"\'Ginga အပလီကေးရှင်း\' ဖွင့်နေသည်..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"CC ကိုရပ်ပြီး \'Ginga အပလီကေးရှင်း\' ကို စတင်လိုသလား။"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"ဝစ်ဇာတ် အပ်ဒိတ်လုပ်နေသည်"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"နောက်ထပ် အချက်အလက်"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"ဖာမ်းဝဲပုံဖိုင် မမှန်ပါ။"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"အပ်ဒိတ်လုပ်နေသည်..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"ဖားမ်ဝဲအပ်ဒိတ်လုပ်နေစဉ် အတွင်း USB ဒွန်ဂယ်ကို ပလပ်ဖြုတ်ခြင်း၊ တီဗီစက်ပိတ်ခြင်းတို့ မပြုလုပ်ပါနှင့်။"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"ဖာမ်းဝဲ အတည်ပြုနေသည်..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"ဖာမ်းဝဲကို အပ်ဒိတ်လုပ်လိုသည်မှာ သေချာသလား။"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"ဖာမ်းဝဲကို အပ်ဒိတ်လုပ်ပြီးပါပြီ။\nဖာမ်းဝဲအသစ် စတင်အသုံးပြုရန် တီဗီစက်ကို ပြန်စတင်ပါ။"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"အပ်ဒိတ်လုပ်၍ မရပါ။\nဖာမ်းဝဲကို ထပ်ဒေါင်းလုဒ်လုပ်ရန် တီဗီအတွဲကို ပြန်စတင်ပါ။"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"အပ်ဒိတ်လုပ်၍ မရပါ။\nထပ်စမ်းကြည့်လိုပါသလား။"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"အပ်ဒိတ်လုပ်၍ မရပါ။ USB ထည့်ပါ။\nပြန်စမ်းကြည့်လိုသလား။"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"သင့် USB ဒွန်ဂယ်တွင် ရနိုင်သောနေရာ မလုံလောက်ပါ။"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB ဒွန်ဂယ် အဆင်သင့်မဖြစ်ပါ၊ ပလပ်တပ်ပြီး ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"အတွင်းပိုင်း အမှား။"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"ဖာမ်းဝဲဗားရှင်း မရနိုင်ပါ။"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"ကုဒ်ဖော်၍ မရပါ။"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"ဖာမ်းဝဲ မမှန်ပါ။"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"အပ်ဒိတ်လုပ်ရန် ဖာမ်းဝဲ မရနိုင်ပါ။"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"ဖာမ်းဝဲအသစ် စစ်ဆေး၍ မရပါ။"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"ကွန်ရက်မှ ဖာမ်းဝဲကို ဒေါင်းလုဒ်လုပ်၍ မရပါ။"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB ဒွန်ဂယ်တွင် ပြဿနာအချို့ ရှိနေသည်။"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"ပါဝါ"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"ဒစ်ဂျစ်တယ် \'စာသား\' ကို မဖွင့်မီ \'စာတန်းထိုး\' ကို ပိတ်ရမည်။ ရှေ့ဆက်ရန် သဘောတူသလား။"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"YES"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"NO"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"EWS ဝန်ဆောင်မှုသို့ ပြောင်းလိုသလား။"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"အထူးဝန်ဆောင်မှုသို့ ပြောင်းလိုသလား။"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"လာနေပါပြီ၊ ၎င်းသို့ ပြောင်းလိုပါသလား။"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"\'Ginga အပလီကေးရှင်း\' ကို ပိတ်ပြီး \'စာတန်းများ\' ကို ဖွင့်လိုသလား။"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"ပိတ်ထားရန်"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"အုပ်စု"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"စာမျက်နှာ"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"ထိပ်ပိုင်း မရှိပါ"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"အနှစ်သက်ဆုံး စာမျက်နှာစာရင်း"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"အဆင့်သတ်မှတ်မထားပါ"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus ကွန်ရက် ပြောင်းထားသည်။ အပ်ဒိတ်လုပ်ထားသော ကွန်ရက်ကို ရှာဖွေနိုင်ပါသည်။"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus ကွန်ရက်ကို မရနိုင်ပါ။ အပ်ဒိတ်လုပ်ထားသော ကွန်ရက်ကို ရှာဖွေရမည်။"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus ကွန်ရက်ကို စတင်မထားပါ။ အပ်ဒိတ်လုပ်ထားသော ကွန်ရက်ကို ရှာဖွေရမည်။"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plus ကွန်ရက် ရှာဖွေရန် စီစဉ်ထားသောအချိန် ရောက်ပါပြီ။ အပ်ဒိတ်လုပ်ထားသော ကွန်ရက်ကို ရှာဖွေနိုင်ပါသည်။"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"သင့်နိုင်ငံကို ရွေးပါ−"</string>
+    <string name="setup_country" msgid="629173256579318536">"နိုင်ငံ"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"ကေဘယ် အချက်အလက်ကို စီစဉ်သတ်မှတ်ပါ။"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"စံတော်ချိန်"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"ရှာဖွေရန်မုဒ်"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"ကြိမ်နှုန်း (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"ချိန်ညှိခြင်း"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"သင်္ကေတနှုန်း (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"ကွန်ရက် ID"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"စာပို့သင်္ကေတ"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"စကားဝှက် အသစ်"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"စကားဝှက် အတည်ပြုရန်"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"အော်ပရေတာ ရွေးရန်"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"စလောင်း အမျိုးအစား"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"စလောင်း အမျိုးအစား ရွေးပါ။"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"အော်ပရေတာ ရွေးရန်"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"အောက်ပါစာရင်းမှ အော်ပရေတာ တစ်ခုကိုသာ ရွေးချယ်နိုင်သည်။"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"ကေဘယ် အချက်အလက်ကို စီစဉ်သတ်မှတ်ပါ။"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"ရှာဖွေရန် အချက်အလက်ကို စီစဉ်သတ်မှတ်ပါ။"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"ရှာဖွေရန် စလောင်းရွေးပါ သို့မဟုတ် ရွေးထားသော စလောင်းကို တည်းဖြတ်ပါ။"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"အင်တင်နာအမျိုးအစား စီစဉ်သတ်မှတ်မှု ထည့်သွင်းပါ။"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"အင်တင်နာ စနစ်ထည့်သွင်းခြင်း"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"စလောင်း၏ သတ်မှတ်ချက်များ ထည့်သွင်းပါ။"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"တုံ့ပြန်စနစ်၏ သတ်မှတ်ချက်များ ထည့်သွင်းပါ။"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"သတ်မှတ်ရန်"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"ကြိုးမဲ့ ဒေါင်းလုဒ်လုပ်ခြင်း"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"ရှာဖွေနေသည်"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"ကြိုးမဲ့ဒေါင်းလုဒ်တွင် ဆော့ဖ်ဝဲအသစ် ရှာမတွေ့ပါ။"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"ပရိုဂရမ်ရေးခြင်း"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"ဒေါင်းလုဒ်လုပ်နေသည်"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"ဤလုပ်ဆောင်ချက်သည် ၂၅ မိနစ်ခန့် ကြာနိုင်သည်"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ဆော့ဖ်ဝဲကို အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ အချက်ပြခြင်း စတင်လိုပါသလား။"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"ပရိုဂရမ်ရေးဆွဲ၍ မရပါ။ ထပ်စမ်းကြည့်မလား။\n\nဝန်ဆောင်မှုစင်တာကို ခေါ်ဆိုပါ။"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ဆော့ဖ်ဝဲကို အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။ တီဗီကို ယခု ပြန်စမလား။"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"သတိပေးချက်− လုပ်ဆောင်နေစဉ်အတွင်း တီဗီစက် ပါဝါကြိုးကို ပလပ်မဖြုတ်ပါနှင့်၊ ၎င်းက တီဗီစက်ကို ပျက်စီးစေနိုင်သည်။"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"ဆော့ဖ်ဝဲ အပ်ဒိတ်။ အကြံပြုထားသော ဆော့ဖ်ဝဲအပ်ဒိတ် ရပါပြီ။ အပ်ဒိတ်လုပ်ရန် အချိန်အနည်းငယ် ကြာနိုင်ပြီး ဖန်သားပြင် အနက်ရောင် ဖြစ်သွားနိုင်သည်။ အပ်ဒိတ်လုပ်နေစဉ်အတွင်း တီဗီကို မပိတ်ပါနှင့်။ ယခု အပ်ဒိတ်လုပ်လိုပါသလား။"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"ဆော့ဖ်ဝဲ ဒေါင်းလုဒ်လုပ်၍ မရပါ။ ပြန်စမ်းကြည့်မလား။"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"ဆော့ဖ်ဝဲ အပ်ဒိတ်။ အကြံပြုထားသော ဆော့ဖ်ဝဲအပ်ဒိတ် ရပါပြီ။ အပ်ဒိတ်လုပ်ရန် အချိန်အနည်းငယ် ကြာနိုင်ပြီး ဖန်သားပြင် အနက်ရောင် ဖြစ်သွားနိုင်သည်။ အပ်ဒိတ်လုပ်နေစဉ်အတွင်း တီဗီကို မပိတ်ပါနှင့်။ ယခု အပ်ဒိတ်လုပ်လိုပါသလား။ ၎င်းက <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> စက္ကန့်အကြာတွင် အလိုအလျောက် စတင်ပါမည်။"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"ဆော့ဖ်ဝဲ အပ်ဒိတ်။ အကြံပြုထားသော ဆော့ဖ်ဝဲအပ်ဒိတ်အသစ်ကို <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g> တွင် ရနိုင်သည်။ အပ်ဒိတ်လုပ်ရန် အချိန်အနည်းငယ် ကြာနိုင်ပြီး ဖန်သားပြင် အနက်ရောင် ဖြစ်သွားနိုင်သည်။ အပ်ဒိတ်လုပ်နေစဉ်အတွင်း လက်ခံစနစ်ကို မပိတ်ပါနှင့်။ ဤအပ်ဒိတ်ကို လက်ခံလျှင် စီစဉ်ထားသောအချိန်တွင် တီဗီဖွင့်ထားပါ သို့မဟုတ် အသင့်အနေအထားမုဒ်တွင် ထားပါ။ ဤအပ်ဒိတ်ကို လက်ခံလိုပါသလား။"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"ဆော့ဖ်ဝဲ အပ်ဒိတ်။ အကြံပြုထားသော ဆော့ဖ်ဝဲအပ်ဒိတ်သည် အခြားချန်နယ်တစ်ခုတွင် ရှိနေနိုင်သည်။ ၎င်းကို ဒေါင်းလုဒ်လုပ်ရန် သဘောတူလျှင် ၎င်းက ချန်နယ်ကို အလိုအလျောက် ပြောင်းလဲပါမည်။ ယခု ပြုလုပ်လိုပါသလား။ ၎င်းကို <xliff:g id="AUTOMATICALLY">%s</xliff:g> စက္ကန့်အတွင်း အလိုအလျောက် စတင်ပါမည်"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"ဆော့ဖ်ဝဲအသစ် တွေ့ပါသည်။\nတီဗီ အသင့်အနေအထားမုဒ်တွင် ရှိသည့်အခါ ဆော့ဖ်ဝဲကို အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိုသလား။"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"ပရိုဂရမ်ရေးခြင်း"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"သြစတြီးယား"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"ဘယ်လ်ဂျီယံ"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"ဆွစ်ဇာလန်"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"ချက်သမ္မတနိုင်ငံ"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"ဂျာမနီ"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"ဒိန်းမတ်"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"စပိန်"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"ဖင်လန်"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"ပြင်သစ်"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"ယူနိုက်တက်ကင်းဒမ်း"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"အီတလီ"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"လူဇင်ဘတ်"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"နယ်သာလန်"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"နော်ဝေး"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"ဆွီဒင်"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"ဘူလ်ဂေးရီးယား"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"ခရိုအေးရှား"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"ဂရိ"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"ဟန်ဂေရီ"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"အိုင်ယာလန်"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"ပိုလန်"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"ပေါ်တူဂီ"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"ရိုမေးနီးယား"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"ရုရှား"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"ဆားဘီးယား"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"ဆလိုဗက်ကီးယား"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"ဆလိုဗေးနီးယား"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"တူရကီ"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"အက်စ်တိုးနီးယား"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"သြစတြေးလျ"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"နယူးဇီလန်"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"အင်ဒိုနီးရှား"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"သင့်စံတော်ချိန်ကို ရွေးပါ−"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"စကားဝှက် သတ်မှတ်ပါ။ ၀၀၀၀ သည် မှန်ကန်သော စကားဝှက် မဟုတ်ပါ"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"စာပို့သင်္ကေတ ထည့်ပါ။"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"စကားဝှက်ကို အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ။"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"ကွန်ရက်ပြောင်းလဲမှုကြောင့် ချန်နယ်အချို့ ရပ်သွားသည်။ ၎င်းတို့ကို ဖယ်ရှားလိုသလား။"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"တီဗီချန်နယ်များ ပြောင်းထားသည်၊ အပ်ဒိတ်များ ရှာဖွေရန် OK နှိပ်ပါ။"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"အင်တင်နာ စနစ်ထည့်သွင်းခြင်း"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"စလောင်း"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"စလောင်း အမည်"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"လည်ပတ်မှု အနေအထား"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"လှုပ်ရှားမှု အထိန်းအချုပ်"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"ကန့်သတ်ချက်များ ပိတ်ရန်"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"အရှေ့ကို ကန့်သတ်ရန်"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"အနောက်ကို ကန့်သတ်ရန်"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"သိမ်းရန် အနေအထား"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"အနေအထားသို့ သွားရန်"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"ရည်ညွှန်းချက်သို့ သွားရန်"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"အဆင့် အရွယ်အစား"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"အချိန်ကုန်သွားခြင်း(များ)"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"အရှေ့သို့ ရွှေ့ရန်"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"အနောက်သို့ ရွှေ့ရန်"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"လှုပ်ရှားမှုကို ရပ်ရန်"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"ပိတ်ထားသည်"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"သံစဉ် ၂၂ KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"ပိတ်ရန်"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"ဖွင့်ရန်"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"အလိုအလျောက်"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"တုံ့ပြန်စနစ်"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"ကြိမ်နှုန်း"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"သင်္ကေတနှုန်း (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"အလင်းလှိုင်းဖြာထွက်ခြင်း"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"မသိ"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"အလျားလိုက်"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"ဒေါင်လိုက်"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"ဘယ်"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"ညာ"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"စလောင်းအသစ်များ ထည့်ရန်"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"တုံ့ပြန်စနစ် အသစ်များ ထည့်ရန်"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"စလောင်း လိုင်းဖမ်းခြင်း"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"ရှာဖွေမှု ပုံစံ"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"သိမ်းရန် ပုံစံ"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"ရှာဖွေသည့်မုဒ်"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"ကွန်ရက် ရှာဖွေမှု"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"ရှာဖွေရန်"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"အလိုအလျောက်"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"အသင့်သုံး"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"အသွင်ဝှက်ထားသည့် ချန်နယ်များသာ"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"အခမဲ့ ချန်နယ်များသာ"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"အားလုံး"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"ဒစ်ဂျစ်တယ် ချန်နယ်များသာ"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"ရေဒီယို ချန်နယ်များသာ"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(စလောင်း မရှိပါ။)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"ကိုယ်တိုင် စလောင်း လိုင်းဖမ်းခြင်း"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(တုံ့ပြန်စနစ် မရှိပါ။)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"စလောင်းအမည် အလွတ်ဖြစ်နေသည်။\nထည့်သွင်းပါ။"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"စလောင်း ပြန်ရှာရန်"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"စလောင်း ထည့်ရန်"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"စလောင်း အပ်ဒိတ်"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"စလောင်း အခြေအနေ"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"ကွန်ရက်"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"အပြည့်"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"စလောင်းများ"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"အနေအထား"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB ပါဝါ"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"အင်တင်နာ အမျိုးအစား"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"အားလုံးအတွက် သင့်တော်သည်"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"ကေဘယ်တစ်ခုတည်း"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"လိုင်းဖမ်းကိရိယာ"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"လိုင်းဖမ်းကိရိယာ အခွဲ"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"အသုံးပြုသူ၏ လှိုင်းခွင် <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"လှိုင်းခွင် ကြိမ်နှုန်း"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"အသုံးပြုသူ သတ်မှတ်ထားသည်များ"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"အနေအထား"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"ကေဘယ်"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"သတ်မှတ်ထားသော စလောင်း"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"အထွေထွေ စလောင်း"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"အားလုံးအတွက် သင့်တော်သည်"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"Tone Burst"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"ပိတ်ထားသည်"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"Tone Burst A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"Tone Burst B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"ဖွင့်ရန်"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"ပိတ်ရန်"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"ရင်းမြစ်သည် <xliff:g id="CONFLICTS">%s</xliff:g> ရင်းမြစ်နှင့် ကွဲလွဲနေသည်။"</string>
+    <string name="ews_status" msgid="451574410866097453">"အခြေအနေ <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"ရင်းမြစ်ကို သတ်မှတ်ခြင်း"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"ချန်နယ် အလိုအလျောက် မှာယူခြင်း"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"Pay TV မှာယူခြင်း"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(အစီအစဉ် အကြောင်းအရာ မရှိပါ။)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"ထည့်သွင်းမှုက အလိုအလျောက် ရှာဖွေခြင်းကို မပံ့ပိုးပါ။"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"\'<xliff:g id="TV_INPUT">%s</xliff:g>\' အတွက် အလိုအလျောက်ရှာဖွေခြင်း စတင်၍မရပါ"</string>
+    <string name="str" msgid="4738306056683483195">"အနှစ်သက်ဆုံးများ<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"အားလုံး"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"ရေဒီယို"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"နားခြင်း− ပိတ်ထားသည်"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"နားခြင်း− <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> မိနစ်"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"ဇူးမ် X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"ဇူးမ် X 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"ဇူးမ် X 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"ခဏရပ်ခြင်း− ဖွင့်ရန်"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"ခဏရပ်ခြင်း− ပိတ်ရန်"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"အမျိုးအစား မရှိပါ"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"ရုပ်ရှင်/အလွမ်းအဆွေး"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"သတင်း/မျက်မှောက်ရေးရာ"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"ရှိုး/ဂိမ်းရှိုး"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"အားကစား"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"အားကစား (အထွေထွေ)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"ကလေးများ/ လူငယ်များ အစီအစဉ်"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"ဂီတ/ဘဲလေး/အက"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"အနုပညာ/ယဉ်ကျေးမှု (ဂီတ မပါ)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"လူမှုရေး/နိုင်ငံရေး ပြဿနာများ/စီးပွားရေး"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"ပညာရေး/သိပ္ပံ/အချက်အလက် ဖော်ပြချက်များ"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"အပန်းဖြေချိန် ဝါသနာများ"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"အထူး အက္ခရာများ"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"ကလေးများ"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"လိင်စိတ်နိုးကြွစေသော"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"အခြား"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"ဖျော်ဖြေရေး"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"မျက်မှောက်ရေးရာ"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"ဗဟုသုတဖျော်ဖြေရေး"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"ဟာသ"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"ဒရာမာ"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"မှတ်တမ်းရုပ်ရှင်"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"သတင်းနှင့် ဖြစ်ရပ်မှန်"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"အားကစား"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"လူနေမှုဘဝပုံစံ"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"သတင်းနှင့် ဖြစ်ရပ်မှန်"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"ပံ့ပိုးမထားပါ"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"စီးရီးများ"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"ရသစုံ"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"သတင်းအချက်အလက်"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"ကာတွန်း"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"အချစ်ဇာတ်လမ်း"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"လေးလေးနက်နက်/ဂန္ထဝင်/ဘာသာရေး/သမိုင်း/အလွမ်းအဆွေး"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"လေးလေးနက်နက် ဂီတ/ဂန္ထဝင်ဂီတ"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"အပြာရုပ်ရှင်/ဒရာမာဇာတ်လမ်း"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"သတင်း/မျက်မှောက်ရေးရာ (အထွေထွေ)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"သတင်း/မိုးလေဝသ အစီရင်ခံချက်"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"သတင်း မဂ္ဂဇင်း"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"မှတ်တမ်းရုပ်ရှင်"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"ဆွေးနွေးမှု/အင်တာဗျူး/အချေအတင် စကားစစ်ထိုးပွဲ"</string>
+    <string name="nav_News" msgid="3663290212801352195">"သတင်း"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"ရှိုး/ဂိမ်းရှိုး (အထွေထွေ)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"ဂိမ်းရှိုး/ပဟေဠိ/ပြိုင်ပွဲ"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"ရှိုး အစုံအလင်"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"စကားပြောရှိုး"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"အားကစား မဂ္ဂဇင်းများ"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"ဘောလုံး/အမေရိကန်ဘောလုံး"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"တင်းနစ်/စကွပ် တင်းနစ်"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"အဖွဲ့လိုက် အားကစား (ဘောလုံး မပါ)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"ပြေးခုန်ပစ်အားကစား"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"ကားပြိုင်ပွဲ"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"ရေနှင့်ဆိုင်သည့် အားကစား"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"ဆောင်းရာသီ အားကစား"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"မြင်းစီးအားကစား"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"ကိုယ်ခံ အားကစား"</string>
+    <string name="nav_Children" msgid="873820541320552860">"ကလေးများ/လူငယ် အစီအစဉ်များ"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"မူကြိုကလေးငယ်များ အစီအစဉ်"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"၆ မှ ၁၄ နှစ်အတွက် ဖျော်ဖြေရေး အစီအစဉ်များ"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"၁၀ မှ ၁၆ နှစ်အတွက် ဖျော်ဖြေရေး အစီအစဉ်များ"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"အချက်အလက်ဆိုင်ရာ/ပညာရေးဆိုင်ရာ/ကျောင်း အစီအစဉ်များ"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"ကာတွန်း/ရုပ်သေးများ"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"ဂီတ/ဘဲလေး/အက (အထွေထွေ)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"ရော့ခ်/ပေါ့ပ်"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"ကျေးလက်/ရိုးရာ တေးဂီတ"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"ဂျက်ဇ်"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"တေးသရုပ်ဖော်/အော်ပရာ"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"ဘဲလေးအက"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"အနုပညာ/ယဉ်ကျေးမှု (ဂီတ မပါ)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"ဖျော်ဖြေတင်ဆက်မှု အနုပညာ"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"သုခုမ အနုပညာများ"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"ဘာသာတရား"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"လူကြိုက်များသော ယဉ်ကျေးမှု/ရှေးရိုးစဉ်လာ အနုပညာ"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"စာပေ"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"ရုပ်ရှင်/ရုပ်ရှင်ရုံ"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"စမ်းသပ်မှုဆိုင်ရာ ရုပ်ရှင်/ဗီဒီယို"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"ထုတ်လွှင့်ခြင်း/စာနယ်ဇင်း"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"တိုက်ရိုက် ထုတ်လွှင့်မှု"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"မီဒီယာအသစ်"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"အနုပညာ မဂ္ဂဇင်းများ"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"ဖက်ရှင်"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"ပယ်ရန်"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"လူမှုရေး/နိုင်ငံရေး ပြဿနာများ/စီးပွားရေး (အထွေထွေ)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"မဂ္ဂဇင်းများ/အစီရင်ခံမှုများ/မှတ်တမ်းရုပ်ရှင်"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"ဘောဂဗေဒ/လူမှုရေး အကြံပေး"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"ထူးခြားသည့် ပုဂ္ဂိုလ်များ"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"ပညာရေး/သိပ္ပံ/အချက်အလက် အကြောင်းအရာများ (အထွေထွေ)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"သဘာဝ/တိရစ္ဆာန်/ပတ်ဝန်းကျင်"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"နည်းပညာ/သဘာဝ သိပ္ပံ"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"ဆေးပညာ/ဇီဝကမ္မဗေဒ/စိတ်ပညာ"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"နိုင်ငံခြား တိုင်းပြည်များ/လေ့လာရေးခရီးများ"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"လူမှုရေး/ဘာသာရေး သိပ္ပံများ"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"သက်ကြီး ပညာရေး"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"ဘာသာစကားများ"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"ရုပ်ရှင်"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"အပန်းဖြေချိန် ဝါသနာများ (အထွေထွေ)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"အပျော်ခရီးသွား/ခရီးသွားခြင်း"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"လက်မှုပညာ"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"မော်တော်ကားဆိုင်ရာ"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"ကျန်းမာရေးနှင့် ကြံ့ခိုင်ရေး"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"ကြော်ငြာ/ဈေးဝယ်ခြင်း"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"ဥယျာဉ်စိုက်ခြင်း"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"မူရင်း ဘာသာစကား"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"အဖြူ အမည်း"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"မထုတ်ဝေရသေးပါ"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"မျက်နှာပြင် နှစ်ထပ်ပုံ"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"ဒေသတွင်း သို့မဟုတ် ဒေသတစ်ဝှမ်း"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"မသိ"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"မိုနို"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"စတီရီယို"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam မိုနို"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam စတီရီယို"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM မိုနို"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM စတီရီယို"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"မိုနို နှစ်ခု"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"ပတ်လည် ချန်နယ် ၂ ခု"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"ပတ်လည်"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> ချန်နယ်များ"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"တနင်္ဂနွေ"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"တနင်္လာ"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"အင်္ဂါ"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"ဗုဒ္ဓဟူး"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"ကြာသပတေး"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"သောကြာ"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"စနေ"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"မလုပ်တော့"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"လက်ခံရန်"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"နောက်မှ သတိပေးရန်"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"လိုင်းမမိပါ။"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"ချန်နယ်များကို ရှာဖွေပါ။"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"ဒေတာ ပြန်ယူနေသည်"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"ကလေးများ"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"ချန်နယ် လော့ခ်ချထားသည်။"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"အစီအစဉ်ကို လော့ခ်ချထားသည်။"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"ထည့်သွင်းမှုကို လော့ခ်ချထားသည်။"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(အစီအစဉ် အကြောင်းအရာ မရှိပါ။)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"ဖျောက်ထားသော ချန်နယ်။"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"အသံ အစီအစဉ်"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"အသံနှင့် ဗီဒီယို မရှိပါ"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(အစီအစဉ် အသေးစိတ် မရှိပါ။)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(ချန်နယ် အသေးစိတ် မရှိပါ။)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"အသံ တိုက်ရိုက်လွှင့်မှု မရှိပါ"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"ဗီဒီယို တိုက်ရိုက်လွှင့်မှု မရှိပါ"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"ခဏစောင့်ပါ..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"ဗီဒီယိုကို ပံ့ပိုးမထားပါ"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"ပံ့ပိုးမထားပါ"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"ထုတ်လွှင့်သည့်လိုင်းမဟုတ်ပါ"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"ချန်နယ် မရှိပါ"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"ဤအကြောင်းအရာကို သင့်ဝန်ဆောင်မှုပေးသူက ပိတ်ထားသည်။"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"ဗလုံးဗထွေး ဖြစ်နေသည်"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"နေရာချစနစ် ရွေ့နေသည်..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"ဝန်ဆောင်မှု ဖွင့်မထားပါ"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"ပိတ်ရန်"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"ဆက်တိုက်"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"အဆင့်"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"အချိန်ကုန်ပါပြီ"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"ဇူးမ်"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> ချန်နယ် ထည့်ထားသည်"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"ချန်နယ် <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> ခု ထည့်ထားသည်"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"ချန်နယ်များ ထည့်မထားပါ"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB ကိရိယာ ချိတ်ဆက်ပြီးပါပြီ"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"CH<xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"သတင်း၊ အစီရင်ခံချက်"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"ပုံမှန်၊ ယေဘုယျ"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"မိုးလေဝသ အစီရင်ခံချက်"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"အထူးအစီအစဉ်၊ မှတ်တမ်းရုပ်ရှင်"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"နိုင်ငံရေး၊ အမျိုးသားလွှတ်တော်"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"စီးပွားရေး၊ ဈေးကွက် အစီရင်ခံချက်"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"တိုင်းတစ်ပါး၊ နိုင်ငံတကာ အစီရင်ခံချက်"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"သတင်း ဆန်းစစ်ချက်"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"ဆွေးနွေးချက်၊ အစည်းအဝေး"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"အထူးအစီရင်ခံချက်"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"ဒေသတွင်း အစီအစဉ်"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"ယာဉ်အသွားအလာ အစီရင်ခံချက်"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"အခြား"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"အားကစား"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"အားကစားသတင်း"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"ဘေ့စ်ဘော"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"ဘောလုံး"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"ဂေါက်ရိုက်ကစားနည်း"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"အခြား ဘောလုံးဂိမ်းများ"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"ဆူမို၊ တိုက်ခိုက်ရေးအားကစား"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"အိုလံပစ်၊ နိုင်ငံတကာဂိမ်းများ"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"မာရသွန်၊ ကိုယ်လက်လှုပ်ရှား အားကစား၊ ရေကူးခြင်း"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"ကားပြိုင်ပွဲများ"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"ပင်လယ်ပြင်အားကစား၊ ဆောင်းရာသီအားကစား"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"မြင်းပြိုင်ပွဲ၊ လူထုပြိုင်ပွဲ"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"အချက်အလက်/လူကြိုက်များသော ရှိုး"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"သောင်းပြောင်းထွေလာ/လူကြိုက်များသော ရှိုး"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"ဖက်ရှင်"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"နေထိုင်ရေး၊ အိမ်"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"ကျန်းမာရေး၊ ဆေးကုသမှု"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"ဈေးဝယ်ခြင်း၊ စာဖြင့်မှာယူနိုင်သည့် လုပ်ငန်း"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"အစားအသောက်ကောင်းကြိုက်သူ၊ အချက်အပြုတ်"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"ဖြစ်ရပ်များ"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"အစီအစဉ်လမ်းညွှန်၊ အချက်အလက်"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"ဒရာမာ"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"ဂျပန်ဒရာမာများ"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"တိုင်းတစ်ပါးဒရာမာ"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"ကာလဆိုင်ရာ ဒရာမာများ"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"ဂီတ"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"ဂျပန် ရော့ခ်၊ ပေါ့ပ်ဂီတ"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"တိုင်းတစ်ပါး ရော့ခ်၊ ပေါ့ပ်ဂီတ"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"ဂန္ထဝင်၊ သံစုံသီချင်း"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"ဂျတ်ဇ်၊ ပေါင်းစပ်ဂီတ"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"လူကြိုက်များသော သီချင်း၊ လူကြိုက်များသော ဂျပန်သီချင်းများ (အန်းကသီချင်း)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"တိုက်ရိုက် တေးဂီတဖျော်ဖြေပွဲ"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"အဆင့်၊ တောင်းဆိုထားသော သီချင်း"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"ကာရာအိုကေ၊ အပျော်တမ်း အဆိုပြိုင်ပွဲများ"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"ဂျပန်သီချင်း၊ ဂျပန်ရိုးရာဂီတ"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"ကလေးသီချင်း"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"ရိုးရာဂီတ၊ ကမ္ဘာ့ဂီတ"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"ရသစုံရှိုး"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"ပဟေဠိ"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"ဂိမ်း"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"စကားပြော အစီအစဉ်"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"ဟာသ အစီအစဉ်"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"တေးဂီတ အစီအစဉ်"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"ခရီးသွား အစီအစဉ်"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"အချက်အပြုတ် အစီအစဉ်"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"ရုပ်ရှင်များ"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"တိုင်းတစ်ပါးရုပ်ရှင်များ"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"ဂျပန်ရုပ်ရှင်များ"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"ကာတွန်း"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"ကာတွန်း/အထူးဖန်တီးချက်ပါ ရုပ်ရှင်များ"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"ဂျပန်ကာတွန်း"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"တိုင်းတစ်ပါးကာတွန်း"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"အထူးဖန်တီးချက်များ"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"မှတ်တမ်းရုပ်ရှင်/ယဉ်ကျေးမှု"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"လူမှုရေး၊ လက်ရှိဖြစ်ရပ်များ"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"မှတ်တမ်း၊ ခရီးသွားမှတ်တမ်း"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"သဘာဝ၊ တိရစ္ဆာန်၊ ပတ်ဝန်းကျင်"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"အာကာသ၊ သိပ္ပံ၊ ဆေးသိပ္ပံ"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"ယဉ်ကျေးမှု၊ ရိုးရာယဉ်ကျေးမှု"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"စာပေ၊ စာပေအနုပညာ"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"အားကစား"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"အလုံးစုံ မှတ်တမ်းရုပ်ရှင်"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"အင်တာဗျူး၊ ဆွေးနွေးပွဲများ"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"ပြဇာတ်/လူထု ဖျော်ဖြေရေး"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"ခေတ်ပေါ်ဒရာမာ၊ အနောက်တိုင်းဒရာမာ"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"တေးသရုပ်ဖော်"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"အက၊ ဘဲလေးအက"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"ရုပ်ပြဇာတ်လမ်း၊ ဖျော်ဖြေရေး"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"Kabuki၊ ဂန္ထဝင်ဒရာမာ"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"ဝါသနာ/ပညာရေး"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"ခရီးစဉ်၊ ငါးမျှားခြင်း၊ ပြင်ပဖျော်ဖြေရေး"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"ဥယျာဉ်စိုက်ပျိုးရေး၊ အိမ်မွေးတိရစ္ဆာန်၊ လက်မှုပညာ"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"ဂီတ၊ အနုပညာ၊ စက်မှုအနုပညာ"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"ဂျပန်စစ်တုရင် (shogi) နှင့် \"go\""</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"Mah-jong၊ ပင်ဘောလုံးဂိမ်းများ"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"ကား၊ ဆိုင်ကယ်များ"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"ကွန်ပျူတာ၊ TV ဂိမ်းများ"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"စကားဝိုင်း၊ ဘာသာစကားများ"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"ကလေးငယ်၊ ကျောင်းနေအရွယ်ကလေးများ"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"အလယ်တန်းနှင့် အထက်တန်းကျောင်းသားများ"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"တက္ကသိုလ်ကျောင်းသား၊ စာမေးပွဲများ"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"တစ်သက်တာပညာရေး၊ အရည်အချင်းများ"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"ပညာရေးဆိုင်ရာ ပြဿနာ"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"လူမှုဖူလုံရေး"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"သက်ကြီးရွယ်အိုများ"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"မသန်စွမ်းသူများ"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"လူမှုဖူလုံရေး"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"စေတနာ့ဝန်ထမ်းများ"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"လက်ဟန်ပြ ဘာသာစကား"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"စာသား (စာတန်းထိုးများ)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"အသံ multiplex ထုတ်လွှင့်မှုအပေါ် ရှင်းလင်းချက်"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"ကြိုတင်သိမ်းထားသည်"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"ကြိုတင်သိမ်းထားသည်"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"နောက်ဆက်တွဲအတွက်"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"BS/မြေပြင်အခြေစိုက် ဒစ်ဂျစ်တယ်ထုတ်လွှင်မှု အစီအစဉ်အတွက် နောက်ဆက်တွဲအချက်အလက်"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"ကြိုးသုံး CS ဒစ်ဂျစ်တယ် ထုတ်လွှင့်မှုအတွက် နောက်ဆက်တွဲ"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"ဒစ်ဂျစ်တယ်ဂြိုဟ်တု အသံထုတ်လွှင့်မှုအတွက် နောက်ဆက်တွဲ"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"ဆာဗာအမျိုးအစား အစီအစဉ်အတွက် နောက်ဆက်တွဲအချက်အလက်"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"အခြား"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"ယခင်"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV ပင်မ"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"မရှိ"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"ဤအစီအစဉ်ကို <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g> ‘အဆင့်သတ်မှတ်ထားသည်’"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"ထည့်သွင်းမှုကို လော့ခ်ချထားသည်"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"သင်သတ်မှတ်ထားသော အဝင်လိုင်းလော့ခ်ချခြင်းကြောင့် အဝင်လိုင်းကို လော့ခ်ချထားသည်။ TV မီနူး မှတစ်ဆင့် ၎င်းကို ပြောင်းနိုင်သည်။ ဖန်သားပြင်ကို လော့ခ်ဖွင့်ရန် ENTER ကို နှိပ်ပါ။"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"ပြင်ပထည့်သွင်းမှုကို စစ်ဆေးပါ (သို့) INPUT ခလုတ်ကိုသုံး၍ နောက်ထည့်သွင်းမှုကို ရွေးပါ။"</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"မည်သည့်ချန်နယ်မျှ ထည့်သွင်းမထားပါ။ TV မီနူးမှတစ်ဆင့် ချန်နယ်များကို ရှာဖွေပါ။"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"အကြောင်းအရာက မကြာမီလာပါမည်။ ခဏစောင့်ပါ။"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"ချန်နယ်ကို လောလောဆယ် မရနိုင်ပါ။ နောက်ထပ်အချက်အလက်များအတွက် သင့်ဝန်ဆောင်မှုပေးသူကို ဆက်သွယ်ပါ။"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"ချန်နယ်တွင် အသံအစီအစဉ်သာ ပါဝင်သည်။"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"ချန်နယ်တွင် ဗီဒီယိုနှင့် အသံအကြောင်းအရာ မရှိပါ။"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"ဖွင့်နေသည်"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"ချန်နယ်ဒေတာကို ဖွင့်နေသည်။ ခဏစောင့်ပါ။"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"ဗီဒီယိုဖော်မက်ကို TV တွင် ပံ့ပိုးမထားပါ။"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"ဤအကြောင်းအရာကို သင့်ဝန်ဆောင်မှုပေးသူက ပိတ်ထားသည်။"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"လက်ရှိချန်နယ်စာရင်းတွင် ချန်နယ်များမရှိပါ။"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"ဤအကြောင်းအရာကို သင့်ဝန်ဆောင်မှုပေးသူက ပိတ်ထားသည်။"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"နေရာချစနစ် ရွေ့နေသည်"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"ဂြိုဟ်တုကို ရှာဖွေရန် နေရာချစနစ် လှည့်နေသည်။ ခဏစောင့်ပါ။"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"ဖွင့်ထားသော ချန်နယ်ဝန်ဆောင်မှုများ မရှိပါ။"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"အစီအစဉ်ကို လော့ခ်ချထားသည်"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"ချန်နယ်များကို ရှာဖွေပါ"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"အကြောင်းအရာက မကြာမီလာပါမည်။ ခဏစောင့်ပါ။"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP ချန်နယ်များ"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"လူနေမှုဘဝပုံစံ/အပန်းဖြေချိန် ဝါသနာများ"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"ချန်နယ်မှာယူခြင်း နည်းလမ်းကို ရွေးပါ။ အလိုအလျောက် ချန်နယ်မှာယူခြင်းက မူလနည်းလမ်းဖြစ်သည်။\n        Pay TV အသုံးပြုသူများအတွက် သီးသန့် အဆင်ပြေစေသောနည်းလမ်းဖြင့် အသုံးပြုသူ၏ ချန်နယ်နံပါတ်များ တင်ပြပုံကို Pay TV မှာယူခြင်းက ဖွင့်ပေးသည်။\n        Pay TV မှာယူခြင်းက ချန်နယ်များ မထည့်သွင်းနိုင်လျှင် အလိုအလျောက် ချန်နယ်စီခြင်းကို သုံးပါ။"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"ပိတ်ရန်"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"မှန်ပါသည်။"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"မမှန်ကန်သော အမျိုးအစားအချို့။"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"အလွတ်ထား၍ မရပါ။"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"စခရင်ရှင်းလင်းခြင်း ဝန်ဆောင်မှုကို စတင်လိုက်သည်၊ <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> မိနစ်အတွင်း စခရင်ရှင်းလင်းခြင်း အခြေအနေကို ထားရှိမည်"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"စခရင်ရှင်းလင်းခြင်း ဝန်ဆောင်မှုက ရပ်သွားသည်။"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"ရှာဖွေလိုသည်မှာ သေချာသလား။ ထည့်သွင်းပြီးသော ချန်နယ်များအားလုံးကို ဖယ်ရှားပါမည်။"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Bahasa Melayu"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"ဒေသတွင်း"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"မူရင်း"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"အခြား ဘာသာစကား"</string>
+</resources>

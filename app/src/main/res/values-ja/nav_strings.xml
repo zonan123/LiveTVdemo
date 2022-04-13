@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"戻る"</string>
+    <string name="setup_select" msgid="1270661539800592611">"選択"</string>
+    <string name="setup_next" msgid="4079616525492116810">"次へ"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"終了"</string>
+    <string name="satellites" msgid="2437056584091944552">"衛星"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"入力"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"サブ"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"チャンネル ソース"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"チャンネルをスキャンしてください。"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"機能がありません"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"リストを選択"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"その他を選択"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"選択"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"並べ替え"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"デフォルト"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"名前の昇順"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"名前の降順"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"暗号化あり"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"検索"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"チャンネル番号またはチャンネル名を入力してください。"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"ブロードキャスト"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"カテゴリ"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"パック"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"デジタル"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"このタイプのチャンネルはありません。他のタイプを選択してください。"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"ラジオ"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"アナログ"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"無料"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"暗号化あり"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"ネットワーク"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"タイプを選択"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"読み込み中です。お待ちください..."</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"前のページ"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"次のページ"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"上に移動"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"下に移動"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"お気に入りリスト"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"削除"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"衛星のリスト"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"衛星の選択"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"チャンネル リスト"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"新しいチャンネルが見つかり、チャンネル リストに追加されました。"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"カテゴリ -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"パック -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"チャンネル リストの選択"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"お気に入りリストの選択"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"チャンネルの詳細"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"主音量"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"パスワードを入力してください"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"誤ったパスワードを 3 回入力しました。\n15 分ほどお待ちください..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"パスワードが正しくありません。もう一度入力してください。"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"アンテナ"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"（番組のタイトルがありません。）"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"（番組の詳細がありません。）"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"（チャンネルの詳細がありません。）"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"信号がありません。"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"サポートがありません。"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"このチャンネルはロックされています。"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"この入力はロックされています。"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"この番組はロックされています。"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"非表示のチャンネル"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"スクランブル処理された音声"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"スクランブル処理された動画"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"スリープ:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"OFF"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"分"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"動画がありません"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"データを取得しています..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"不明な音声"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"不明なステレオ"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"不明"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"音声がありません"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"タイプ"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"サブタイプ"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"予約済みリスト"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"予約済みイベントリスト"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"この番組を予約しますか？"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"この番組は予約済みです。キャンセルしますか？"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"もうすぐ始まります。チャンネルを切り替えますか？"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"レーティングなし"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"（番組の詳細がありません。）"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"（番組のデータがありません。）"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"（番組のタイトルがありません。）"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"（タイトルなし）"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"ロック解除"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"スケジュールが設定されていません"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"スケジュール"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"未分類"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"サポートされていません"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"OK"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"キャンセル"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"全画面"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"特定の領域"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"いいえ"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"調整"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"全画面と特定の領域のどちらをキャプチャしますか？"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"この画面をキャプチャしますか？"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"ロゴを保存する位置を選択してください。"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"キャプチャしています..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"キャプチャしました"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"キャプチャに失敗しました。もう一度お試しください。"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"この操作はキャンセルされました。"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"信号がありません。電源が OFF になります。"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"続行するには、いずれかのキーを押してください。"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"前日"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"翌日"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"詳細を表示"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"タイプフィルタ"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"前のページ"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"次のページ"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"入力"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"未分類"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"なし"</string>
+    <string name="epg_password" msgid="8012355648918471162">"パスワード"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"パスワードが正しくありません"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"データを取得しています..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"1月"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"2月"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"3月"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"4月"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"5月"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"6月"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"7月"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"8月"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"9月"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"10月"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"11月"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"12月"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"日曜日"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"月曜日"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"火曜日"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"水曜日"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"木曜日"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"金曜日"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"土曜日"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"アプリリスト"</string>
+    <string name="nav_select" msgid="990203763701782141">"選択"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"アプリがありません。"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Ginga アプリを読み込んでいます..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"字幕を停止して、Ginga アプリを起動しますか？"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"更新ウィザード"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"詳細"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"ファームウェア イメージ ファイルが無効です。"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"更新しています..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"ファームウェアの更新中は、USB ドングルを取り外したり、テレビセットの電源を OFF にしたりしないでください。"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"ファームウェアを検証しています..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"ファームウェアを更新してもよろしいですか？"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"ファームウェアを更新しました。\nテレビセットを再起動して、新しいファームウェアを有効にしてください。"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"更新できませんでした。\nテレビセットを再起動して、ファームウェアをダウンロードし直してください。"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"更新できませんでした。\n再試行しますか？"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"更新できませんでした。USB を挿入してください。\n再試行しますか？"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"USB ドングルに十分な空き容量がありません。"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB ドングルの準備が整っていません。ドングルを取り付けてからもう一度お試しください。"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"内部エラーが発生しました。"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"利用可能なファームウェア バージョンはありません。"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"復号できませんでした。"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"ファームウェアが無効です。"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"更新可能なファームウェアはありません。"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"新しいファームウェアを確認できませんでした。"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"ネットワークからファームウェアをダウンロードできませんでした。"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB ドングルに問題があります。"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"電源"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"デジタル テキストを有効にする前に字幕を閉じる必要があります。続行してもよろしいですか？"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"はい"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"いいえ"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"EWS サービスに切り替えますか？"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"特別なサービスに切り替えますか？"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"もうすぐ始まります。切り替えますか？"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Ginga アプリを停止して、字幕を開きますか？"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"ブロック"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"グループ"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"ページ"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"トップがありません"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"お気に入りのページリスト"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"レーティングなし"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus ネットワークが変更されました。更新されたネットワークを検索できます。"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus ネットワークはご利用いただけません。更新されたネットワークを検索してください。"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus ネットワークは初期化されていません。更新されたネットワークを検索する必要があります。"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plus ネットワーク検索の予定時刻になりました。更新されたネットワークを検索できます。"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"国を選択してください:"</string>
+    <string name="setup_country" msgid="629173256579318536">"国"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"ケーブル情報を設定してください。"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"タイムゾーン"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"スキャンモード"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"周波数（KHz）"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"変調"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"シンボルレート（Ksym/s）"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"ネットワーク ID"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"郵便番号"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"新しいパスワード"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"パスワードの確認"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"事業者の選択"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"衛星のタイプ"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"衛星タイプを選択してください。"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"事業者を選択"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"次のリストから 1 つの事業者のみを選択できます。"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"ケーブル情報を設定してください。"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"スキャン情報を設定してください。"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"スキャンする衛星を選択するか、選択されている衛星を編集してください。"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"アンテナタイプの設定を指定してください。"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"アンテナの設定"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"衛星のパラメータを設定してください。"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"トランスポンダーのパラメータを設定してください。"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"設定"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"無線ダウンロード"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"スキャン中"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"新しいソフトウェアが無線で見つかりませんでした。"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"プログラミング"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"ダウンロード中"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"この処理には 25 分ほどかかる場合があります。"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ソフトウェアをダウンロードしました。フラッシュを開始しますか？"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"プログラミングに失敗しました。再試行しますか？\n\nサービス センターにお問い合わせください。"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ソフトウェアをダウンロードしました。テレビを今すぐ再起動しますか？"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"警告: 処理中にテレビセットの電源コードを取り外さないでください。取り外した場合、テレビセットの破損につながるおそれがあります。"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"ソフトウェア アップデートをご利用いただけるようになりました。新しい推奨ソフトウェア アップデートが提供されています。更新に時間がかかったり、画面が暗くなったりすることがあります。更新中はテレビをオフにしないでください。今すぐ更新しますか？"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"ソフトウェアをダウンロードできません。再試行しますか？"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"ソフトウェア アップデートをご利用いただけるようになりました。新しい推奨ソフトウェア アップデートが提供されています。更新に時間がかかったり、画面が暗くなったりすることがあります。更新中はテレビをオフにしないでください。今すぐ更新しますか？<xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> 秒後に自動的に開始します。"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"ソフトウェア アップデートをご利用いただけるようになりました。新しい推奨ソフトウェアが <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>に提供されます。更新に時間がかかったり、画面が暗くなったりする場合があります。更新中はレシーバーをオフにしないでください。この更新に同意する場合は、予定された時刻にテレビをオンにするか、スタンバイ モードにしておいてください。この更新に同意しますか？"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"ソフトウェアの更新についてお知らせします。別のチャンネルで推奨ソフトウェアの新しい更新が存在する可能性があります。ダウンロードに同意すると、そのチャンネルに自動的に切り替わる可能性があります。今すぐ実行しますか？<xliff:g id="AUTOMATICALLY">%s</xliff:g> 秒後に自動的に開始します。"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"新しいソフトウェアが検出されました。\nテレビのスタンバイ モード時にソフトウェアを自動ダウンロードすることに同意しますか？"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"プログラミング"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"オーストリア"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"ベルギー"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"スイス"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"チェコ"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"ドイツ"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"デンマーク"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"スペイン"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"フィンランド"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"フランス"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"英国"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"イタリア"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"ルクセンブルク"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"オランダ"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"ノルウェー"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"スウェーデン"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"ブルガリア"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"クロアチア"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"ギリシャ"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"ハンガリー"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"アイルランド"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"ポーランド"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"ポルトガル"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"ルーマニア"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"ロシア"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"セルビア"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"スロバキア"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"スロベニア"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"トルコ"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"エストニア"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"オーストラリア"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"ニュージーランド"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"インドネシア"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"タイムゾーンを選択してください。"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"パスワードを設定してください。0000 は有効なパスワードではありません"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"郵便番号を入力してください。"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"パスワードを設定しました。"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"ネットワークの変更が原因で一部のチャンネルが非アクティブになっています。非アクティブなチャンネルを今すぐ削除しますか？"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"テレビ チャンネルが変更されています。更新をスキャンするには [OK] を押してください。"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"アンテナの設定"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"衛星"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"衛星名"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"軌道の位置"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"移動の制御"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"制限を無効にする"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"東を制限"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"西を制限"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"位置を保存"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"移動先"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"リファレンスに移動"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"ステップサイズ"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"タイムアウト（秒）"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"東に移動"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"西に移動"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"移動を停止"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"無効にする"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"トーン 22 KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"OFF"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"ON"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"自動"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"トランスポンダー"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"周波数"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"シンボルレート（Ksym/s）"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"偏光"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"不明"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"水平"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"垂直"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"左"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"右"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"新しい衛星を追加"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"新しいトランスポンダーを追加"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"衛星の調整"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"スキャンのタイプ"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"保存のタイプ"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"スキャンモード"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"ネットワーク検索"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"検索"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"自動"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"プリセット"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"暗号化されたチャンネルのみ"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"無料チャンネルのみ"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"すべて"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"デジタル チャンネルのみ"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"ラジオ チャンネルのみ"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"（衛星がありません。）"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"衛星の手動調整"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"（トランスポンダーがありません。）"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"衛星名が空欄です。\n入力してください。"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"衛星の再スキャン"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"衛星の追加"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"衛星の更新"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"衛星の状態"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"ネットワーク"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"フル"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"衛星"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"位置"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB 電源"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"アンテナタイプ"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"ユニバーサル"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"シングル ケーブル"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"チューナー"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"サブチューナー"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"ユーザーの帯域: <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"周波数帯"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"ユーザー定義"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"位置"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"ケーブル"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"優先される衛星"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"一般衛星"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"ユニバーサル"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"トーンバースト"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"無効にする"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"トーンバースト A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"トーンバースト B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"ON"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"OFF"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"このソースは <xliff:g id="CONFLICTS">%s</xliff:g> ソースと競合しています。"</string>
+    <string name="ews_status" msgid="451574410866097453">"ステータス: <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"ソースの設定"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"自動チャンネル配列"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"有料テレビ配列"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"（番組のタイトルがありません。）"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"入力が自動スキャンをサポートしていません。"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"「<xliff:g id="TV_INPUT">%s</xliff:g>」の自動スキャンを開始できません"</string>
+    <string name="str" msgid="4738306056683483195">"お気に入り <xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"すべて"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"ラジオ"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"スリープ: OFF"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"スリープ: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> 分"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"ズーム X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"ズーム X 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"ズーム X 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"フリーズ: ON"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"フリーズ: OFF"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"カテゴリなし"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"映画 / ドラマ"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"ニュース / 時事問題"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"ゲーム / クイズ番組"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"スポーツ"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"スポーツ（全般）"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"子供 / 若者向け番組"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"音楽 / バレエ / ダンス"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"芸術 / 文化（音楽以外）"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"社会 / 政治問題 / 経済"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"教育 / 科学 / 事実に基づくトピック"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"レジャー、趣味"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"特殊"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"子供"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"アダルト"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"その他"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"エンターテイメント"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"時事問題"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"インフォテインメント"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"コメディ"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"ドラマ"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"ドキュメンタリー"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"ニュース、事実"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"スポーツ"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"ライフスタイル"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"ニュース、事実"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"未対応"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"シリーズ"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"バラエティ"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"情報"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"コミカル"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"ロマンス"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"芸術 / 古典 / 宗教 / 歴史映画 / ドラマ"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"シリアス音楽 / クラシック音楽"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"成人向け映画 / ドラマ"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"ニュース / 時事問題（全般）"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"ニュース / 天気情報"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"ニュース雑誌"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"ドキュメンタリー"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"討論 / インタビュー / ディベート"</string>
+    <string name="nav_News" msgid="3663290212801352195">"ニュース"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"クイズ / ゲーム番組（全般）"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"ゲーム番組 / クイズ / コンテスト"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"バラエティ番組"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"トーク番組"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"スポーツ雑誌"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"フットボール / サッカー"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"テニス / スカッシュ"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"チームスポーツ（サッカー以外）"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"運動競技"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"モーター スポーツ"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"ウォーター スポーツ"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"ウィンター スポーツ"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"乗馬"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"武術"</string>
+    <string name="nav_Children" msgid="873820541320552860">"子供 / 若者向け番組"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"就学前の子供向け番組"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"6～14 歳向けエンターテイメント番組"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"10～16 歳向けエンターテイメント番組"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"情報 / 教育 / 学校向け番組"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"アニメ / パペット"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"音楽 / バレエ / ダンス（全般）"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"ロック / ポップ"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"フォーク / 伝統音楽"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"ジャズ"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"ミュージカル / オペラ"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"バレエ"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"芸術 / 文化（音楽以外）"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"舞台芸術"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"美術"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"宗教"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"ポップ カルチャー / 伝統芸術"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"文学"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"映画"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"実験的映画 / 動画"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"放送 / 報道"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"ライブ配信"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"ニューメディア"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"アート雑誌"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"ファッション"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"拒否"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"社会 / 政治問題 / 経済（全般）"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"雑誌 / レポート / ドキュメンタリー"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"経済 / 社会問題の助言"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"偉人"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"教育 / 科学 / 事実に基づくトピック（全般）"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"自然 / 動物 / 環境"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"テクノロジー / 自然科学"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"医学 / 生理学 / 心理学"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"外国 / 探検"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"社会科学 / 精神科学"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"継続教育"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"言語"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"映画"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"レジャー、趣味（全般）"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"ツーリズム / 旅行"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"手工芸"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"モータースポーツ"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"フィットネス、健康"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"広告 / ショッピング"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"ガーデニング"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"元の言語"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"モノクロ"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"非公開"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"立体画像"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"ローカル、地域"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"不明"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"モノラル"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"ステレオ"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam モノラル"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam ステレオ"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM モノラル"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM ステレオ"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"デュアル モノラル"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"サラウンド 2 チャンネル"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"サラウンド"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> チャンネル"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"日曜日"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"月曜日"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"火曜日"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"水曜日"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"木曜日"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"金曜日"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"土曜日"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"キャンセル"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"同意する"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"後で通知する"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"信号がありません。"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"チャンネルをスキャンしてください。"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"データを取得しています"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"子供向け"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"このチャンネルはロックされています。"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"この番組はロックされています。"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"この入力はロックされています。"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"（番組のタイトルがありません。）"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"チャンネルは非表示になっています。"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"音声番組"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"音声と動画がありません"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"（番組の詳細がありません。）"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"（チャンネルの詳細がありません。）"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"音声ストリームがありません"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"動画ストリームがありません"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"お待ちください..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"動画がサポートされていません"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"サポートされていません"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"ブロードキャストではありません"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"チャンネルがありません"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"このコンテンツはサービス プロバイダによってブロックされています。"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"スクランブル"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"ポジショナーを移動しています..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"サービスが実行されていません"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"無効にする"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"ノンストップ"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"ステップ"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"タイムアウト"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"ズーム"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> チャンネルを追加しました"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> 件のチャンネルを追加しました"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"追加されたチャンネルはありません"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB デバイスが接続されています"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"CH<xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g> / <xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"ニュース、報道"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"定時番組、全般"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"天気情報"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"特別番組、ドキュメンタリー"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"政治、国会"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"経済、市場レポート"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"海外、国際報道"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"ニュース分析"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"討論、会議"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"特別報道"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"ローカル番組"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"交通情報"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"その他"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"スポーツ"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"スポーツ ニュース"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"野球"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"サッカー"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"ゴルフ"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"その他の球技"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"相撲、格闘技"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"オリンピック、国際試合"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"マラソン、陸上競技、水泳"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"モーター スポーツ"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"マリンスポーツ、ウィンター スポーツ"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"競馬、公営競技"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"情報 / タブロイド番組"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"ゴシップ / タブロイド番組"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"ファッション"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"生活、家"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"健康、医療"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"ショッピング、通信販売"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"グルメ、料理"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"イベント"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"番組ガイド、情報"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"ドラマ"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"ドラマ（日本）"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"ドラマ（海外）"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"歴史ドラマ"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"音楽"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"ロック、ポップ ミュージック（日本）"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"ロック、ポップ ミュージック（海外）"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"クラシック、オペラ"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"ジャズ、フュージョン"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"歌謡曲、演歌（日本）"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"ライブ コンサート"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"ランキング、音楽リクエスト"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"カラオケ、素人歌唱コンテスト"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"民謡、伝統音楽（日本）"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"子どもの歌"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"民族音楽、ワールド ミュージック"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"バラエティ番組"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"クイズ"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"ゲーム"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"トーク バラエティ"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"コメディ番組"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"音楽バラエティ"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"ツアー バラエティ"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"料理バラエティ"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"映画"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"映画（海外）"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"映画（日本）"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"アニメーション"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"アニメーション / 特殊効果の映画"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"アニメーション（日本）"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"アニメーション（海外）"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"特殊効果"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"ドキュメンタリー / カルチャー"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"社会、時事問題"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"歴史、旅行記"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"自然、動物、環境"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"宇宙、科学、医学"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"カルチャー、伝統文化"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"文学、文芸"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"スポーツ"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"総合ドキュメンタリー"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"インタビュー、ディスカッション"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"演劇 / 公演"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"近代劇、新劇"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"ミュージカル"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"ダンス、バレエ"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"落語、エンターテイメント"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"歌舞伎、能楽"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"趣味 / 教育"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"旅行、釣り、アウトドア エンターテイメント"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"ガーデニング、ペット、手工芸"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"音楽、芸術、工芸"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"将棋、囲碁"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"麻雀、ピンボール ゲーム"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"自動車、バイク"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"コンピュータ、テレビゲーム"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"会話、言語"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"児童、学童"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"中学生、高校生"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"大学生、試験"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"生涯教育、資格"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"教育問題"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"福祉"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"高齢者"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"障がい者"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"社会福祉"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"ボランティア"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"手話"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"テキスト（字幕）"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"音声多重放送に関する説明"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"予約済み"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"予約済み"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"拡張用"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"BS / 地上デジタル放送番組の付加情報"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"ブロードバンド CS デジタル放送の拡張"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"デジタル衛星音声放送の拡張"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"サービスタイプ番組の付加情報"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"その他"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"前へ"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV ホーム"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"なし"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"この番組のレーティングは <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g> です"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"この入力はロックされています"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"ユーザーご自身によって入力ソースロックが定義されているため、この入力ソースはロックされています。この設定はテレビのメニューから変更できます。画面のロックを解除するには、[ENTER] キーを押してください。"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"外部入力を確認するか、入力ボタンを使って別の入力を選択してください。"</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"チャンネルがインストールされていません。テレビのメニューからチャンネルをスキャンしてください。"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"このコンテンツはまもなく提供されます。しばらくお待ちください。"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"このチャンネルは現在ご利用いただけません。詳しくは、サービス プロバイダにお問い合わせください。"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"このチャンネルには音声番組のみが含まれています。"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"このチャンネルには、動画と音声のコンテンツがありません。"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"読み込み中"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"チャンネルのデータを読み込んでいます。しばらくお待ちください。"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"この動画形式はテレビでサポートされていません。"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"このコンテンツはサービス プロバイダによって停止されています。"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"現在のチャンネル リストにチャンネルがありません。"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"このコンテンツはサービス プロバイダによってブロックされています。"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"ポジショナーを移動しています"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"ポジショナーが回転して衛星を探しています。しばらくお待ちください。"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"有効なチャンネル サービスがありません。"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"この番組はロックされています"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"チャンネルをスキャンしてください"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"このコンテンツはまもなく提供されます。しばらくお待ちください。"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP チャンネル"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"ライフスタイル / レジャー、趣味"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"チャンネル設定方法を選択してください。デフォルトでは、自動チャンネル設定が選択されます。\n        有料テレビ設定を選択すると、有料テレビユーザー専用の便利な形式でチャンネル番号が表示されます。\n        有料テレビ設定を使用するとチャンネルをインストールできない場合は、自動チャンネル設定をご使用ください。"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"閉じる"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"正しいコードです。"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"無効なタイプがあります。"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"空欄にできません。"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"画面クリーニング サービスが開始し、<xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> 分後に画面はクリーンな状態になります"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"画面クリーニング サービスは停止しています。"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"スキャンしてもよろしいですか？インストール済みのチャンネルはすべて削除されます。"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"マレー語"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"ローカル言語"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"元の言語"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"その他の言語"</string>
+</resources>

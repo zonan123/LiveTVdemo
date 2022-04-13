@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="SettingsStyle.TextAppearanceMedium" parent="@android:style/TextAppearance.Holo.Medium">
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="SettingsStyle.TextAppearanceLarge" parent="@android:style/TextAppearance.Holo.Large">
+        <item name="android:textSize">36dp</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+
+    <style name="Canvas" />
+
+    <style name="Canvas.Text" />
+
+    <style name="Canvas.Text.Dialog" />
+
+    <style name="Canvas.Text.Dialog.Content" />
+
+    <style name="Canvas.Text.Dialog.Content.Title">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:paddingBottom">@dimen/content_fragment_title_text_bottom_padding</item>
+        <item name="android:paddingTop">@dimen/content_fragment_title_text_top_padding</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_title_text_size</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.Content.Breadcrumb">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/content_breadcrumb_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_breadcrumb_text_size</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.Content.Description">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">@color/content_description_text_color</item>
+        <item name="android:textSize">@dimen/content_fragment_description_text_size</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.List" />
+
+    <style name="Canvas.Image.Dialog.List.Checkmark">
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/list_item_checkmark</item>
+        <item name="android:visibility">invisible</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.List.Title">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_title_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.List.Description">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.List.Badge">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="Canvas.Text.Dialog.List.Timestamp">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:alpha">@dimen/list_item_unselected_text_alpha</item>
+        <item name="android:textSize">@dimen/list_item_timestamp_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="Canvas.Image" />
+
+    <style name="Canvas.Image.Dialog" />
+
+    <style name="Canvas.Image.Dialog.Content" />
+
+    <style name="Canvas.Image.Dialog.Content.Icon">
+        <item name="android:maxHeight">@dimen/content_fragment_max_icon_height</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:src">@drawable/content_fragment_default_icon</item>
+    </style>
+
+    <style name="Canvas.Image.Dialog.List" />
+
+    <style name="Canvas.Image.Dialog.List.Icon">
+        <item name="android:scaleType">center</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="Canvas.Scan" />
+
+    <style name="Canvas.Scan.Text" />
+
+    <style name="Canvas.Scan.Text.Large">
+        <item name="android:paddingBottom">@dimen/content_fragment_title_text_bottom_padding</item>
+        <item name="android:paddingTop">@dimen/content_fragment_title_text_top_padding</item>
+        <item name="android:textColor">@color/nav_channel_list_txt</item>
+        <item name="android:textSize">@dimen/nav_channel_list_textsize_large</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Canvas.Scan.Text.Middle">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:textSize">@dimen/nav_channel_list_textsize_normal</item>
+    </style>
+
+    <style name="Canvas.Scan.Text.Small">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:textSize">@dimen/content_scan_small_text_size</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+    <style name="pvr_tshift_schedulelist_btns" parent="android:Widget.Button">
+        <item name="android:background">@drawable/menu_dialog_button</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="pvr_tshift_textsize_20" >
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="pvr_tshift_textsize_23" >
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+     <style name="turnkey_ui_checkbox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:paddingLeft">19.0px</item>
+        <item name="android:button">@drawable/turnkey_ui_checkbox_drawable</item>
+    </style>
+    <style name="Theme.pvr_Dialog" parent="android:style/Theme.Dialog">
+         <item name="android:windowNoTitle">true</item>
+         <item name="android:windowFrame">@null</item>
+         <item name="android:windowIsTranslucent">true</item>
+         <item name="android:windowBackground">@android:color/transparent</item>
+         <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="nav_pvr_filelist_text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">@dimen/nav_pvr_textview_padding</item>
+    </style>
+    <style name="divx_text">
+       <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <style name="MTK_Dialog_bg" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="settings_transparent" parent="@style/Theme.Leanback">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/half_transparent</item>
+        <!--  <item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>-->
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>    </style>
+
+    <!-- Default Settings theme -->
+    <style name="SettingsWindowAnimationStyle" parent="@android:style/Animation.Activity">
+        <item name="android:fragmentOpenEnterAnimation">@anim/setup_fragment_open_in</item>
+        <item name="android:fragmentOpenExitAnimation">@anim/setup_fragment_open_out</item>
+        <item name="android:fragmentCloseEnterAnimation">@anim/setup_fragment_close_in</item>
+        <item name="android:fragmentCloseExitAnimation">@anim/setup_fragment_close_out</item>
+    </style>
+
+    <style name="Theme.Settings" parent="@style/Theme.Leanback">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Leanback</item>
+    </style>
+
+    <style name="Theme.Settings.Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/SettingsWindowAnimationStyle</item>
+        <!-- MTK Added Start -->
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- MTK Added End -->
+        <item name="android:backgroundDimAmount">0.8</item>
+    </style>
+
+    <style name="CaptureLogoTheme"
+        parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style>
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+
+	<style name="dialog" parent="@android:style/Theme.Dialog">
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:windowIsTranslucent">false</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">false</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowAnimationStyle">@style/nonanimation</item>
+	</style>
+
+	<style name="nonanimation">
+		<item name="android:windowEnterAnimation">@null</item>
+		<item name="android:windowExitAnimation">@null</item>
+	</style>
+
+    <style name="pin_dialog_animation" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/pin_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/pin_dialog_exit</item>
+    </style>
+
+	 <style name="Widget.Setup.GuidanceBreadcrumbStyle" parent="Widget.Leanback.GuidanceBreadcrumbStyle">
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_above">@null</item>
+        <item name="android:layout_marginTop">156dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">#B3EEEEEE</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Widget.Setup.GuidanceContainerStyle" parent="Widget.Leanback.GuidanceContainerStyle">
+        <item name="android:paddingStart">56dp</item>
+        <item name="android:paddingEnd">32dp</item>
+    </style>
+
+    <style name="Widget.Setup.GuidanceDescriptionStyle" parent="Widget.Leanback.GuidanceDescriptionStyle">
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">start</item>
+        <item name="android:lineSpacingExtra">0sp</item>
+        <item name="android:lineSpacingMultiplier">1.465</item>
+        <item name="android:maxLines">10</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">#CCEEEEEE</item>
+    </style>
+
+    <style name="Widget.Setup.GuidanceTitleStyle" parent="Widget.Leanback.GuidanceTitleStyle">
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_below">@id/guidance_breadcrumb</item>
+        <item name="android:layout_centerVertical">false</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:gravity">start</item>
+        <item name="android:lineSpacingExtra">0sp</item>
+        <item name="android:lineSpacingMultiplier">1.13778</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">#EEEEEE</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionItemCheckmarkStyle" parent="Widget.Leanback.GuidedActionItemCheckmarkStyle">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionItemIconStyle" parent="Widget.Leanback.GuidedActionItemIconStyle">
+        <item name="android:layout_marginEnd">@dimen/setup_guidedactions_item_delimiter_padding</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionItemTitleStyle" parent="Widget.Leanback.GuidedActionItemTitleStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">#EEEEEE</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionItemDescriptionStyle" parent="Widget.Leanback.GuidedActionItemDescriptionStyle">
+        <item name="android:layout_height">17dp</item>
+        <item name="android:alpha">0.5</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/common_setup_input_description</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionsListStyle" parent="Widget.Leanback.GuidedActionsListStyle">
+        <item name="android:elevation">0dp</item>
+    </style>
+    <style name="Widget.Setup.GuidedActionItemContainerStyle" parent="Widget.Leanback.GuidedActionItemContainerStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingBottom">@dimen/setup_guidedactions_vertical_padding</item>
+        <item name="android:paddingEnd">@dimen/setup_guidedactions_item_container_padding_end</item>
+        <item name="android:paddingStart">@dimen/setup_guidedactions_item_container_padding_start</item>
+        <item name="android:paddingTop">@dimen/setup_guidedactions_vertical_padding</item>
+        <item name="android:transitionGroup">true</item>
+    </style>
+    <style name="keybutton">
+        <item name="android:layout_height">@dimen/key_item_height</item>
+        <item name="android:layout_width">@dimen/key_item_wideth</item>
+        <item name="android:background">@drawable/key_item_bg</item>
+    </style>
+
+    <style name="text_num_button" parent="keybutton">
+        <item name="android:textSize">@dimen/key_item_num_size</item>
+        <item name="android:textColor">#f6f6f6</item>
+        <item name="android:layout_marginLeft">@dimen/key_item_margin_left</item>
+    </style>
+
+    <style name="text_button" parent="keybutton">
+        <item name="android:textSize">@dimen/key_item_text_size</item>
+        <item name="android:textColor">#f6f6f6</item>
+        <item name="android:layout_marginLeft">@dimen/key_item_margin_left</item>
+    </style>
+
+    <style name="image_button" parent="keybutton">
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_marginLeft">@dimen/key_item_margin_left</item>
+        <item name="android:padding">@dimen/image_padding</item>
+    </style>
+</resources>

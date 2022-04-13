@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"ଡିସ୍କ ପ୍ରସ୍ତୁତ ନାହିଁ!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR ଆରମ୍ଭ କରିବାରେ ବିଫଳ ହୋଇଛି। ଡିସ୍କ ପ୍ରସ୍ତୁତ ନାହିଁ!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ସଫଳତାର ସହ ଫାଇଲ୍ ତିଆରି କରାଯାଇଛି"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR ଆରମ୍ଭ କରିବାରେ ବିଫଳ ହୋଇଛି। ପ୍ରଥମେ PIPରୁ ବାହାରି ଯାଆନ୍ତୁ!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR ଆରମ୍ଭ କରିବାରେ ବିଫଳ ହୋଇଛି। ପ୍ରଥମେ ଡିଜିଟାଲ୍ ଟିଭି ଉତ୍ସରେ ବଦଳାନ୍ତୁ!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR ଆରମ୍ଭ କରିବାରେ ବିଫଳ ହୋଇଛି। କୌଣସି ସଙ୍କେତ ମିଳିଲା ନାହିଁ!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR ଆରମ୍ଭ କରିବାରେ ବିଫଳ ହୋଇଛି। Timeshift ଚାଲୁଛି!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV ଷ୍ଟ୍ରିମ୍ ଉପଲବ୍ଧ ନାହିଁ!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"ଷ୍ଟ୍ରିମ୍ ପାଇଁ ଅନୁମତି ଦିଆଯାଇ ନାହିଁ!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"ଇନ୍‌ପୁଟ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"ଭିଡିଓ ରିଜୋଲ୍ୟୁସନ୍ ତ୍ରୁଟି!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟି!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Timeshift ଉପଲବ୍ଧ ନାହିଁ। ପ୍ରଥମେ PVRରୁ ବାହାରି ଯାଆନ୍ତୁ!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"କୌଣସି ଡିଭାଇସ୍ ନାହିଁ ବା ଡିଭାଇସ୍‍ଗୁଡ଼ିକ ଉପଲବ୍ଧ ନାହିଁ। ପରେ ଚେଷ୍ଟା କରନ୍ତୁ!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR ବନ୍ଦ କରନ୍ତୁ ଏବଂ ତା’ପରେ ରେକର୍ଡ ସେଭ୍ କରନ୍ତୁ।"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"ଡିସ୍କ ବିଚ୍ଛିନ୍ନ କରାଯାଇଛି"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ଧ୍ୟାନ ଦିଅନ୍ତୁ: ଡିଭାଇସ୍ ଅନ୍‌ପ୍ଲଗ୍ କରନ୍ତୁ ନାହିଁ, ଅନ୍ୟଥା ଏହା ଅନିର୍ଦ୍ଦିଷ୍ଟ ତ୍ରୁଟିଗୁଡ଼ିକର କାରଣ ହୋଇପାରେ!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"ଯଥେଷ୍ଟ ସ୍ପେସ୍ ନାହିଁ। ଡିସ୍କରେ ଅତିକମରେ 1GBର ମାଗଣା ସ୍ପେସ୍ ରହିବା ଉଚିତ।"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"ଫିଚର୍ ସମର୍ଥିତ ନୁହେଁ।"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"ସନ୍ଧାନ ଜାରି ରଖିବା ସମର୍ଥିତ ନୁହେଁ।"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ଫାଇଲ୍ ସମର୍ଥିତ ନୁହେଁ।"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ଫର୍ମାଟିଂ ସମସ୍ତ ଡାଟା ଲିଭାଇଦେବ"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"ଆପଣ ନିଶ୍ଚିତ କି?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"ଏହି ଫାଇଲ୍‍ ଡିଲିଟ୍ କରାଯିବ।"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"ବେଗ ପରୀକ୍ଷଣ ଚାଲିଛି"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"ଡିଭାଇସ୍ ଅନ୍‌ପ୍ଲଗ୍ କରନ୍ତୁ ନାହିଁ"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"ଡିସ୍କ ଫର୍ମାଟିଂ ହୋଇଗଲା"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"ଡିସ୍କ ଫର୍ମାଟିଂ ବିଫଳ ହୋଇଛି"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"ବେଗ ପରୀକ୍ଷଣ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"ସର୍ବାଧିକ ବେଗ ହେଉଛି "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"ରେକର୍ଡିଂ!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR ପ୍ଲେବ୍ୟାକ୍"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Timeshift"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"ରେକର୍ଡିଂ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR ଚାଲୁଛି!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"ଆପଣ ରେକର୍ଡ୍ ପ୍ରକ୍ରିୟା ବନ୍ଦ କରିବାକୁ,\n ଏବଂ EPG ଲେଖିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ\n ଏବଂ EPG ଲେଖିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"ଆପଣ ରେକର୍ଡ ପ୍ରକ୍ରିୟା ବନ୍ଦ କରିବାକୁ\n ଏବଂ ଚ୍ୟାନେଲ୍ ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"ଆପଣ ରେକର୍ଡ୍ ପ୍ରକ୍ରିୟା ବନ୍ଦ କରିବାକୁ,\n ଏବଂ ସୋର୍ସ ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ\n ଏବଂ ଚ୍ୟାନେଲ୍ ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ\n ଏବଂ ସୋର୍ସ ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"ଆପଣ ରେକର୍ଡ୍ ପ୍ରକ୍ରିୟା ବନ୍ଦ କରିବାକୁ,\n ଏବଂ PIP/POP ଲେଖିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ \n ଏବଂ PIP/POPଲେଖିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"ଆପଣ PVR ପ୍ଲେବ୍ୟାକ୍ ବନ୍ଦ କରିବାକୁ,\n ଏବଂ PIP/POP ଲେଖିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ\n ଏବଂ ରେକର୍ଡ ତାଲିକା ଲେଖିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"ଆପଣ PIP/POP ଲେଖିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"ରେକର୍ଡ୍ କରାଯିବାକୁ ସମୟ ନିର୍ଦ୍ଧାରିତ ଅଛି"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"ଆପଣ ରେକର୍ଡିଂ ଆରମ୍ଭ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"ଡିସ୍କ୍ରାମ୍ବଲଡ୍ ଚ୍ୟାନେଲ୍ ବାଧା ପହଞ୍ଚାଇ ପାରେ, ଆପଣ ଜାରିରଖିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"ଚେତାବନୀ"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"ଡିଭାଇସ୍ ସୂଚନା ସେଟିଂ"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ଫର୍ମାଟିଂ କଲେ ସମସ୍ତ ଡାଟା ଖାଲି ହୋଇଯିବ, ଆପଣ ନିଶ୍ଚିତ କି?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Timeshift ରେକର୍ଡ କରୁଛି!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR ଚାଲୁଛି!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR ପ୍ଲେବ୍ୟାକ୍ ଚାଲୁଛି!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Timeshift ଉପଲବ୍ଧ ନାହିଁ"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"ଷ୍ଟୋରେଜ୍‌ର ବେଗ ରାଇଟ୍ ଏବଂ ରିଡ୍ ପରୀକ୍ଷା କରିବା ପ୍ରୋଗ୍ରାମ୍ ଚାଲୁଛି।"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/ସେକେଣ୍ଡ"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"ଏକ ସିଡୁଲ୍ କରାଯାଇଥିବା ରେକର୍ଡ [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] ଅଛି, ଆପଣ ରେକର୍ଡ ଆରମ୍ଭ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"ନାମ:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"ଏକ ସିଡୁଲ୍ କରାଯାଇଥିବା ରିମାଇଣ୍ଡର୍ ଅଛି।"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"ଆପଣ କଣ ସେହି ଚ୍ୟାନେଲ୍ ଦେଖିବାକୁ ଚାହୁଁଛନ୍ତି?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] ପାଇଁ ରେକର୍ଡିଂ ପ୍ରଚେଷ୍ଟା ବିଫଳ ହୋଇଛି"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>]ର ରେକର୍ଡିଂ <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> ସେକେଣ୍ଡ ପାଇଁ ଅସମ୍ପୂର୍ଣ୍ଣ ଅଛି"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"ରେକର୍ଡିଂର ଏକ ଅଂଶ ସେଭ୍ ହୋଇଥିଲା। ରେକର୍ଡିଂ ସମୟରେ ପାୱାର ବନ୍ଦ ହୋଇଯାଇଥିଲା।"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"ଇଭେଣ୍ଟ ମୋଡେଲ୍"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"ଟାଇମିଂ ପ୍ରୋଗ୍ରାମିଂ"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"ସିଗନାଲ୍ ସମର୍ଥିତ ରେକର୍ଡିଂ"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'ସିଗନାଲ୍ ସମର୍ଥିତ ରେକର୍ଡିଂ\' ସମ୍ପାଦନ କରାଯାଇପାରିଲା ନାହିଁ"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Timeshift ବନ୍ଦ କରାଯାଇଛି।"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"ରେକର୍ଡିଂ! ସ୍ପିଡ୍ ଟେଷ୍ଟ ବିଫଳ ହୋଇଛି!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Timeshift ଚାଲୁଛି! ସ୍ପିଡ୍ ଟେଷ୍ଟ ବିଫଳ ହୋଇଛି!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"ଆକ୍ସେସ୍ ଅଗ୍ରାହ୍ୟ କରାଯାଇଛି। ସ୍ପିଡ୍ ଟେଷ୍ଟ ବିଫଳ ହୋଇଛି!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"ପର୍ଯ୍ୟାପ୍ତ ଡିସ୍କ ସ୍ପେସ୍ ନାହିଁ! ସ୍ପିଡ୍ ଟେଷ୍ଟ ବିଫଳ ହୋଇଛି!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"ସ୍ପିଡ୍ ଟେଷ୍ଟ ବିଫଳ ହୋଇଛି!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"ଫାଷ୍ଟ ଫରୱାର୍ଡ ଏବଂ ରିୱାଇଣ୍ଡ ସମର୍ଥିତ ନୁହେଁ"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"ଆଇଟମ୍ ଡିଲିଟ୍ କରିବା ସମୟରେ ଏକ ତ୍ରୁଟି ହୋଇଛି, ଚ୍ୟାନେଲ୍ ରେକର୍ଡ କରୁଛି"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR ଚାଲୁଛି କିମ୍ବା ଏକ PVR ଫାଇଲ୍ ଚାଲୁଛି।\nଦୟାକରି ଏହାକୁ ବନ୍ଦ କରନ୍ତୁ, ତା\'ପରେ ଏହାକୁ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Timeshift ଚାଲୁଛି।\nଦୟାକରି ଏହାକୁ ବନ୍ଦ କରନ୍ତୁ, ତା\'ପରେ ଏହାକୁ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"ବର୍ତ୍ତମାନର ଚ୍ୟାନେଲ୍ ଅବୈଧ ଅଟେ।"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"ଫରୱାର୍ଡ କରାଯାଉଛି! ଦୟାକରି ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"ରିୱାଇଣ୍ଡ ହେଉଛି! ଦୟାକରି ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Timeshift ରେକର୍ଡ ପୂର୍ଣ୍ଣ ହୋଇଛି ଏବଂ ସ୍ୱଚାଳିତ-ଭାବେ ଚାଲିବ।"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"କୌଣସି ପ୍ରାକ୍-ଚ୍ୟାନେଲକୁ ସ୍ୱିଚ୍ କରାଯାଇପାରିବ ନାହିଁ! \n ଏବଂ Timeshift ଏବେ ବି ରେକର୍ଡ ହେଉଛି!"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"ବିଫଳ ହୋଇଛି କିମ୍ବା ଅସମ୍ପୂର୍ଣ୍ଣ ରେକର୍ଡିଂଗୁଡ଼ିକ"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"ଆଂଶିକ ରେକର୍ଡିଂ, ସିଗନାଲ୍ ନଥିବା ଯୋଗୁଁ ଆଂଶିକ ରେକର୍ଡ!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"ଆଂଶିକ ରେକର୍ଡିଂ, କୌଣସି EIT ନଥିବା ଯୋଗୁଁ ଆଂଶିକ ରେକର୍ଡ!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"ଆଂଶିକ ରେକର୍ଡିଂ, କୌଣସି EIT ଏବଂ ସିଗନାଲ୍ ନଥିବା ଯୋଗୁଁ ଆଂଶିକ ରେକର୍ଡ!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"ଆରମ୍ଭ ସମୟ ତ୍ରୁଟି, ଏବେର ସମୟ ବର୍ତ୍ତମାନର ସମୟ ପୂର୍ବରୁ ଅଟେ!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"ଫାଇଲର ଅବଧି କମ୍ ଅଛି!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"ଅନୁରୋଧ ଦ୍ୱାରା ଯୋଗ କରାଯାଇଥିବା ସିଡୁଲ୍ ସର୍ବାଧିକ ଅନୁମତିପ୍ରାପ୍ତ ସୀମା ଅତିକ୍ରମ କରିଛି!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"ଆପଣ ରେକର୍ଡ ପ୍ରକ୍ରିୟା ବନ୍ଦ କରିବାକୁ\n ଏବଂ ଚ୍ୟାନେଲ୍ ପ୍ରକାର ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"ଆପଣ Timeshift ବନ୍ଦ କରିବାକୁ\n ଏବଂ ଚ୍ୟାନେଲର ପ୍ରକାର ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"ରେକର୍ଡ କରିବାକୁ ପ୍ରସ୍ତୁତ ହେଉଥିବା ବେଳେ ଚ୍ୟାନେଲଗୁଡ଼ିକୁ ସ୍ୱିଚ୍ କରିବା ପାଇଁ ଅନୁମତି ଦିଆଯାଇନାହିଁ।"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"ଫର୍ମାଟ୍ କରାଯାଉଛି"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"ଡିସ୍କ ଫର୍ମାଟିଂ ବିଫଳ ହୋଇଛି। ରେକର୍ଡିଂ!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"ଡିସ୍କ ଫର୍ମାଟିଂ ବିଫଳ ହୋଇଛି। Timeshift ଚାଲୁଛି!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"ସ୍ପିଡ୍ ଅବୈଧ ଅଟେ!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"ଫର୍ମାଟ୍ କରାଯାଉଛି! ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"ଫାଷ୍ଟ ଫରୱାର୍ଡ ସମର୍ଥିତ ନୁହେଁ"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"ରିୱାଇଣ୍ଡ ସମର୍ଥିତ ନୁହେଁ"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"ଡିସ୍କର ସ୍ପିଡ୍ ଧୀର ଅଛି ଏବଂ ଡାଟା ଖାରଜ କରନ୍ତୁ"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"କିଛି ସିଡୁଲ୍ କରାଯାଇଥିବା ରେକର୍ଡିଂ ବିଫଳ ହୋଇଛି କିମ୍ବା ଅସମ୍ପୂର୍ଣ୍ଣ ଅଛି!"</string>
+</resources>

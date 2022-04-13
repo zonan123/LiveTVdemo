@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Zalecane dla osób w wieku powyżej <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> lat."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Odpowiednie dla wszystkich odbiorców. Programy mogą zawierać łagodną przemoc, ostrzejszy język i sceny dla dorosłych."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Odpowiednie dla osób, które ukończyły 13 lat. Programy mogą zawierać łagodny lub umiarkowany język, łagodną przemoc i nawiązania do seksu."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Odpowiednie dla osób, które ukończyły 16 lat. Programy mogą zawierać intensywną przemoc, wulgarny język, częściową nagość i umiarkowane nawiązania do seksu."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Odpowiednie tylko dla dorosłych. Programy zawierają znaczną przemoc, wulgarny język i jednoznaczne nawiązania do seksu."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Narkotyki"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Seks"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Przemoc"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Materiał o klasyfikacji P jest przeznaczony dla dzieci w wieku przedszkolnym."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Materiał o klasyfikacji C jest przeznaczony dla dzieci (powyżej wieku przedszkolnego), które nie ukończyły 14 lat."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Materiał z klasyfikacją G nie musi być kierowany do dzieci, ale musi zawierać treści przystępne w odbiorze i odpowiednie dla młodych widzów oglądających go bez nadzoru osoby dorosłej."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Materiał z klasyfikacją PG może zawierać motywy lub wątki dla dorosłych, ale musi przedstawiać je w sposób przystępny w odbiorze i odpowiedni dla dzieci oglądających go pod nadzorem osoby dorosłej."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Materiał o klasyfikacji M jest przeznaczony dla dorosłych. Powinny go oglądać tylko osoby, które ukończyły 15 lat."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Materiał z klasyfikacją MA mogą oglądać tylko osoby, które ukończyły 15 lat. Pojawiają się tu częste lub intensywne sceny przemocy, treści o charakterze seksualnym, wulgarny język, motywy dla dorosłych lub sceny zażywania narkotyków. Mogą one mieć znaczny wpływ na odbiorcę."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Materiał z klasyfikacją AV mogą oglądać tylko osoby, które ukończyły 15 lat. Ze względu na intensywność lub częstotliwość scen przemocy bądź traktowanie przemocy jako centralnego motywu, materiału tego typu nie można sklasyfikować jako MA. Pod pozostałymi względami wymagania wobec takiego materiału są identyczne jak wobec treści z klasyfikacją MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Materiały z klasyfikacją R zgodnie z prawem są przeznaczone tylko dla dorosłych. Pewne treści z klasyfikacją R mogą być obraźliwe dla niektórych dorosłych."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Bez ograniczeń wiekowych"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Niezalecane dla osób w wieku poniżej <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> lat."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Narkotyki"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Seks"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Przemoc"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Nieuwzględnione programy: wiadomości, sport, dokumenty i inne programy informacyjne; talk-show, teledyski i programy mieszane."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Ten program jest przeznaczony dla młodszych dzieci w wieku do 8 lat."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Ten program jest przeznaczony dla młodych widzów, którzy ukończyli 8 lat. Zaleca się, by młodsze dzieci w wieku poniżej 8 lat oglądały programy z tą klasyfikacją w obecności rodzica lub opiekuna."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Ten program jest przeznaczony dla wszystkich grup wiekowych i jest odpowiedni dla całej rodziny."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Ten program, choć jest przeznaczony dla wszystkich widzów, może być nieodpowiedni dla młodszych dzieci (poniżej 8 lat). Rodzice lub opiekunowie powinni mieć na uwadze, że program może zawierać elementy, które mogą zostać uznane za nieodpowiednie do oglądania przez dzieci w wieku 8–13 lat bez nadzoru."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Program z taką klasyfikacją zawiera motywy lub treści, które mogą być nieodpowiednie dla osób w wieku poniżej 14 lat. Zdecydowanie zaleca się, by rodzice zachowali ostrożność, pozwalając dzieciom i młodszym nastolatkom na oglądanie go bez nadzoru opiekunów, ponieważ ta klasyfikacja oznacza, że program może w realistyczny sposób poruszać tematy dla dorosłych i problemy społeczne."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Ten program jest przeznaczony dla widzów, którzy ukończyli 18 lat."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programy nieuwzględnione w klasyfikacji."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Program mogą oglądać osoby w każdym wieku. Program z oceną G może nie być dostosowany do wrażliwości dzieci w wieku poniżej ośmiu lat."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Program nie ma ograniczeń wiekowych, ale może zawierać łagodną lub sporadyczną przemoc, która może zaniepokoić małe dzieci. Dlatego w przypadku widzów w wieku do 8 lat zalecany jest nadzór osoby dorosłej."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Program jest odpowiedni dla osób, które ukończyły 13 lat. Osoby młodsze mogą go oglądać tylko pod opieką osoby dorosłej."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Program jest odpowiedni dla osób, które ukończyły 16 lat. Programy z tą oceną przedstawiają bardziej niepokojące motywy, sytuacje lub zachowania oraz charakteryzują się większą dosadnością."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Program jest odpowiedni dla osób, które ukończyły 18 lat. Jednym z głównych elementów programów przeznaczonych tylko dla dorosłych są jednoznaczne sceny seksu. Programy takie mogą też zawierać nadmiernie realistyczne sceny przemocy, okrucieństwa czy tortur."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Zalecane dla wszystkich grup wiekowych."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Zalecane dla dzieci."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Zalecane dla dorosłych."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programy nie zawierają materiałów nieodpowiednich dla żadnej grupy wiekowej, więc są odpowiednie dla widzów w dowolnym wieku."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programy mogą być nieodpowiednie dla dzieci poniżej 7 lat, dlatego zalecany jest nadzór rodzicielski."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programy mogą zawierać materiały nieodpowiednie dla dzieci poniżej 12 lat, dlatego zalecany jest nadzór rodzicielski."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programy mogą być nieodpowiednie dla odbiorców w wieku poniżej 15 lat, dlatego zalecany jest nadzór rodzicielski."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programy mogą być nieodpowiednie dla odbiorców w wieku poniżej 19 lat, dlatego nie są dla nich przeznaczone."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Odpowiednie dla wszystkich grup wiekowych."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Odpowiednie dla wszystkich odbiorców, ale rodzice powinni nadzorować młodych widzów."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Odpowiednie dla osób, które ukończyły 13 lat, a w przypadku dzieci poniżej tego wieku zalecany jest nadzór rodzicielski."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Odpowiednie dla osób, które ukończyły 16 lat."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Odpowiednie dla osób, które ukończyły 18 lat."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Odpowiednie dla dorosłych, którzy ukończyli 21 lat."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Odpowiednie dla dzieci w wieku od 3 do 6 lat."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Odpowiednie dla dzieci w wieku od 6 do 12 lat."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Bez ograniczeń wiekowych."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Odpowiednie dla osób, które ukończyły 13 lat."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Odpowiednie dla osób, które ukończyły 18 lat. W przypadku młodszych osób wymagany jest nadzór rodzicielski."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Odpowiednie dla dorosłych"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dwuznaczne dialogi"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Wulgarny język"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Treści erotyczne"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Przemoc"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Przemoc fantasy"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Program został stworzony z myślą o dzieciach w każdym wieku."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Program został stworzony z myślą o dzieciach od 7 lat."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Większość rodziców uzna ten program za odpowiedni dla dzieci w każdym wieku."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Program zawiera materiały, które rodzice mogą uznać za nieodpowiednie dla młodszych dzieci. Wielu rodziców może chcieć obejrzeć go z nimi wspólnie."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Program zawiera materiały, które rodzice mogą uważać za nieodpowiednie dla dzieci w wieku poniżej 14 lat."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Program został przygotowany dla dorosłych i z tego powodu może być nieodpowiedni dla widzów w wieku poniżej 17 lat."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Bez ograniczeń wiekowych. Nie zawiera treści, które rodzice mogliby uznać za nieodpowiednie dla dzieci."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Zalecany nadzór rodzicielski. Mogą pojawiać się treści, które rodzice mogą uznać za nieodpowiednie dla swoich małych dzieci."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Zdecydowanie zalecany nadzór rodzicielski. Niektóre materiały mogą być nieodpowiednie dla młodszych nastolatków."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Z ograniczeniem wiekowym, zawiera materiały dla dorosłych. Rodzice powinni dowiedzieć się więcej o tym filmie, zanim postanowią obejrzeć go ze swoimi małymi dziećmi."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Tylko dla osób w wieku powyżej 17 lat. Treści typowo dla dorosłych. Niedozwolone dla dzieci."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Odpowiednie dla dorosłych"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Dzieci w wieku poniżej 10 lat nie mogą oglądać tego programu/filmu."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Odpowiednie dla wszystkich grup wiekowych."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Dzieci w wieku poniżej 10 lat mogą oglądać ten program/film, lecz tylko w towarzystwie osoby dorosłej."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Dzieci w wieku poniżej 13 lat mogą oglądać ten program/film, lecz tylko w towarzystwie osoby dorosłej."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Dzieci w wieku poniżej 13 lat nie mogą oglądać tego programu/filmu."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Dzieci w wieku poniżej 16 lat nie mogą oglądać tego programu/filmu."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Odbiorcy w wieku poniżej 18 lat nie mogą oglądać tego programu/filmu."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"ta klasyfikacja jest zarezerwowana dla filmów, których głównym elementem są sceny typowo erotyczne (pornografia)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Wył."</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Zablokuj"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Lat(a)"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Kategorie wiekowe"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Oceny treści"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Nie określono"</string>
+</resources>

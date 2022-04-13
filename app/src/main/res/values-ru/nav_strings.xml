@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"Назад"</string>
+    <string name="setup_select" msgid="1270661539800592611">"Выбрать"</string>
+    <string name="setup_next" msgid="4079616525492116810">"Далее"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"Выйти"</string>
+    <string name="satellites" msgid="2437056584091944552">"Спутники"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"Входы"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"Второе окно"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"Цифровое телевидение"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"Аналоговое телевидение"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"Источники каналов"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"Просканируйте каналы."</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"Нет функций"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"Выбрать список"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"Выбрать больше типов"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"Выбрать"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"Упорядочить"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"По умолчанию"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"Название (по возрастанию)"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"Название (по убыванию)"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"Шифрование"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"Найти"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"Введите номер канала или его название."</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"Трансляция"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"Категории"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"Пакеты"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"Цифровой сигнал"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"Нет каналов такого типа. Укажите другой."</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"Радио"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"Аналоговый сигнал"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"Бесплатное вещание"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"Зашифрованный сигнал"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"Сеть"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"Выбрать тип"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"Загрузка…"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"На страницу вверх"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"На страницу вниз"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"Перейти вверх"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"Перейти вниз"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"Список избранного"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"Удалить"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"Список спутников"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"Выбрать спутник"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"Список каналов"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"В список добавлены новые каналы."</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"Категории:"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"Пакеты:"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"Выбор списка каналов"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"Выбор списка избранного"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"Сведения о канале"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"Общая громкость"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"Введите пароль."</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"Вы ввели неправильный пароль три раза.\nТеперь необходимо подождать около 15 минут."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"Неверный пароль. Повторите попытку."</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"Антенна"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"Программа без названия"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"Нет сведений о программе."</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"Нет сведений о канале."</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"Нет сигнала."</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"Не поддерживается."</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"Канал заблокирован!"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"Вход заблокирован."</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"Программа заблокирована."</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"Скрытый канал"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"Аудио закодировано."</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"Видео закодировано."</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"Спящий режим:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"Выкл."</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"мин."</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"Нет видео."</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"Получение данных…"</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"Неизвестное аудио"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"Неизвестное стерео"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"Неизвестно"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"Нет аудио."</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"Тип"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"Подтип"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"Список забронированных каналов"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"Список забронированных программ"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"Забронировать эту программу?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"Эта программа уже забронирована. Отменить?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"– скоро начало. Переключиться на канал?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"Рейтинг не указан"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"Нет сведений о программе"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"Нет данных программы"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"Программа без названия"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"Без названия"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"Разблокировано"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"Не внесено в расписание"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"По расписанию"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"Без категории"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"Не поддерживается"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"ОК"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"Отмена"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"Весь экран"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"Выделенная область"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"Нет"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"Настроить"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"Сделать снимок всего экрана или выделенной области?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"Сделать снимок экрана?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"Выберите место для сохранения логотипа."</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"Создание снимка…"</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"Снимок сделан."</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"Не удалось сделать снимок. Повторите попытку."</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"Действие отменено."</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"Нет сигнала. Питание будет отключено."</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"Чтобы продолжить, нажмите любую кнопку."</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"Предыдущий день"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"Следующий день"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"Подробнее"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"Фильтр"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"На страницу вверх"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"На страницу вниз"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"ВВОД"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"Без категории"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"Нет типа"</string>
+    <string name="epg_password" msgid="8012355648918471162">"Пароль"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"Неверный пароль."</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"Получение данных…"</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"Январь"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"Февраль"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"Март"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"Апрель"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"Май"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"Июнь"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"Июль"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"Август"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"Сентябрь"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"Октябрь"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"Ноябрь"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"Декабрь"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"Воскресенье"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"Понедельник"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"Вторник"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"Среда"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"Четверг"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"Пятница"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"Суббота"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"Список приложений"</string>
+    <string name="nav_select" msgid="990203763701782141">"Выбрать"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"Нет приложения."</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Загрузка приложения Ginga…"</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"Отключить субтитры и открыть приложение Ginga?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"Обновление мастера…"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"Подробнее…"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"Недопустимый файл образа встроенного ПО."</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"Обновление…"</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"Не отключайте USB-устройство и не выключайте телевизор во время обновления встроенного ПО."</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"Проверка встроенного ПО…"</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"Обновить встроенное ПО?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"Встроенное ПО обновлено.\nЧтобы активировать новую версию, перезапустите телевизор."</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"Не удалось выполнить обновление.\nЧтобы скачать встроенное ПО ещё раз, перезапустите телевизор."</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"Не удалось выполнить обновление.\nПовторить попытку?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"Не удалось выполнить обновление. Подключите USB-устройство.\nПовторить попытку?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"Не хватает места на USB-устройстве."</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB-устройство не готово. Подключите его и повторите попытку позже."</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"Внутренняя ошибка."</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"Версия встроенного ПО недоступна."</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"Не удалось расшифровать."</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"Недопустимое встроенное ПО."</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"Нет доступных обновлений для встроенного ПО."</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"Не удалось проверить наличие новых версий встроенного ПО."</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"Не удалось скачать встроенное ПО."</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"В работе USB-устройства обнаружена проблема."</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"Питание"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"Отключите СУБТИТРЫ, прежде чем включать ТЕЛЕТЕКСТ. Продолжить?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"ДА"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"НЕТ"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"Переключиться на сервис EWS?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"Переключиться на специальный сервис?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"– скоро начало. Переключиться?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Закрыть приложение Ginga и включить субтитры?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"БЛОК"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"ГРУППА"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"СТРАНИЦА"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"Нет TOP-телетекста"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"Список избранных страниц"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"Рейтинг не указан."</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"Сеть CI Plus изменилась. Найдите обновленную сеть."</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"Сеть CI Plus недоступна. Найдите обновленную сеть."</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"Сеть CI Plus не инициализирована. Найдите обновленную сеть."</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"Наступило запланированное время для поиска сети CI Plus. Найдите обновленную сеть."</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"Выберите страну:"</string>
+    <string name="setup_country" msgid="629173256579318536">"Страна"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"Укажите параметры кабельного телевидения."</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"Часовой пояс"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"Режим сканирования"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"Частота (кГц)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"Модуляция"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"Символьная скорость (ксимв/с)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"Идентификатор сети"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"Почтовый индекс"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"Новый пароль"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"Подтвердите пароль"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"Выбрать оператора"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"Тип спутника"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"Выберите тип спутника"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"Выбор оператора"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"Выберите одного оператора из следующего списка"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"Укажите параметры кабельного телевидения"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"Укажите параметры сканирования"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"Выберите спутники, которые нужно просканировать, или отредактируйте параметры выбранного спутника"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"Настройте тип антенны"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"Настройка антенны"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"Настройте параметры спутника"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"Настройте параметры транспондера"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"Сохранить"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"Беспроводное скачивание"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"Сканирование…"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"Не удалось найти обновления для ПО, доступные для беспроводного скачивания."</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"Программирование…"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"Скачивание…"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"Скачивание может занять до 25 минут."</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ПО скачано. Начать установку?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"Не удалось выполнить программирование. Повторить попытку?\n\nОбратитесь за помощью в сервисный центр."</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ПО скачано. Перезапустить телевизор?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"Внимание! Во время обновления не отключайте телевизор от сети питания, иначе в его работе могут возникнуть проблемы."</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"Рекомендуем обновить ПО. Доступна новая версия программного обеспечения. Ее установка займет некоторое время, в течение которого экран может погаснуть. Не выключайте телевизор. Установить обновление?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"Не удалось скачать ПО. Повторить попытку?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"Рекомендуем обновить ПО. Доступна новая версия программного обеспечения. Ее установка займет некоторое время, в течение которого экран может погаснуть. Не выключайте телевизор. Установить обновление? Скачивание начнется через <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> сек."</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"Рекомендуем обновить ПО. Новая версия станет доступна <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>. Ее установка займет некоторое время, в течение которого экран может погаснуть. Не выключайте ресивер, пока обновление не завершится. Если вы разрешите установить эту версию, убедитесь, что в указанное время телевизор будет работать или находиться в режиме ожидания. Установить обновление?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"Сведения об обновлении ПО На другом канале может быть доступна новая рекомендованная версия ПО. Если вы решите ее скачать, переключение на канал может произойти автоматически. Хотите сделать это сейчас? Скачивание начнется через <xliff:g id="AUTOMATICALLY">%s</xliff:g> сек."</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"Найдено обновление ПО.\nВы разрешаете автоматически скачать его, когда телевизор перейдет в режим ожидания?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"Программирование"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"Австрия"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"Бельгия"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"Швейцария"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"Чехия"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"Германия"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"Дания"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"Испания"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"Финляндия"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"Франция"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"Великобритания"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"Италия"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"Люксембург"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"Нидерланды"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"Норвегия"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"Швеция"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"Болгария"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"Хорватия"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"Греция"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"Венгрия"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"Ирландия"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"Польша"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"Португалия"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"Румыния"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"Россия"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"Сербия"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"Словакия"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"Словения"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"Турция"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"Эстония"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"Австралия"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"Новая Зеландия"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"Индонезия"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"Укажите ваш часовой пояс:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"Установите пароль. Пароль \"0000\" является недопустимым"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"Введите почтовый индекс."</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"Пароль задан."</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"Из-за изменений, связанных с сетью, некоторые каналы перестали работать. Удалить их?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"Список телеканалов изменился. Чтобы начать поиск обновлений, нажмите ОК."</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"Настройка антенны"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"Спутник"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"Название спутника"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"Положение на орбите"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"Управление движением"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"Отключение ограничений"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"Ограничение движения на восток"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"Ограничение движения на запад"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"Сохранить положение"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Переход на позицию"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Переход в начальное положение"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"Размер шага"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"Время ожидания"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"Переместить на восток"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"Переместить на запад"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"Остановить движение"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"Отключить"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"Тон 22 кГц"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"Выкл."</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"Вкл."</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"Авто"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"Транспондер"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"Частота"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"Символьная скорость (ксимв/с)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"Поляризация"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"Неизвестно"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"Горизонтальная"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"Вертикальная"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"Левая"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"Правая"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"Добавить новые спутники"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"Добавить новые транспондеры"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"Точная настройка спутника"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"Тип сканирования"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"Тип сохранения"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"Режим сканирования"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"Поиск сети"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"Поиск"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"Авто"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"Набор настроек"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"Только зашифрованные каналы"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"Только бесплатные каналы"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"Все"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"Только цифровые каналы"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"Только радиоканалы"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"Нет спутника."</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"Точная настройка спутника вручную"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"Нет транспондера."</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"У спутника нет названия.\nВведите его."</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"Повторное сканирование всех спутников…"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"Добавление спутника"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"Обновление спутника"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"Статус спутника"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"Сеть"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"Полностью"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"Спутники"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"Позиция"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"Питание LNB"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"Тип антенны"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"Универсальная"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"Один кабель"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"ТВ-тюнер"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"Дополнительный ТВ-тюнер"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"Пользовательский диапазон частот: <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"Диапазон частот"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"Пользовательские настройки"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"Позиция"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"Кабельное ТВ"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"Предпочтительный спутник"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"Основной спутник"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"Универсальный"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"Tone Burst"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"Отключено"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"Tone Burst A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"Tone Burst B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"Вкл."</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"Выкл."</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"Текущий источник и <xliff:g id="CONFLICTS">%s</xliff:g> конфликтуют между собой."</string>
+    <string name="ews_status" msgid="451574410866097453">"СТАТУС: <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"Настройка источника"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"Автоматическое расположение каналов"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"Платное ТВ"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"Программа без названия."</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"Этот вход не поддерживает автоматическое сканирование."</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"Не удалось начать автосканирование для входа \"<xliff:g id="TV_INPUT">%s</xliff:g>\"."</string>
+    <string name="str" msgid="4738306056683483195">"Избранное: <xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"Все"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"Радио"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"Спящий режим: выкл."</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"Спящий режим: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> мин."</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"Масштаб x1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"Масштаб x2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"Масштаб x1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"Приостановка: вкл."</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"Приостановка: выкл."</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"Без категории"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"Фильмы и драмы"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"Новости и текущие события"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"Шоу и телеигры"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"Спорт"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"Спорт (в общем)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"Программы для детей и подростков"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"Музыка, балет и танцы"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"Культура и искусство (не включая музыку)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"Политика, социальные вопросы и экономика"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"Образование, наука и факты"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"Досуг и хобби"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"Особые характеристики"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"Детям"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"Эротика"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"Другое"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"Развлечения"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"Текущие события"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"Информационно-развлекательные программы"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"Юмор"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"Драма"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"Документальные программы"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"Новости и информативные программы"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"Спорт"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"Стиль жизни"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"Новости и информационные программы"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"не поддерживается"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"Сериалы"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"Эстрада"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"Информационные программы"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"Юмористические передачи"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"Романтика"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"Классические, исторические и религиозные драмы"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"Серьезная и классическая музыка"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"Фильмы для взрослых и драмы"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"Новости и текущие события (в общем)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"Новости и погода"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"Новостные тележурналы"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"Документальные программы"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"Интервью, обсуждения и дебаты"</string>
+    <string name="nav_News" msgid="3663290212801352195">"Новости"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"Шоу и телеигры (в общем)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"Телеигры, викторины и соревнования"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"Эстрадные представления"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"Ток-шоу"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"Спортивные тележурналы"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"Футбол"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"Теннис и сквош"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"Командные виды спорта (кроме футбола)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"Легкая атлетика"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"Автоспорт"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"Водные виды спорта"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"Зимние виды спорта"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"Конный спорт"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"Боевые искусства"</string>
+    <string name="nav_Children" msgid="873820541320552860">"Программы для детей и подростков"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"Программы для детей дошкольного возраста"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"Развлекательный контент для зрителей 6–14 лет"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"Развлекательный контент для зрителей 10–16 лет"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"Информационные, учебные и школьные программы"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"Мультфильмы и кукольные шоу"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"Музыка, балет и танцы (в общем)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"Рок и поп"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"Фолк и народная музыка"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"Джаз"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"Мюзиклы и оперы"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"Балет"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"Культура и искусство (за исключением музыки)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"Исполнительские виды искусства"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"Изобразительные искусства"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"Религия"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"Поп-культура и традиционные виды искусства"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"Литература"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"Кино- и телефильмы"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"Экспериментальные фильмы и видео"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"Телепередачи и пресса"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"Прямые трансляции"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"Новые медиа"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"Тележурналы об искусстве"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"Мода"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"Изгои"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"Политика, социальные вопросы и экономика (в общем)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"Тележурналы, репортажи и документальные программы"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"Экономика и социальные сводки"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"Выдающиеся люди"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"Образование, наука и факты (в общем)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"Природа, животные и окружающая среда"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"Технологии и естественные науки"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"Медицина, физиология и психология"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"Зарубежные страны и экспедиции"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"Социальные и духовные науки"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"Дополнительное образование"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"Языки"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"Фильмы"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"Досуг и хобби (в общем)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"Туризм и путешествия"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"Ремесло и рукоделие"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"За рулем"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"Фитнес и здоровье"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"Реклама и телемагазины"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"Садоводство"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"Язык оригинала"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"Черно-белые программы"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"Неопубликованные программы"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"3D-контент"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"Местные и региональные программы"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"НЕИЗВЕСТНО"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"Моно"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"Стерео"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"NICAM моно"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"NICAM стерео"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"NICAM Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"NICAM Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM моно"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM стерео"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"Двойное моно"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"Объемный звук (2-канальный)"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"Объемный звук"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"Формат аудиоканалов: <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g>"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"Воскресенье"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"Понедельник"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"Вторник"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"Среда"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"Четверг"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"Пятница"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"Суббота"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"Отмена"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"Разрешить"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"Напомнить позже"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"Нет сигнала."</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"Просканируйте каналы."</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"Получение данных…"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"Для детей"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"Канал заблокирован."</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"Программа заблокирована."</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"Вход заблокирован."</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"Программа без названия"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"Скрытый канал"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"Аудиопрограмма"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"Нет аудио и видео."</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"Нет сведений о программе."</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"Нет сведений о канале."</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"Нет аудиопотока."</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"Нет видеопотока."</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"Подождите…"</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"Видео не поддерживается."</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"Не поддерживается."</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"Нет трансляции"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"Нет каналов."</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"Этот контент заблокирован вашим поставщиком услуг Интернета."</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"Контент закодирован."</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"Перемещение позиционера…"</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"Сервис не работает."</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"Отключить"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"Без остановки"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"Шаг"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"Время ожидания"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"Масштаб"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"Добавлен канал: <xliff:g id="MSG_CHANNEL">%1$d</xliff:g>."</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"Добавлено каналов: <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g>."</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"Нет добавленных каналов."</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB-устройство подключено."</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"Канал: <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g> %%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"Новости, репортажи"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"Регулярные выпуски, общие темы"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"Погода"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"Специальные программы, документальное кино"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"Политика, национальные собрания"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"Экономика, обзор рынка"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"Иностранные, международные репортажи"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"Новостная аналитика"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"Обсуждения, конференции"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"Специальные репортажи"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"Местные программы"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"Информация о пробках"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"Другое"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"Спорт"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"Новости спорта"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"Бейсбол"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"Футбол"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"Гольф"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"Другие игры с мячом"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"Сумо, единоборства"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"Олимпийские игры, международные соревнования"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"Марафоны, спортивные состязания, плавание"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"Мотоспорт"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"Водные и зимние виды спорта"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"Скачки, гонки"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"Информационные программы, ток-шоу"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"Сплетни о жизни знаменитостей"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"Мода"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"Жизнь, дом"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"Здоровье, медицина"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"Шопинг, рассылка товаров почтой"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"Высокая кухня, кулинария"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"События"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"Телегид, информация"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"Драма"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"Японские драмы"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"Иностранные драмы"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"Исторические драмы"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"Музыка"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"Японская рок- и поп-музыка"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"Иностранная рок- и поп-музыка"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"Классическая музыка, опера"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"Джаз, фьюжн"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"Популярные песни, японские популярные песни (энка)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"Концерты"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"Хит-парады, музыка по запросу"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"Караоке, конкурсы для вокалистов-любителей"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"Японские баллады, японская народная музыка"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"Детские песни"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"Народная музыка, этническая музыка"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"Эстрадные выступления"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"Викторины"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"Игры"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"Ток-шоу"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"Юмор"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"Эстрадная музыка"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"Программы о путешествиях"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"Кулинария"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"Фильмы"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"Иностранные фильмы"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"Японские фильмы"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"Мультфильмы"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"Мультфильмы, фильмы со спецэффектами"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"Японские мультфильмы"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"Иностранные мультфильмы"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"Спецэффекты"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"Документальное кино, культура"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"Социальные темы, события в мире"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"История, путешествия"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"Природа, животные, окружающая среда"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"Космос, наука, медицина"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"Культура, народная культура"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"Литература, литературное искусство"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"Спорт"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"Документальные программы"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"Интервью, обсуждения"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"Театральные и публичные представления"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"Современная драма, вестерн-драма"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"Мюзиклы"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"Танец, балет"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"Комедия, развлечения"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"Кабуки, классическая драма"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"Хобби, образование"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"Путешествия, рыбалка, отдых на природе"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"Садоводство, домашние животные, рукоделие"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"Музыка, изобразительное и индустриальное искусство"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"Японские шахматы (сёги) и го"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"Маджонг, пинбол"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"Автомобили, мотоциклы"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"Компьютеры, игры для ТВ"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"Общение, языки"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"Дошкольники, школьники"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"Школьники младшего и среднего возраста"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"Студенты, экзамены"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"Непрерывное образование, повышение квалификации"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"Проблемы образования"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"Благосостояние"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"Пожилые люди"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"Люди с ограниченными возможностями"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"Социальное обеспечение"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"Волонтеры"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"Язык жестов"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"Текст (субтитры)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"Пояснения к звуковому многоканальному вещанию"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"Сохраненные"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"Сохраненные"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"Для расширения"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"Программа неэфирного и эфирного цифрового ТВ"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"Расширение для цифрового широкополосного вещания"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"Расширение для цифрового спутникового аудиовещания"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"Программа интернет-телевидения"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"Другое"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"Назад"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Главный экран Android TV"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"Нет"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"Возрастное ограничение этой программы: <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>."</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"Источник заблокирован"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"Источник входного сигнала заблокирован, так как вы установили блокировку. Эту настройку можно изменить в меню телевизора. Чтобы разблокировать экран, нажмите Ввод."</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"Проверьте внешний вход или укажите другой, нажав кнопку для выбора источника сигнала."</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"Нет установленных каналов. Откройте меню телевизора и включите сканирование каналов."</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"Контент скоро появится. Подождите…"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"Этот канал сейчас недоступен. Чтобы узнать больше, обратитесь к поставщику услуг."</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"Канал содержит только аудиопрограммы."</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"Канал не содержит видео- и аудиоконтента."</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"Загрузка…"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"Данные канала загружаются. Подождите…"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"Этот видеоформат не поддерживается телевизором."</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"Этот контент заблокирован вашим поставщиком услуг."</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"Текущий список каналов пуст."</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"Этот контент заблокирован вашим поставщиком услуг."</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"Перемещение позиционера"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"Позиционер перемещается. Идет поиск спутника…"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"Нет активных сервисов."</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"Программа заблокирована"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"Просканируйте каналы"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"Контент скоро появится. Подождите…"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP-каналы"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"Стиль жизни, досуг"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"Выберите способ расположения каналов. По умолчанию используется автоматическое расположение.\nПараметр \"Платное ТВ\" позволяет удобным образом расположить платные телеканалы.\nЕсли при выборе параметра \"Платное ТВ\" установить каналы не удалось, используйте автоматический способ."</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> МГц"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> ксимв/с"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"закрыть"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"Правильно!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"Введен неверный код."</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"Это поле не может быть пустым."</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"Очистка экрана запущена. Она займет <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> мин."</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"Очистка экрана остановлена."</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"Начать сканирование каналов? Все установленные каналы будут удалены."</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Малайский"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"Местный язык"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"Язык оригинала"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"Другой язык"</string>
+</resources>

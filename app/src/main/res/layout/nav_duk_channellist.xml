@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_channellist"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:background="@color/nav_ch_list_view_back">
+
+        <LinearLayout
+            android:id="@+id/nav_channel_list_title_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_duk_channel_list_title_height"
+            android:background="@color/nav_ch_list_title_back"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/nav_channel_list_title_first"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/nav_channel_list_title_height_first"
+                android:layout_marginTop="@dimen/nav_channel_list_title_fvp_margintop"
+                android:background="@color/nav_ch_list_title_back"
+                android:layout_marginLeft="@dimen/nav_channel_list_title_fvp_marginleft"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/nav_channel_list_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/nav_channel_list_title_height_time"
+                    android:layout_marginLeft="@dimen/nav_duk_channel_list_function_layout_padding"
+                    android:gravity="start|center"
+                    android:text="09:32"
+                    android:textColor="@color/nav_channel_list_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_normal"
+                    android:textStyle="normal" />
+
+                <ImageView
+                    android:id="@+id/nav_channel_list_fvp_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/nav_channel_list_title_height_first"
+                    android:layout_marginRight="@dimen/nav_channel_list_title_fvp_margin"
+                    android:src="@drawable/freeviewplay" />
+            </LinearLayout>
+
+            <AbsoluteLayout
+                android:id="@+id/nav_channel_list_title_type"
+                android:layout_width="228dp"
+                android:layout_height="@dimen/nav_channel_list_title_height_first"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="@dimen/nav_channel_list_type_marginltop"
+                android:background="@color/nav_ch_list_title_back"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/nav_chlist_type_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/nav_channel_list_type_icon"
+                    android:layout_x="2dp"
+                    android:layout_y="7dp"
+                    android:gravity="center_vertical"
+                    android:src="@drawable/nav_chlist_type_left" />
+                
+                  <ImageView
+                    android:id="@+id/nav_chlist_type_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/nav_channel_list_type_icon"
+                    android:layout_x="204dp"
+                    android:layout_y="7dp"
+                    android:gravity="center_vertical"
+                    android:src="@drawable/nav_chlist_type_right" />
+                  
+				  <RelativeLayout 
+				      android:layout_width="wrap_content"
+                      android:layout_height="@dimen/nav_channel_list_title_height_time"
+                      android:gravity="center_vertical"
+				      android:layout_x="55dp"
+                      android:layout_y="0dp">
+                      
+				      <TextView
+                      android:id="@+id/nav_channel_list_title"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:gravity="center_vertical"
+                      android:text="@string/nav_uk_channellist_type_radio"
+                      android:textColor="@color/nav_channel_list_txt"
+                      android:textSize="@dimen/nav_channel_list_textsize_normal"
+                      android:textStyle="bold" />
+                   <View 
+                        android:layout_width="wrap_content"
+                        android:layout_height="1dp"
+                        android:layout_below="@+id/nav_channel_list_title"
+                        android:layout_alignLeft="@+id/nav_channel_list_title"
+                        android:layout_alignRight="@+id/nav_channel_list_title"
+                        android:background="@color/nav_uk_ch_list"/>				      				    
+				    </RelativeLayout>
+
+
+            </AbsoluteLayout>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <ProgressBar
+                android:id="@+id/nav_channel_list_progressbar"
+                android:layout_width="66dp"
+                android:layout_height="56dp"
+                android:layout_gravity="center"
+                android:background="@color/nav_ch_list_view_back"
+                android:paddingBottom="180dp"
+                android:paddingTop="180dp" 
+                android:visibility="gone"/>
+
+            <ListView
+                android:id="@+id/nav_channel_listview"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:paddingLeft="15dp"
+                android:paddingRight="32dp"
+                android:background="@color/nav_ch_list_view_back"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/translucent_background"
+                android:ellipsize="end"
+                android:listSelector="@drawable/nav_uk_ch_list_selector"
+                android:scrollbars="none" >
+                <requestFocus />
+            </ListView>
+        </FrameLayout>
+
+        <TableLayout
+            android:id="@+id/nav_channel_list_tip"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/nav_duk_channel_list_color_height"
+            android:background="@color/nav_ch_list_view_back"
+            android:gravity="center_horizontal"
+            android:paddingBottom="@dimen/nav_duk_channel_list_func_padding"
+            android:paddingLeft="@dimen/nav_duk_channel_list_function_layout_padding"
+            android:paddingRight="@dimen/nav_duk_channel_list_function_layout_padding" >
+
+            <TableRow
+                android:id="@+id/nav_page_up_down"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="@dimen/nav_duk_channel_list_button_margin"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/nav_uk_chlist_red" />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_up"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_channel_list_color_text"
+                    android:layout_weight="1"
+                    android:gravity="center|start"
+                    android:text="@string/nav_page_up"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_chlist_color_text_size" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/nav_uk_chlist_green" />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_down"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_channel_list_color_text"
+                    android:layout_weight="1"
+                    android:gravity="center|start"
+                    android:scrollHorizontally="false"
+                    android:text="@string/nav_page_down"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_chlist_color_text_size" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/nav_page_function"
+                android:layout_height="18dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/channel_nav_select_list_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/nav_uk_chlist_yellow" />
+
+                <TextView
+                    android:id="@+id/channel_nav_select_list"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_channel_list_color_text"
+                    android:layout_weight="1"
+                    android:gravity="center|start"
+                    android:text="@string/nav_uk_channellist_show_player"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_chlist_color_text_size" />
+
+                <ImageView
+                    android:id="@+id/channel_nav_exit_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/nav_uk_chlist_blue" />
+
+                <TextView
+                    android:id="@+id/channel_nav_exit"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_channel_list_color_text"
+                    android:layout_weight="1"
+                    android:gravity="center|start"
+                    android:text="@string/nav_exit"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_chlist_color_text_size" />
+            </TableRow>
+        </TableLayout>
+
+</LinearLayout>

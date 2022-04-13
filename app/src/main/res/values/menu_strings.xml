@@ -1,0 +1,2474 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Label in On state of On/Off switch for "Parental Controls" option. [CHAR LIMIT=30] -->
+    <string name="common_on">On</string>
+    <!-- Label in Off state of On/Off switch for "Parental Controls" option. [CHAR LIMIT=30] -->
+    <string name="common_off">Off</string>
+
+    <!-- Default title for satellite scan page. [CHAR LIMIT=30] -->
+    <string name="menu_interface_name">Menu</string>
+
+    <!-- The title of video main page of TV menu settings. [CHAR LIMIT=30] -->
+    <string name="menu_tab_video">Video</string>
+    <!-- The title of audio main page of TV menu settings. [CHAR LIMIT=30] -->
+    <string name="menu_tab_audio">Audio</string>
+
+    <!-- The Input Source Name, TV source means that User cloud select broadcast channels  [CHAR LIMIT=30] -->
+    <string name="menu_tab_tv">TV</string>
+    <!-- The title of setup main page of TV menu settings. [CHAR LIMIT=30] -->
+    <string name="menu_tab_setup">Setup</string>
+    <!-- The title of parental control main page of TV menu settings. [CHAR LIMIT=30] -->
+    <string name="menu_tab_parent">Parental</string>
+
+    <!-- One table title of TV action menu settings. [CHAR LIMIT=50] -->
+    <string name="menu_advanced_options">Advanced Options</string>
+    <!-- One table title of TV action menu settings for Cam card. [CHAR LIMIT=50] -->
+    <string name="menu_advanced_ci">CI Card</string>
+    <!-- One table title of TV action menu settings For Over Air Download feature. [CHAR LIMIT=50] -->
+    <string name="menu_advanced_oad">Manual OAD Download</string>
+
+     <!-- The title of scan dialog for inactive channels scan. [CHAR LIMIT=50] -->
+    <string name="menu_tab_inactive_channels">Inactive Channels</string>
+
+    <!-- The string displayed on button for user to enter next page. [CHAR LIMIT=30] -->
+    <string name="menu_enter">Enter</string>
+    <!-- The string displayed on button for user to exit menu page. [CHAR LIMIT=30] -->
+    <string name="menu_exit">Exit</string>
+    <!-- The string displayed on button for user to exit current page and back to last page. [CHAR LIMIT=30] -->
+    <string name="menu_back">Back</string>
+    <!-- The string displayed on button for user to save the modification. [CHAR LIMIT=30] -->
+    <string name="menu_set">Set</string>
+    <!-- The string displayed on button for user to confirm, such as scan complete. [CHAR LIMIT=30] -->
+    <string name="menu_ok">OK</string>
+    <!-- The string displayed on button for user to cancel something ongoing, such as scanning. [CHAR LIMIT=30] -->
+    <string name="menu_cancel">Cancel</string>
+
+    <!-- The parameter of Video,item display interface strings to be defined -->
+    <string name="menu_video_restore" translatable="false">Restore Default Picture Mode Settings</string>
+    <string name="menu_video_notification" translatable="false">Dolby Vision Notification</string>
+    <string name="menu_video_picture_mode" translatable="false">Picture Mode</string>
+    <string name="menu_video_backlight" translatable="false">Back Light</string>
+    <string name="menu_video_brighttness" translatable="false">Brightness</string>
+    <string name="menu_video_contrast" translatable="false">Contrast</string>
+    <string name="menu_video_saturation" translatable="false">Saturation</string>
+    <string name="menu_video_hue" translatable="false">HUE</string>
+    <string name="menu_video_sharpness" translatable="false">Sharpness</string>
+    <string name="menu_video_gamma" translatable="false">Gamma</string>
+    <string name="menu_video_color_temperature"  translatable="false">Color Temperature</string>
+    <string name="menu_video_color_g_red" translatable="false">R Gain</string>
+    <string name="menu_video_color_g_green" translatable="false">G Gain</string>
+    <string name="menu_video_color_g_blue" translatable="false">B Gain</string>
+    <string name="menu_video_advancedvideo" translatable="false">Advanced Video</string>
+    <string name="menu_video_3d" translatable="false">3D</string>
+    <string name="menu_video_3d_mode" translatable="false">3D Mode</string>
+    <string name="menu_video_3d_nav" translatable="false">3D Navigation</string>
+    <string name="menu_video_3d_3t2" translatable="false">3D-to-2D</string>
+    <string name="menu_video_3d_depth_field" translatable="false">Depth of Field</string>
+    <string name="menu_video_3d_protrude" translatable="false">Protrude</string>
+    <string name="menu_video_3d_distance" translatable="false">Distance to TV</string>
+    <string name="menu_video_3d_image_safety" translatable="false">Image Safety</string>
+    <string name="menu_video_3d_leftright" translatable="false">L-R Switch</string>
+    <string name="menu_video_3d_osd" translatable="false">OSD Depth</string>
+    <string name="menu_video_3d_wear_glass" translatable="false">Please Wear 3D Glasses!</string>
+    <string name="menu_video_vga_mode" translatable="false">VGA Mode</string>
+    <string name="menu_video_dnr" translatable="false">DNR</string>
+    <string name="menu_video_mpeg_nr" translatable="false">MPEG NR</string>
+    <string name="menu_video_luma" translatable="false">Adaptive Luma Control</string>
+    <string name="menu_video_flesh_tone" translatable="false">Flesh Tone</string>
+    <string name="menu_video_di_film_mode" translatable="false">DI Film Mode</string>
+    <string name="menu_video_blue_stretch" translatable="false">Blue Stretch</string>
+    <string name="menu_video_wme_mode" translatable="false">Game Mode</string>
+    <string name="menu_video_pq_split_mode" translatable="false">PQ Split Screen Demo</string>
+    <string name="menu_video_mjc" translatable="false">MJC</string>
+    <string name="menu_video_mjc_effect" translatable="false">Effect</string>
+    <string name="menu_video_mjc_demo_partition" translatable="false">Demo Partition</string>
+    <string name="menu_video_mjc_mode" translatable="false">Mode</string>
+    <string name="menu_video_mjc_demo" translatable="false">Demo</string>
+    <string name="menu_video_hdmi_mode" translatable="false">HDMI Mode</string>
+    <string name="menu_video_vga" translatable="false">VGA</string>
+    <string name="menu_video_auto_adjust" translatable="false">Auto Adjust</string>
+    <string name="menu_video_hposition" translatable="false">H.Position</string>
+    <string name="menu_video_vposition" translatable="false">V.Position</string>
+    <string name="menu_video_phase" translatable="false">Phase</string>
+    <string name="menu_video_clock" translatable="false">Clock</string>
+    <string name="menu_video_3d_leftright_str" translatable="false">Left/Right</string>
+    <string name="menu_video_3d_updown_str" translatable="false">UP/Down</string>
+    <string name="menu_video_mjc_demo_off" translatable="false">Off</string>
+    <string name="menu_video_mjc_demo_on" translatable="false">On</string>
+    <string name="menu_video_black_bar" translatable="false">Black Bar Detection</string>
+    <string name="menu_video_super_resolution" translatable="false">Super Resolution</string>
+    <string name="menu_video_xvycc" translatable="false">xvYCC</string>
+    <string name="menu_video_blue_light" translatable="false">Blue Light</string>
+    <string name="menu_video_hdr" translatable="false">HDR</string>
+
+    <!-- the parameter of Audio,item display interface strings to be defined -->
+    <string name="menu_audio_balance" translatable="false">Balance</string>
+    <string name="menu_audio_bass" translatable="false">Bass</string>
+    <string name="menu_audio_treble" translatable="false">Treble</string>
+    <string name="menu_audio_srs_mode" translatable="false">Sound Surround</string>
+    <string name="menu_audio_equalize" translatable="false">Equalizer</string>
+    <string name="menu_audio_speaker_mode" translatable="false">Speaker</string>
+    <string name="menu_audio_spdif_mode" translatable="false">SPDIF Type</string>
+    <string name="menu_audio_spdif_delay" translatable="false">SPDIF Delay</string>
+    <string name="menu_audio_avc_mode" translatable="false">Auto Volume Control</string>
+    <string name="menu_audio_type" translatable="false">Type</string>
+    <string name="menu_audio_visually_impaired" translatable="false">Visually Impaired</string>
+    <string name="menu_audio_visually_fader_control" translatable="false">Fader Control</string>
+    <string name="menu_audio_visually_speaker" translatable="false">Speaker</string>
+    <string name="menu_audio_visually_headphone" translatable="false">Headphone</string>
+    <string name="menu_audio_visually_volume" translatable="false">Volume</string>
+    <string name="menu_audio_visually_pan_and_fade" translatable="false">Pane and Fade</string>
+    <string name="menu_audio_visually_impaired_audio" translatable="false">Audio for the Visually Impaired</string>
+    <string name="menu_audio_downmix_mode" translatable="false">Downmix Mode</string>
+
+    <!-- One of menu option item, list all available audio tracks. [CHAR LIMIT=50] -->
+    <string name="menu_audio_sound_tracks">Sound Tracks</string>
+    <string name="menu_audio_bbe_mode" translatable="false">BBE Mode</string>
+
+    <!-- the parameter of TV item display interface strings to be defined-->
+    <!-- One of menu option item displayed current value of tuner mode. [CHAR LIMIT=50] -->
+    <string name="menu_tv_tuner_mode">Tuner Mode</string>
+    <!-- One of menu option item displayed current value of channel list type. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_list_type">Channel List Type</string>
+    <!-- One of menu option item displayed current ID value of country region. [CHAR LIMIT=50] -->
+    <string name="menu_tv_country_region_id">Country Region ID</string>
+    <!-- One of menu option item displayed current value of country region. [CHAR LIMIT=50] -->
+    <string name="menu_tv_oceania_country_region">Country Region</string>
+    <!-- One of menu option item displayed current value of audio channel. [CHAR LIMIT=50] -->
+    <string name="menu_tv_mts">Audio Channel</string>
+    <string name="menu_tv_mts_us" translatable="false">MTS</string>
+    <!-- One of menu option item displayed current value of audio language. [CHAR LIMIT=50] -->
+    <string name="menu_tv_audio_language">Audio Language</string>
+    <!-- One of menu option item displayed current value of second audio language. [CHAR LIMIT=50] -->
+    <string name="menu_tv_audio_language2nd">2nd Audio Language</string>
+    <!-- One of menu option item. It will enter channel list page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channels">Channels</string>
+    <!-- One of menu option item. It will enter scan page or start scan when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_scan">Channel Scan</string>
+    <!-- One of menu option item displayed current value of TV system. [CHAR LIMIT=50] -->
+    <string name="menu_tv_tv_system">TV System</string>
+    <!-- One of menu option item displayed current value of color System. [CHAR LIMIT=50] -->
+    <string name="menu_tv_color_system">Color System</string>
+    <!-- One of menu option item. It will enter update scan page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_update_scan">Update Scan</string>
+    <!-- One of menu option item. It will enter analog manual scan page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_analog_manual_scan">Analog Manual Scan</string>
+    <!-- One of menu option item. It will enter single RF scan page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_single_rf_scan">Single RF Scan</string>
+    <!-- One of menu option item. It will enter channel edit page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_edit">Channel Edit</string>
+    <!-- One of menu option item. Itt will enter channel skip page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_skip">Channel Skip</string>
+    <!-- One of menu option item. It will enter channel setup page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_channel_setup">Channel Setup</string>
+    <!-- One of menu option item. It will show dialog for user to confirm clean channel list when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_clear_channel_list">Clear Channel List</string>
+    <!-- One of menu option item. Current playing channel will be frozen if clicked. [CHAR LIMIT=50] -->
+    <string name="menu_tv_freeze_channel">Freeze Channel</string>
+    <!-- The string displayed in scan page for current scan status. [CHAR LIMIT=50] -->
+    <string name="menu_tv_status">Status</string>
+    <!-- The string displayed in scan page for scanning status. [CHAR LIMIT=50] -->
+    <string name="menu_tv_status_value">Scanning</string>
+    <!-- The string displayed in scan page for number of scanned analog channels. [CHAR LIMIT=50] -->
+    <string name="menu_tv_analog_channels">Analog Channels</string>
+    <!-- The string displayed in scan page for number of scanned digital channels. [CHAR LIMIT=50] -->
+    <string name="menu_tv_digital_channels">Digital Channels</string>
+    <!-- The string displayed in scan page for start frequency of scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_start_frequency">Start Frequency (MHz)</string>
+    <!-- The string displayed in scan page for end frequency of scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_end_frequency">End Frequency (MHz)</string>
+    <!-- The string displayed in scan page for current frequency of scanning. [CHAR LIMIT=50] -->
+    <string name="menu_tv_rf_scan_frequency">Scan Frequency (MHz)</string>
+    <string name="menu_tv_rf_scan_frequency_mhz" translatable="false">MHz</string>
+    <!-- The string displayed in scan page for current value of QAM style for RF scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_rf_scan_mode">QAM Style</string>
+    <!-- The string displayed in scan page for current value of symbol rate for RF scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_rf_sym_rate">Symbol Rate</string>
+    <!-- The string displayed in scan page for current value of frequency plan for single scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_sigle_frequency_plan">Frequency Plan</string>
+    <!-- The string displayed in scan page for current value of modulation for single scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_sigle_modulation">Modulation</string>
+    <!-- The string displayed in scan page for current value of single scan mode. [CHAR LIMIT=50] -->
+    <string name="menu_tv_sigle_scan_mode">Scan Mode</string>
+    <!-- The string displayed in scan page for start index of single scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_sigle_from_channel">From Index</string>
+    <!-- The string displayed in scan page for end index of single scan. [CHAR LIMIT=50] -->
+    <string name="menu_tv_sigle_to_channcel">To Index</string>
+    <!-- The string displayed in scan confirm dialog. It will go to scan page if click YES button. [CHAR LIMIT=90] -->
+    <string name="scan_trd_turkey_tkgs_update_scan">The channel list is already up-to-date.\n
+        Do you want to continue with the download?</string>
+    <!-- The string displayed on button within channel edit page. User can click insert button to insert the selected channel. [CHAR LIMIT=50] -->
+    <string name="menu_tv_insert">Insert</string>
+    <!-- The string displayed on button within channel edit page. User can click delete button to delete the selected channel. [CHAR LIMIT=50] -->
+    <string name="menu_tv_delete">Delete</string>
+    <!-- The string displayed in dialog. User can click YES or NO. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_delete_message">Channels can be deleted without any warning OSD. Are you sure?</string>
+    <!-- The prompt message when delete some special channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_delete_not_forM7Number">This feature is not supported because the channel number is less than 4001.</string>
+    <!-- The prompt message when edit some special channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_edit_M7_num_more4000">Please enter a channel number greater than 4000</string>
+
+    <!-- The head title of channel list menu page for channel NO.. [CHAR LIMIT=30] -->
+    <string name="menu_tv_number">Num.</string>
+    <!-- The head title of channel list menu page for digital or analog. [CHAR LIMIT=30] -->
+    <string name="menu_tv_type">Type</string>
+    <!-- The head title of channel list menu page channel frequency. [CHAR LIMIT=30] -->
+    <string name="menu_tv_frequency">Freq.</string>
+    <!-- The head title of channel list menu page for channel system info. [CHAR LIMIT=30] -->
+    <string name="menu_tv_system">System</string>
+    <!-- The head title of channel list menu page for channel name. [CHAR LIMIT=30] -->
+    <string name="menu_tv_name">Name</string>
+    <!-- The head title of channel list menu page checkbox, user can select skip check box to set this channel to skip status. [CHAR LIMIT=30] -->
+    <string name="menu_tv_skip">Skip</string>
+    <!-- The string displayed in channel scan page for "scan all channels" this time. [CHAR LIMIT=60] -->
+    <string name="menu_tv_scann_allchannels">Scan all channels.</string>
+
+    <!-- The string displayed in menu setting item for current value of dual tuner. [CHAR LIMIT=60] -->
+    <string name="menu_tv_dual_tuner">Dual Tuner</string>
+    <!-- The string displayed in scan confirm dialog. User can click YES or NO. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_m7_scan_confirm">Start LNB search now? \n If you skip this step, the defaults would be used.</string>
+
+    <!-- DTMB Single RF Channel -->
+    <!-- The string displayed in single scan page for current value of RF Channel. [CHAR LIMIT=60] -->
+    <string name="menu_tv_single_rf_channel">RF Channel</string>
+    <!-- The string displayed in single scan page for current value of live signal level. [CHAR LIMIT=60] -->
+    <string name="menu_tv_single_signal_level">Signal Level</string>
+    <!-- The string displayed in single scan page for current value of live signal quality. [CHAR LIMIT=60] -->
+    <string name="menu_tv_single_signal_quality">Signal Quality</string>
+
+    <!-- channel edit-->
+    <!-- The string displayed in channel edit page for Transport Stream name of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_channel_tsname">TS Name :</string>
+    <!-- The string displayed in channel edit page for channel number of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_channel_no">Channel Number :</string>
+    <!-- The string displayed in channel edit page for channel name of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_channel_name">Channel Name :</string>
+    <!-- The string displayed in channel edit page for network name of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_network_name">Network Name :</string>
+
+    <!-- The string displayed in channel edit page for channel frequency of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_freq">Frequency :</string>
+    <!-- The string displayed in channel scan page for channel not found after scan complete. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_freq_scan_no_channel">Channel Not Found.</string>
+
+    <!-- The string displayed in channel edit page for sound system of selected channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_sound_system">Sound System</string>
+
+    <string name="menu_tv_auto_finetune" translatable="false">AFT</string>
+
+    <!-- The string displayed on button in analog channel edit page. It will fine tune current playing analog channel when button clicked. [CHAR LIMIT=30] -->
+    <string name="menu_tv_finetune">Fine-tune</string>
+    <!-- The string displayed on button in channel edit page. It will save current modification channel when button clicked. [CHAR LIMIT=30] -->
+    <string name="menu_tv_store">Store</string>
+    <!-- The string displayed on confirm dialog in channel edit page. Prompt message for user confirms to save channel or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_clear_channel_info">Are you sure?</string>
+    <!-- The string displayed in channel edit page. Prompt message for user waiting sorting channel action. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_sort_loading">Sorting. Please wait...</string>
+    <!-- The string displayed in channel edit page. Prompt message for user waiting moving channel action. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_move_loading">Moving. Please wait...</string>
+    <!-- The string displayed on dialog in channel edit page. Prompt message duplicate channel number. [CHAR LIMIT=NONE] -->
+    <string name="menu_dialog_numrepeat">Repeat Channel Numbers!</string>
+
+    <!-- One item in channel edit page. It will show channel fine tune dialog when click. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_channelfine_tune">Analog Channel Fine-tune</string>
+
+    <!-- Dispaly in dialog for user confirms delete current selected channel or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_remove_inactive_channel">Are you sure you want to remove this channel?</string>
+    <!-- Dispaly in dialog for user confirms delete all channels or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_remove_all_inactive_channels">Are you sure you want to remove all channels?</string>
+
+    <!-- the parameter of Setup, item display interface strings to be defined -->
+    <!-- first level -->
+    <!-- One of menu option item displayed current value of screen mode. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_screenmode">Screen Mode</string>
+    <string name="menu_setup_dpms" translatable="false">DPMS</string>
+    <!-- One of menu option item displayed current value of screen mode, it will be off or on. [CHAR LIMIT=60] -->
+    <string name="menu_setup_bluemute">Blue Mute</string>
+    <!-- One of menu option item, it will enter sub page for DMR feature settings. [CHAR LIMIT=60] -->
+    <string name="menu_setup_modes_dmr_control">DMR Function</string>
+     <!-- One of menu option item that user can set one channel for interaction. [CHAR LIMIT=60] -->
+    <string name="menu_setup_interaction_channel">Interaction Channel</string>
+
+    <!-- One of menu option item, it will enter sub page for MHEG PIN settings. [CHAR LIMIT=60] -->
+    <string name="menu_setup_MHEG_PIN_Protection">MHEG PIN Protection</string>
+
+    <string name="menu_setup_oceania_freeview" translatable="false">Freeview</string>
+
+    <!-- One of menu option item, it will enter sub page for HBBTV settings. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_settings">HBBTV Settings</string>
+    <!-- One of menu option item displayed current value of HBBTV support or not. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_Support">HBBTV Support</string>
+    <!-- One of menu option item that user can set HBBTV track info or not. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_not_track">Do Not Track</string>
+    <!-- One of menu option item that displayed current value of HBBTV cookie settings. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_cookie_settings">Cookie Settings</string>
+    <!-- One of menu option item that user cat set HBBTV storage strategy. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_persistent_storage">Persistent Storage</string>
+    <!-- One of menu option item that user can set the sites of HBBTV no need tracking. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_track_sites">Block Tracking Sites</string>
+    <!-- One of menu option item, displayed current value of HBBTV device ID. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_deviceid">Device ID</string>
+    <!-- One of menu option item, it will reset HBBTV device ID when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_HBBTV_reset_deviceid">Reset Device ID</string>
+    <!-- The string displayed in dialog for user confirm reset HBBTV device ID or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_HBBTV_reset_deviceid_message">Are you sure you want to reset device ID?</string>
+
+    <!-- One of menu option item, it will enter sub page of Ginga settings when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_ginga_setup">Ginga Setup</string>
+
+    <!-- Menu option item that can be set DivX settings. No need translation for DivX(R) [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_divx_reg_setup">DivX(R) Registration</string>
+
+    <string name="menu_setup_scart_setup" translatable="false">SCART</string>
+
+    <!-- One of menu option item, it will enter sub page of caption settings when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_caption_setup">Caption Setup</string>
+    <!-- One of menu option item for user can select TV boot up music. [CHAR LIMIT=60] -->
+    <string name="menu_setup_poweron_music">Startup Music</string>
+    <!-- One of menu option item for user can select TV shutdown music. [CHAR LIMIT=60] -->
+    <string name="menu_setup_poweroff_music">Shutdown Music</string>
+
+    <!-- One of menu option item, it will enter sub page of time settings. [CHAR LIMIT=50] -->
+    <string name="menu_setup_time_setup">Time Setup</string>
+
+    <string name="menu_setup_divx_registration" translatable="false">DivX®Registration</string>
+    <string name="menu_setup_divx_deactivation" translatable="false">DivX®Deactivation</string>
+
+    <!-- One of menu option item, it will enter sub page of teletext settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_teletext">Teletext</string>
+    <!-- One of menu option item, it will enter sub page of subtitle settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_subtitle">Subtitle</string>
+    <!-- One of menu option item, it will enter sub page of analog subtitle settings when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_analog_subtitle">Analog Subtitle</string>
+    <!-- One of menu option item, it will enter sub page of digital subtitle language settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_digital_subtitle_lang">Digital Subtitle Language</string>
+    <!-- One of menu option item, it will enter sub page of second digital subtitle language settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_digital_subtitle_lang_2nd">2nd Digital Subtitle Language</string>
+    <!-- One of menu option item displayed current subtitle type. [CHAR LIMIT=50] -->
+    <string name="menu_setup_subtitle_type">Subtitle Type</string>
+
+    <!-- One of menu option item, it will enter sub page of network settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_network">Network</string>
+    <!-- One of menu option item, it will show version info page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_version_info">Version Info</string>
+    <!-- One of menu option item, TV system settings will be reseted default status and restarted when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_reset_default">Factory Reset</string>
+    <!-- One of menu option item, it will download firmware when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_download_firmware">Download Firmware</string>
+    <!-- One of menu option item, it will download firmware when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_common_interface">Common Interface</string>
+    <!-- One of menu option item, it will enter sub page of recording settings when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_record_setting">Record Setting</string>
+
+    <!-- One of menu option item, it will enter channel update scan page when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_channel_update">Channel Update</string>
+
+    <!-- One of menu option item displayed EWBS region value, no need translation for EWBS. [CHAR LIMIT=50] -->
+    <string name="menu_setup_region_setting">EWBS Region</string>
+
+    <!-- Country or region -->
+    <string name="menu_setup_region_setting_ecuador" translatable="false">Ecuador</string>
+    <string name="menu_setup_region_setting_philippines" translatable="false">Philippines</string>
+    <string name="menu_setup_region_setting_philippines_luzon" translatable="false">Luzon</string>
+    <string name="menu_setup_region_setting_philippines_visayas" translatable="false">Visayas</string>
+    <string name="menu_setup_region_setting_philippines_mindanao" translatable="false">Mindanao</string>
+
+    <!-- One of menu option item, it will enter sub page of DVBS TKGS scan settings when clicked. No need translation for TKGS. [CHAR LIMIT=80] -->
+    <string name="menu_setup_TKGS_setting">TKGS Setting</string>
+    <!-- One of menu option item, it will enter sub page of DVBS TKGS scan locator list when clicked. [CHAR LIMIT=80] -->
+    <string name="menu_setup_TKGS_locate_list">TKGS Locator List</string>
+    <!-- One of menu option item, it will enter sub page of DVBS TKGS Hidden Locations when clicked. [CHAR LIMIT=80] -->
+    <string name="menu_setup_TKGS_hidden_locations">TKGS Hidden Locations</string>
+    <!-- One of menu option item, it will reset TKGS scan table version when clicked. [CHAR LIMIT=80] -->
+    <string name="TKGS_reset_table_version">Reset Table Version</string>
+    <!-- One of menu option item, it will show the preferred list when clicked. [CHAR LIMIT=80] -->
+    <string name="TKGS_preferred_list">Preferred List</string>
+
+    <string name="menu_setup_oad_setting" translatable="false">OAD</string>
+
+    <!-- One of menu option item, user can set postal code when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_setup_postal_code_setting">Postal Code</string>
+    <!-- The label of show the TV connected device info. [CHAR LIMIT=50] -->
+    <string name="menu_setup_device_info">Device Info</string>
+    <!-- The label of show which mode of "Time Shift" is. [CHAR LIMIT=50] -->
+    <string name="menu_setup_time_shifting_mode">Time Shift Mode</string>
+    <!-- The label of show channel update scan automatically or not. [CHAR LIMIT=50] -->
+    <string name="menu_setup_auto_channel_update">Auto Channel Update</string>
+    <!-- Prompt message for user channel already update. [CHAR LIMIT=50] -->
+    <string name="menu_setup_channel_update_msg">Channel Update Message</string>
+
+    <!-- One option of biss key which used in satellite scan. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_horizonal">Horizontal</string>
+    <!-- One option of biss key which used in satellite scan. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_vertical">Vertical</string>
+
+    <!-- CI -->
+    <!-- The words appears in the dialog of Cam info. [CHAR LIMIT=50] -->
+    <string name="ci_title">Cam Info</string>
+    <!-- prompt meassge for user no Cam card be detected. [CHAR LIMIT=50] -->
+    <string name="menu_setup_ci_no_card">No Cam card.</string>
+    <!-- The words appears in the dialog of Cam info. [CHAR LIMIT=50] -->
+    <string name="menu_setup_ci_cam_menu">Cam Menu</string>
+    <!-- The words appears in the dialog of Cam info. [CHAR LIMIT=60] -->
+    <string name="menu_setup_ci_pin_code">Cam Pin Code</string>
+    <!-- The words appears in the dialog of Cam info, the user preference of Cam card. [CHAR LIMIT=60] -->
+    <string name="menu_ci_user_preference">User Preference</string>
+    <!-- The words appears in the dialog of Cam info, one option of user preference. [CHAR LIMIT=50] -->
+    <string name="menu_ci_user_preference_item_default">Default</string>
+    <string name="menu_ci_user_preference_item_ammi" translatable="false">AMMI</string>
+    <!-- The words appears in the dialog of Cam info, one option of user preference. [CHAR LIMIT=50] -->
+    <string name="menu_ci_user_preference_item_broadcast">Broadcast</string>
+    <!-- One item in Cam page, it will start Cam scan when clicked. [CHAR LIMIT=50] -->
+    <string name="menu_ci_cam_scan">Cam Scan</string>
+    <!-- Prompt message for user to input Cam pin code to decryption Can card. [CHAR LIMIT=50] -->
+    <string name="menu_setup_ci_pin_code_input_tip">Please input cam pin code</string>
+    <!-- Prompt message when user input error Cam pin code. [CHAR LIMIT=50] -->
+    <string name="menu_setup_ci_pin_code_incorrect_tip">Incorrect. Input again!</string>
+    <!-- Prompt message when user input correct Cam pin code to decryption Can card. [CHAR LIMIT=50] -->
+    <string name="menu_setup_ci_10s_answer_tip">Please wait...</string>
+
+    <!-- second level -->
+    <!-- Menu option item, it will go to network upgrade when clicked. [CHAR LIMIT=60] -->
+    <string name="menu_setup_auto_network_upgrade">Network Upgrade</string>
+    <!-- Menu option item, enable or disable Ginga feature. [CHAR LIMIT=60] -->
+    <string name="menu_setup_ginga_enable">Ginga Enable</string>
+    <!-- Menu option item, enable or disable auto start Ginga feature. [CHAR LIMIT=100] -->
+    <string name="menu_setup_ginga_auto_start_app">Auto Start Application</string>
+
+    <!-- Menu option item, enable or disable closed caption feature. [CHAR LIMIT=80] -->
+    <string name="menu_setup_caption_enable">Enable Caption</string>
+    <!-- Menu option item, settings for analog closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_analog_closed_caption">Analog Closed Caption</string>
+    <!-- Menu option item, settings for digital closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_digital_caption">Digital Closed Caption</string>
+    <!-- Menu option item, style setting for digital closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_digital_style">Digital Caption Style</string>
+    <!-- Menu option item, superimpose setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_superimpose_setup">Superimpose Setup</string>
+
+    <!-- Menu option item, style setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_caption_style">Caption Style</string>
+    <!-- Menu option item, font size setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_font_size">Font Size</string>
+    <!-- Menu option item, font style setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_font_style">Font Style</string>
+    <!-- Menu option item, font color setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_font_color">Font Color</string>
+    <!-- Menu option item, font opacity setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_font_opacity">Font Opacity</string>
+    <!-- Menu option item, background color setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_background_color">Background Color</string>
+    <!-- Menu option item, background opacity setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_background_opacity">Background Opacity</string>
+    <!-- Menu option item, window color setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_window_color">Window Color</string>
+    <!-- Menu option item, window opacity setting for closed caption. [CHAR LIMIT=80] -->
+    <string name="menu_setup_window_opacity">Window Opacity</string>
+
+    <!-- Menu option item, user can select which language will be shown for Digital Teletext. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_digital_teletext_language">Digital Teletext Language</string>
+    <!-- Menu option item, user can select which language will be used decoding for Digital Teletext. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_decoding_page_language">Decoding Page Language</string>
+    <!-- Menu option item, user can select which presentation level will be used for Digital Teletext, TTX:Teletext. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_ttx_presentation_level">TTX Presentation Level</string>
+
+    <!-- third level -->
+    <!-- One option of time setting, it will auto sync time from network time or broadcast time. [CHAR LIMIT=100] -->
+    <string name="menu_setup_auto_synchronization">Auto Synchronization</string>
+    <!-- One of menu setting item, user can set the time when TV will power on automatically. [CHAR LIMIT=100] -->
+    <string name="menu_setup_power_on_timer">Auto Power on Time</string>
+    <!-- One of menu setting item, user can set the timer, such as TV power off/on timer. [CHAR LIMIT=50] -->
+    <string name="menu_setup_timer">Timer</string>
+    <!-- One of menu setting item, user can set which channel will be selected as default after TV power on. [CHAR LIMIT=60] -->
+    <string name="menu_setup_power_on_channel">Default Channel</string>
+    <!-- One of menu setting item, user can set the time when TV will power off automatically. [CHAR LIMIT=100] -->
+    <string name="menu_setup_power_off_timer">Auto Power off Time</string>
+    <!-- One of menu setting item, setting for wireless. [CHAR LIMIT=60] -->
+    <string name="menu_setup_wireless_setting">Wireless Setting</string>
+    <!-- The label of system information in menu page. [CHAR LIMIT=60] -->
+    <string name="menu_setup_information">Information</string>
+
+    <!-- not used -->
+    <string name="menu_setup_ip_setting" translatable="false">IP Setting</string>
+    <string name="menu_setup_interface" translatable="false">Interface</string>
+    <string name="menu_setup_my_net_place" translatable="false">My Network Places</string>
+    <string name="menu_setup_ESN" translatable="false">Netflix ESN</string>
+    <string name="menu_setup_pip_pop_position" translatable="false">Position</string>
+    <string name="menu_setup_pip_pop_size" translatable="false">Size</string>
+
+    <string name="menu_setup_dlna" translatable="false">DLNA</string>
+    <string name="menu_setup_wow" translatable="false">WOW</string>
+    <string name="menu_setup_wol" translatable="false">WOL</string>
+    <string name="menu_setup_pip_pop" translatable="false">PIP/POP</string>
+
+    <!-- forth level -->
+    <!-- One of menu setting item, user can select last channel or fixed channel for power on channel. [CHAR LIMIT=60] -->
+    <string name="menu_setup_power_on_channel_mode">Select Mode</string>
+    <!-- One of menu setting item, it will enter channel list page for user selects power on channel. [CHAR LIMIT=60] -->
+    <string name="menu_setup_power_on_show_channels">Show Channels</string>
+
+    <!-- Prompt message of start download firmware in dialog. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_upgrade_info1">Start to download new firmware from server.</string>
+    <!-- Prompt message of updating wizard in dialog. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_upgrade_info2_title">Updating Wizard</string>
+    <!-- Prompt message of fail download firmware. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_upgrade_info2">Failed to check New firmware.</string>
+    <!-- Prompt message of user confirms update download firmware or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_reset_info1">Are you sure?</string>
+
+    <!-- part of factory -->
+    <string name="menu_factory_name" translatable="false">Factory</string>
+    <string name="menu_factory_video" translatable="false">Video</string>
+    <string name="menu_factory_audio" translatable="false">Audio</string>
+    <string name="menu_factory_TV" translatable="false">TV</string>
+    <string name="menu_factory_setup" translatable="false">Setup</string>
+    <string name="menu_factory_preset" translatable="false">Preset Channels</string>
+    <!-- part of factory_video -->
+    <string name="menu_factory_video_auto_color" translatable="false">Auto Color</string>
+    <string name="menu_factory_video_color_temperature" translatable="false">Color Temperature</string>
+    <string name="menu_factory_video_auto_phase" translatable="false">Auto Phase</string>
+    <string name="menu_factory_video_phase" translatable="false">Phase</string>
+    <string name="menu_factory_video_h_position" translatable="false">H.Position</string>
+    <string name="menu_factory_video_v_position" translatable="false">V.Position</string>
+    <string name="menu_factory_video_di_ma" translatable="false">DI MA</string>
+    <string name="menu_factory_video_di_edge" translatable="false">DI Edge</string>
+    <string name="menu_factory_video_wcg" translatable="false">WCG</string>
+    <string name="menu_factory_video_flip" translatable="false">Flip</string>
+    <string name="menu_factory_video_mirror" translatable="false">Mirror</string>
+    <string name="menu_factory_video_local_dimming" translatable="false">Local dimming</string>
+    <!--factory_video_color_temperature  -->
+    <string name="menu_factory_video_color_rgain" translatable="false">R Gain</string>
+    <string name="menu_factory_video_color_ggain" translatable="false">G Gain</string>
+    <string name="menu_factory_video_color_bgain" translatable="false">B Gain</string>
+    <string name="menu_factory_video_color_roffset" translatable="false">R Offset</string>
+    <string name="menu_factory_video_color_goffset" translatable="false">G Offset</string>
+    <string name="menu_factory_video_color_boffset" translatable="false">B Offset</string>
+
+    <!-- part of factory_audio -->
+    <string name="menu_factory_audio_dolby_banner" translatable="false">Dolby Banner</string>
+    <string name="menu_factory_audio_compression" translatable="false">Compression</string>
+    <string name="menu_factory_audio_compression_factor" translatable="false">Compression Factor</string>
+    <string name="menu_factory_audio_mts_system" translatable="false">MTS System</string>
+    <string name="menu_factory_audio_a2_system" translatable="false">A2 System</string>
+    <string name="menu_factory_audio_pal_system" translatable="false">PAL System</string>
+    <string name="menu_factory_audio_eu_system" translatable="false">EU System</string>
+    <string name="menu_factory_audio_latency" translatable="false">Latency</string>
+    <!-- part of factory_audio_mts_system -->
+    <string name="menu_factory_audio_mts_numbersofcheck" translatable="false">Numbers of Check</string>
+    <string name="menu_factory_audio_mts_numbersofpilot" translatable="false">Numbers of Pilot</string>
+    <string name="menu_factory_audio_mts_pilot_threshold_high" translatable="false">Pilot Threshold High</string>
+    <string name="menu_factory_audio_mts_pilot_threshold_low" translatable="false">Pilot Threshold Low</string>
+    <string name="menu_factory_audio_mts_number_of_sap" translatable="false">Numbers of SAP</string>
+    <string name="menu_factory_audio_mts_sap_threshold_high" translatable="false">SAP Threshold High</string>
+    <string name="menu_factory_audio_mts_sap_threshold_low" translatable="false">SAP Threshold Low</string>
+    <string name="menu_factory_audio_mts_high_deviation_mode" translatable="false">High Deviation Mode</string>
+    <string name="menu_factory_audio_mts_carriershiftfunction" translatable="false">Carrier Shift Function</string>
+    <string name="menu_factory_audio_mts_fmstaurationmute" translatable="false">FM Saturation Mute</string>
+    <string name="menu_factory_audio_mts_fmcarriermutemode" translatable="false">FM Carrier Mute Mode</string>
+    <string name="menu_factory_audio_mts_fmcarriermutethreshold_high" translatable="false">FM Carrier Mute Threshold High</string>
+    <string name="menu_factory_audio_mts_mono_stero_finetunevolume" translatable="false">Mono Stereo Fine-tune Volume</string>
+    <string name="menu_factory_audio_mts_sap_finetunevolume" translatable="false">SAP Fine-tune Volume</string>
+    <!-- part of factory_audio_a2_system -->
+    <string name="menu_factory_audio_a2_numbersofcheck" translatable="false">Numbers of Check</string>
+    <string name="menu_factory_audio_a2_numbersofdouble" translatable="false">Numbers of Double</string>
+    <string name="menu_factory_audio_a2_monoweight" translatable="false">Mono Weight</string>
+    <string name="menu_factory_audio_a2_stereoweight" translatable="false">Stereo Weight</string>
+    <string name="menu_factory_audio_a2_dualweight" translatable="false">Dual Weight</string>
+    <string name="menu_factory_audio_a2_highdeviationmode" translatable="false">High Deviation Mode</string>
+    <string name="menu_factory_audio_a2_carriershiftfunction" translatable="false">Carrier Shift Function</string>
+    <string name="menu_factory_audio_a2_fmcarriermutemode" translatable="false">FM Carrier Mute Mode</string>
+    <string name="menu_factory_audio_a2_fmcarriermutethreshold_high" translatable="false">FM Carrier Mute Threshold High</string>
+    <string name="menu_factory_audio_a2_fmcarriermutethreshold_low" translatable="false">FM Carrier Mute Threshold Low</string>
+    <string name="menu_factory_audio_a2_finetunevolume" translatable="false">Fine-tune Volume</string>
+
+    <!-- part of factory_audio_pal_system -->
+    <string name="menu_factory_audio_pal_correctthreshold" translatable="false">Correct Threshold</string>
+    <string name="menu_factory_audio_pal_totalsyncloop" translatable="false">Total Sync Loop</string>
+    <string name="menu_factory_audio_pal_errorthreshold" translatable="false">Error Threshold</string>
+    <string name="menu_factory_audio_pal_parityerrorthreshold" translatable="false">Parity Error Threshold</string>
+    <string name="menu_factory_audio_pal_everynumberframes" translatable="false">Every Number Frames</string>
+    <string name="menu_factory_audio_pal_highdeviationmode" translatable="false">High Deviation Mode</string>
+    <string name="menu_factory_audio_pal_amcarriermutemode" translatable="false">AM Carrier Mute Mode</string>
+    <string name="menu_factory_audio_pal_amcarriermutethresholdhigh" translatable="false">AM Carrier Mute Threshold High</string>
+    <string name="menu_factory_audio_pal_amcarriermutethresholdlow" translatable="false">AM Carrier Mute Threshold Low</string>
+    <string name="menu_factory_audio_pal_carriershiftfunction" translatable="false">Carrier Shift Function</string>
+    <string name="menu_factory_audio_pal_fmcarriermutemode" translatable="false">FM Carrier Mute Mode</string>
+    <string name="menu_factory_audio_pal_fmcarriermutethresholdhigh" translatable="false">FM Carrier Mute Threshold High</string>
+    <string name="menu_factory_audio_pal_fmcarriermutethresholdlow" translatable="false">FM Carrier Mute Threshold Low</string>
+    <string name="menu_factory_audio_pal_palfinetunevolume" translatable="false">PAL Fine-tune Volume</string>
+    <string name="menu_factory_audio_pal_amfinetunevolume" translatable="false">AM Fine-tune Volume</string>
+    <string name="menu_factory_audio_pal_nicamfinetunevolume" translatable="false">NICAM Fine-tune Volume</string>
+    <!-- part of factory_audio_eu_system -->
+    <string name="menu_factory_audio_eu_fmsaturationmute" translatable="false">FM Saturation Mute</string>
+    <string name="menu_factory_audio_eu_eunoneusystem" translatable="false">EU Non-EU System</string>
+
+
+    <string name="menu_factory_TV_digital_channel_scan" translatable="false">Digital Channel Range Scan</string>
+    <string name="menu_factory_TV_analog_channel_scan" translatable="false">Analog Channel Range Scan</string>
+
+    <string name="menu_factory_TV_range_scan" translatable="false">Range Scan</string>
+    <string name="menu_factory_TV_single_rf_scan" translatable="false">Single RF Scan</string>
+    <string name="menu_factory_TV_factory_scan" translatable="false">Factory Scan</string>
+    <string name="menu_factory_TV_tunerdiag" translatable="false">Tuner Diagnostic</string>
+    <string name="menu_factory_TV_tunerdiag_noinfo" translatable="false">No Diagnostic Info</string>
+    <string name="menu_factory_TV_tunerdiag_freq" translatable="false">RF Freq (KHz):</string>
+    <string name="menu_factory_setup_eventform" translatable="false">Event Form</string>
+    <string name="menu_factory_setup_burningmode" translatable="false">Burning Mode</string>
+    <string name="menu_factory_setup_uart_factory_mode" translatable="false">UART Factory Mode</string>
+    <string name="menu_factory_setup_cleanstorage" translatable="false">Clean Storage</string>
+    <string name="menu_factory_setup_data_service_support" translatable="false">Data Service Support</string>
+    <string name="menu_factory_setup_caption" translatable="false">Caption Setup</string>
+    <string name="menu_factory_setup_extern_size" translatable="false">External Size</string>
+    <string name="menu_factory_setup_equal_width" translatable="false">Equal Width</string>
+    <string name="menu_factory_setup_auto_line" translatable="false">Auto Line</string>
+    <string name="menu_factory_setup_roll_up" translatable="false">Roll Up</string>
+    <string name="menu_factory_setup_utf8" translatable="false">Support utf8</string>
+
+    <string name="menu_factory_setup_clean_dialog" translatable="false">Are you sure ?</string>
+    <string name="menu_factory_preset_dump" translatable="false">Dump Channels</string>
+    <string name="menu_factory_preset_print" translatable="false">Print Channels</string>
+    <string name="menu_factory_preset_restore" translatable="false">Restore Channels</string>
+    <string name="menu_factory_setup_ci_update" translatable="false">Update CI Credential from USB</string>
+    <string name="menu_factory_setup_ci_ecp_update" translatable="false">Update CI ECP Credential from USB</string>
+    <string name="menu_factory_setup_ci_erase" translatable="false">Erase CI Credential</string>
+    <string name="menu_factory_setup_ci_query" translatable="false">Query CI Credential</string>
+    <string name="menu_factory_setup_ci_update_false" translatable="false">File Not Found</string>
+    <string name="menu_factory_setup_ci_update_success" translatable="false">Updated Successfully</string>
+     <string name="menu_factory_setup_ci_key_false" translatable="false">Key Not Found</string>
+    <string name="menu_factory_setup_ci_erase_success" translatable="false">Erased Successfully</string>
+    <string name="menu_factory_setup_ci_erase_false" translatable="false">Erase Failed!</string>
+    <string name="menu_factory_setup_ci_query_false" translatable="false">Valid:N Customer Code:</string>
+
+    <!-- pop-up dialog or window  -->
+    <!-- Displayed in channel scan page, prompt message that it will scan analog channels. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_analog_manual_scan_init">Search for Analog Channels</string>
+    <!-- Displayed in channel scan page, prompt message that it will scan digital channels. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_scan_digital_channel_init">Search for Digital Channels</string>
+    <!-- Displayed in channel scan page, prompt message that it will scan single RF channel. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_single_rf_scan_init">Scan Single RF Channel. (Digital Only)</string>
+    <!-- Displayed in channel scan page, prompt message that it will scan analog channels. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_us_range_scan">Scan with a Range of Channels</string>
+    <!-- Displayed in channel scan page, it means user had stop the scanning. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_analog_manual_scan_cancel">Status: Scan Canceled</string>
+    <!-- Displayed in channel scan page, it means scanning. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan">Status: Scanning</string>
+    <!-- Displayed the satellite name in channel scan page. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_satellite_name">Satellite Name:</string>
+    <!-- Displayed analog channel number that already scanned. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_ana">Analog Channels: </string>
+    <!-- Displayed digital channel number that already scanned. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_dig">Digital Channels: </string>
+    <!-- Prompt message of dialog, let user confirm save the channel data or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_store_data">Are you sure you want to save the data?</string>
+    <!-- Prompt message of dialog, let user confirm reset the channel data or not. [CHAR LIMIT=NONE] -->
+    <string name="menu_tv_reset_all">Are you sure you want to reset all settings?</string>
+    <!-- Displayed the current scan status is canceled by user. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_cancel">Status: Scan Canceled</string>
+    <!-- Displayed the current scan status is error according to some unexpected situation. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_error">Status: Scan Error</string>
+    <!-- Displayed the current scan status is completed successfully. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_done">Status: Scan Completed</string>
+    <!-- Used in satellite scan, it means satellite scan device is working to adjust to receive better digital signal, . [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_channel_scan_positioner_moving">Status: Positioner Moving</string>
+    <!-- Displayed in network upgrade page, means network is upgrading now. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_network_upgrade">Network Upgrade...</string>
+    <!-- One of menu setting item, user can set options of wireless device. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_network_wireless">Wireless Settings</string>
+    <!-- Prompt message while no wireless device connected to TV when Wireless Settings menu item clicked. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_network_no_net">There is no wireless device connected to TV!</string>
+
+    <string name="menu_setup_tvchaneledit_hint" translatable="false">Test</string>
+
+    <!-- The word appears within button [CHAR LIMIT = 15]  -->
+    <string name="menu_setup_button_yes">Yes</string>
+    <!-- The word appears within button [CHAR LIMIT = 15]  -->
+    <string name="menu_setup_button_no">No</string>
+
+    <string name="menu_setup_ip_edittext_hint" translatable="false">000</string>
+
+    <!-- not used -->
+    <string name="menu_setup_ip_error_warning1" translatable="false">Please enter values between 1 and 233 </string>
+    <string name="menu_setup_ip_error_warning2" translatable="false">Please enter values between 0 and 255</string>
+    <string name="menu_setup_ip_error_warning3" translatable="false">More than one of the IP Address Subnet Masks and Default Gateways is invalid. Please enter again!</string>
+    <string name="menu_setup_ip_null_warning" translatable="false">Disconnected or Fetching...</string>
+
+    <!-- One of menu option item, user can clik this item enter TV rating setting page. [CHAR LIMIT=NONE] -->
+    <!--  <string name="menu_parental_rating_title">Ratings</string>-->
+
+    <!--this word appears in version info page, it will be US/EU.... [CHAR LIMIT=50] -->
+    <string name="menu_versioninfo_name">Model Name</string>
+    <!--This word appears in system version info page[CHAR LIMIT=50] -->
+    <string name="menu_versioninfo_version">Version</string>
+    <!--This word appears in system version info page[CHAR LIMIT=50] -->
+    <string name="menu_versioninfo_number">Serial Number</string>
+
+    <string name="menu_video_auto_adjust_info" translatable="false">Auto Adjustment</string>
+    <string name="menu_video_auto_color_info" translatable="false">Please Wait</string>
+
+    <!--Description for user register deivice in Divx settting page. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_divxreg">You must register your device to play DivX® protected videos.\nRegistration Code:BX9ASIKQEI\n Register at http://vod.divx.com</string>
+    <!--Description for user register deivice in Divx settting page. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_divxdea">Deregistration Code:\n Deregister at http://vod.divx.com\n Continue with registration?</string>
+
+    <!--Option item for user clicks to enter BISS key setting page, BISS key:for Decrypt DVBS special channel. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key">BISS Key</string>
+    <!--Option item for user adding BIIS key. [CHAR LIMIT=NONE] -->
+    <string name="menu_setup_biss_key_add_item">Click to Add BISS Key</string>
+    <!--Lable of adding BIIS key. [CHAR LIMIT=80] -->
+    <string name="menu_setup_biss_key_add_key">Add BISS Key</string>
+    <!--Lable of adding which ferquence for BIIS key decrypt. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_freqency">Frequency</string>
+    <!--Lable of adding which polarization for BIIS key decrypt. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_polazation">Polarization</string>
+    <!--Lable of adding which program ID for BIIS key decrypt. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_prog_id">Program ID</string>
+    <!--Option item for user adding CW key. [CHAR LIMIT=50] -->
+    <string name="menu_setup_biss_key_cw_key">CW Key</string>
+
+    <!--Option item for setting HDMI 2.0 port. [CHAR LIMIT=60] -->
+    <string name="menu_setup_hdmi_2_0_setting">HDMI 2.0 Setting</string>
+    <!--Option item for setting HDMI 2.0 signal format. [CHAR LIMIT=60] -->
+    <string name="menu_setup_hdmi_signalformat">Signal Format</string>
+
+    <!--Part of Parental  -->
+    <!-- The label of parental pin code. [CHAR LIMIT=30] -->
+    <string name="menu_parental_password">Password</string>
+    <!-- The text used when a channel is locked and program title needs to be hidden. [CHAR LIMIT=50] -->
+    <string name="menu_parental_channel_block">Channel Block</string>
+    <!-- The text used when a program is locked and program title needs to be hidden. [CHAR LIMIT=50] -->
+    <string name="menu_parental_program_block">Program Block</string>
+    <!-- The menu option item of go to channel block setting page. [CHAR LIMIT=100] -->
+    <string name="menu_parental_channel_schedule_block">Channel Schedule Block</string>
+    <!-- The menu option item setting the mode of schedule block. [CHAR LIMIT=100] -->
+    <string name="menu_parental_channel_schedule_block_operation_mode">Operation Mode</string>
+    <!-- The text used when a input is locked and program title needs to be hidden. [CHAR LIMIT=60] -->
+    <string name="menu_parental_input_block">Input Block</string>
+    <!-- The text used when user wants to change pin code . [CHAR LIMIT=60] -->
+    <string name="menu_parental_change_password">Change Password</string>
+    <!-- The text used when user wants to reset all the parental control settings. [CHAR LIMIT=60] -->
+    <string name="menu_parental_clean_all">Clear All</string>
+    <!-- The text used when user inputs error pin code. [CHAR LIMIT=NONE] -->
+    <string name="menu_parental_password_incorrect">Password incorrect.\nPlease enter again!</string>
+    <!-- Title of PIN dialog when an user tries to change Parental control setting.
+         [CHAR LIMIT=NONE] -->
+    <string name="menu_parental_password_enter">Please enter password</string>
+    <!-- Title of PIN dialog when an user is asked to change PIN [CHAR LIMIT=NONE] -->
+    <string name="menu_parental_password_new">New Password</string>
+    <!-- Title of PIN dialog when an user is asked to set a PIN. [CHAR LIMIT=NONE] -->
+    <string name="menu_parental_password_new_re">Confirm Password</string>
+    <!-- Toast message when an user couldn't pass the PIN confirmation. [CHAR LIMIT=NONE] -->
+    <string name="menu_parental_password_matchinfo">Password does not match.\nPlease enter again!</string>
+    <string name="menu_parental_password_default"  translatable="false">1234</string>
+    <string name="menu_parental_tvsource_tv0" translatable="false">tv0</string>
+
+    <!-- The label of staring date of channel block. [CHAR LIMIT=60] -->
+    <string name="menu_parental_channel_schedule_start_date">Starting Date</string>
+    <!-- The label of staring time of channel block. [CHAR LIMIT=60] -->
+    <string name="menu_parental_channel_schedule_start_time">Starting Time</string>
+    <!-- The label of ending date of channel block. [CHAR LIMIT=60] -->
+    <string name="menu_parental_channel_schedule_end_date">Ending Date</string>
+    <!-- The label of ending time of channel block. [CHAR LIMIT=60] -->
+    <string name="menu_parental_channel_schedule_end_time">Ending Time</string>
+
+    <!-- The label of allowed rating that will not be blocked. [CHAR LIMIT=100] -->
+    <string name="menu_allowed_rating">Allowed Rating</string>
+    <!-- The label of blcoked rating that will be blocked. [CHAR LIMIT=100] -->
+    <string name="menu_blocked_rating">Blocked Rating</string>
+    <!-- The label of called U.S. TV Ratings in raitng setting page. [CHAR LIMIT=100] -->
+    <string name="menu_us_tv_ratings">U.S. TV Ratings</string>
+    <!-- The label of called U.S. Movie Ratings in raitng setting page. [CHAR LIMIT=100] -->
+    <string name="menu_us_movie_ratings">U.S. Movie Ratings</string>
+    <!-- The label of called Canadian English Ratings in raitng setting page. [CHAR LIMIT=100] -->
+    <string name="menu_canadian_english_ratings">Canadian English Ratings</string>
+    <!-- The label of called Canadian French Ratings in raitng setting page. [CHAR LIMIT=100] -->
+    <string name="menu_canadian_french_ratings">Canadian French Ratings</string>
+    <!-- The label of rating related with age in raitng setting page. [CHAR LIMIT=100] -->
+    <string name="menu_age_ratings">Age Rating</string>
+    <!-- The label of rating that nobody can access unless you have password. [CHAR LIMIT=100] -->
+    <string name="menu_oceania_aus_ratings">Restriction of Access</string>
+    <!-- The label of TV content rating. [CHAR LIMIT=100] -->
+    <string name="menu_content_ratings">Content Rating</string>
+    <string name="menu_open_vchip" translatable="false">Open V-Chip</string>
+    <!-- Label of an item to block unrated programs. [CHAR LIMIT=100] -->
+    <string name="menu_block_unrated">Block Unrated</string>
+    <!-- Label of an item to set rating settings enabled or diabled. [CHAR LIMIT=100] -->
+    <string name="menu_rating_enable">Rating Enable</string>
+
+    <!-- Description of has no teletext info to display. [CHAR LIMIT=60] -->
+    <string name="menu_teletext_notsupport_tip">No Teletext</string>
+    <!-- Description of has no TOP teletext info to display. [CHAR LIMIT=60] -->
+    <string name="menu_teletext_no_top_tip">No TOP</string>
+
+    <!-- Label of the channel source type of "schedule PVR" in schedule PVR list. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_srctype">Source Type</string>
+    <!-- Label of the channel info of "schedule PVR" in schedule PVR list. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_channel_num">Channel Info</string>
+    <!-- Label of the type of "schedule PVR" in schedule PVR list. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_reminder_type">Schedule Type</string>
+    <!-- Current repeat type of schedule PVR will follow. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_repeat_type">Repeat Type</string>
+
+    <!-- The lable of start date of schedule PVR. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_start_date">Start Date</string>
+    <!-- The lable of start time of schedule PVR. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_start_time">Start Time</string>
+    <!-- The lable of stop time of schedule PVR. [CHAR LIMIT=60] -->
+    <string name="schedule_pvr_stop_time">Stop Time</string>
+
+    <!-- Menu option item for user changes the Timeshift mode. [CHAR LIMIT=60] -->
+    <string name="menu_tv_tshift_config">Time Shift Mode</string>
+    <!-- Menu option item for user enters schedule list page. [CHAR LIMIT=60] -->
+    <string name="menu_setup_schedule_list">Schedule List</string>
+
+    <!-- The label of TV system license info. [CHAR LIMIT=60] -->
+    <string name="menu_setup_license_info">License Info</string>
+    <!-- The label of TV system info. [CHAR LIMIT=60] -->
+    <string name="menu_setup_system_info">System Information</string>
+
+    <!-- Menu option item for enable or disable OAD auto download. [CHAR LIMIT=60] -->
+    <string name="menu_setup_oad_set_auto_dl">Auto Download</string>
+
+    <string name="menu_rating_a" translatable="false">A</string>
+    <string name="menu_rating_d" translatable="false">D</string>
+    <string name="menu_rating_l" translatable="false">L</string>
+    <string name="menu_rating_s" translatable="false">S</string>
+    <string name="menu_rating_v" translatable="false">V</string>
+    <string name="menu_rating_fv" translatable="false">FV</string>
+    <string name="menu_rating_tvy" translatable="false">TV-Y</string>
+    <string name="menu_rating_tvy7" translatable="false">TV-Y7</string>
+    <string name="menu_rating_tvg" translatable="false">TV-G</string>
+    <string name="menu_rating_tvpg" translatable="false">TV-PG</string>
+    <string name="menu_rating_tv14" translatable="false">TV-14</string>
+    <string name="menu_rating_tvma" translatable="false">TV-MA</string>
+
+    <string name="menu_rating_movie_g" translatable="false">G</string>
+    <string name="menu_rating_movie_pg" translatable="false">PG</string>
+    <string name="menu_rating_movie_pg13" translatable="false">PG-13</string>
+    <string name="menu_rating_movie_r" translatable="false">R</string>
+    <string name="menu_rating_movie_nc17" translatable="false">NC-17</string>
+    <string name="menu_rating_movie_x" translatable="false">X</string>
+
+    <string name="menu_rating_english_c" translatable="false">C</string>
+    <string name="menu_rating_english_c8" translatable="false">C8</string>
+    <string name="menu_rating_english_g" translatable="false">G</string>
+    <string name="menu_rating_english_pg" translatable="false">PG</string>
+    <string name="menu_rating_english_14" translatable="false">14</string>
+    <string name="menu_rating_english_18" translatable="false">18</string>
+
+    <string name="menu_rating_french_g" translatable="false">G</string>
+    <string name="menu_rating_french_8ans" translatable="false">8ANS</string>
+    <string name="menu_rating_french_13ans" translatable="false">13ANS</string>
+    <string name="menu_rating_french_16ans" translatable="false">16ANS</string>
+    <string name="menu_rating_french_18ans" translatable="false">18ANS</string>
+
+    <!-- Add for DVBC on EU -->
+    <!-- not used -->
+    <string name="menu_c_channel_scan" translatable="false">Channel Scan</string>
+    <string name="menu_c_rf_scan" translatable="false">Single RF Scan</string>
+
+    <!-- one of menu setting item for DVBC channel scan [CHAR LIMIT=100] -->
+    <string name="menu_c_favorite_net">Favorite Network Select</string>
+    <!-- one of menu setting item, it will enter channel sort edit page when clicked [CHAR LIMIT=100] -->
+    <string name="menu_c_chanel_sor">Channel Sort</string>
+    <!-- one of menu setting item, it will enter channel move edit page when clicked [CHAR LIMIT=100] -->
+    <string name="menu_c_chanel_Move">Channel Move</string>
+    <!-- one of menu setting item, it will show analog channel fine tune dialog when clicked [CHAR LIMIT=100] -->
+    <string name="menu_c_analog_tune">Analog Channel Fine-tune</string>
+
+    <!-- The word appears in channel scan page[CHAR LIMIT=50] -->
+    <string name="menu_c_channelscan_oth">Others</string>
+    <!-- The word appears in analog channel scan page [CHAR LIMIT=50] -->
+    <string name="menu_c_analogscan_scanup">Scan Up</string>
+    <string name="menu_c_analogscan_scandown">Scan Down</string>
+
+    <!-- Description appears in channel scan dialog [CHAR LIMIT=NONE] -->
+    <string name="menu_c_scan_clear_channel">Scanning the channels will remove previous channels!</string>
+
+    <!-- Description appears in channel scan dialog for setting scan parameter(Network ID) [CHAR LIMIT=50] -->
+    <string name="menu_c_net">Network ID</string>
+    <!-- Option item which can be clicked to start channel scan [CHAR LIMIT=50] -->
+    <string name="menu_c_scan">Scan</string>
+
+    <!-- Options list item and appears within the cable scan configure page. '(KHz)' needn't translate. [CHAR LIMIT = 50] -->
+    <string name="menu_c_rfscan_frequency">Frequency (KHz)</string>
+    <!-- Options list item and appears within the cable scan configure page. '(MHz)' needn't translate. [CHAR LIMIT = 50] -->
+    <string name="menu_c_rfscan_frequency_cn">Frequency (MHz)</string>
+    <!-- Options list item and appears within the cable scan configure page. '(Ksym/s)' needn't translate. [CHAR LIMIT = 50] -->
+    <string name="menu_c_rfscan_symbol_rate">Symbol Rate (Ksym/s)</string>
+
+    <!-- add for DVBS EU -->
+     <!-- Menu option item for satellite auto scan. [CHAR LIMIT = 60] -->
+     <string name="menu_s_sate_rescan">Satellite Re-scan</string>
+     <!-- Menu option item for user adding satellite that can be used for channel scan. [CHAR LIMIT = 60] -->
+     <string name="menu_s_sate_add">Satellite Add</string>
+     <!-- Menu option item for satellite update scan. [CHAR LIMIT = 60] -->
+     <string name="menu_s_sate_update">Satellite Update</string>
+     <!-- Menu option item for satellite RF scan. [CHAR LIMIT = 60] -->
+     <string name="menu_s_sate_tuning">Satellite Manual Tuning</string>
+     <!-- Menu option item for satellite favorite network setting. [CHAR LIMIT = 60] -->
+     <string name="menu_s_favorite_network">Favorite Network Select</string>
+     <!-- Menu option item for satellite channel decode setting. [CHAR LIMIT = 60] -->
+     <string name="menu_s_channel_decode">Channel Decode</string>
+
+     <!-- Lable of current playing channel in system info page. [CHAR LIMIT = 60] -->
+     <string name="menu_system_info_channel">Channel</string>
+     <string name="menu_system_info_pre" translatable="false">Pre RS</string>
+     <string name="menu_system_info_prog" translatable="false">Prog</string>
+     <string name="menu_system_info_cn" translatable="false">C/N</string>
+     <string name="menu_system_info_uec" translatable="false">UEC</string>
+     <!-- Lable of current playing channel service ID in system info page. [CHAR LIMIT = 60] -->
+     <string name="menu_system_info_service_id">Service ID</string>
+     <string name="menu_system_info_symbol_tsid" translatable="false">TS ID</string>
+     <string name="menu_system_info_symbol_onid" translatable="false">ON ID</string>
+     <string name="menu_system_info_symbol_agc" translatable="false">AGC</string>
+     <string name="menu_system_info_symbol_lnb" translatable="false">LNB</string>
+     <!-- Lable of current playing channel service type in system info page. [CHAR LIMIT = 60] -->
+     <string name="menu_system_info_symbol_svctype">Service Type</string>
+
+     <string name="menu_system_info_symbol_pre_viterbi" translatable="false">Pre Viterbi</string>
+     <string name="menu_system_info_symbol_post_viterbi" translatable="false">Post Viterbi</string>
+     <string name="menu_system_info_symbol_5s" translatable="false">5S</string>
+
+     <!-- not used -->
+     <string name="menu_config_bl_type" translatable="false">Lock Type</string>
+
+     <!-- Descriptions and appears within the network list page for scan. Recommend the user to select network info for scan.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_fav_network">Please select your favorite network:</string>
+     <!-- Descriptions and appears within the network list dialog for scan. Recommend the user to select network info for scan.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_pt_save_channel">Do you want to save the search results?</string>
+     <!-- Descriptions and appears within DVBT logo channel scan page for unknown level type.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_uk_reg_reg_nodefine">None Specified</string>
+     <string name="menu_tkgs" translatable="false">TKGS</string>
+
+     <!-- Descriptions and appears within DVBT logo channel scan page.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_lcn_CONFLICT_INDEX">Conflicting group index:</string>
+     <!-- Descriptions and appears within DVBT logo channel scan page when conflicted channel scanned.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_lcn_CONFLICT_CHANL_NUM">Conflicting channel number:</string>
+     <!-- Descriptions and appears within DVBT logo channel scan page for user setting.[CHAR LIMIT = NONE] -->
+     <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT">Use Default Setting for All</string>
+
+     <!--Label within button for user clicking to start download. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_start_button_text">Start</string>
+     <!--Label within button for user clicking to reboot TV system. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_reboot_button_text">Reboot</string>
+     <!--Label within "download firmware dialog" indicating download progress. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_progress_textview_text">Progress:</string>
+     <!--Label within "download firmware dialog" indicating download status, such as error/canceled. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_status_textview_text">Status:</string>
+     <!--Label within "download firmware dialog"  indicating verifying firmware is on going. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_toast_textview_validating_text">Validating ...</string>
+     <!--Description within "download firmware dialog" indicating user can reboot system to complete upgrade. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_upgrade_text">Firmware is ready. Are you sure you want to reboot system now?</string>
+     <!--Description within "download firmware dialog" for remind user for next action. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_to_start_text">Please press Start button to download firmware!</string>
+
+     <!--Label within "download firmware dialog" indicating what current download status is. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_status_value_start">Download started</string>
+     <string name="download_firmware_status_value_downloading">Downloading</string>
+     <string name="download_firmware_status_value_complete">Download Completed</string>
+     <string name="download_firmware_status_value_cancel_down">Cancel Download</string>
+
+     <!--Description within "download firmware dialog" when download file not exist. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_download_exit_none">Exit Download! The download file does not exist!</string>
+     <!--Description within "download firmware dialog" when verifying firmware successfully. [CHAR LIMIT = 60] -->
+     <string name="download_firmware_toast_textview_validate_complete">Validating Completed</string>
+     <!--Description within "download firmware dialog" when network error. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_download_exit_network_error">Exit Download! Error with network!</string>
+     <!--Description within "download firmware dialog" when verifying firmware failed. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_download_exit_validate_error">Exit Download! Error with validating!</string>
+     <!--Description within "download firmware dialog" when download with some unknown error. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_toast_textview_download_exit_fail">Exit Download! The download failed!</string>
+
+     <!-- not used -->
+     <string name="download_firmware_not_upgrade" translatable="false">The system has not upgraded the firmware!</string>
+
+     <!--Description within "download firmware dialog" when upgrade firmware successfully. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_upgrade_successfully">The system has upgraded the firmware successfully!</string>
+     <!--Description within "download firmware dialog" when failed to upgrade firmware. [CHAR LIMIT = NONE] -->
+     <string name="download_firmware_upgrade_unsuccessfully">The system failed to upgrade the firmware!</string>
+
+     <!-- Title text and appears within the digital satellite tuning dialog. [CHAR LIMIT = NONE] -->
+     <string name="digital_sat_tuning_title">Digital Satellite Tuning</string>
+     <!-- Title text and appears within the selecting channel list page. [CHAR LIMIT = NONE] -->
+     <string name="select_channel_title">Select Channel List</string>
+     <!-- Label appears within the selecting channel list page. [CHAR LIMIT = NONE] -->
+     <string name="scan_trd_lcnv2_title">Please select channel list:</string>
+     <!-- Sub title text and appears within the digital satellite tuning dialog. [CHAR LIMIT = NONE] -->
+     <string name="select_region_title">Select Region</string>
+     <!-- Sub title text and appears within the digital satellite tuning dialog. Show which region selected. [CHAR LIMIT = NONE] -->
+     <string name="select_region_detail_title">Select Region for <xliff:g id="select_region_detail">%1$s</xliff:g></string>
+
+     <string name="osterreichliste" translatable="false">Österreichliste</string>
+     <string name="bundeslandliste" translatable="false">Bundeslandliste</string>
+
+     <string name="wueb" translatable="false">ORF 2 Wien HD</string>
+     <string name="niederosterreich" translatable="false">ORF 2 Niederösterreich HD</string>
+     <string name="burgenland" translatable="false">ORF 2 Burgenland HD</string>
+     <string name="oberosterreich" translatable="false">ORF 2 Oberösterreich HD</string>
+     <string name="salzburg" translatable="false">ORF 2 Salzburg HD</string>
+     <string name="tirol" translatable="false">ORF 2 Tirol HD</string>
+     <string name="vorarlberg" translatable="false">ORF 2 Vorarlberg HD</string>
+     <string name="steiermark" translatable="false">ORF 2 Steiermark HD</string>
+     <string name="karntern" translatable="false">ORF 2 Kärntern HD</string>
+
+     <!-- Description of "scan mode" item in single scan page. [CHAR LIMIT=NONE] -->
+     <string name="scan_way">Please select scan mode</string>
+
+    <!-- Label of "TV" item in the TV option row. [CHAR LIMIT=50] -->
+    <string name="menu_title_options">TV options</string>
+    <!-- Label of "Source" item in the TV option row. [CHAR LIMIT=50] -->
+    <string name="option_item_source">Source</string>
+    <!-- Label of "Closed captions" item in the TV option row. [CHAR LIMIT=50] -->
+    <string name="options_item_closed_caption">Closed Captions</string>
+    <!-- Label of "Display mode" item in the TV option row. Inside display mode,
+         there are three items: Full, Normal, Zoom. [CHAR LIMIT=50] -->
+    <string name="options_item_display_mode">Display Mode</string>
+    <!-- Label of "PIP (Picture in picture)" item in the TV option row. [CHAR LIMIT=50] -->
+    <string name="options_item_pip" translatable="false">PIP</string>
+    <!-- Label of "Multi audio" item in the TV option row. [CHAR LIMIT=50] -->
+    <string name="options_item_multi_audio" translatable="false">Multi-audio</string>
+    <!-- Label of "Favorite List" item in the TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_add_to_favorite_normal">Add to My Favorites</string>
+    <!-- Label of "My Favorites" item in the TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_add_to_favorite_selected">My Favorites</string>
+    <!-- Label of "Edit" item in the  TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_my_fav_edit">Edit</string>
+    <!-- Label of "Get more channels" item in the TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_more_channels">Get more channels</string>
+    <!-- Label of "Developer Options" item in the TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_developer" translatable="false">Developer Options</string>
+    <!-- Label of "Settings" item in the TV option row. [CHAR LIMIT=80] -->
+    <string name="options_item_settings">Settings</string>
+
+    <!-- Menu option item for setting audio/volume for TV. [CHAR LIMIT=17] -->
+    <string name="options_item_speakers">Speakers</string>
+
+    <!-- Label of "Picture style" item in the TV option row. [CHAR LIMIT=17] -->
+    <string name="options_item_picture_style">Picture Mode</string>
+
+    <!-- Label of setup item in the channel list row. The item is shown only
+         when new inputs are installed. [CHAR LIMIT=80] -->
+    <string name="channels_item_setup">New Channels Available</string>
+    <!-- Label of Program guide item in the channel list row. [CHAR LIMIT=80] -->
+    <string name="channels_item_program_guide">Program Guide</string>
+    <!-- Label of the item in the "channel menu" that changes the current TV channel in the "up"
+         direction, to the next larger channel number. [CHAR LIMIT=80] -->
+    <string name="channels_item_up">Channel Up</string>
+    <!-- Label of the item in the "channel menu" that changes the current TV channel in the "down"
+         direction, to the next smaller channel number. [CHAR LIMIT=80] -->
+    <string name="channels_item_down">Channel Down</string>
+    <!-- Title of the channels row in the main menu. [CHAR LIMIT=80] -->
+    <string name="menu_title_channels">Channels</string>
+    <!-- Label of app link card for launching app in the channel list row. [CHAR LIMIT=80] -->
+    <string name="channels_item_app_link_app_launcher">Open <xliff:g id="app_name" example="YouTube">%1$s</xliff:g></string>
+
+    <string name="option_item_text_font" translatable="false">@string/condensed_font</string>
+    <string name="option_item_secondary_text_font" translatable="false">@string/condensed_font</string>
+
+    <!-- Item and title of "Inputs blocked" option. This option provides an interface for parents
+         to block/unblock inputs that are not suitable for their children. [CHAR LIMIT=50] -->
+    <string name="option_inputs_locked">Inputs Blocked</string>
+    <!-- Item and title of "Channels blocked" option. This option provides an interface for parents
+         to block/unblock channels that are not suitable for their children. [CHAR LIMIT=50] -->
+    <string name="option_channels_locked">Channels Blocked</string>
+    <!-- Label of an item to lock all channels. [CHAR LIMIT=50] -->
+    <string name="option_channels_lock_all">Block All</string>
+    <!-- Label of an item to unlock all channels. [CHAR LIMIT=50] -->
+    <string name="option_channels_unlock_all">Unblock All</string>
+    <!-- Checkbox description for skip all channels. [CHAR LIMIT=50] -->
+    <string name="option_channels_skip_all">Skip All</string>
+    <!-- Checkbox description for not skip anyone channel. [CHAR LIMIT=50] -->
+    <string name="option_channels_unskip_all">Unskip All</string>
+    <!-- Subheader below a divider to separate hidden channels from visible channels. Visible
+         channels appear first in the list and this divider comes, followed by hidden channels.
+         [CHAR LIMIT=50] -->
+    <string name="option_channels_subheader_hidden">Hidden Channels</string>
+
+    <!-- Item and title of "Program restrictions" option. It has two items: Rating Systems
+         and Ratings [CHAR LIMIT=50] -->
+    <string name="option_program_restrictions">Program Restrictions</string>
+    <string name="option_program_open_vchip">RRT5 Setting</string>
+    <string name="parental_open_vchip_region">RRT5 Setting</string>
+    <string name="parental_open_vchip_dim">RRT5 Dim</string>
+    <string name="parental_open_vchip_level">RRT5 Level</string>
+    <string name="parental_rrt5_reset">RRT5 Reset</string>
+    <string name="option_change_pin">Change PIN</string>
+
+    <!-- Item and title of "Rating Systems" option. In this option, a user can choose the rating
+         system per country listed [CHAR LIMIT=50] -->
+    <string name="option_country_rating_systems">Rating Systems</string>
+    <!-- Item and title of "Rating Systems" option. In this option, after choosing a rating system,
+         a user selects the actual rating to be restricted. [CHAR LIMIT=30] -->
+    <string name="option_ratings">Ratings</string>
+    <!-- Label of an item to show all rating systems in the system. [CHAR LIMIT=60] -->
+    <string name="option_see_all_rating_systems">See All Rating Systems</string>
+    <!-- Display country name for rating systems used in multiple countries.
+         [CHAR LIMIT=50] -->
+    <string name="other_countries">Other Countries</string>
+
+    <!-- Description below "Channel Locked" or "Program Restrictions" item when there is no locked channel.
+         [CHAR LIMIT=30] -->
+    <string name="option_no_locked_channel">None</string>
+    <!-- Display name of unrated rating. [CHAR LIMIT=30] -->
+    <string name="unrated_rating_name">Unrated</string>
+
+    <!-- Label of an item to block unrated programs. [CHAR LIMIT=80] -->
+    <string name="option_block_unrated_programs">Block Unrated Programs</string>
+
+    <!-- Label of an item to select high restriction. [CHAR LIMIT=50] -->
+    <string name="option_rating_high">High Restrictions</string>
+    <!-- Label of an item to select medium restriction. [CHAR LIMIT=50] -->
+    <string name="option_rating_medium">Medium Restrictions</string>
+    <!-- Label of an item to select low restriction. [CHAR LIMIT=50] -->
+    <string name="option_rating_low">Low Restrictions</string>
+
+    <!-- Label of an item to apply the close caption style from broadcast. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_As_Broadcast">As Broadcast</string>
+    <!-- Label of an item to select custom restriction. In the restriction, a user
+         can finely tune the restriction with rating details. [CHAR LIMIT=30] -->
+    <string name="option_rating_custom">Custom</string>
+
+    <!-- The description used for high restrictions. [CHAR LIMIT=NONE] -->
+    <string name="option_rating_high_description">Content Suitable for Children</string>
+    <!-- The description used for medium restrictions. [CHAR LIMIT=NONE] -->
+    <string name="option_rating_medium_description">Content Suitable for Older Children</string>
+    <!-- The description used for low restrictions. [CHAR LIMIT=NONE] -->
+    <string name="option_rating_low_description">Content Suitable for Teens</string>
+    <!-- The description used for custom restrictions. [CHAR LIMIT=NONE] -->
+    <string name="option_rating_custom_description">Manual Restrictions</string>
+
+    <!-- Attribution text shown at the end of the 'Ratings' menu. It indicates where those rating
+         descriptions come from. [CHAR LIMIT=NONE] -->
+    <string name="option_attribution">Sources for Rating Descriptions</string>
+
+    <!-- Title of the menu where the user can select sub-ratings settings. Sub-ratings can be added
+         to the basic rating to let parents know additional information about the TV program such as
+         drug, violence, nudity, sex and coarse language. [CHAR LIMIT=50] -->
+    <string name="option_subrating_title"><xliff:g id="option_subrating">%1$s</xliff:g> and sub-ratings</string>
+    <!-- Header of the divider in the sub-ratings menu. Sub-ratings can be added to the basic rating
+         to let parents know additional information about the TV program such as drug, violence,
+         nudity, sex and coarse language. [CHAR LIMIT=30] -->
+    <string name="option_subrating_header">Sub-ratings</string>
+
+    <string name="option_item_divider_font" translatable="false">@string/condensed_font</string>
+
+    <!-- PIN UX -->
+    <eat-comment />
+    <!-- Title of PIN dialog when an user is asked to enter PIN to unlock channel.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_unlock_channel">Enter your PIN to watch this channel</string>
+    <!-- Title of PIN dialog when an user is asked to enter PIN to unlock program.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_unlock_program">Enter your PIN to watch this program</string>
+    <!-- Title of PIN dialog when an user is asked to enter PIN to unlock DVR playback.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_unlock_dvr">This program is rated <xliff:g id="rating" example="TV_MA">%1$s</xliff:g>. Enter your PIN to watch this program</string>
+    <!-- Title of PIN dialog when an user is asked to enter PIN to unlock unrated DVR playback.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_unlock_dvr_unrated">This program is unrated. Enter your PIN to watch this program</string>
+    <!-- Title of PIN dialog when an user tries to change Parental control setting.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_pin">Enter your PIN</string>
+    <!-- Title of PIN dialog when an user is asked to set a PIN for the first time.
+         [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_create_pin">To set parental controls, create a PIN</string>
+    <!-- Title of PIN dialog when an user is asked to change PIN [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_new_pin">Enter new PIN</string>
+    <!-- Title of PIN dialog when an user is asked to set a PIN. [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_again">Confirm your PIN</string>
+    <!-- Title of PIN dialog when an user is about to change older PIN. [CHAR LIMIT=NONE] -->
+    <string name="pin_enter_old_pin">Enter your current PIN</string>
+    <!-- Message shown in the dialog when the user entered the wrong pin code. [CHAR LIMIT=NONE] -->
+    <plurals name="pin_enter_countdown">
+        <item quantity="one">You entered the wrong PIN 5 times.\nTry again in <xliff:g id="countdown_x" example="1">%1$d</xliff:g> second.</item>
+        <item quantity="other">You entered the wrong PIN 5 times.\nTry again in <xliff:g id="countdown_xx" example="60">%1$d</xliff:g> seconds.</item>
+    </plurals>
+    <!-- Toast message when an user entered wrong PIN. [CHAR LIMIT=NONE] -->
+    <string name="pin_toast_wrong">That PIN was wrong. Try again.</string>
+    <!-- Toast message when an user couldn't pass the PIN confirmation. [CHAR LIMIT=NONE] -->
+    <string name="pin_toast_not_match">Try again, PIN doesn\'t match</string>
+
+    <!-- Default program name when there is no program title. [CHAR LIMIT=NONE] -->
+    <string name="no_program_information">No program information</string>
+
+    <!-- Menu item to show licenses for open source code used in the Application [CHAR LIMIT=50] -->
+    <string name="settings_menu_licenses">Open Source Licenses</string>
+
+    <!-- Title of channel list in menu page. [CHAR LIMIT=30] -->
+    <string name="menu_channel">Channel</string>
+    <!-- Menu item that user can click to enter sub page for auto scan/single scan in US region. [CHAR LIMIT=50] -->
+    <string name="menu_channel_channel_sources">Channel Sources</string>
+    <!-- Menu item that user can click to enter channel list skip page for channel skip edit. [CHAR LIMIT=NONE] -->
+    <string name="menu_channel_customize_channel_list">Customize Channel List</string>
+    <!-- Description of "Customize Channel List". [CHAR LIMIT=NONE] -->
+    <string name="menu_channel_customize_channel_list_summary">Choose channels for your program guide</string>
+    <!-- Menu option item for user change tuner mode". [CHAR LIMIT=NONE] -->
+    <string name="menu_channel_channel_installation_mode">Channel Installation Mode</string>
+    <!-- Title of "Parental Contrals" menu item option. [CHAR LIMIT=50] -->
+    <string name="menu_channel_parental_controls">Parental Controls</string>
+    <!-- Label of "Multi audio" item in the TV option row. [CHAR LIMIT=17] -->
+    <string name="menu_channel_multi_audio">Multi Audio</string>
+    <!-- Menu item that shows the application version(e.g: 1.2.03-final) as a second line below this title. [CHAR LIMIT=35] -->
+    <string name="menu_channel_version">Version</string>
+    <!-- Label of done(complete). [CHAR LIMIT=17] -->
+    <string name="action_text_done">Done</string>
+    <!-- Label of skip channel. [CHAR LIMIT=17] -->
+    <!--  <string name="action_text_skip">Skip</string>-->
+
+    <!-- The episode display format with season and episode number used in series details view. [CHAR LIMIT=35] -->
+    <string name="display_episode_number_format">S<xliff:g id="season_number" example="1">%1$s</xliff:g>: Ep.<xliff:g id="episode_number" example="1">%2$s</xliff:g></string>
+    <!-- The episode display format with episode number used in series details view. [CHAR LIMIT=35] -->
+    <string name="display_episode_number_format_no_season_number">Ep.<xliff:g id="episode_number" example="1">%1$s</xliff:g></string>
+    <!-- The episode title format displayed on the info banner. For example, "S1: Ep. 1 Winter is coming". [CHAR LIMIT=35] -->
+    <!-- The episode title format displayed on the info banner when the season number is not available. For example, "Ep. 1807 Headline News". -->
+    <string name="display_episode_title_format_no_season_number">Ep. <xliff:g id="episode_number" example="1807">%1$s</xliff:g> <xliff:g id="episode_title" example="Headline News">%2$s</xliff:g></string>
+    <!-- Program title with season and episode number used in DVR card views. [CHAR LIMIT=35] -->
+    <string name="program_title_with_episode_number"><xliff:g id="programName" example="Big bang theory">%1$s</xliff:g> S<xliff:g id="seasonNumber" example="1">%2$s</xliff:g>: Ep. <xliff:g id="episodeNumber" example="12">%3$s</xliff:g></string>
+    <!-- Program title with episode number used in DVR card views. [CHAR LIMIT=50]-->
+    <string name="setup_sources_text">Set up your sources</string>
+    <!-- Description for channel sources screen in onboarding. [CHAR LIMIT=NONE] -->
+     <string name="setup_sources_description">LiveTV combines the experience of traditional TV channels with streaming channels provided by apps.
+\n\nGet started by setting up the channel sources already installed. or browse the online store for more apps that offer live channels.</string>
+    <!-- Category name for the newly installed channel sources(inputs). [CHAR LIMIT=40] -->
+    <string name="setup_category_new">New</string>
+    <!-- Category name for the installed channel sources(inputs). [CHAR LIMIT=40] -->
+    <string name="setup_category_done">Sources</string>
+    <!-- Description of an input to describe its channel count. [CHAR LIMIT=40] -->
+    <plurals name="setup_input_channels">
+        <item quantity="one"><xliff:g id="one">%1$d</xliff:g> channel</item>
+        <item quantity="other"><xliff:g id="other">%1$d</xliff:g> channels</item>
+    </plurals>
+    <!-- Description of an input with 0 channels. [CHAR LIMIT=50] -->
+    <string name="setup_input_no_channels">No channels available</string>
+    <!-- Description of newly installed inputs. [CHAR LIMIT=40] -->
+    <string name="setup_input_new">New</string>
+    <!-- Description of an input which was installed but not setup yet. [CHAR LIMIT=50] -->
+    <string name="setup_input_setup_now">Not set up</string>
+    <string name="menu_channel_scan_lcn" translatable="false">LCN</string>
+    <!-- Menu item that user can click enter next page for auto scan/RF scan and so on in EU region. [CHAR LIMIT=40] -->
+    <string name="menu_channel_scan_type">Channel Scan Type</string>
+    <!-- Menu option item defined how to store channel for DVBT channel scan. [CHAR LIMIT=40] -->
+    <string name="menu_channel_store_type">Channel Store Type</string>
+
+    <!-- menu arrays -->
+    <!-- Menu Video/Audio -->
+    <string name="menu_arrays_Dark" translatable="false">Dark</string>
+    <string name="menu_arrays_Middle" translatable="false">Middle</string>
+    <string name="menu_arrays_Bright" translatable="false">Bright</string>
+    <string name="menu_arrays_User" translatable="false">User</string>
+    <string name="menu_arrays_Cool" translatable="false">Cool</string>
+    <string name="menu_arrays_Standard" translatable="false">Standard</string>
+    <string name="menu_arrays_Warm" translatable="false">Warm</string>
+    <string name="menu_arrays_Off" translatable="false">Off</string>
+    <string name="menu_arrays_Low" translatable="false">Low</string>
+    <string name="menu_arrays_Strong" translatable="false">Strong</string>
+    <string name="menu_arrays_High" translatable="false">High</string>
+    <string name="menu_arrays_On" translatable="false">On</string>
+    <string name="menu_arrays_SLOW_PIC" translatable="false">SLOW_PIC</string>
+    <string name="menu_arrays_ACTION_PIC" translatable="false">ACTION_PIC</string>
+    <string name="menu_arrays_All" translatable="false">All</string>
+    <string name="menu_arrays_Right" translatable="false">Right</string>
+    <string name="menu_arrays_Left" translatable="false">Left</string>
+    <string name="menu_arrays_Normal" translatable="false">Normal</string>
+    <string name="menu_arrays_Film_Only" translatable="false">Film Only</string>
+    <string name="menu_arrays_Deblur_Only" translatable="false">Deblur Only</string>
+    <string name="menu_arrays_Graphic" translatable="false">Graphic</string>
+    <string name="menu_arrays_RGB" translatable="false">RGB</string>
+    <string name="menu_arrays_YCbCr" translatable="false">YCbCr</string>
+    <string name="menu_arrays_OFF" translatable="false">OFF</string>
+    <string name="menu_arrays_Auto_Mode" translatable="false">Auto Mode</string>
+    <string name="menu_arrays_2D_to_3D" translatable="false">2D-to-3D</string>
+    <string name="menu_arrays_Frame_Order" translatable="false">Frame Order</string>
+    <string name="menu_arrays_Side_by_Side" translatable="false">Side-by-Side</string>
+    <string name="menu_arrays_Top_and_Bottom" translatable="false">Top-and-Bottom</string>
+    <string name="menu_arrays_REALD_MODE" translatable="false">REALD MODE</string>
+    <string name="menu_arrays_SENSIO" translatable="false">SENSIO</string>
+    <string name="menu_arrays_Line_Interlace" translatable="false">Line Interlace</string>
+    <string name="menu_arrays_DOT_ALT_MODE" translatable="false">DOT ALT MODE</string>
+    <string name="menu_arrays_CHK_BOARD" translatable="false">CHK BOARD</string>
+    <string name="menu_arrays_Manual" translatable="false">Manual</string>
+    <string name="menu_arrays_Semi_Auto" translatable="false">Semi-Auto</string>
+    <string name="menu_arrays_Rock" translatable="false">Rock</string>
+    <string name="menu_arrays_Pop" translatable="false">Pop</string>
+    <string name="menu_arrays_Live" translatable="false">Live</string>
+    <string name="menu_arrays_Dance" translatable="false">Dance</string>
+    <string name="menu_arrays_Techno" translatable="false">Techno</string>
+    <string name="menu_arrays_Classic" translatable="false">Classic</string>
+    <string name="menu_arrays_Soft" translatable="false">Soft</string>
+    <string name="menu_arrays_Custom1" translatable="false">Custom1</string>
+    <string name="menu_arrays_Custom2" translatable="false">Custom2</string>
+    <string name="menu_arrays_custom3" translatable="false">custom3</string>
+    <string name="menu_arrays_PCM_RAW" translatable="false">PCM RAW</string>
+    <string name="menu_arrays_PCM_16" translatable="false">PCM 16</string>
+    <string name="menu_arrays_PCM_24" translatable="false">PCM 24</string>
+    <string name="menu_arrays_Dolby_Digital" translatable="false">Dolby Digital</string>
+    <string name="menu_arrays_PCM" translatable="false">PCM</string>
+    <string name="menu_arrays_Dolby_Digital_Plus" translatable="false">Dolby Digital Plus</string>
+    <string name="menu_arrays_Hearing_Impaired">Hearing Impaired</string>
+    <string name="menu_arrays_Visually_Impaired" translatable="false">Visually Impaired</string>
+    <string name="menu_arrays_fader_main_max" translatable="false">Main Max</string>
+    <string name="menu_arrays_fader_main_sub" translatable="false">Main 3:4</string>
+    <string name="menu_arrays_fader_equal" translatable="false">Equal</string>
+    <string name="menu_arrays_fader_ad_sub" translatable="false">AD 3:4</string>
+    <string name="menu_arrays_fader_ad_max" translatable="false">AD Max</string>
+
+    <!-- Mark indicating that the current program has two audio channels (stereo).
+         [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Stereo">Stereo</string>
+    <!-- Mark indicating that the current program has two audio channels.
+         [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Auto_Stereo">Auto Stereo</string>
+    <!-- Mark indicating that the current program has multi audio channels.
+         [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Surround">Surround</string>
+    <!-- Mark indicating that the current program's audio channel is unknown .
+         [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Undefined">Undefined</string>
+
+    <string name="menu_arrays_Arabic" translatable="false">Arabic</string>
+    <string name="menu_arrays_Azerbaijani" translatable="false">Azerbaijani</string>
+    <string name="menu_arrays_Bengali" translatable="false">Bengali</string>
+    <string name="menu_arrays_Chinese" translatable="false">Chinese</string>
+    <string name="menu_arrays_English" translatable="false">English</string>
+    <string name="menu_arrays_Hindi" translatable="false">Hindi</string>
+    <string name="menu_arrays_Indonesian" translatable="false">Indonesian</string>
+    <string name="menu_arrays_Italian" translatable="false">Italian</string>
+    <string name="menu_arrays_Japanese" translatable="false">Japanese</string>
+    <string name="menu_arrays_Korean" translatable="false">Korean</string>
+    <string name="menu_arrays_Multiple_Languages" translatable="false">Multiple Languages</string>
+    <string name="menu_arrays_Myanmar" translatable="false">Myanmar</string>
+    <string name="menu_arrays_Swahili" translatable="false">Swahili</string>
+    <string name="menu_arrays_Tamil" translatable="false">Tamil</string>
+    <string name="menu_arrays_Thai" translatable="false">Thai</string>
+    <string name="menu_arrays_Vietnamese" translatable="false">Vietnamese</string>
+    <string name="menu_arrays_Chinese_Mandarin" translatable="false">Chinese (Mandarin)</string>
+    <string name="menu_arrays_Chinese_Cantonese" translatable="false">Chinese (Cantonese)</string>
+    <string name="menu_arrays_Multiple" translatable="false">Multiple</string>
+    <string name="menu_arrays_deu" translatable="false">Deutsch</string>
+    <string name="menu_array_eus" translatable="false">Euskera</string>
+
+    <!-- The label of the tuner mode for live TV signal.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Antenna">Antenna</string>
+    <!-- The label of the tuner mode for live TV signal.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Cable">Cable</string>
+    <!-- The label of the audio channel for current program, indicating that the current program has only one audio channel.[CHAR LIMIT = 10]-->
+    <string name="menu_arrays_Mono">Mono</string>
+    <!-- The label of the audio channel for current program, indicating that the current program has two audio channels.[CHAR LIMIT = 10]-->
+    <string name="menu_arrays_Dual1">Dual1</string>
+    <!-- The label of the audio channel for current program, indicating that the current program has two audio channels.[CHAR LIMIT = 10]-->
+    <string name="menu_arrays_Dual2">Dual2</string>
+
+    <string name="menu_arrays_SAP" translatable="false">SAP</string>
+    <string name="menu_arrays_Espanol" translatable="false">Espanol</string>
+    <string name="menu_arrays_Francais" translatable="false">Francais</string>
+    <string name="menu_arrays_Bulgarian" translatable="false">Bulgarian</string>
+    <string name="menu_arrays_Cantonese" translatable="false">Cantonese</string>
+    <string name="menu_arrays_Catalan" translatable="false">Catalan</string>
+    <string name="menu_arrays_Danish" translatable="false">Danish</string>
+    <string name="menu_arrays_Estonian" translatable="false">Estonian</string>
+    <string name="menu_arrays_Finnish" translatable="false">Finnish</string>
+    <string name="menu_arrays_Gaelic" translatable="false">Gaelic</string>
+    <string name="menu_arrays_Trish" translatable="false">Irish</string>
+    <string name="menu_arrays_Galician" translatable="false">Galician</string>
+    <string name="menu_arrays_Hungarian" translatable="false">Hungarian</string>
+    <string name="menu_arrays_Norwegian" translatable="false">Norwegian</string>
+    <string name="menu_arrays_Polish" translatable="false">Polish</string>
+    <string name="menu_arrays_Portuguese" translatable="false">Portuguese</string>
+    <string name="menu_arrays_Russian" translatable="false">Russian</string>
+    <string name="menu_arrays_Slovenian" translatable="false">Slovenian</string>
+    <string name="menu_arrays_Swedish" translatable="false">Swedish</string>
+    <string name="menu_arrays_Turkish" translatable="false">Turkish</string>
+    <string name="menu_arrays_Original" translatable="false">Original Audio</string>
+    <string name="menu_arrays_Afrikaans" translatable="false">Afrikaans</string>
+    <string name="menu_arrays_AZUAY" translatable="false">AZUAY</string>
+    <string name="menu_arrays_BOLIVAR" translatable="false">BOLIVAR</string>
+    <string name="menu_arrays_CANAR" translatable="false">CANAR</string>
+    <string name="menu_arrays_CARCHI" translatable="false">CARCHI</string>
+    <string name="menu_arrays_CHIMBORAZO" translatable="false">CHIMBORAZO</string>
+    <string name="menu_arrays_COTOPAXI" translatable="false">COTOPAXI</string>
+    <string name="menu_arrays_EL_ORO" translatable="false">EL ORO</string>
+    <string name="menu_arrays_ESMERALDAS" translatable="false">ESMERALDAS</string>
+    <string name="menu_arrays_GALAPAGOS" translatable="false">GALAPAGOS</string>
+    <string name="menu_arrays_GUAYAS" translatable="false">GUAYAS</string>
+    <string name="menu_arrays_IMBABURA" translatable="false">IMBABURA</string>
+    <string name="menu_arrays_PICHINCHA" translatable="false">PICHINCHA</string>
+    <string name="menu_arrays_LOJA" translatable="false">LOJA</string>
+    <string name="menu_arrays_LOS_RIOS" translatable="false">LOS RIOS</string>
+    <string name="menu_arrays_MANABI" translatable="false">MANABI</string>
+    <string name="menu_arrays_MORONA_SANTIAGO" translatable="false">MORONA SANTIAGO</string>
+    <string name="menu_arrays_NACIONAL" translatable="false">NACIONAL</string>
+    <string name="menu_arrays_NAPO" translatable="false">NAPO</string>
+    <string name="menu_arrays_ORELLANA" translatable="false">ORELLANA</string>
+    <string name="menu_arrays_PASTAZA" translatable="false">PASTAZA</string>
+    <string name="menu_arrays_SANTA_ELENA" translatable="false">SANTA ELENA</string>
+    <string name="menu_arrays_SANTO_DOMINGO_DE_LOS_TSACHILAS" translatable="false">SANTO DOMINGO DE LOS TSACHILAS</string>
+    <string name="menu_arrays_SUCUMBIOS" translatable="false">SUCUMBIOS</string>
+    <string name="menu_arrays_TUNGURAHUA" translatable="false">TUNGURAHUA</string>
+    <string name="menu_arrays_ZAMORA_CHINCHIPE" translatable="false">ZAMORA CHINCHIPE</string>
+    <string name="menu_arrays_ZONA_DELIMITADA" translatable="false">ZONA DELIMITADA</string>
+    <string name="menu_arrays_CAMILO_PONCE_ENRIQUEZ" translatable="false">CAMILO PONCE ENRIQUEZ</string>
+    <string name="menu_arrays_CHORDELEG" translatable="false">CHORDELEG</string>
+    <string name="menu_arrays_CUENCA" translatable="false">CUENCA</string>
+    <string name="menu_arrays_EL_PAN" translatable="false">EL PAN</string>
+    <string name="menu_arrays_GIRON" translatable="false">GIRON</string>
+    <string name="menu_arrays_GUACHAPALA" translatable="false">GUACHAPALA</string>
+    <string name="menu_arrays_GUALACEO" translatable="false">GUALACEO</string>
+    <string name="menu_arrays_NABON" translatable="false">NABON</string>
+    <string name="menu_arrays_ONA" translatable="false">ONA</string>
+    <string name="menu_arrays_PAUTE" translatable="false">PAUTE</string>
+    <string name="menu_arrays_PUCARA" translatable="false">PUCARA</string>
+    <string name="menu_arrays_SAN_FERNANDO" translatable="false">SAN FERNANDO</string>
+    <string name="menu_arrays_SANTA_ISABEL" translatable="false">SANTA ISABEL</string>
+    <string name="menu_arrays_SEVILLA_DE_ORO" translatable="false">SEVILLA DE ORO</string>
+    <string name="menu_arrays_SIGSIG" translatable="false">SIGSIG</string>
+    <string name="menu_arrays_CALUMA" translatable="false">CALUMA</string>
+    <string name="menu_arrays_CHILLANES" translatable="false">CHILLANES</string>
+    <string name="menu_arrays_CHIMBO" translatable="false">CHIMBO</string>
+    <string name="menu_arrays_ECHEANDIA" translatable="false">ECHEANDIA</string>
+    <string name="menu_arrays_GUARANDA" translatable="false">GUARANDA</string>
+    <string name="menu_arrays_LAS_NAVES" translatable="false">LAS NAVES</string>
+    <string name="menu_arrays_SAN_MIGUEL" translatable="false">SAN MIGUEL</string>
+    <string name="menu_arrays_AZOGUES" translatable="false">AZOGUES</string>
+    <string name="menu_arrays_BIBLIAN" translatable="false">BIBLIAN</string>
+    <string name="menu_arrays_DELEG" translatable="false">DELEG</string>
+    <string name="menu_arrays_EL_TAMBO" translatable="false">EL TAMBO</string>
+    <string name="menu_arrays_LA_TRONCAL" translatable="false">LA TRONCAL</string>
+    <string name="menu_arrays_SUSCAL" translatable="false">SUSCAL</string>
+    <string name="menu_arrays_ESPEJO" translatable="false">ESPEJO</string>
+    <string name="menu_arrays_MIRA" translatable="false">MIRA</string>
+    <string name="menu_arrays_MONTUFAR" translatable="false">MONTUFAR</string>
+    <string name="menu_arrays_SAN_PEDRO_DE_HUACA" translatable="false">SAN PEDRO DE HUACA</string>
+    <string name="menu_arrays_TULCAN" translatable="false">TULCAN</string>
+    <string name="menu_arrays_ALAUSI" translatable="false">ALAUSI</string>
+    <string name="menu_arrays_CHAMBO" translatable="false">CHAMBO</string>
+    <string name="menu_arrays_CHUNCHI" translatable="false">CHUNCHI</string>
+    <string name="menu_arrays_COLTA" translatable="false">COLTA</string>
+    <string name="menu_arrays_CUMANDA" translatable="false">CUMANDA</string>
+    <string name="menu_arrays_GUAMOTE" translatable="false">GUAMOTE</string>
+    <string name="menu_arrays_GUANO" translatable="false">GUANO</string>
+    <string name="menu_arrays_PALLATANGA" translatable="false">PALLATANGA</string>
+    <string name="menu_arrays_PENIPE" translatable="false">PENIPE</string>
+    <string name="menu_arrays_RIOBAMBA" translatable="false">RIOBAMBA</string>
+    <string name="menu_arrays_LA_MANA" translatable="false">LA MANA</string>
+    <string name="menu_arrays_LATACUNGA" translatable="false">LATACUNGA</string>
+    <string name="menu_arrays_PANGUA" translatable="false">PANGUA</string>
+    <string name="menu_arrays_PUJILI" translatable="false">PUJILI</string>
+    <string name="menu_arrays_SALCEDO" translatable="false">SALCEDO</string>
+    <string name="menu_arrays_SAQUISILI" translatable="false">SAQUISILI</string>
+    <string name="menu_arrays_SIGCHOS" translatable="false">SIGCHOS</string>
+    <string name="menu_arrays_ARENILLAS" translatable="false">ARENILLAS</string>
+    <string name="menu_arrays_ATAHUALPA" translatable="false">ATAHUALPA</string>
+    <string name="menu_arrays_BALSAS" translatable="false">BALSAS</string>
+    <string name="menu_arrays_CHILLA" translatable="false">CHILLA</string>
+    <string name="menu_arrays_EL_GUABO" translatable="false">EL GUABO</string>
+    <string name="menu_arrays_HUAQUILLAS" translatable="false">HUAQUILLAS</string>
+    <string name="menu_arrays_LAS_LAJAS" translatable="false">LAS LAJAS</string>
+    <string name="menu_arrays_MACHALA" translatable="false">MACHALA</string>
+    <string name="menu_arrays_MARCABELI" translatable="false">MARCABELI</string>
+    <string name="menu_arrays_PASAJE" translatable="false">PASAJE</string>
+    <string name="menu_arrays_PINAS" translatable="false">PINAS</string>
+    <string name="menu_arrays_PORTOVELO" translatable="false">PORTOVELO</string>
+    <string name="menu_arrays_SANTA_ROSA" translatable="false">SANTA ROSA</string>
+    <string name="menu_arrays_ZARUMA" translatable="false">ZARUMA</string>
+    <string name="menu_arrays_ATACAMES" translatable="false">ATACAMES</string>
+    <string name="menu_arrays_ELOY_ALFARO" translatable="false">ELOY ALFARO</string>
+    <string name="menu_arrays_LA_CONCORDIA" translatable="false">LA CONCORDIA</string>
+    <string name="menu_arrays_MUISNE" translatable="false">MUISNE</string>
+    <string name="menu_arrays_QUININDE" translatable="false">QUININDE</string>
+    <string name="menu_arrays_RIOVERDE" translatable="false">RIOVERDE</string>
+    <string name="menu_arrays_SAN_LORENZO" translatable="false">SAN LORENZO</string>
+    <string name="menu_arrays_ISABELA" translatable="false">ISABELA</string>
+    <string name="menu_arrays_SAN_CRISTOBAL" translatable="false">SAN CRISTOBAL</string>
+    <string name="menu_arrays_SANTA_CRUZ" translatable="false">SANTA CRUZ</string>
+    <string name="menu_arrays_ALFREDO_BAQUERIZO_MORENO" translatable="false">ALFREDO BAQUERIZO MORENO</string>
+    <string name="menu_arrays_BALAO" translatable="false">BALAO</string>
+    <string name="menu_arrays_BALZAR" translatable="false">BALZAR</string>
+    <string name="menu_arrays_COLIMES" translatable="false">COLIMES</string>
+    <string name="menu_arrays_CRNEL_MARCELINO_MARIDUENA" translatable="false">CRNEL. MARCELINO MARIDUENA</string>
+    <string name="menu_arrays_DAULE" translatable="false">DAULE</string>
+    <string name="menu_arrays_DURAN" translatable="false">DURAN</string>
+    <string name="menu_arrays_EL_TRIUNFO" translatable="false">EL TRIUNFO</string>
+    <string name="menu_arrays_EMPALME" translatable="false">EMPALME</string>
+    <string name="menu_arrays_GNRAL_ANTONIO_ELIZALDE" translatable="false">GNRAL. ANTONIO ELIZALDE</string>
+    <string name="menu_arrays_GUAYAQUIL" translatable="false">GUAYAQUIL</string>
+    <string name="menu_arrays_ISIDRO_AYORA" translatable="false">ISIDRO AYORA</string>
+    <string name="menu_arrays_LOMAS_DE_SARGENTILLO" translatable="false">LOMAS DE SARGENTILLO</string>
+    <string name="menu_arrays_MILAGRO" translatable="false">MILAGRO</string>
+    <string name="menu_arrays_NARANJAL" translatable="false">NARANJAL</string>
+    <string name="menu_arrays_NARANJITO" translatable="false">NARANJITO</string>
+    <string name="menu_arrays_NOBOL" translatable="false">NOBOL</string>
+    <string name="menu_arrays_PALESTINA" translatable="false">PALESTINA</string>
+    <string name="menu_arrays_PEDRO_CARBO" translatable="false">PEDRO CARBO</string>
+    <string name="menu_arrays_PLAYAS" translatable="false">PLAYAS</string>
+    <string name="menu_arrays_SALITRE" translatable="false">SALITRE</string>
+    <string name="menu_arrays_SAMBORONDON" translatable="false">SAMBORONDON</string>
+    <string name="menu_arrays_SAN_JACINTO_DE_YAGUACHI" translatable="false">SAN JACINTO DE YAGUACHI</string>
+    <string name="menu_arrays_SANTA_LUCIA" translatable="false">SANTA LUCIA</string>
+    <string name="menu_arrays_SIMON_BOLIVAR" translatable="false">SIMON BOLIVAR</string>
+    <string name="menu_arrays_ANTONIO_ANTE" translatable="false">ANTONIO ANTE</string>
+    <string name="menu_arrays_COTACACHI" translatable="false">COTACACHI</string>
+    <string name="menu_arrays_IBARRA" translatable="false">IBARRA</string>
+    <string name="menu_arrays_OTAVALO" translatable="false">OTAVALO</string>
+    <string name="menu_arrays_PIMAMPIRO" translatable="false">PIMAMPIRO</string>
+    <string name="menu_arrays_SAN_MIGUEL_DE_URCUQUI" translatable="false">SAN MIGUEL DE URCUQUI</string>
+    <string name="menu_arrays_CAYAMBE" translatable="false">CAYAMBE</string>
+    <string name="menu_arrays_MEJIA" translatable="false">MEJIA</string>
+    <string name="menu_arrays_PEDRO_MONCAYO" translatable="false">PEDRO MONCAYO</string>
+    <string name="menu_arrays_PEDRO_VICENTE_MALDONADO" translatable="false">PEDRO VICENTE MALDONADO</string>
+    <string name="menu_arrays_PUERTO_QUITO" translatable="false">PUERTO QUITO</string>
+    <string name="menu_arrays_QUITO" translatable="false">QUITO</string>
+    <string name="menu_arrays_RUMINAHUI" translatable="false">RUMINAHUI</string>
+    <string name="menu_arrays_SAN_MIGUEL_DE_LOS_BANCOS" translatable="false">SAN MIGUEL DE LOS BANCOS</string>
+    <string name="menu_arrays_CALVAS" translatable="false">CALVAS</string>
+    <string name="menu_arrays_CATAMAYO" translatable="false">CATAMAYO</string>
+    <string name="menu_arrays_CELICA" translatable="false">CELICA</string>
+    <string name="menu_arrays_CHAGUARPAMBA" translatable="false">CHAGUARPAMBA</string>
+    <string name="menu_arrays_ESPINDOLA" translatable="false">ESPINDOLA</string>
+    <string name="menu_arrays_GONZANAMA" translatable="false">GONZANAMA</string>
+    <string name="menu_arrays_MACARA" translatable="false">MACARA</string>
+    <string name="menu_arrays_OLMEDO" translatable="false">OLMEDO</string>
+    <string name="menu_arrays_PALTAS" translatable="false">PALTAS</string>
+    <string name="menu_arrays_PINDAL" translatable="false">PINDAL</string>
+    <string name="menu_arrays_PUYANGO" translatable="false">PUYANGO</string>
+    <string name="menu_arrays_QUILANGA" translatable="false">QUILANGA</string>
+    <string name="menu_arrays_SARAGURO" translatable="false">SARAGURO</string>
+    <string name="menu_arrays_SOZORANGA" translatable="false">SOZORANGA</string>
+    <string name="menu_arrays_ZAPOTILLO" translatable="false">ZAPOTILLO</string>
+    <string name="menu_arrays_BABA" translatable="false">BABA</string>
+    <string name="menu_arrays_BABAHOYO" translatable="false">BABAHOYO</string>
+    <string name="menu_arrays_BUENA_FE" translatable="false">BUENA FE</string>
+    <string name="menu_arrays_MOCACHE" translatable="false">MOCACHE</string>
+    <string name="menu_arrays_MONTALVO" translatable="false">MONTALVO</string>
+    <string name="menu_arrays_PALENQUE" translatable="false">PALENQUE</string>
+    <string name="menu_arrays_PUEBLOVIEJO" translatable="false">PUEBLOVIEJO</string>
+    <string name="menu_arrays_QUEVEDO" translatable="false">QUEVEDO</string>
+    <string name="menu_arrays_QUINSALOMA" translatable="false">QUINSALOMA</string>
+    <string name="menu_arrays_URDANETA" translatable="false">URDANETA</string>
+    <string name="menu_arrays_VALENCIA" translatable="false">VALENCIA</string>
+    <string name="menu_arrays_VENTANAS" translatable="false">VENTANAS</string>
+    <string name="menu_arrays_VINCES" translatable="false">VINCES</string>
+    <string name="menu_arrays_24_DE_MAYO" translatable="false">24 DE MAYO</string>
+    <string name="menu_arrays_CHONE" translatable="false">CHONE</string>
+    <string name="menu_arrays_EL_CARMEN" translatable="false">EL CARMEN</string>
+    <string name="menu_arrays_FLAVIO_ALFARO" translatable="false">FLAVIO ALFARO</string>
+    <string name="menu_arrays_JAMA" translatable="false">JAMA</string>
+    <string name="menu_arrays_JARAMIJO" translatable="false">JARAMIJO</string>
+    <string name="menu_arrays_JIPIJAPA" translatable="false">JIPIJAPA</string>
+    <string name="menu_arrays_JUNIN" translatable="false">JUNIN</string>
+    <string name="menu_arrays_MANTA" translatable="false">MANTA</string>
+    <string name="menu_arrays_MONTECRISTI" translatable="false">MONTECRISTI</string>
+    <string name="menu_arrays_PAJAN" translatable="false">PAJAN</string>
+    <string name="menu_arrays_PEDERNALES" translatable="false">PEDERNALES</string>
+    <string name="menu_arrays_PORTOVIEJO" translatable="false">PORTOVIEJO</string>
+    <string name="menu_arrays_PUERTO_LOPEZ" translatable="false">PUERTO LOPEZ</string>
+    <string name="menu_arrays_ROCAFUERTE" translatable="false">ROCAFUERTE</string>
+    <string name="menu_arrays_SAN_VICENTE" translatable="false">SAN VICENTE</string>
+    <string name="menu_arrays_SANTA_ANA" translatable="false">SANTA ANA</string>
+    <string name="menu_arrays_SUCRE" translatable="false">SUCRE</string>
+    <string name="menu_arrays_TOSAGUA" translatable="false">TOSAGUA</string>
+    <string name="menu_arrays_GUALAQUIZA" translatable="false">GUALAQUIZA</string>
+    <string name="menu_arrays_HUAMBOYA" translatable="false">HUAMBOYA</string>
+    <string name="menu_arrays_LIMON_INDANZA" translatable="false">LIMON INDANZA</string>
+    <string name="menu_arrays_LOGRONO" translatable="false">LOGRONO</string>
+    <string name="menu_arrays_MORONA" translatable="false">MORONA</string>
+    <string name="menu_arrays_PABLO_SEXTO" translatable="false">PABLO SEXTO</string>
+    <string name="menu_arrays_PALORA" translatable="false">PALORA</string>
+    <string name="menu_arrays_SAN_JUAN_BOSCO" translatable="false">SAN JUAN BOSCO</string>
+    <string name="menu_arrays_SANTIAGO" translatable="false">SANTIAGO</string>
+    <string name="menu_arrays_SUCUA" translatable="false">SUCUA</string>
+    <string name="menu_arrays_TAISHA" translatable="false">TAISHA</string>
+    <string name="menu_arrays_TIWINTZA" translatable="false">TIWINTZA</string>
+    <string name="menu_arrays_ARCHIDONA" translatable="false">ARCHIDONA</string>
+    <string name="menu_arrays_CARLOS_JULIO_AROSEMENA_TOLA" translatable="false">CARLOS JULIO AROSEMENA TOLA</string>
+    <string name="menu_arrays_EL_CHACO" translatable="false">EL CHACO</string>
+    <string name="menu_arrays_QUIJOS" translatable="false">QUIJOS</string>
+    <string name="menu_arrays_TENA" translatable="false">TENA</string>
+    <string name="menu_arrays_AGUARICO" translatable="false">AGUARICO</string>
+    <string name="menu_arrays_LA_JOYA_DE_LOS_SACHAS" translatable="false">LA JOYA DE LOS SACHAS</string>
+    <string name="menu_arrays_LORETO" translatable="false">LORETO</string>
+    <string name="menu_arrays_ARAJUNO" translatable="false">ARAJUNO</string>
+    <string name="menu_arrays_MERA" translatable="false">MERA</string>
+    <string name="menu_arrays_SANTA_CLARA" translatable="false">SANTA CLARA</string>
+    <string name="menu_arrays_LA_LIBERTAD" translatable="false">LA LIBERTAD</string>
+    <string name="menu_arrays_SALINAS" translatable="false">SALINAS</string>
+    <string name="menu_arrays_SANTO_DOMINGO" translatable="false">SANTO DOMINGO</string>
+    <string name="menu_arrays_CASCALES" translatable="false">CASCALES</string>
+    <string name="menu_arrays_CUYABENO" translatable="false">CUYABENO</string>
+    <string name="menu_arrays_GONZALO_PIZARRO" translatable="false">GONZALO PIZARRO</string>
+    <string name="menu_arrays_LAGO_AGRIO" translatable="false">LAGO AGRIO</string>
+    <string name="menu_arrays_PUTUMAYO" translatable="false">PUTUMAYO</string>
+    <string name="menu_arrays_SHUSHUFINDI" translatable="false">SHUSHUFINDI</string>
+    <string name="menu_arrays_AMBATO" translatable="false">AMBATO</string>
+    <string name="menu_arrays_BANOS_DE_AGUA_SANTA" translatable="false">BANOS DE AGUA SANTA</string>
+    <string name="menu_arrays_CEVALLOS" translatable="false">CEVALLOS</string>
+    <string name="menu_arrays_MOCHA" translatable="false">MOCHA</string>
+    <string name="menu_arrays_PATATE" translatable="false">PATATE</string>
+    <string name="menu_arrays_QUERO" translatable="false">QUERO</string>
+    <string name="menu_arrays_SAN_PEDRO_DE_PELILEO" translatable="false">SAN PEDRO DE PELILEO</string>
+    <string name="menu_arrays_SANTIAGO_DE_PILLARO" translatable="false">SANTIAGO DE PILLARO</string>
+    <string name="menu_arrays_TISALEO" translatable="false">TISALEO</string>
+    <string name="menu_arrays_CENTINELA_DEL_CONDOR" translatable="false">CENTINELA DEL CONDOR</string>
+    <string name="menu_arrays_CHINCHIPE" translatable="false">CHINCHIPE</string>
+    <string name="menu_arrays_EL_PANGUI" translatable="false">EL PANGUI</string>
+    <string name="menu_arrays_NANGARITZA" translatable="false">NANGARITZA</string>
+    <string name="menu_arrays_PALANDA" translatable="false">PALANDA</string>
+    <string name="menu_arrays_PAQUISHA" translatable="false">PAQUISHA</string>
+    <string name="menu_arrays_YACUAMBI" translatable="false">YACUAMBI</string>
+    <string name="menu_arrays_YANTZAZA" translatable="false">YANTZAZA</string>
+    <string name="menu_arrays_ZAMORA" translatable="false">ZAMORA</string>
+    <string name="menu_arrays_EL_PIEDRERO" translatable="false">EL PIEDRERO</string>
+    <string name="menu_arrays_LAS_GOLONDRINAS" translatable="false">LAS GOLONDRINAS</string>
+    <string name="menu_arrays_MANGA_DEL_CURA" translatable="false">MANGA DEL CURA</string>
+    <string name="menu_arrays_NCR" translatable="false">NCR</string>
+    <string name="menu_arrays_Cordilera_Administrative_Region" translatable="false">Cordilera Administrative Region</string>
+    <string name="menu_arrays_Ilocos_Region" translatable="false">Ilocos Region</string>
+    <string name="menu_arrays_Cagayan_Valley" translatable="false">Cagayan Valley</string>
+    <string name="menu_arrays_Central_Luzon" translatable="false">Central Luzon</string>
+    <string name="menu_arrays_CALABARZON" translatable="false">CALABARZON</string>
+    <string name="menu_arrays_MIMAROPA" translatable="false">MIMAROPA</string>
+    <string name="menu_arrays_Bicol_Region" translatable="false">Bicol Region</string>
+    <string name="menu_arrays_Western_Visayas" translatable="false">Western Visayas</string>
+    <string name="menu_arrays_Central_Visayas" translatable="false">Central Visayas</string>
+    <string name="menu_arrays_Eastern_Visayas" translatable="false">Eastern Visayas</string>
+    <string name="menu_arrays_Zamboanga_Peninsula" translatable="false">Zamboanga Peninsula</string>
+    <string name="menu_arrays_Northern_Mindanao" translatable="false">Northern Mindanao</string>
+    <string name="menu_arrays_Davao_Region" translatable="false">Davao Region</string>
+    <string name="menu_arrays_SOCCSKSARGEN" translatable="false">SOCCSKSARGEN</string>
+    <string name="menu_arrays_CARAGA" translatable="false">CARAGA</string>
+    <string name="menu_arrays_Autonomous_Region_in_Muslim_Mindanao" translatable="false">Autonomous Region in Muslim Mindanao</string>
+    <string name="menu_arrays_Caloocan" translatable="false">Caloocan</string>
+    <string name="menu_arrays_Las_Pinas" translatable="false">Las_Pinas</string>
+    <string name="menu_arrays_Makati" translatable="false">Makati</string>
+    <string name="menu_arrays_Malabon" translatable="false">Malabon</string>
+    <string name="menu_arrays_Mandaluyong" translatable="false">Mandaluyong</string>
+    <string name="menu_arrays_Manila" translatable="false">Manila</string>
+    <string name="menu_arrays_Marikina" translatable="false">Marikina</string>
+    <string name="menu_arrays_Muntinlupa" translatable="false">Muntinlupa</string>
+    <string name="menu_arrays_Navotas" translatable="false">Navotas</string>
+    <string name="menu_arrays_Paranaque" translatable="false">Paranaque</string>
+    <string name="menu_arrays_Pasay" translatable="false">Pasay</string>
+    <string name="menu_arrays_Pasig" translatable="false">Pasig</string>
+    <string name="menu_arrays_Pateros" translatable="false">Pateros</string>
+    <string name="menu_arrays_Quezon_City" translatable="false">Quezon City</string>
+    <string name="menu_arrays_San_Juan" translatable="false">San Juan</string>
+    <string name="menu_arrays_Taguig" translatable="false">Taguig</string>
+    <string name="menu_arrays_Valenzuela" translatable="false">Valenzuela</string>
+    <string name="menu_arrays_Abra" translatable="false">Abra</string>
+    <string name="menu_arrays_Apayao" translatable="false">Apayao</string>
+    <string name="menu_arrays_Baguio" translatable="false">Baguio</string>
+    <string name="menu_arrays_Benguet" translatable="false">Benguet</string>
+    <string name="menu_arrays_Ifugao" translatable="false">Ifugao</string>
+    <string name="menu_arrays_Kalinga" translatable="false">Kalinga</string>
+    <string name="menu_arrays_Mt_Province" translatable="false">Mt. Province</string>
+    <string name="menu_arrays_Ilocos_Norte" translatable="false">Ilocos Norte</string>
+    <string name="menu_arrays_Ilocos_Sur" translatable="false">Ilocos Sur</string>
+    <string name="menu_arrays_La_Union" translatable="false">La Union</string>
+    <string name="menu_arrays_Pangasinan" translatable="false">Pangasinan</string>
+    <string name="menu_arrays_Batanes" translatable="false">Batanes</string>
+    <string name="menu_arrays_Cagayan" translatable="false">Cagayan</string>
+    <string name="menu_arrays_Isabela" translatable="false">Isabela</string>
+    <string name="menu_arrays_Nueva_Vizcaya" translatable="false">Nueva Vizcaya</string>
+    <string name="menu_arrays_Quirino" translatable="false">Quirino</string>
+    <string name="menu_arrays_Santiago" translatable="false">Santiago</string>
+    <string name="menu_arrays_Angeles" translatable="false">Angeles</string>
+    <string name="menu_arrays_Aurora" translatable="false">Aurora</string>
+    <string name="menu_arrays_Bataan" translatable="false">Bataan</string>
+    <string name="menu_arrays_Bulacan" translatable="false">Bulacan</string>
+    <string name="menu_arrays_Nueva_Ecija" translatable="false">Nueva Ecija</string>
+    <string name="menu_arrays_Olongapo" translatable="false">Olongapo</string>
+    <string name="menu_arrays_Pampanga" translatable="false">Pampanga</string>
+    <string name="menu_arrays_Tarlac" translatable="false">Tarlac</string>
+    <string name="menu_arrays_Zambales" translatable="false">Zambales</string>
+    <string name="menu_arrays_Batangas" translatable="false">Batangas</string>
+    <string name="menu_arrays_Cavite" translatable="false">Cavite</string>
+    <string name="menu_arrays_Laguna" translatable="false">Laguna</string>
+    <string name="menu_arrays_Lucena" translatable="false">Lucena</string>
+    <string name="menu_arrays_Quezon" translatable="false">Quezon</string>
+    <string name="menu_arrays_Rizal" translatable="false">Rizal</string>
+    <string name="menu_arrays_Marinduque" translatable="false">Marinduque</string>
+    <string name="menu_arrays_Occidental_Mindoro" translatable="false">Occidental Mindoro</string>
+    <string name="menu_arrays_Oriental_Mindoro" translatable="false">Oriental Mindoro</string>
+    <string name="menu_arrays_Palawan" translatable="false">Palawan</string>
+    <string name="menu_arrays_Puerto_Princesa" translatable="false">Puerto Princesa</string>
+    <string name="menu_arrays_Romblon" translatable="false">Romblon</string>
+    <string name="menu_arrays_Albay" translatable="false">Albay</string>
+    <string name="menu_arrays_Camarines_Sur" translatable="false">Camarines Sur</string>
+    <string name="menu_arrays_Camarines_Norte" translatable="false">Camarines Norte</string>
+    <string name="menu_arrays_Catanduanes" translatable="false">Catanduanes</string>
+    <string name="menu_arrays_Masbata" translatable="false">Masbata</string>
+    <string name="menu_arrays_Naga" translatable="false">Naga</string>
+    <string name="menu_arrays_Sorsogon" translatable="false">Sorsogon</string>
+    <string name="menu_arrays_Aklan" translatable="false">Aklan</string>
+    <string name="menu_arrays_Antique" translatable="false">Antique</string>
+    <string name="menu_arrays_Bacolod" translatable="false">Bacolod</string>
+    <string name="menu_arrays_Capiz" translatable="false">Capiz</string>
+    <string name="menu_arrays_Guimaras" translatable="false">Guimaras</string>
+    <string name="menu_arrays_Iloilo" translatable="false">Iloilo</string>
+    <string name="menu_arrays_Iloilo_City" translatable="false">Iloilo City</string>
+    <string name="menu_arrays_Negros_Occidental" translatable="false">Negros Occidental</string>
+    <string name="menu_arrays_Bohol" translatable="false">Bohol</string>
+    <string name="menu_arrays_Cebu" translatable="false">Cebu</string>
+    <string name="menu_arrays_Cebu_City" translatable="false">Cebu City</string>
+    <string name="menu_arrays_Lapu_Lapu" translatable="false">Lapu Lapu</string>
+    <string name="menu_arrays_Negros_Oriental" translatable="false">Negros Oriental</string>
+    <string name="menu_arrays_Siquijor" translatable="false">Siquijor</string>
+    <string name="menu_arrays_Biliran" translatable="false">Biliran</string>
+    <string name="menu_arrays_Eastern_Samar" translatable="false">Eastern Samar</string>
+    <string name="menu_arrays_Leyte" translatable="false">Leyte</string>
+    <string name="menu_arrays_Northern_Samar" translatable="false">Northern Samar</string>
+    <string name="menu_arrays_Ormoc" translatable="false">Ormoc</string>
+    <string name="menu_arrays_Samar" translatable="false">Samar</string>
+    <string name="menu_arrays_Southern_Leyte" translatable="false">Southern Leyte</string>
+    <string name="menu_arrays_Tacloban" translatable="false">Tacloban</string>
+    <string name="menu_arrays_Isabela_City" translatable="false">Isabela City</string>
+    <string name="menu_arrays_Zamboanga_City" translatable="false">Zamboanga City</string>
+    <string name="menu_arrays_Zamboange_del_Norte" translatable="false">Zamboange del Norte</string>
+    <string name="menu_arrays_Zamboange_del_Sur" translatable="false">Zamboange del Sur</string>
+    <string name="menu_arrays_Zamboange_Sibugay" translatable="false">Zamboange Sibugay</string>
+    <string name="menu_arrays_Bukidnon" translatable="false">Bukidnon</string>
+    <string name="menu_arrays_Cagayan_de_Oro" translatable="false">Cagayan de Oro</string>
+    <string name="menu_arrays_Camiguin" translatable="false">Camiguin</string>
+    <string name="menu_arrays_Iligan" translatable="false">Iligan</string>
+    <string name="menu_arrays_Lanao_del_Norte" translatable="false">Lanao del Norte</string>
+    <string name="menu_arrays_Misamis_Occidental" translatable="false">Misamis Occidental</string>
+    <string name="menu_arrays_Misamis_Oriental" translatable="false">Misamis Oriental</string>
+    <string name="menu_arrays_Compostela_Valley" translatable="false">Compostela Valley</string>
+    <string name="menu_arrays_Davao_City" translatable="false">Davao City</string>
+    <string name="menu_arrays_Davao_del_Norte" translatable="false">Davao del Norte</string>
+    <string name="menu_arrays_Davao_del_Sur" translatable="false">Davao del Sur</string>
+    <string name="menu_arrays_Davao_Oriental" translatable="false">Davao Oriental</string>
+    <string name="menu_arrays_Cotabato" translatable="false">Cotabato</string>
+    <string name="menu_arrays_Cotabato_City" translatable="false">Cotabato City</string>
+    <string name="menu_arrays_General_Santos" translatable="false">General Santos</string>
+    <string name="menu_arrays_Saranggani" translatable="false">Saranggani</string>
+    <string name="menu_arrays_South_Cotabato" translatable="false">South Cotabato</string>
+    <string name="menu_arrays_Sultan_Kudarata" translatable="false">Sultan Kudarata</string>
+    <string name="menu_arrays_Augusan_del_Norte" translatable="false">Augusan del Norte</string>
+    <string name="menu_arrays_Augusan_del_Sur" translatable="false">Augusan del Sur</string>
+    <string name="menu_arrays_Butuan" translatable="false">Butuan</string>
+    <string name="menu_arrays_Dinagat_Islands" translatable="false">Dinagat Islands</string>
+    <string name="menu_arrays_Surigao_del_Notre" translatable="false">Surigao del Notre</string>
+    <string name="menu_arrays_Surigao_del_Sur" translatable="false">Surigao del Sur</string>
+    <string name="menu_arrays_Basilan" translatable="false">Basilan</string>
+    <string name="menu_arrays_Lanao_del_Sur" translatable="false">Lanao del Sur</string>
+    <string name="menu_arrays_Maguindanao" translatable="false">Maguindanao</string>
+    <string name="menu_arrays_Sulu" translatable="false">Sulu</string>
+    <string name="menu_arrays_Tawi_Tawi" translatable="false">Tawi-Tawi</string>
+    <string name="menu_arrays_Irish" translatable="false">Irish</string>
+    <!-- The option of digital teletext language. It means used default audio language. [CHAR LIMIT=60] -->
+    <string name="menu_arrays_Original_Audio">Original Audio</string>
+    <string name="menu_arrays_Original_Version">Original Version</string>
+
+    <!-- The label of signal quality level. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Good">Good</string>
+    <!-- The label of signal quality level. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Poor">Poor</string>
+
+    <string name="menu_arrays_BG" translatable="false"> B/G</string>
+    <string name="menu_arrays_A2_BG" translatable="false"> A2 B/G</string>
+    <string name="menu_arrays_I" translatable="false"> I</string>
+    <string name="menu_arrays_DK" translatable="false"> D/K</string>
+    <string name="menu_arrays_A2_DK" translatable="false"> A2 D/K</string>
+    <string name="menu_arrays_A2_DK1" translatable="false"> A2 D/K1</string>
+    <string name="menu_arrays_A2_DK2" translatable="false"> A2 D/K2</string>
+    <string name="menu_arrays_M" translatable="false"> M</string>
+    <string name="menu_arrays_L" translatable="false"> L</string>
+    <string name="menu_arrays_L1" translatable="false"> L\&#039;</string>
+    <string name="menu_arrays_PAL" translatable="false"> PAL</string>
+    <string name="menu_arrays_SECAM" translatable="false"> SECAM</string>
+    <string name="menu_arrays_NTSC" translatable="false"> NTSC</string>
+    <string name="menu_arrays_16QAM" translatable="false"> 16QAM</string>
+    <string name="menu_arrays_32QAM" translatable="false"> 32QAM</string>
+    <string name="menu_arrays_64QAM" translatable="false"> 64QAM</string>
+    <string name="menu_arrays_128QAM" translatable="false"> 128QAM</string>
+    <string name="menu_arrays_256QAM" translatable="false"> 256QAM</string>
+
+    <!-- The option of scan type in DVBS MDU scan page. [CHAR LIMIT=NONE] -->
+    <string name="menu_arrays_Universal" translatable="false"> Universal</string>
+    <string name="menu_arrays_MDU1" translatable="false"> MDU 1</string>
+    <string name="menu_arrays_MDU2" translatable="false"> MDU 2</string>
+    <string name="menu_arrays_MDU3" translatable="false"> MDU 3</string>
+    <string name="menu_arrays_MDU4" translatable="false"> MDU 4</string>
+    <string name="menu_arrays_MDU5" translatable="false"> MDU 5</string>
+
+    <!-- The option of scan frequency plan in US region. [CHAR LIMIT=NONE] -->
+    <string name="menu_arrays_STD" translatable="false">STD</string>
+    <string name="menu_arrays_IRC" translatable="false">IRC</string>
+    <string name="menu_arrays_HRC" translatable="false">HRC</string>
+
+    <!-- The option of scan modulation. [CHAR LIMIT=NONE] -->
+    <string name="menu_arrays_QAM64" translatable="false"> QAM64</string>
+    <string name="menu_arrays_QAM256" translatable="false"> QAM256</string>
+
+    <!-- The option of scan mode in US region. It means will scan ATV and DTV. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Analog_Digital"> Analog/Digital</string>
+    <!-- The option of scan mode in US region. It means will scan ATV only. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Analog"> Analog</string>
+    <!-- The option of scan mode in US region. It means will scan DTV only. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Digital"> Digital</string>
+
+    <!-- The option in channel edit page. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Channel_Info">Channel Info</string>
+
+    <!-- The option in channel edit page. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Swap">Swap</string>
+
+    <string name="menu_arrays_simpleChinise" translatable="false">简体中文</string>
+
+    <!-- The option of signal level in digital scan page. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_poor">poor</string>
+
+    <!-- The option of signal level in digital scan page. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_good">good</string>
+
+    <string name="menu_arrays_1" translatable="false">1</string>
+
+    <!-- The option of age rating when has no age rating be set. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_None">None</string>
+
+    <!-- The option of display analog subtitle when audio is on mute state.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_Mute">Mute</string>
+
+    <!-- Option of display mode(screen mode). [CHAR LIMIT=20] -->
+    <string name="menu_arrays_Auto">Auto</string>
+
+    <!-- Option of display mode(screen mode). [CHAR LIMIT=20] -->
+    <string name="menu_arrays_normal">Normal</string>
+
+    <!-- Option of display mode(screen mode). [CHAR LIMIT=20] -->
+    <string name="menu_arrays_Zoom">Zoom</string>
+
+    <string name="menu_arrays_Letterbox" translatable="false">Letterbox</string>
+    <string name="menu_arrays_Panorama" translatable="false">Panorama</string>
+    <string name="menu_arrays_Dot_by_Dot" translatable="false">Dot by Dot</string>
+
+    <!-- The option of display caption when audio is on mute state.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_On_mute">On mute</string>
+
+    <!-- The option of analog channel caption language.[CHAR LIMIT=NONE] -->
+    <string name="menu_arrays_CC1" translatable="false">CC1</string>
+    <string name="menu_arrays_CC2" translatable="false">CC2</string>
+    <string name="menu_arrays_CC3" translatable="false">CC3</string>
+    <string name="menu_arrays_CC4" translatable="false">CC4</string>
+    <string name="menu_arrays_TEXT1" translatable="false">TEXT1</string>
+    <string name="menu_arrays_TEXT2" translatable="false">TEXT2</string>
+    <string name="menu_arrays_TEXT3" translatable="false">TEXT3</string>
+    <string name="menu_arrays_TEXT4" translatable="false">TEXT4</string>
+
+    <!-- The option of digital channel caption language in non SA region.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_Service_x">Service<xliff:g id="Service_x" example="1">%1$d</xliff:g></string>
+
+    <!-- The option of digital channel caption language in SA region.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_Language_x">Language<xliff:g id="Language_x" example="1">%1$d</xliff:g></string>
+
+    <!-- The option of digital channel caption size indicating caption size will be default from broadcast. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_As_Broadcaster">As Broadcaster</string>
+
+    <!-- The option of font size.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_Medium">Medium</string>
+    <string name="menu_arrays_Small">Small</string>
+    <string name="menu_arrays_Large">Large</string>
+
+    <!-- The option of font stype. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Style_x">Style<xliff:g id="Style_x" example="1">%1$d</xliff:g></string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Black">Black</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_White">White</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Green">Green</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Blue">Blue</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Red">Red</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Cyan">Cyan</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Yellow">Yellow</string>
+
+    <!-- The option of font color [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Magenta">Magenta</string>
+
+    <!-- The option of font opacity [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Solid">Solid</string>
+
+    <!-- The option of font opacity [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Translucent">Translucent</string>
+
+    <!-- The option of font opacity [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Transparent">Transparent</string>
+
+    <!-- Age rating settings. [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Below_xx">Below <xliff:g id="Below_xx" example="60">%1$d</xliff:g></string>
+
+    <string name="menu_arrays_3" translatable="false">3</string>
+    <string name="menu_arrays_4" translatable="false">4</string>
+    <string name="menu_arrays_5" translatable="false">5</string>
+    <string name="menu_arrays_6" translatable="false">6</string>
+    <string name="menu_arrays_7" translatable="false">7</string>
+    <string name="menu_arrays_8" translatable="false">8</string>
+    <string name="menu_arrays_9" translatable="false">9</string>
+    <string name="menu_arrays_10" translatable="false">10</string>
+    <string name="menu_arrays_11" translatable="false">11</string>
+    <string name="menu_arrays_12" translatable="false">12</string>
+    <string name="menu_arrays_13" translatable="false">13</string>
+    <string name="menu_arrays_14" translatable="false">14</string>
+    <string name="menu_arrays_15" translatable="false">15</string>
+    <string name="menu_arrays_16" translatable="false">16</string>
+    <string name="menu_arrays_17" translatable="false">17</string>
+    <string name="menu_arrays_18" translatable="false">18</string>
+    <string name="menu_arrays_" translatable="false"></string>
+    <!-- General audiences. Nothing that would offend parents for viewing by children.[CHAR LIMIT=30] -->
+    <string name="menu_arrays_General">General</string>
+    <!-- Option of program event recommended for adult, May contain some material parents might not like for their young children. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Parental_Guidance">Parental Guidance</string>
+    <!-- Option of program event recommended for aged 13 and above. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Parental_Guidance13">Parental Guidance 13</string>
+    <!-- Option of program event recommended for aged 16 and above. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_No_Children_Under16">No Children under 16</string>
+    <!-- Option of program event recommended for aged 18 and above. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Mature18">Mature 18</string>
+    <!-- Option of program event recommended for aged 21 and above. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Restricted21">Restricted 21</string>
+    <!-- Option of program event recommended for aged 3 to 5. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Kid_3_5_years">Kids Aged 3-5</string>
+    <!-- Option of program event recommended for aged 6 to 12. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Kid_6_12_years">Kids Aged 6-12</string>
+    <string name="menu_arrays_PG13" translatable="false">PG13</string>
+    <string name="menu_arrays_PG18" translatable="false">PG18</string>
+    <!-- Option of a TV content rating of DVB for adult [CHAR LIMIT=30] -->
+    <string name="menu_arrays_Adult">Adult</string>
+    <string name="menu_arrays_PG_10" translatable="false">PG-10</string>
+    <string name="menu_arrays_PG_13" translatable="false">PG-13</string>
+    <string name="menu_arrays_R_18" translatable="false">R-18</string>
+    <!-- Option of no block any program event, recommended for all ages. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_No_Block">No Block</string>
+    <!-- Option of block program with R and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_R_and_above">Block R and Above</string>
+    <!-- Option of block program with AV and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_AV_and_above">Block AV and Above</string>
+    <!-- Option of block program with MA and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_MA_and_above">Block MA and Above</string>
+    <!-- Option of block program with M and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_M_and_above">Block M and Above</string>
+    <!-- Option of block program with PG and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_PG_and_above">Block PG and Above</string>
+    <!-- Option of block program with G and above rating. [CHAR LIMIT=50] -->
+    <string name="menu_arrays_Block_G_and_above">Block G and Above</string>
+
+    <!-- TV content rating system strings for AR TV. These strings are from Wikipedia.
+         See http://en.wikipedia.org/wiki/Television_content_rating_systems -->
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain drugs.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Drugs">Drugs</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Violence">Violence</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain sex.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Sex">Sex</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence & Drugs.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Violence_Drugs">Violence &amp; Drugs</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain Sex & Drugs.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Sex_Drugs">Sex &amp; Drugs</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence & Sex.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Violence_Sex">Violence &amp;  Sex</string>
+    <!-- Appears within the rating options list, when the user select this option, will lock or unlock the TV programs. The TV programs may contain violence & Sex & Drugs.[CHAR LIMIT = 50] -->
+    <string name="menu_arrays_Violence_Sex_Drugs">Violence &amp; Sex &amp; Drugs</string>
+
+    <!-- The lable of frequency by daily.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Daily">Daily</string>
+    <!-- The lable of frequency only one time.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Once">Once</string>
+
+    <string name="menu_arrays_ENGLISH" translatable="false">ENGLISH</string>
+    <string name="menu_arrays_ESTONIAN" translatable="false">ESTONIAN</string>
+    <string name="menu_arrays_FINNISH" translatable="false">FINNISH</string>
+    <string name="menu_arrays_FRENCH" translatable="false">FRENCH</string>
+    <string name="menu_arrays_GAELIC" translatable="false">GAELIC</string>
+    <string name="menu_arrays_IRISH" translatable="false">IRISH</string>
+    <string name="menu_arrays_GALICIAN" translatable="false">GALICIAN</string>
+    <string name="menu_arrays_GERMAN" translatable="false">GERMAN</string>
+    <string name="menu_arrays_GREEK" translatable="false">GREEK</string>
+    <string name="menu_arrays_HINDI" translatable="false">HINDI</string>
+    <string name="menu_arrays_HUNGARIAN" translatable="false">HUNGARIAN</string>
+    <string name="menu_arrays_ITALIAN" translatable="false">ITALIAN</string>
+    <string name="menu_arrays_ICELANDIC" translatable="false">ICELANDIC</string>
+    <string name="menu_arrays_JAPANESE" translatable="false">JAPANESE</string>
+    <string name="menu_arrays_KOREAN" translatable="false">KOREAN</string>
+    <string name="menu_arrays_MANDARIN" translatable="false">MANDARIN</string>
+    <string name="menu_arrays_MAORI" translatable="false">MAORI</string>
+    <string name="menu_arrays_NORWEGIAN" translatable="false">NORWEGIAN</string>
+    <string name="menu_arrays_POLISH" translatable="false">POLISH</string>
+    <string name="menu_arrays_PORTUGUESE" translatable="false">PORTUGUESE</string>
+    <string name="menu_arrays_ROMANIAN" translatable="false">ROMANIAN</string>
+    <string name="menu_arrays_RUSSIAN" translatable="false">RUSSIAN</string>
+    <string name="menu_arrays_SAMI" translatable="false">SAMI</string>
+    <string name="menu_arrays_SERBIAN" translatable="false">SERBIAN</string>
+    <string name="menu_arrays_SLOVAK" translatable="false">SLOVAK</string>
+    <string name="menu_arrays_SLOVENIAN" translatable="false">SLOVENIAN</string>
+    <string name="menu_arrays_SPANISH" translatable="false">SPANISH</string>
+    <string name="menu_arrays_SWEDISH" translatable="false">SWEDISH</string>
+    <string name="menu_arrays_TURKISH" translatable="false">TURKISH</string>
+    <string name="menu_arrays_WELSH" translatable="false">WELSH</string>
+    <string name="menu_arrays_ORIGINALAUDIO" translatable="false">ORIGINALAUDIO</string>
+    <string name="menu_arrays_NARRATIVE" translatable="false">NARRATIVE</string>
+    <string name="menu_arrays_UNDEFINED" translatable="false">UNDEFINED</string>
+    <string name="menu_arrays_BASQUE" translatable="false">BASQUE</string>
+    <string name="menu_arrays_BULGARIAN" translatable="false">BULGARIAN</string>
+    <string name="menu_arrays_CANTONESE" translatable="false">CANTONESE</string>
+    <string name="menu_arrays_CATALAN" translatable="false">CATALAN</string>
+    <string name="menu_arrays_CROATIAN" translatable="false">CROATIAN</string>
+    <string name="menu_arrays_CZECH" translatable="false">CZECH</string>
+    <string name="menu_arrays_DANISH" translatable="false">DANISH</string>
+    <string name="menu_arrays_DUTCH" translatable="false">DUTCH</string>
+    <string name="menu_arrays_WEST_EUR" translatable="false">WEST EUR</string>
+    <string name="menu_arrays_EAST_EUR" translatable="false">EAST EUR</string>
+    <string name="menu_arrays_RUSSIA" translatable="false">RUSSIA</string>
+    <string name="menu_arrays_RUSSIA_2" translatable="false">RUSSIA_2</string>
+    <string name="menu_arrays_Turkey" translatable="false">Turkey</string>
+    <string name="menu_arrays_Arab_Hbrw" translatable="false">Arab/Hbrw</string>
+    <string name="menu_arrays_Farsian" translatable="false">Farsian</string>
+    <string name="menu_arrays_Arab" translatable="false">Arab</string>
+    <string name="menu_arrays_BYELORUSSIAN" translatable="false">BYELORUSSIAN</string>
+    <string name="menu_arrays_WESTEUROPE" translatable="false">WESTEUROPE</string>
+    <string name="menu_arrays_EASTEUROPE" translatable="false">EASTEUROPE</string>
+    <string name="menu_arrays_TURKEY" translatable="false">TURKEY</string>
+    <string name="menu_arrays_ARAB_HBRW" translatable="false">ARAB/HBRW</string>
+    <string name="menu_arrays_FARSIAN" translatable="false">FARSIAN</string>
+    <string name="menu_arrays_ARAB" translatable="false">ARAB</string>
+
+    <!-- The option of teletext presentation level [CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Level1.5">Level 1.5</string>
+
+    <!-- The option of teletext presentation level [CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Level2.5">Level 2.5</string>
+
+    <string name="menu_arrays_Eastern_Time" translatable="false">Eastern Time</string>
+    <string name="menu_arrays_Hawaii" translatable="false">Hawaii</string>
+    <string name="menu_arrays_Alaska" translatable="false">Alaska</string>
+    <string name="menu_arrays_Pacific_Time" translatable="false">Pacific Time</string>
+    <string name="menu_arrays_Arizona" translatable="false">Arizona</string>
+    <string name="menu_arrays_Mountain_Time" translatable="false">Mountain Time</string>
+    <string name="menu_arrays_Central_Time" translatable="false">Central Time</string>
+    <string name="menu_arrays_Indiana" translatable="false">Indiana</string>
+
+    <string name="menu_arrays_America_New_York" translatable="false">America/New_York</string>
+    <string name="menu_arrays_Pacific_Honolulu" translatable="false">Pacific/Honolulu</string>
+    <string name="menu_arrays_America_Anchorage" translatable="false">America/Anchorage</string>
+    <string name="menu_arrays_America_Los_Angeles" translatable="false">America/Los_Angeles</string>
+    <string name="menu_arrays_America_Phoenix" translatable="false">America/Phoenix</string>
+    <string name="menu_arrays_America_Denver" translatable="false">America/Denver</string>
+    <string name="menu_arrays_America_Chicago" translatable="false">America/Chicago</string>
+    <string name="menu_arrays_5_1" translatable="false">-5</string>
+    <string name="menu_arrays_10_1" translatable="false">-10</string>
+    <string name="menu_arrays_9_1" translatable="false">-9</string>
+    <string name="menu_arrays_8_1" translatable="false">-8</string>
+    <string name="menu_arrays_7_1" translatable="false">-7</string>
+    <string name="menu_arrays_6_1" translatable="false">-6</string>
+
+
+    <string name="menu_arrays_GMT_12_00" translatable="false">GMT-12:00</string>
+    <string name="menu_arrays_GMT_11_00" translatable="false">GMT-11:00</string>
+    <string name="menu_arrays_GMT_10_00" translatable="false">GMT-10:00</string>
+    <string name="menu_arrays_GMT_9_00" translatable="false">GMT-9:00</string>
+    <string name="menu_arrays_GMT_8_00" translatable="false">GMT-8:00</string>
+    <string name="menu_arrays_GMT_7_00" translatable="false">GMT-7:00</string>
+    <string name="menu_arrays_GMT_6_00" translatable="false">GMT-6:00</string>
+    <string name="menu_arrays_GMT_5_00" translatable="false">GMT-5:00</string>
+    <string name="menu_arrays_GMT_4_00" translatable="false">GMT-4:00</string>
+    <string name="menu_arrays_GMT_3_30" translatable="false">GMT-3:30</string>
+    <string name="menu_arrays_GMT_3_00" translatable="false">GMT-3:00</string>
+    <string name="menu_arrays_GMT_2_00" translatable="false">GMT-2:00</string>
+    <string name="menu_arrays_GMT_1_00" translatable="false">GMT-1:00</string>
+    <string name="menu_arrays_GMT0_00" translatable="false">GMT0:00</string>
+    <string name="menu_arrays_GMT1_00" translatable="false">GMT1:00</string>
+    <string name="menu_arrays_GMT2_00" translatable="false">GMT2:00</string>
+    <string name="menu_arrays_GMT3_00" translatable="false">GMT3:00</string>
+    <string name="menu_arrays_GMT3_30" translatable="false">GMT3:30</string>
+    <string name="menu_arrays_GMT4_00" translatable="false">GMT4:00</string>
+    <string name="menu_arrays_GMT4_30" translatable="false">GMT4:30</string>
+    <string name="menu_arrays_GMT5_00" translatable="false">GMT5:00</string>
+    <string name="menu_arrays_GMT5_30" translatable="false">GMT5:30</string>
+    <string name="menu_arrays_GMT5_45" translatable="false">GMT5:45</string>
+    <string name="menu_arrays_GMT6_00" translatable="false">GMT6:00</string>
+    <string name="menu_arrays_GMT6_30" translatable="false">GMT6:30</string>
+    <string name="menu_arrays_GMT7_00" translatable="false">GMT7:00</string>
+    <string name="menu_arrays_GMT8_00" translatable="false">GMT8:00</string>
+    <string name="menu_arrays_GMT9_00" translatable="false">GMT9:00</string>
+    <string name="menu_arrays_GMT9_30" translatable="false">GMT9:30</string>
+    <string name="menu_arrays_GMT10_00" translatable="false">GMT10:00</string>
+    <string name="menu_arrays_GMT11_00" translatable="false">GMT11:00</string>
+    <string name="menu_arrays_GMT12_00" translatable="false">GMT12:00</string>
+    <string name="menu_arrays_GMT12_45" translatable="false">GMT12:45</string>
+    <string name="menu_arrays_GMT13_00" translatable="false">GMT13:00</string>
+
+
+    <string name="menu_arrays_Midway_Island_GMT_11" translatable="false">Midway Island/GMT-11:00</string>
+    <string name="menu_arrays_Hawaii_GMT_10" translatable="false">Hawaii/GMT-10:00</string>
+    <string name="menu_arrays_Alaska_GMT_8" translatable="false">Alaska/GMT-8:00</string>
+    <string name="menu_arrays_Pacific_Time_GMT_7" translatable="false">Pacific Time/GMT-7:00</string>
+    <string name="menu_arrays_Tijuana_GMT_7" translatable="false">Tijuana/GMT-7:00</string>
+    <string name="menu_arrays_Arizona_GMT_7" translatable="false">Arizona/GMT-7:00</string>
+    <string name="menu_arrays_Chihuahua_GMT_6" translatable="false">Chihuahua/GMT-6:00</string>
+    <string name="menu_arrays_Mountain_Time_GMT_6" translatable="false">Mountain Time/GMT-6:00</string>
+    <string name="menu_arrays_Central_America_GMT_6" translatable="false">Central America/GMT-6:00</string>
+    <string name="menu_arrays_Saskatchewan_GMT_6" translatable="false">Saskatchewan/GMT-6:00</string>
+    <string name="menu_arrays_Central_Time_GMT_5" translatable="false">Central Time/GMT-5:00</string>
+    <string name="menu_arrays_Mexico_City_GMT_5" translatable="false">Mexico City/GMT-5:00</string>
+    <string name="menu_arrays_Bogota_GMT_5" translatable="false">Bogota/GMT-5:00</string>
+    <string name="menu_arrays_Venezuela_GMT_430" translatable="false">Venezuela/GMT-4:30</string>
+    <string name="menu_arrays_Eastern_Time_GMT_4" translatable="false">Eastern Time/GMT-4:00</string>
+    <string name="menu_arrays_Atlantic_Time_GMT_4" translatable="false">Atlantic Time/GMT-4:00</string>
+    <string name="menu_arrays_Manaus_GMT_4" translatable="false">Manaus/GMT-4:00</string>
+    <string name="menu_arrays_Santiago_GMT_4" translatable="false">Santiago/GMT-4:00</string>
+    <string name="menu_arrays_Brasilia_GMT_3" translatable="false">Brasilia/GMT-3:00</string>
+    <string name="menu_arrays_Buenos_Aires_GMT_3" translatable="false">Buenos Aires/GMT-3:00</string>
+    <string name="menu_arrays_Montevideo_GMT_3" translatable="false">Montevideo/GMT-3:00</string>
+    <string name="menu_arrays_Newfoundland_GMT_230" translatable="false">Newfoundland/GMT-2:30</string>
+    <string name="menu_arrays_Greenland_GMT_2" translatable="false">Greenland/GMT-2:00</string>
+    <string name="menu_arrays_Mid_Atlantic_GMT_2" translatable="false">Mid-Atlantic/GMT-2:00</string>
+    <string name="menu_arrays_Cape_Verde_Islands_GMT_1" translatable="false">Cape Verde Islands/GMT-1:00</string>
+    <string name="menu_arrays_Azores_GMT0" translatable="false">Azores/GMT+0:00</string>
+    <string name="menu_arrays_Casablanca_GMT0" translatable="false">Casablanca/GMT+0:00</string>
+    <string name="menu_arrays_London_Dublin_GMT1" translatable="false">London, Dublin/GMT+1:00</string>
+    <string name="menu_arrays_Windhoek_GMT1" translatable="false">Windhoek/GMT+1:00</string>
+    <string name="menu_arrays_W_Africa_Time_GMT1" translatable="false">W. Africa Time/GMT+1:00</string>
+    <string name="menu_arrays_Amsterdam_Berlin_GMT2" translatable="false">Amsterdam, Berlin/GMT+2:00</string>
+    <string name="menu_arrays_Belgrade_GMT2" translatable="false">Belgrade/GMT+2:00</string>
+    <string name="menu_arrays_Brussels_GMT2" translatable="false">Brussels/GMT+2:00</string>
+    <string name="menu_arrays_Sarajevo_GMT2" translatable="false">Sarajevo/GMT+2:00</string>
+    <string name="menu_arrays_Harare_GMT2" translatable="false">Harare/GMT+2:00</string>
+    <string name="menu_arrays_Amman_Jordan_GMT3" translatable="false">Amman, Jordan/GMT+3:00</string>
+    <string name="menu_arrays_Athens_Istanbul_GMT3" translatable="false">Athens, Istanbul/GMT+3:00</string>
+    <string name="menu_arrays_Beirut_Lebanon_GMT3" translatable="false">Beirut, Lebanon/GMT+3:00</string>
+    <string name="menu_arrays_Cairo_GMT3" translatable="false">Cairo/GMT+3:00</string>
+    <string name="menu_arrays_Helsinki_GMT3" translatable="false">Helsinki/GMT+3:00</string>
+    <string name="menu_arrays_Jerusalem_GMT3" translatable="false">Jerusalem/GMT+3:00</string>
+    <string name="menu_arrays_Minsk_GMT3" translatable="false">Minsk/GMT+3:00</string>
+    <string name="menu_arrays_Kuwait_GMT3" translatable="false">Kuwait/GMT+3:00</string>
+    <string name="menu_arrays_Baghdad_GMT3" translatable="false">Baghdad/GMT+3:00</string>
+    <string name="menu_arrays_Nairobi_GMT3" translatable="false">Nairobi/GMT+3:00</string>
+    <string name="menu_arrays_Moscow_GMT4" translatable="false">Moscow/GMT+4:00</string>
+    <string name="menu_arrays_Tbilisi_GMT4" translatable="false">Tbilisi/GMT+4:00</string>
+    <string name="menu_arrays_Dubai_GMT4" translatable="false">Dubai/GMT+4:00</string>
+    <string name="menu_arrays_Kabul_GMT430" translatable="false">Kabul/GMT+4:30</string>
+    <string name="menu_arrays_Tehran_GMT430" translatable="false">Tehran/GMT+4:30</string>
+    <string name="menu_arrays_Baku_GMT5" translatable="false">Baku/GMT+5:00</string>
+    <string name="menu_arrays_Yerevan_GMT5" translatable="false">Yerevan/GMT+5:00</string>
+    <string name="menu_arrays_Uralsk_GMT5" translatable="false">Uralsk/GMT+5:00</string>
+    <string name="menu_arrays_Kolkata_GMT530" translatable="false">Kolkata/GMT+5:30</string>
+    <string name="menu_arrays_Sri_Lanka_GMT530" translatable="false">Sri Lanka/GMT+5:30</string>
+    <string name="menu_arrays_Kathmandu_GMT545" translatable="false">Kathmandu/GMT+5:45</string>
+    <string name="menu_arrays_Islamabad_Karachi_GMT6" translatable="false">Islamabad, Karachi/GMT+6:00</string>
+    <string name="menu_arrays_Yekaterinburg_GMT6" translatable="false">Yekaterinburg/GMT+6:00</string>
+    <string name="menu_arrays_Astana_GMT6" translatable="false">Astana/GMT+6:00</string>
+    <string name="menu_arrays_Yangon_GMT630" translatable="false">Yangon/GMT+6:30</string>
+    <string name="menu_arrays_Bangkok_GMT7" translatable="false">Bangkok/GMT+7:00</string>
+    <string name="menu_arrays_Krasnoyarsk_GMT8" translatable="false">Krasnoyarsk/GMT+8:00</string>
+    <string name="menu_arrays_Beijing_GMT8" translatable="false">Beijing/GMT+8:00</string>
+    <string name="menu_arrays_Hong_Kong_GMT8" translatable="false">Hong Kong/GMT+8:00</string>
+    <string name="menu_arrays_Kuala_Lumpur_GMT8" translatable="false">Kuala Lumpur/GMT+8:00</string>
+    <string name="menu_arrays_Perth_GMT8" translatable="false">Perth/GMT+8:00</string>
+    <string name="menu_arrays_Taipei_GMT8" translatable="false">Taipei/GMT+8:00</string>
+    <string name="menu_arrays_Seoul_GMT9" translatable="false">Seoul/GMT+9:00</string>
+    <string name="menu_arrays_Irkutsk_GMT9" translatable="false">Irkutsk/GMT+9:00</string>
+    <string name="menu_arrays_Tokyo_Osaka_GMT9" translatable="false">Tokyo, Osaka/GMT+9:00</string>
+    <string name="menu_arrays_Adelaide_GMT930" translatable="false">Adelaide/GMT+9:30</string>
+    <string name="menu_arrays_Darwin_GMT930" translatable="false">Darwin/GMT+9:30</string>
+    <string name="menu_arrays_Yakutsk_GMT10" translatable="false">Yakutsk/GMT+10:00</string>
+    <string name="menu_arrays_Brisbane_GMT10" translatable="false">Brisbane/GMT+10:00</string>
+    <string name="menu_arrays_Hobart_GMT10" translatable="false">Hobart/GMT+10:00</string>
+    <string name="menu_arrays_Sydney_Canberra_GMT10" translatable="false">Sydney, Canberra/GMT+10:00</string>
+    <string name="menu_arrays_Guam_GMT10" translatable="false">Guam/GMT+10:00</string>
+    <string name="menu_arrays_Vladivostok_GMT11" translatable="false">Vladivostok/GMT+11:00</string>
+    <string name="menu_arrays_Marshall_Islands_GMT12" translatable="false">Marshall Islands/GMT+12:00</string>
+    <string name="menu_arrays_Magadan_GMT12" translatable="false">Magadan/GMT+12:00</string>
+    <string name="menu_arrays_Auckland_GMT12" translatable="false">Auckland/GMT+12:00</string>
+    <string name="menu_arrays_Fiji_GMT12" translatable="false">Fiji/GMT+12:00</string>
+    <string name="menu_arrays_Tonga_GMT13" translatable="false">Tonga/GMT+13:00</string>
+    <string name="menu_arrays_America_St_Johns" translatable="false">America/St_Johns</string>
+    <string name="menu_arrays_Asia_Amman" translatable="false">Asia/Amman</string>
+    <string name="menu_arrays_Asia_Almaty" translatable="false">Asia/Almaty</string>
+    <string name="menu_arrays_Asia_Yakutsk" translatable="false">Asia/Yakutsk</string>
+    <string name="menu_arrays_Asia_Vladivostok" translatable="false">Asia/Vladivostok</string>
+    <string name="menu_arrays_Pacific_Tongatapu" translatable="false">Pacific/Tongatapu</string>
+
+    <!-- The option value for the length of time selected.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Minutes_xx"><xliff:g id="menu_xx_minutes" example="20">%1$d</xliff:g> Minutes</string>
+
+    <!-- Please refer menu_setup_power_on_channel_mode -->
+    <string name="menu_arrays_Select_Mode">Select Mode</string>
+    <!-- Please refer menu_setup_power_on_show_channels -->
+    <string name="menu_arrays_Show_Channels">Show Channels</string>
+    <!-- The option of power on channel mode means last power on channel will be used [CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Last_Status">Last Status</string>
+    <!-- The option of power on channel mode means uses the user already selected channel when power on [CHAR LIMIT = 30]-->
+    <string name="menu_arrays_User_Select">User Select</string>
+
+    <string name="menu_arrays_4k420" translatable="false">4K@60Hz 4:2:0</string>
+    <string name="menu_arrays_4k444422" translatable="false">4K@60Hz 4:4:4/4:2:2</string>
+    <!-- Please refer menu_setup_biss_key_horizonal -->
+    <string name="menu_arrays_Horizonal">Horizontal</string>
+    <!-- Please refer menu_setup_biss_key_vertical -->
+    <string name="menu_arrays_Vertical">Vertical</string>
+    <string name="menu_arrays_0" translatable="false">0</string>
+
+    <!-- factory video -->
+    <string name="menu_arrays_Slow_Picture" translatable="false">Slow Picture</string>
+    <string name="menu_arrays_Action_Picture" translatable="false">Action Picture</string>
+    <string name="menu_arrays_Weak" translatable="false">Weak</string>
+    <string name="menu_arrays_Line" translatable="false">Line</string>
+
+    <string name="menu_arrays_RF" translatable="false">RF</string>
+    <string name="menu_arrays_20" translatable="false">20</string>
+    <string name="menu_arrays_30" translatable="false">30</string>
+    <string name="menu_arrays_40" translatable="false">40</string>
+    <string name="menu_arrays_50" translatable="false">50</string>
+    <string name="menu_arrays_60" translatable="false">60</string>
+    <string name="menu_arrays_70" translatable="false">70</string>
+    <string name="menu_arrays_80" translatable="false">80</string>
+    <string name="menu_arrays_90" translatable="false">90</string>
+    <string name="menu_arrays_100" translatable="false">100</string>
+    <string name="menu_arrays_7_8" translatable="false">7/8</string>
+    <string name="menu_arrays_3_4" translatable="false">3/4</string>
+    <string name="menu_arrays_5_8" translatable="false">5/8</string>
+    <string name="menu_arrays_1_2" translatable="false">1/2</string>
+    <string name="menu_arrays_3_8" translatable="false">3/8</string>
+    <string name="menu_arrays_1_4" translatable="false">1/4</string>
+    <string name="menu_arrays_1_8" translatable="false">1/8</string>
+
+    <!-- factory mode -->
+    <string name="menu_arrays_Long_Form" translatable="false">Long Form</string>
+    <string name="menu_arrays_Short_Form" translatable="false">Short Form</string>
+    <string name="menu_arrays_Both_Form" translatable="false">Both Forms</string>
+
+    <!-- The menu option item can be clicked enter to record schedule list.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Record">Record</string>
+    <!-- The menu option item can be clicked enter to reminder schedule list.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Reminder">Reminder</string>
+    <!-- The option of PVR/Timeshift repeat type.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Week">Week</string>
+
+    <!-- The option of DVBC channel scan type.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Full">Full</string>
+
+    <!-- The option of DVBC channel scan type.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Advance">Advanced</string>
+
+    <!-- The option of DVBC channel scan type.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Quick">Quick</string>
+
+    <!-- The option of country region ID.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Country_Region_ID_x">Country Region ID <xliff:g id="Country_Region_ID" example="1">%1$d</xliff:g></string>
+
+    <string name="menu_arrays_NSW_ACT" translatable="false">NSW/ACT</string>
+    <string name="menu_arrays_VIC" translatable="false">VIC</string>
+    <string name="menu_arrays_QLD" translatable="false">QLD</string>
+    <string name="menu_arrays_SA" translatable="false">SA</string>
+    <string name="menu_arrays_WA" translatable="false">WA</string>
+    <string name="menu_arrays_TAS" translatable="false">TAS</string>
+    <string name="menu_arrays_NT" translatable="false">NT</string>
+    <string name="menu_arrays_CAM" translatable="false">CAM</string>
+
+    <!-- The lable of frequency by daily.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Everyday">Everyday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Sunday">Sunday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Monday">Monday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Tuesday">Tuesday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Wednesday">Wednesday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Thursday">Thursday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Friday">Friday</string>
+    <!-- The label of the day in week.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Saturday">Saturday</string>
+
+    <!-- The label of the tuner mode for live TV signal.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Satellite">Satellite</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_All_channels">All channels</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Family_Kids">Family/Kids</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Sports">Sports</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Shopping">Shopping</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Movies">Movies</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Comedy">Comedy</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Travel">Travel</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Drama">Drama</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Education">Education</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Animal_Wildlife">Animal/Wildlife</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_News">News</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Gaming">Gaming</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Arts">Arts</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Entertainment">Entertainment</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Lifestyle">Lifestyle</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Music">Music</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Premier">Premier</string>
+
+    <!-- The event category strings to be displayed in the channel guide.[CHAR LIMIT = 30] -->
+    <string name="menu_arrays_Tech_Science">Tech/Science</string>
+
+    <!-- The option for channel scan type, it means that only scan the encrypted channels.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Only_Encrypted_Channels">Only Encrypted Channels</string>
+    <!-- The option for channel scan type, it means that only scan the free channels.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Only_Free_Channels">Only Free Channels</string>
+    <!-- The option for channel scan type, it means that only scan the digital channels.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Only_Digital_Channels">Only Digital Channels</string>
+    <!-- The option for channel scan type, it means that only scan the radio channels.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_Only_Radio_Channels">Only Radio Channels</string>
+
+    <!-- The option in power settings page for auto power off function.[CHAR LIMIT = 30]-->
+    <string name="menu_arrays_power_never">Never</string>
+    <string name="menu_arrays_power_x_hours"><xliff:g id="power_x_hours" example="1">%1$d</xliff:g> hours</string>
+
+    <!-- The option in power settings page for auto sleep function.[CHAR LIMIT = 30]-->
+    <string name="menu_string_power_setting">Auto Sleep</string>
+    <string name="menu_string_power_left_minite" translatable="false">5</string>
+    <string name="menu_string_power_four" translatable="false">4</string>
+    <string name="menu_string_power_six" translatable="false">6</string>
+    <string name="menu_string_power_eight" translatable="false">8</string>
+
+    <!-- The tips label of TV sleep.[CHAR LIMIT = 30]-->
+    <string name="menu_string_power_tips">Sleep Tips</string>
+    <!-- The prompt message when TV will go to power off after long time no action.[CHAR LIMIT = NONE]-->
+    <string name="menu_string_power_content">TV will sleep in five minutes,Do you want to let it sleep?</string>
+
+    <!-- Android toast message and informs users that is scanning now, please try later.[CHAR LIMIT = NONE] -->
+    <string name="menu_string_toast_scanning_background">The scan is doing in the background, Please try later</string>
+    <!-- Android toast message and informs users that the CW key can't be less than 16 when set it. '\' is escape character.[CHAR LIMIT = NONE] -->
+    <string name="menu_string_postal_code_toast_less_than16">cwkey can\'t be less than 16</string>
+    <!-- Android toast message and informs users that the postal code can't be empty when set it. '\' is escape character.[CHAR LIMIT = NONE] -->
+    <string name="menu_string_postal_code_toast_cannot_empty">Can\'t be empty!</string>
+    <!-- Android toast message and informs users that the postal code should be digits, others invalid when set it.[CHAR LIMIT = NONE] -->
+    <string name="menu_string_postal_code_toast_invalid_input">Invalid input!</string>
+
+    <!-- This string appears in the dowloaded RRT table for the items without any title.[CHAR LIMIT = 30]-->
+    <string name="menu_string_rrt5_none_title">No Text.</string>
+
+    <string name="menu_arrays_Malaysia" translatable="false">Malaysia</string>
+    <string name="menu_arrays_Fijian" translatable="false">Fijian</string>
+    <string name="menu_arrays_Khmer" translatable="false">Khmer</string>
+    <string name="menu_arrays_Burmese" translatable="false">Burmese</string>
+    <string name="menu_arrays_Sinhala" translatable="false">Sinhala</string>
+    <string name="menu_arrays_Nepali" translatable="false">Nepali</string>
+    <string name="menu_arrays_Divehi" translatable="false">Divehi</string>
+    <string name="menu_arrays_Lao" translatable="false">Lao</string>
+    <string name="menu_arrays_Pidgeon" translatable="false">Pidgeon</string>
+    <string name="menu_arrays_Hebrew" translatable="false">Hebrew</string>
+    <string name="menu_arrays_Mongolian" translatable="false">Mongolian</string>
+    <string name="menu_arrays_Turkmen" translatable="false">Turkmen</string>
+    <string name="menu_arrays_Armenian" translatable="false">Armenian</string>
+    <string name="menu_arrays_Kazakh" translatable="false">Kazakh</string>
+    <string name="menu_arrays_Kurdish" translatable="false">Kurdish</string>
+    <string name="menu_arrays_Uzbek" translatable="false">Uzbek</string>
+    <string name="menu_arrays_Ukrainian" translatable="false">Ukrainian</string>
+    <string name="menu_arrays_Tajik" translatable="false">Tajik</string>
+    <string name="menu_arrays_Georgian" translatable="false">Georgian</string>
+    <string name="menu_arrays_Urdu" translatable="false">Urdu</string>
+    <string name="menu_arrays_Macedonian" translatable="false">Macedonian</string>
+    <string name="menu_arrays_Somali" translatable="false">Somali</string>
+    <string name="menu_arrays_Amharic" translatable="false">Amharic</string>
+    <string name="menu_arrays_Rwanda" translatable="false">Rwanda</string>
+    <string name="menu_arrays_Cambodia" translatable="false">Cambodia</string>
+    <string name="menu_arrays_Sri_Lanka" translatable="false">Sri Lanka</string>
+    <string name="menu_arrays_Brunei" translatable="false">Brunei</string>
+    <string name="menu_arrays_Maldives" translatable="false">Maldives</string>
+    <string name="menu_arrays_Israel" translatable="false">Israel</string>
+    <string name="menu_arrays_Saudi_Arabia" translatable="false">Saudi Arabia</string>
+    <string name="menu_arrays_Pakistani" translatable="false">Pakistani</string>
+    <string name="menu_arrays_Ugandan" translatable="false">Ugandan</string>
+    <string name="menu_arrays_Mali" translatable="false">Mali</string>
+    <string name="menu_arrays_Ethiopic" translatable="false">Ethiopic</string>
+    <string name="menu_arrays_Luxembourg" translatable="false">Luxembourgish</string>
+    <string name="menu_arrays_Lithuania" translatable="false">Lithuania</string>
+    <string name="menu_arrays_Latvian" translatable="false">Latvian</string>
+    <string name="menu_arrays_Kinyarwanda" translatable="false">Kinyarwanda</string>
+    <string name="menu_arrays_Kiswahili" translatable="false">Kiswahili</string>
+    <string name="menu_arrays_Simplified_Chinese" translatable="false">Simplified Chinese</string>
+    <string name="menu_arrays_Traditional_Chinese" translatable="false">Traditional Chinese</string>
+    <string name="menu_arrays_Malayalam" translatable="false">Malayalam</string>
+    <string name="menu_arrays_Ga" translatable="false">Ga</string>
+    <string name="menu_arrays_Albania" translatable="false">Albania</string>
+    <string name="menu_arrays_Dhivehi" translatable="false">Dhivehi</string>
+    <string name="menu_arrays_Azeri" translatable="false">Azeri</string>
+
+    <!-- This sentence appears within the warning dialog, this message will be displayed when user input "0000" as the password.[CHAR LIMIT = NONE]-->
+    <string name="menu_wrong_new_pin_notify">\'0000\' is an invaild password</string>
+
+    <!-- The title of the FreeviewPlay related Settings.[CHAR LIMIT = 30]-->
+    <string name="menu_string_freeview_setting">Freeview Play Settings</string>
+
+    <!-- The title of term and conditions which used to declare some necessary information.[CHAR LIMIT = 30]-->
+    <string name="menu_string_term_condition">Terms and Conditions</string>
+
+    <!-- The option in channel settings page that allow the end user to perform service updates manually.[CHAR LIMIT = 60]-->
+    <string name="menu_tv_manual_service_update">Manual Service Update</string>
+
+    <!-- Title for sound style setting [CHAR LIMIT=30] -->
+    <string name="options_item_sounds_style">Sound Style</string>
+
+    <!-- Title for main screen preference for sound [CHAR LIMIT=50] -->
+    <string name="sound_category_title">Sound</string>
+
+    <!-- Title for picture settings [CHAR LIMIT=30] -->
+    <string name="device_picture">Picture</string>
+
+    <!--Biss key, save key-->
+    <string name="bisskey_savekey">Save Key</string>
+
+    <!--Biss key, update key-->
+    <string name="bisskey_updatekey">Update Key</string>
+
+    <!--Biss key, delete key-->
+    <string name="bisskey_deletekey">Delete Key</string>
+
+    <string name="dvbs_conflict_diseqc_toast">"DiSEqC type conflicted, please check DiSEqC settings."</string>
+
+    <string name="dvbs_sdx_select_satellite_tip">"Please be sure satellite name selection and DiSEqC configuration."</string>
+
+    <string name="dvbs_sdx_select_satellite_warning">"Loading preset list requires at least one of below satellites to be selected:\n\n
+    <xliff:g id="satellite_name">%1$s</xliff:g>\n So preset list could not be loaded!"</string>
+
+    <string name="dvbs_storing_wait" >"Channels are being stored now, please wait..."</string>
+</resources>

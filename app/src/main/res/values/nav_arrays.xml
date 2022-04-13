@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="nav_channel_types">
+		<item>@string/nav_channel_All</item>
+		<item>@string/nav_channel_Radio</item>
+	</string-array>
+	<string-array name="nav_favourite_type">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+	<!--
+	<string-array name="nav_sleep_strings">
+		<item>@string/nav_sleep__off</item>
+		<item>@string/nav_sleep_15min</item>
+		<item>@string/nav_sleep_30min</item>
+		<item>@string/nav_sleep_45min</item>
+		<item>@string/nav_sleep_60min</item>
+		<item>@string/nav_sleep_90min</item>
+		<item>@string/nav_sleep_120min</item>
+	</string-array>
+	-->
+	<string-array name="nav_zoom_strings">
+		<item>@string/nav_zoom_x1</item>
+		<item>@string/nav_zoom_x2</item>
+		<item>@string/nav_zoom_x1_2</item>
+	</string-array>
+
+	<string-array name="nav_freeze_strings">
+		<item>@string/nav_Freeze_On</item>
+		<item>@string/nav_Freeze_Off</item>
+	</string-array>
+
+	<string-array name="nav_epg_filter_type">
+	    <item>@string/nav_UNDEFINED</item>
+		<item>@string/nav_MOVIE</item>
+		<item>@string/nav_NEWS</item>
+		<item>@string/nav_SHOW</item>
+		<item>@string/nav_SPORTS</item>
+		<item>@string/nav_CHILDRENS</item>
+		<item>@string/nav_MUSIC</item>
+		<item>@string/nav_ARTS</item>
+		<item>@string/nav_SOCIAL</item>
+		<item>@string/nav_EDUCATION</item>
+		<item>@string/nav_LEISURE</item>
+		<item>@string/nav_SPECIAL</item>
+        <item>@string/nav_ADULT</item>
+		<item>@string/nav_RESERVED_FOR_FUTURE_USE</item>
+		<item>@string/nav_USER_DEFINED</item>
+	</string-array>
+
+	<string-array name="nav_epg_filter_type_AUS">
+        <item>@string/nav_UNDEFINED</item>
+		<item>@string/nav_Movie</item>
+		<item>@string/nav_News</item>
+		<item>@string/nav_ENTERTAINMENT</item>
+		<item>@string/nav_SPORT</item>
+		<item>@string/nav_Childrens</item>
+		<item>@string/nav_MUSIC_AUS</item>
+		<item>@string/nav_ARTS_AUS</item>
+		<item>@string/nav_CURRENT_AFFAIRS_AUS</item>
+		<item>@string/nav_EDUCATION_AUS</item>
+		<item>@string/nav_INFOTAINMENT</item>
+		<item>@string/nav_SPECIAL_AUS</item>
+		<item>@string/nav_COMEDY</item>
+		<item>@string/nav_DRAMA</item>
+		<item>@string/nav_DOCUMENTARY</item>
+        <item>@string/nav_RESERVED_NOT_DEFINED_AUS</item>
+	</string-array>
+
+	<string-array name="nav_epg_filter_type_UK">
+	    <item>@string/nav_epg_unclassified</item>
+		<item>@string/nav_Movie</item>
+		<item>@string/nav_NEWS_AND_FACTUAL</item>
+		<item>@string/nav_ENTERTAINMENT</item>
+		<item>@string/nav_SPORT</item>
+		<item>@string/nav_Childrens</item>
+		<item>@string/nav_EDUCATION_UK</item>
+		<item>@string/nav_LIFESTYLE</item>
+                <item>@string/nav_epg_not_support</item>
+                <item>@string/nav_ADULT_UK</item>
+		<item>@string/nav_DRAMA</item>
+	</string-array>
+
+	<string-array name="nav_epg_filter_sa_type">
+		<item>@string/nav_NEWS_SA</item>
+		<item>@string/nav_SPORTS_SA</item>
+		<item>@string/nav_INFORMATION_SA</item>
+		<item>@string/nav_DRAMA_SA</item>
+		<item>@string/nav_MUSIC_SA</item>
+		<item>@string/nav_VARIETY_SA</item>
+		<item>@string/nav_MOVIES_SA</item>
+		<item>@string/nav_ANIMATION_SA</item>
+		<item>@string/nav_DOCUMENTARY_SA</item>
+		<item>@string/nav_THEATRE_SA</item>
+		<item>@string/nav_HOBBY_SA</item>
+		<item>@string/nav_WELFARE_SA</item>
+		<item>@string/nav_RESERVED_SA</item>
+		<item>@string/nav_FOR_EXTENSION_SA</item>
+		<item>@string/nav_OTHERS_SA</item>
+	</string-array>
+
+	<string-array name="nav_banner_filter_sa_type">
+		<item>@string/nav_NEWS_SA</item>
+		<item>@string/nav_SPORTS_SA</item>
+		<item>@string/nav_INFORMATION_SA</item>
+		<item>@string/nav_DRAMA_SA</item>
+		<item>@string/nav_MUSIC_SA</item>
+		<item>@string/nav_VARIETY_SA</item>
+		<item>@string/nav_MOVIES_SA</item>
+		<item>@string/nav_ANIMATION_SA</item>
+		<item>@string/nav_DOCUMENTARY_SA</item>
+		<item>@string/nav_THEATRE_SA</item>
+		<item>@string/nav_HOBBY_SA</item>
+		<item>@string/nav_WELFARE_SA</item>
+		<item>@string/nav_RESERVED_SA</item>
+		<item>@string/nav_RESERVED_SA</item>
+		<item>@string/nav_FOR_EXTENSION_SA</item>
+		<item>@string/nav_OTHERS_SA</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_undefined">
+		<item>@string/nav_Undefined</item>
+	</string-array>
+
+    <string-array name="nav_epg_subtype_adult">
+        <item>@string/nav_Adult</item>
+    </string-array>
+
+   <string-array name="nav_epg_subtype_reserved_for_future_use">
+        <item>@string/nav_Reserved_for_future_use</item>
+    </string-array>
+
+    <string-array name="nav_epg_subtype_user_defined">
+        <item>@string/nav_User_defined</item>
+    </string-array>
+
+	<string-array name="nav_epg_subtype_movie">
+		<item>@string/nav_Drama</item>
+		<item>@string/nav_Detective</item>
+		<item>@string/nav_Adventure</item>
+		<item>@string/nav_Science_Fiction</item>
+		<item>@string/nav_Comedy</item>
+		<item>@string/nav_Soap</item>
+		<item>@string/nav_Romance</item>
+		<item>@string/nav_Serious</item>
+		<item>@string/nav_Adult_Movie</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_news">
+		<item>@string/nav_Current_Affairs</item>
+		<item>@string/nav_Weather_Report</item>
+		<item>@string/nav_News_Magazine</item>
+		<item>@string/nav_Documentary</item>
+		<item>@string/nav_Discussion</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_news">
+		<item>@string/nav_News_sa</item>
+		<item>@string/nav_Weather_Report_sa</item>
+		<item>@string/nav_Special_program_sa</item>
+		<item>@string/nav_Politics_sa</item>
+		<item>@string/nav_Economics_sa</item>
+		<item>@string/nav_Overseas_sa</item>
+		<item>@string/nav_News_analisis_sa</item>
+		<item>@string/nav_Discussion_sa</item>
+		<item>@string/nav_Special_report_sa</item>
+		<item>@string/nav_Local_program_sa</item>
+		<item>@string/nav_Traffic_report_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_show">
+		<item>@string/nav_Show</item>
+		<item>@string/nav_Game_Show</item>
+		<item>@string/nav_Variety_Show</item>
+		<item>@string/nav_Talk_Show</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_sports">
+		<item>@string/nav_Sports</item>
+		<item>@string/nav_Special_Events</item>
+		<item>@string/nav_Sports_Magazines</item>
+		<item>@string/nav_Football</item>
+		<item>@string/nav_Tennis</item>
+		<item>@string/nav_Team_Sports</item>
+		<item>@string/nav_Athletics</item>
+		<item>@string/nav_Motor_Sport</item>
+		<item>@string/nav_Water_Sport</item>
+		<item>@string/nav_Winter_Sport</item>
+		<item>@string/nav_Equestrian</item>
+		<item>@string/nav_Martial_Sports</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_sports">
+		<item>@string/nav_Sports_news_sa</item>
+		<item>@string/nav_Baseball_sa</item>
+		<item>@string/nav_Soccer_sa</item>
+		<item>@string/nav_Golf_sa</item>
+		<item>@string/nav_Other_ball_sa</item>
+		<item>@string/nav_Sumo_sa</item>
+		<item>@string/nav_Olympic_sa</item>
+		<item>@string/nav_Marathon_sa</item>
+		<item>@string/nav_Motor_sa</item>
+		<item>@string/nav_Marine_sa</item>
+		<item>@string/nav_Horse_race_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_children">
+		<item>@string/nav_Children</item>
+		<item>@string/nav_Pre_school_children</item>
+		<item>@string/nav_Entertainment_for_6_to_14</item>
+		<item>@string/nav_Entertainment_for_10_to_16</item>
+		<item>@string/nav_Informational</item>
+		<item>@string/nav_Cartoons</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_music">
+		<item>@string/nav_Music</item>
+		<item>@string/nav_Rock</item>
+		<item>@string/nav_Serious_Music</item>
+		<item>@string/nav_Folk</item>
+		<item>@string/nav_Jazz</item>
+		<item>@string/nav_Musical</item>
+		<item>@string/nav_Ballet</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_arts">
+		<item>@string/nav_Arts</item>
+		<item>@string/nav_Performing_Arts</item>
+		<item>@string/nav_Fine_Arts</item>
+		<item>@string/nav_Religion</item>
+		<item>@string/nav_Popular_culture</item>
+		<item>@string/nav_Literature</item>
+		<item>@string/nav_Film</item>
+		<item>@string/nav_Experimental</item>
+		<item>@string/nav_Broadcasting</item>
+		<item>@string/nav_New_Media</item>
+		<item>@string/nav_Arts_magazines</item>
+		<item>@string/nav_Fashion</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_social">
+		<item>@string/nav_Social</item>
+		<item>@string/nav_Magazines</item>
+		<item>@string/nav_Economics</item>
+		<item>@string/nav_Remarkable_people</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_education">
+		<item>@string/nav_Education</item>
+		<item>@string/nav_Nature</item>
+		<item>@string/nav_Technology</item>
+		<item>@string/nav_Medicine</item>
+		<item>@string/nav_Foreign_Countries</item>
+		<item>@string/nav_Social_sciences</item>
+		<item>@string/nav_Further_Education</item>
+		<item>@string/nav_Languages</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_documentary">
+		<item>@string/nav_Social_events_sa</item>
+		<item>@string/nav_History_sa</item>
+		<item>@string/nav_Nature_sa</item>
+		<item>@string/nav_Science_sa</item>
+		<item>@string/nav_Culture_sa</item>
+		<item>@string/nav_Literature_sa</item>
+		<item>@string/nav_Sports_sa</item>
+		<item>@string/nav_Total_documentary_sa</item>
+		<item>@string/nav_Interviews_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_animation">
+		<item>@string/nav_Japanese_animation_sa</item>
+		<item>@string/nav_Overseas_animation_sa</item>
+		<item>@string/nav_Special_effects_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_sa_music">
+		<item>@string/nav_Rock_sa</item>
+		<item>@string/nav_Overseas_sa</item>
+		<item>@string/nav_Classic_sa</item>
+		<item>@string/nav_Jazz_sa</item>
+		<item>@string/nav_Popular_sa</item>
+		<item>@string/nav_Live_concert_sa</item>
+		<item>@string/nav_Ranking_sa</item>
+		<item>@string/nav_Karaoke_sa</item>
+		<item>@string/nav_Ballad_sa</item>
+		<item>@string/nav_Childrens_song_sa</item>
+		<item>@string/nav_Folk_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_sa_theatre">
+		<item>@string/nav_Modern_drama_sa</item>
+		<item>@string/nav_Musical_sa</item>
+		<item>@string/nav_Dance_sa</item>
+		<item>@string/nav_Comic_story_sa</item>
+		<item>@string/nav_Kabuki_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_variety">
+		<item>@string/nav_Quiz_sa</item>
+		<item>@string/nav_Game_sa</item>
+		<item>@string/nav_Talk_variety_sa</item>
+		<item>@string/nav_Comedy_program_sa</item>
+		<item>@string/nav_Music_variety_sa</item>
+		<item>@string/nav_Tour_sa</item>
+		<item>@string/nav_Cocking_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_hobby_education">
+		<item>@string/nav_Outdoor_entertainment_sa</item>
+		<item>@string/nav_Gardening_sa</item>
+		<item>@string/nav_Art_hobby_sa</item>
+		<item>@string/nav_Japenese_chess_sa</item>
+		<item>@string/nav_Pinball_sa</item>
+		<item>@string/nav_Cars_sa</item>
+		<item>@string/nav_Computer_games_sa</item>
+		<item>@string/nav_Conversation_sa</item>
+		<item>@string/nav_Little_children_sa</item>
+		<item>@string/nav_Junior_high_school_sa</item>
+		<item>@string/nav_University_sa</item>
+		<item>@string/nav_Lifelong_education_sa</item>
+		<item>@string/nav_Educational_problem_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_information">
+		<item>@string/nav_Gossip_sa</item>
+		<item>@string/nav_Fashion_sa</item>
+		<item>@string/nav_Living_sa</item>
+		<item>@string/nav_Health_sa</item>
+		<item>@string/nav_Shopping_sa</item>
+		<item>@string/nav_Gourmet_sa</item>
+		<item>@string/nav_Events_sa</item>
+		<item>@string/nav_Program_guide_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_dramas">
+		<item>@string/nav_Japanese_sa</item>Japanese dramas
+		<item>@string/nav_Overseas_sa</item>Overseas dramas
+		<item>@string/nav_Period_sa</item>Period dramas
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_weflare">
+		<item>@string/nav_Old_aged_sa</item>
+		<item>@string/nav_Handicapped_sa</item>
+		<item>@string/nav_Social_welfare_sa</item>
+		<item>@string/nav_Volunteers_sa</item>
+		<item>@string/nav_Sign_language_sa</item>
+		<item>@string/nav_Text_sa</item>
+		<item>@string/nav_Explanation_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_reserved">
+		<item>@string/nav_Reserved_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_movie">
+		<item>@string/nav_Overseas_movies_sa</item>
+		<item>@string/nav_Japanese_movies_sa</item>
+		<item>@string/nav_Animation_movies_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_extension">
+		<item>@string/nav_Appendix_bs_sa</item>
+		<item>@string/nav_Extension_cs_sa</item>
+		<item>@string/nav_Extension_digital_sa</item>
+		<item>@string/nav_Appendix_server_type_sa</item>
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_sa_other">
+		<item>@string/nav_Others_sa</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_leisure">
+		<item>@string/nav_Leisure_Hobbies</item>
+		<item>@string/nav_Tourism</item>
+		<item>@string/nav_Handicraft</item>
+		<item>@string/nav_Motoring</item>
+		<item>@string/nav_Fitness_and_Health</item>
+		<item>@string/nav_Cooking</item>
+		<item>@string/nav_Advertisement</item>
+		<item>@string/nav_Gardening</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_special">
+		<item>@string/nav_Original_language</item>
+		<item>@string/nav_Black_and_White</item>
+		<item>@string/nav_Unpublished</item>
+		<item>@string/nav_Live_Broadcast</item>
+		<item>@string/nav_plano_stereoscopic</item>
+		<item>@string/nav_local_or_regional</item>
+	</string-array>
+
+	<string-array name="nav_epg_filter_type_cn">
+		<item>@string/nav_MOVIE</item>
+		<item>@string/nav_NEWS</item>
+		<item>@string/nav_SHOW</item>
+		<item>@string/nav_SPORTS</item>
+		<item>@string/nav_CHILDRENS</item>
+		<item>@string/nav_MUSIC</item>
+		<item>@string/nav_ARTS</item>
+		<item>@string/nav_SOCIAL</item>
+		<item>@string/nav_EDUCATION</item>
+		<item>@string/nav_LEISURE</item>
+		<item>@string/nav_SPECIAL</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_movie_cn">
+		<item>@string/nav_Drama</item>
+		<item>@string/nav_Detective</item>
+		<item>@string/nav_Adventure</item>
+		<item>@string/nav_Science_Fiction</item>
+		<item>@string/nav_Comedy</item>
+		<item>@string/nav_Soap</item>
+		<item>@string/nav_Romance</item>
+		<item>@string/nav_Serious</item>
+		<item>@string/nav_Adult_Movie</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_news_cn">
+		<item>@string/nav_Current_Affairs</item>
+		<item>@string/nav_Weather_Report</item>
+		<item>@string/nav_News_Magazine</item>
+		<item>@string/nav_Documentary</item>
+		<item>@string/nav_Discussion</item>
+	</string-array>
+	<string-array name="nav_epg_subtype_show_cn">
+		<item>@string/nav_Show</item>
+		<item>@string/nav_Game_Show</item>
+		<item>@string/nav_Variety_Show</item>
+		<item>@string/nav_Talk_Show</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_sports_cn">
+		<item>@string/nav_Sports</item>
+		<item>@string/nav_Special_Events</item>
+		<item>@string/nav_Sports_Magazines</item>
+		<item>@string/nav_Football</item>
+		<item>@string/nav_Tennis</item>
+		<item>@string/nav_Team_Sports</item>
+		<item>@string/nav_Athletics</item>
+		<item>@string/nav_Motor_Sport</item>
+		<item>@string/nav_Water_Sport</item>
+		<item>@string/nav_Winter_Sport</item>
+		<item>@string/nav_Equestrian</item>
+		<item>@string/nav_Martial_Sport</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_children_cn">
+		<item>@string/nav_Childrens</item>
+		<item>@string/nav_Pre_school_children</item>
+		<item>@string/nav_Entertainment_for_6_to_14</item>
+		<item>@string/nav_Entertainment_for_10_to</item>
+		<item>@string/nav_Informational</item>
+		<item>@string/nav_Cartoons</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_music_cn">
+		<item>@string/nav_Music</item>
+		<item>@string/nav_Rock</item>
+		<item>@string/nav_Serious</item>
+		<item>@string/nav_Folk</item>
+		<item>@string/nav_Jazz</item>
+		<item>@string/nav_Musical</item>
+		<item>@string/nav_Ballet</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_arts_cn">
+		<item>@string/nav_Arts</item>
+		<item>@string/nav_Performing_Arts</item>
+		<item>@string/nav_Fine_Arts</item>
+		<item>@string/nav_Religion</item>
+		<item>@string/nav_Popular_culture</item>
+		<item>@string/nav_Literature</item>
+		<item>@string/nav_Film</item>
+		<item>@string/nav_Experimental</item>
+		<item>@string/nav_Broadcasting</item>
+		<item>@string/nav_New_Media</item>
+		<item>@string/nav_Arts_magazines</item>
+		<item>@string/nav_Fashion</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_social_cn">
+		<item>@string/nav_Social</item>
+		<item>@string/nav_Magazines</item>
+		<item>@string/nav_Economics</item>
+		<item>@string/nav_Remarkable_people</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_education_cn">
+		<item>@string/nav_Education</item>
+		<item>@string/nav_Nature</item>
+		<item>@string/nav_Technology</item>
+		<item>@string/nav_Medicine</item>
+		<item>@string/nav_Foreign_Countries</item>
+		<item>@string/nav_Social_sciences</item>
+		<item>@string/nav_Further_Education</item>
+		<item>@string/nav_Languages</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_leisure_cn">
+		<item>@string/nav_Leisure_Hobbies</item>
+		<item>@string/nav_Tourism</item>
+		<item>@string/nav_Handicraft</item>
+		<item>@string/nav_Motoring</item>
+		<item>@string/nav_Fitness_and_Health</item>
+		<item>@string/nav_Cooking</item>
+		<item>@string/nav_Advertisement</item>
+		<item>@string/nav_Gardening</item>
+	</string-array>
+
+	<string-array name="nav_epg_subtype_special_cn">
+		<item>@string/nav_Original_language</item>
+		<item>@string/nav_Black_and_White</item>
+		<item>@string/nav_Unpublished</item>
+		<item>@string/nav_Live_Broadcast</item>
+	</string-array>
+
+	<!-- MTS -->
+	<string-array name="nav_mts_strings">
+		<item>@string/nav_UNKNOW</item>
+		<item>@string/nav_MONO</item>
+		<item>@string/nav_STEREO</item>
+		<item>@string/nav_SAP</item>
+		<item>@string/nav_DUAL1</item>
+		<item>@string/nav_DUAL2</item>
+		<item>@string/nav_NICAM_MONO</item>
+		<item>@string/nav_NICAM_STEREO</item>
+		<item>@string/nav_NICAM_DUAL1</item>
+		<item>@string/nav_NICAM_DUAL2</item>
+		<item>@string/nav_A2_DUAL1_DUAL2</item>
+		<item>@string/nav_NICAM_DUAL1_DUAL2</item>
+		<item>@string/nav_FM_MONO</item>
+		<item>@string/nav_FM_STEREO</item>
+	</string-array>
+
+	<!-- HDR -->
+	<string-array name="hdr_video_info_strings">
+	    <item>""</item>
+	    <item>@string/hdr_hdr10</item>
+	    <item>@string/hdr_hlg</item>
+	    <item>""</item> <!-- Dobly lab requirements do not allow "DOVI"-->
+	    <item>@string/hdr_technt</item>
+	    <item>@string/hdr_hdr10_</item>
+	</string-array>
+
+	<!-- Audio channels -->
+	<string-array name="audio_channels_strings">
+	    <item>""</item>
+	    <item>@string/nav_MONO</item>
+	    <item>@string/nav_MONO</item>
+	    <item>@string/nav_Dual_Mono</item>
+	    <item>@string/nav_STEREO</item>
+	    <item>@string/nav_STEREO</item>
+	    <item>@string/nav_STEREO</item>
+	    <item>@string/nav_Surround_2CH</item>
+	    <item>@string/nav_Surround</item>
+	    <item>3#CH</item>
+	    <item>4#CH</item>
+	    <item>5.1#CH</item>
+	    <item>7.1#CH</item>
+	    <item>@string/nav_MONO</item>
+	    <item>@string/nav_STEREO</item>
+	    <item>@string/nav_Dual_Mono</item>
+	    <item>5.1#CH</item>
+	    <item>""</item>
+	    <item>""</item>
+	    <item>""</item>
+	    <item>@string/nav_MONO</item>
+	    <item>@string/nav_Dual_Mono</item>
+	    <item>@string/nav_STEREO</item>
+	    <item>@string/nav_Surround_2CH</item>
+	    <item>@string/nav_Surround</item>
+	    <item>3#CH</item>
+	    <item>4#CH</item>
+	    <item>""</item>
+      <item>""</item>
+	</string-array>
+
+    <string-array name="nav_zoom_mode">
+		<item>@string/nav_zoom_x1_2</item>
+		<item>@string/nav_zoom_x1</item>
+		<item>@string/nav_zoom_x2</item>
+	</string-array>
+
+	<string-array name="week_day">
+	    <item>@string/nav_Sunday</item>
+		<item>@string/nav_Monday</item>
+		<item>@string/nav_Tuesday</item>
+		<item>@string/nav_Wednesday</item>
+		<item>@string/nav_Thursday</item>
+		<item>@string/nav_Friday</item>
+		<item>@string/nav_Saturday</item>
+	</string-array>
+
+	<string-array name="nav_oad_btns_ok">
+        <item>@string/cplogo_bt_ok</item>
+    </string-array>
+
+    <string-array name="nav_oad_btns_cancel">
+        <item>@string/nav_Cancel</item>
+    </string-array>
+
+    <string-array name="nav_oad_btns_accept_remind_me_later">
+        <item>@string/nav_Accept</item>
+        <item>@string/nav_Remind_me_Later</item>
+    </string-array>
+
+    <string-array name="nav_oad_btns_accept_reject">
+        <item>@string/nav_Accept</item>
+        <item>@string/nav_Reject</item>
+    </string-array>
+
+    <string-array name="nav_oad_btns_yes_no">
+        <item>@string/menu_setup_button_yes</item>
+        <item>@string/menu_setup_button_no</item>
+    </string-array>
+
+    <string-array name="nav_oad_btns_ok_cancel">
+        <item>@string/cplogo_bt_ok</item>
+        <item>@string/nav_Cancel</item>
+    </string-array>
+
+    <string-array name="nav_channel_type_for_us">
+        <item>@string/menu_arrays_All_channels</item>
+        <item>@string/nav_uk_channellist_type_fav</item>
+        <item>@string/nav_select_type_network</item>
+    </string-array>
+	<string-array name="nav_channel_type">
+		<item>@string/menu_arrays_All_channels</item>
+		<item>@string/nav_select_type_tv</item>
+		<item>@string/nav_select_type_radio</item>
+		<item>@string/nav_select_type_free</item>
+		<item>@string/nav_select_type_encrypted</item>
+		<item>@string/nav_select_type_analogue</item>
+		<item>@string/nav_uk_channellist_type_fav</item>
+		<item>@string/nav_select_type_network</item>
+	</string-array>
+    <string-array name="nav_channel_type_for_pa">
+        <item>@string/menu_arrays_All_channels</item>
+        <item>@string/nav_select_type_tv</item>
+        <item>@string/nav_select_type_radio</item>
+        <item>@string/nav_select_type_free</item>
+        <item>@string/nav_select_type_encrypted</item>
+        <item>@string/nav_uk_channellist_type_fav</item>
+        <item>@string/nav_select_type_network</item>
+    </string-array>
+      <string-array name="nav_uk_channellist_type_ip_channel">
+          <item>@string/menu_arrays_All_channels</item>
+          <item>@string/nav_uk_channellist_type_fav</item>
+          <item>@string/nav_uk_channellist_type_hd</item>
+          <item>@string/nav_uk_channellist_type_interactive</item>
+          <item>@string/nav_uk_channellist_type_ipapp_ip_channel</item>
+          <item>@string/nav_uk_channellist_type_radio</item>
+      </string-array>
+      <string-array name="nav_uk_channellist_type">
+        <item>@string/menu_arrays_All_channels</item>
+        <item>@string/nav_uk_channellist_type_fav</item>
+        <item>@string/nav_uk_channellist_type_hd</item>
+        <item>@string/nav_uk_channellist_type_interactive</item>
+        <item>@string/nav_uk_channellist_type_ipapp</item>
+        <item>@string/nav_uk_channellist_type_radio</item>
+    </string-array>
+    <string-array name="nav_channel_type_for_russia_for_ntv">
+        <item>@string/nav_select_type_broadcast</item>
+        <item>@string/nav_select_type_groups</item>
+        <item>@string/nav_select_type_digital</item>
+        <item>@string/nav_select_type_radio</item>
+        <item>@string/nav_select_type_free</item>
+        <item>@string/nav_select_type_encrypted</item>
+        <item>@string/nav_uk_channellist_type_fav</item>
+        <item>@string/nav_select_type_network</item>
+    </string-array>
+	<string-array name="nav_channel_type_for_russia_for_tkgs">
+		<item>@string/nav_select_type_broadcast</item>
+		<item>@string/nav_select_type_categories</item>
+		<item>@string/nav_select_type_digital</item>
+		<item>@string/nav_select_type_radio</item>
+		<item>@string/nav_select_type_free</item>
+		<item>@string/nav_select_type_encrypted</item>
+		<item>@string/nav_uk_channellist_type_fav</item>
+		<item>@string/nav_select_type_network</item>
+	</string-array>
+    <string-array name="nav_channel_type_for_russia_for_telekarta">
+        <item>@string/menu_arrays_All_channels</item>
+        <item>@string/nav_select_type_packs</item>
+        <item>@string/nav_select_type_categories</item>
+        <item>@string/nav_select_type_tv</item>
+        <item>@string/nav_select_type_radio</item>
+        <item>@string/nav_select_type_free</item>
+        <item>@string/nav_select_type_encrypted</item>
+        <item>@string/nav_uk_channellist_type_fav</item>
+        <item>@string/nav_select_type_network</item>
+    </string-array>
+
+    <string-array name="nav_channel_select_more_two">
+        <item>@string/nav_select_type</item>
+        <item>@string/nav_channel_list_options</item>
+    </string-array>
+	<string-array name="nav_channel_select_more">
+        <item>@string/nav_select_type</item>
+        <item>@string/nav_select_sort</item>
+        <item>@string/nav_select_find</item>
+    </string-array>
+    
+    <string-array name="nav_channel_list_option_for_broadcast">
+        <item>@string/nav_select_sort</item>
+        <item>@string/nav_select_find</item>
+    </string-array>
+    
+    <string-array name="nav_channel_list_option_for_fav">
+        <item>@string/nav_fav_list_move</item>
+        <item>@string/nav_delete</item>
+    </string-array>
+    <string-array name="nav_channel_select_more_for_uk">
+        <item>@string/nav_select_type</item>
+        <item>@string/nav_select_find</item>
+    </string-array>
+	<string-array name="nav_channel_sort">
+        <item>@string/nav_select_sort_default</item>
+        <item>@string/nav_select_sort_nameup</item>
+        <item>@string/nav_select_sort_namedown</item>
+        <item>@string/nav_select_sort_encrypted</item>
+        <item>@string/nav_select_sort_ddra</item>
+        <item>@string/nav_select_sort_hs</item>
+    </string-array>
+    <string-array name="nav_channel_sort_pa">
+        <item>@string/nav_select_sort_default</item>
+        <item>@string/nav_select_sort_nameup</item>
+        <item>@string/nav_select_sort_namedown</item>
+        <item>@string/nav_select_sort_encrypted</item>
+        <item>@string/nav_select_sort_ddr</item>
+        <item>@string/nav_select_sort_hs</item>
+    </string-array>
+    <string-array name="dvbs_scan_mode_arrays">
+        <item>@string/dvbs_scan_mode_network</item>
+        <item>@string/dvbs_scan_mode_full</item>
+    </string-array>
+    <string-array name="dvbs_scan_mode2_arrays">
+        <item>@string/dvbs_scan_mode_auto</item>
+        <item>@string/dvbs_scan_mode_preset</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_input_arrays">
+        <item>@string/dvbs_diseqc_input_1</item>
+        <item>@string/dvbs_diseqc_input_2</item>
+        <item>@string/dvbs_diseqc_input_3</item>
+        <item>@string/dvbs_diseqc_input_4</item>
+        <item>@string/dvbs_diseqc_input_0</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_10port_arrays">
+        <item>@string/dvbs_diseqc_input_1</item>
+        <item>@string/dvbs_diseqc_input_2</item>
+        <item>@string/dvbs_diseqc_input_3</item>
+        <item>@string/dvbs_diseqc_input_4</item>
+        <item>@string/dvbs_tone_burst_a</item>
+        <item>@string/dvbs_tone_burst_b</item>
+        <item>@string/dvbs_diseqc_input_0</item>
+    </string-array>
+     <string-array name="dvbs_diseqc_10_port_sub_arrays">
+        <item>@string/dvbs_diseqc_input_0</item>
+        <item>@string/dvbs_diseqc_input_1</item>
+        <item>@string/dvbs_diseqc_input_2</item>
+        <item>@string/dvbs_diseqc_input_3</item>
+        <item>@string/dvbs_diseqc_input_4</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_11_port_sub_arrays">
+        <item>@string/nav_Disable</item>
+        <item>@string/nav_Uncommit_1</item>
+        <item>@string/nav_Uncommit_2</item>
+        <item>@string/nav_Uncommit_3</item>
+        <item>@string/nav_Uncommit_4</item>
+        <item>@string/nav_Uncommit_5</item>
+        <item>@string/nav_Uncommit_6</item>
+        <item>@string/nav_Uncommit_7</item>
+        <item>@string/nav_Uncommit_8</item>
+        <item>@string/nav_Uncommit_9</item>
+        <item>@string/nav_Uncommit_10</item>
+        <item>@string/nav_Uncommit_11</item>
+        <item>@string/nav_Uncommit_12</item>
+        <item>@string/nav_Uncommit_13</item>
+        <item>@string/nav_Uncommit_14</item>
+        <item>@string/nav_Uncommit_15</item>
+        <item>@string/nav_Uncommit_16</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_motor_arrays">
+        <item>@string/dvbs_diseqc_input_0</item>
+        <item>@string/dvbs_diseqc_motor_12</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_motor_store_position_arrays">
+        <item>@string/nav_1</item>
+        <item>@string/nav_2</item>
+        <item>@string/nav_3</item>
+        <item>@string/nav_4</item>
+        <item>@string/nav_5</item>
+        <item>@string/nav_6</item>
+        <item>@string/nav_7</item>
+        <item>@string/nav_8</item>
+        <item>@string/nav_9</item>
+        <item>@string/nav_10</item>
+        <item>@string/nav_11</item>
+        <item>@string/nav_12</item>
+        <item>@string/nav_13</item>
+        <item>@string/nav_14</item>
+        <item>@string/nav_15</item>
+        <item>@string/nav_16</item>
+    </string-array>
+   <string-array name="dvbs_satllite_name_arrays" translatable="false">
+        <item>Astra4A/SES5 5E</item>
+        <item>Eutelsat 7E</item>
+        <item>Eutelsat 9E</item>
+        <item>Hotbird 13E</item>
+        <item>Astra1 19.2E</item>
+        <item>Astra3 23.5E</item>
+        <item>Astra2 28.2E</item>
+        <item>Eurobird 28.5E</item>
+        <item>Eutelsat 36E</item>
+        <item>Turksat 42E</item>
+        <item>Express-AT1 56E</item>
+        <item>85E</item>
+        <item>140E</item>
+        <item>Thor 0.8W</item>
+        <item>Eutelsat 5W</item>
+    </string-array>
+    <string-array name="dvbs_satllite_orbit_arrays" translatable="false">
+        <item>5E</item>
+        <item>7.0E</item>
+        <item>9.0E</item>
+        <item>13.0E</item>
+        <item>19.2E</item>
+        <item>23.5E</item>
+        <item>28.2E</item>
+        <item>28.5E</item>
+        <item>36.0E</item>
+        <item>42.0E</item>
+        <item>56.0E</item>
+        <item>85.0E</item>
+        <item>140.0E</item>
+        <item>0.8W</item>
+        <item>5.0W</item>
+    </string-array>
+    <string-array name="dvbs_single_cable_position_arrays">
+        <item>@string/dvbs_position_a</item>
+        <item>@string/dvbs_position_b</item>
+    </string-array>
+    <string-array name="dvbs_jess_cable_position_arrays">
+        <item>@string/dvbs_position_a</item>
+        <item>@string/dvbs_position_b</item>
+         <item>@string/dvbs_position_c</item>
+        <item>@string/dvbs_position_d</item>
+         <item>@string/dvbs_position_e</item>
+        <item>@string/dvbs_position_f</item>
+         <item>@string/dvbs_position_g</item>
+        <item>@string/dvbs_position_h</item>
+    </string-array>
+    <string-array name="dvbs_diseqc_movement_control_arrays">
+        <item>@string/nav_Nonstop</item>
+        <item>@string/nav_Step</item>
+        <item>@string/nav_Timeout</item>
+        <item>@string/nav_USALS</item>
+    </string-array>
+    <string-array name="dvbs_tone_22khz_arrays">
+        <item>@string/dvbs_tone_22khz_off</item>
+        <item>@string/dvbs_tone_22khz_on</item>
+        <item>@string/dvbs_tone_22khz_auto</item>
+    </string-array>
+
+    <string-array name="dvbs_tp_pol_arrays">
+        <item>@string/dvbs_tp_pol_1_HORIZONTAL</item>
+        <item>@string/dvbs_tp_pol_2_VERTICAL</item>
+        <item>@string/dvbs_tp_pol_3_LEFT</item>
+        <item>@string/dvbs_tp_pol_4_RIGHT</item>
+    </string-array>
+    <string-array name="dvbs_channel_arrays">
+        <item>@string/dvbs_channel_all</item>
+        <item>@string/dvbs_channel_encrypted</item>
+        <item>@string/dvbs_channel_free</item>
+    </string-array>
+    <string-array name="dvbs_channel_story_type_arrays">
+        <item>@string/dvbs_channel_all</item>
+        <item>@string/dvbs_channel_story_type_digital</item>
+        <item>@string/dvbs_channel_story_type_radio</item>
+    </string-array>
+    <string-array name="dvbs_antenna_type_arrays">
+        <item>@string/dvbs_antenna_type_universal</item>
+        <item>@string/dvbs_antenna_type_singlecable</item>
+    </string-array>
+    <string-array name="dvbs_user_band_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="dvbs_user_jess_band_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array>
+
+    <string-array name="dvbs_position_arrays">
+        <item>@string/dvbs_tp_pol_0_unknown</item>
+        <item>@string/dvbs_position_a</item>
+        <item>@string/dvbs_position_b</item>
+        <item>@string/dvbs_position_c</item>
+        <item>@string/dvbs_position_d</item>
+    </string-array>
+    <string-array name="dvbs_preferred_satellite_arrays">
+        <item>@string/dvbs_preferred_satellite</item>
+        <item>@string/dvbs_general_satellite</item>
+    </string-array>
+    <string-array name="lnb_mdu1_arrays">
+        <item>@string/dvbs_preferred_satellite</item>
+        <item>@string/dvbs_general_satellite</item>
+    </string-array>
+
+    <string-array name="dvbs_tone_burst_arrays">
+        <item>@string/dvbs_tone_burst_a</item>
+        <item>@string/dvbs_tone_burst_b</item>
+        <item>@string/dvbs_tone_burst_disable</item>
+    </string-array>
+
+	<string-array name="dvbs_sat_on_off">
+        <item>@string/dvbs_sat_on</item>
+        <item>@string/dvbs_sat_off</item>
+    </string-array>
+
+	<string-array name="dvbs_sat_lnb_power">
+        <item>@string/dvbs_sat_off</item>
+        <item>@string/dvbs_sat_TUNER_LNB_POWER_13V_18V</item>
+        <item>@string/dvbs_sat_TUNER_LNB_POWER_14V_19V</item>
+        <item>@string/dvbs_sat_on</item>
+    </string-array>
+
+	<string-array name="dvbs_sat_lnbfreq">
+        <item>@string/lnb_universal</item>
+        <item>@string/nav_9750_10700</item>
+        <item>@string/nav_9750_10750</item>
+        <item>@string/nav_5150</item>
+        <item>@string/nav_5750</item>
+        <item>@string/nav_9750</item>
+        <item>@string/nav_10600</item>
+        <item>@string/nav_10750</item>
+        <item>@string/nav_11250</item>
+        <item>@string/nav_11300</item>
+        <item>@string/nav_11475</item>
+        <item>@string/dvbs_band_freq_user_define</item>
+    </string-array>
+    
+	<string-array name="dvbs_fast_scan_satellite_names" translatable="false">
+        <item>Astra1 19.2E</item>
+        <item>Astra2 28.2E</item>
+        <item>Astra3 23.5E</item>
+        <item>Hotbird 28.2E</item>
+        <item>Eutelsat 9E</item>
+        <item>Thor 1W</item>
+    </string-array>
+    
+	<string-array name="dvbs_fast_scan_satellites_orbits" translatable="false">
+        <item>19.2E</item>
+        <item>28.2E</item>
+        <item>23.5E</item>
+        <item>13.0E</item>
+        <item>9E</item>
+        <item>0.8W</item>
+    </string-array>
+
+    <string-array name="nav_menu_options">
+        <item>@string/nav_Menu</item>
+        <item>@string/nav_CI_Card</item>
+    </string-array>
+
+    <string-array name="ews_disaster_logo">
+	    <item>@drawable/disaster_1_earthquake</item>
+	    <item>@drawable/disaster_2_tsunami</item>
+	    <item>@drawable/disaster_3_volcano_eruption</item>
+	    <item>@drawable/disaster_4_ground_motion</item>
+	    <item>@drawable/disaster_5_flood</item>
+	    <item>@drawable/disaster_6_drought</item>
+	    <item>@drawable/disaster_7_forest_land_fires</item>
+	    <item>@drawable/disaster_8_erosion</item>
+	    <item>@drawable/disaster_9_building_settlement_fire</item>
+	    <item>@drawable/disaster_10_extreme_waves</item>
+	    <item>@drawable/disaster_11_extreme_weather</item>
+	    <item>@drawable/disaster_12_technology_failure</item>
+	    <item>@drawable/disaster_13_epidemic_outbreak_disease</item>
+	    <item>@drawable/disaster_14_social_conflict</item>
+	    <item>@drawable/disaster_15_warning</item>
+	</string-array>
+
+	<string-array name="ews_authority">
+	    <item>@drawable/authority_1_bmkg</item>
+	    <item>@drawable/authority_2_bnpb</item>
+	</string-array>
+
+	<string-array name="order_array">
+	    <item>@string/automatic_Channel_ordering</item>
+	    <item>@string/mediaset_premium_ordering</item>
+	</string-array>
+
+	<string-array name="nav_banner_category_array">
+        <item>@string/nav_epg_unclassified</item>
+        <item>@string/nav_MOVIE</item>
+        <item>@string/nav_NEWS</item>
+        <item>@string/nav_SHOW</item>
+        <item>@string/nav_SPORTS</item>
+        <item>@string/nav_CHILDRENS</item>
+        <item>@string/nav_MUSIC</item>
+        <item>@string/nav_ARTS</item>
+        <item>@string/nav_SOCIAL</item>
+        <item>@string/nav_EDUCATION</item>
+        <item>@string/nav_LEISURE</item>
+        <item>@string/nav_SPECIAL</item>
+        <item>@string/menu_arrays_Adult</item>
+        <item>@string/banner_category_reserved_for_future_use</item>
+        <item>@string/banner_category_reserved_for_future_use</item>
+        <item>@string/banner_category_user_defined</item>
+        <item>@string/nav_au_undefined</item>
+        <item>@string/nav_Movie</item>
+        <item>@string/nav_News</item>
+        <item>@string/nav_ENTERTAINMENT</item>
+        <item>@string/nav_SPORT</item>
+        <item>@string/nav_Childrens</item>
+        <item>@string/nav_au_MUSIC</item>
+        <item>@string/nav_au_ARTS</item>
+        <item>@string/nav_CURRENT_AFFAIRS</item>
+        <item>@string/nav_au_EDUCATION_INFORMATION</item>
+        <item>@string/nav_INFOTAINMENT</item>
+        <item>@string/nav_au_SPECIAL</item>
+        <item>@string/nav_COMEDY</item>
+        <item>@string/nav_DRAMA</item>
+        <item>@string/nav_DOCUMENTARY</item>
+        <item>@string/banner_category_reservd_not_defined</item>
+        <item>@string/nav_epg_unclassified</item>
+        <item>@string/nav_Movie</item>
+        <item>@string/nav_uk_NEWS</item>
+        <item>@string/menu_arrays_Entertainment</item>
+        <item>@string/nav_SPORT</item>
+        <item>@string/nav_Childrens</item>
+        <item>@string/menu_arrays_Entertainment</item>
+        <item>@string/nav_uk_NEWS</item>
+        <item>@string/nav_uk_NEWS</item>
+        <item>@string/nav_uk_EDUCATION</item>
+        <item>@string/nav_LIFESTYLE</item>
+        <item>@string/nav_not_supported</item>
+        <item>@string/menu_arrays_Adult</item>
+        <item>@string/nav_not_supported</item>
+        <item>@string/nav_not_supported</item>
+        <item>@string/nav_DRAMA</item>
+    </string-array>
+	<string-array name="nav_banner_ipchannel_category_array">
+		<item>@string/nav_epg_unclassified</item>
+		<item>@string/nav_MOVIE</item>
+		<item>@string/nav_uk_NEWS</item>
+		<item>@string/nav_NEWS</item>
+		<item>@string/nav_ARTS</item>
+		<item>@string/nav_SOCIAL</item>
+		<item>@string/menu_arrays_Entertainment</item>
+		<item>@string/nav_SHOW</item>
+		<item>@string/nav_MUSIC</item>
+		<item>@string/nav_SPORT</item>
+		<item>@string/nav_CHILDRENS</item>
+		<item>@string/nav_EDUCATION</item>
+		<item>@string/nav_uk_category_Lifestyle_Leisure_hobbies</item>
+		<item>@string/nav_DRAMA</item>
+	</string-array>
+
+   <string-array name="menu_tv_audio_language_mts_array">
+
+        <!--
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        -->
+        <item>@string/menu_arrays_French</item>
+        <!--
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        -->
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <!--
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        -->
+        <item>@string/menu_arrays_Icelandic</item>
+        <!--
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        -->
+        <item>@string/menu_arrays_Mandarin</item>
+        <item>@string/menu_arrays_Maori</item>
+        <!--
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        -->
+        <item>@string/menu_arrays_Romanian</item>
+        <!-- <item>@string/menu_arrays_Russian</item> -->
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <!--
+        <item>@string/menu_arrays_Slovenian</item>
+         <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        -->
+        <item>@string/menu_arrays_Welsh</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Narrative</item>
+        <item>@string/menu_arrays_Undefined</item>
+        <item>@string/menu_arrays_Basque</item>
+        <!--
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Cantonese</item>
+        <item>@string/menu_arrays_Catalan</item>
+        -->
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <!-- <item>@string/menu_arrays_Danish</item> -->
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_second_audio</item>
+        <item>@string/menu_arrays_third_audio</item>
+        <!-- <item>@string/menu_arrays_Multiple</item> -->
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_narrator</item>
+	    <item>@string/menu_arrays_Valencian</item>
+	    <item>@string/dvbs_tp_pol_0_unknown</item>
+	    <item>@string/menu_arrays_Chinese_Mandarin</item>
+	    <item>@string/menu_arrays_other</item>
+        <!--
+        <item>@string/menu_arrays_deu</item>
+        <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_French</item>
+        -->
+    </string-array>
+    <string-array name="menu_tv_audio_language_mts_array_value">
+
+        <!--
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        -->
+        <item>"fre"</item>
+        <!--
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        -->
+        <item>"ger"</item>
+        <item>"gre"</item>
+        <!--
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        -->
+        <item>"ice"</item>
+        <!--
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        -->
+        <item>"chi"</item>
+        <item>"mao"</item>
+        <!--
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        -->
+        <item>"rum"</item>
+        <!-- <item>"rus"</item> -->
+        <item>"smi"</item>
+        <item>"scc"</item>
+        <item>"slo"</item>
+        <!--
+        <item>"slv"</item>
+         <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        -->
+        <item>"wel"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"und"</item>
+        <item>"baq"</item>
+        <!--
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        -->
+        <item>"scr"</item>
+        <item>"cze"</item>
+        <!-- <item>"dan"</item> -->
+        <item>"dut"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+        <!-- <item>"mul"</item> -->
+        <item>"per"</item>
+        <item>"esl"</item>
+        <item>"msa"</item>
+        <item>"qad"</item>
+		<item>"val"</item>
+		<item>"emp"</item>
+		<item>"cmn"</item>
+		<item>"oth"</item>
+        <!--
+        <item>"deu"</item>
+        <item>"eus"</item>
+        <item>"fra"</item>
+        -->
+    </string-array>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+</resources>

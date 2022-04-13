@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Doporučeno pro osoby od <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> let."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Vhodné pro všechny kategorie publika. Programy mohou zahrnovat mírné násilí, nevhodné výrazy a obsah pro dospělé v mírné podobě."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Vhodné pro osoby starší 13 let. Programy mohou obsahovat mírně až středně vulgární výrazy a mírné násilí a sexuální narážky."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Vhodné pro osoby starší 16 let. Programy mohou obsahovat intenzivnější násilí a hrubé výrazy, částečnou nahotu a středně závažné sexuální narážky."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Vhodné pouze pro dospělé publikum. Programy obsahují hrubé násilí, hrubé výrazy a explicitní sexuální narážky."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Drogy"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sex"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Násilí"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Materiál s klasifikací P je určen předškolním dětem."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Materiál s klasifikací C je určen pro děti do 14 let (kromě předškolních dětí)."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Materiál s klasifikací G nemusí být nutně určen pro děti, ale musí být velmi mírný a nesmí zahrnovat žádný obsah, jehož sledování by pravděpodobně nebylo vhodné pro děti bez dohledu rodičů."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Materiál s klasifikací PG může obsahovat motivy nebo koncepty pouze pro dospělé, ale musí mít na diváky jen mírný dopad a být vhodný pro děti sledující jej bez dohledu."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Materiál s klasifikací M je vhodný pouze pro dospělé. Měly by se na něj dívat jen osoby starší 15 let."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Materiál s klasifikací MA je vzhledem k intenzitě nebo četnosti výskytu násilí, sexuálních vyobrazení, hrubých výrazů, motivů pouze pro dospělé či užívání drog vhodný pouze pro osoby starší 15 let. Na diváky může mít velký dopad."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Materiál s klasifikací AV je vhodný pouze pro osoby od 15 let. Nesplňuje podmínky klasifikace MA, protože násilí je v něm příliš intenzivní či časté nebo je hlavním motivem. V jiných ohledech se na tuto klasifikaci vztahují stejné požadavky jako na klasifikaci MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Materiál s klasifikací R je zákonně omezen na dospělé osoby. Některý materiál s touto klasifikací může určitou část dospělých urážet."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Pro jakékoli publikum"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Nedoporučeno pro osoby mladší <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> let."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Drogy"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sex"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Násilí"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Mezi programy bez klasifikace patří zpravodajství, sportovní přenosy, dokumenty a další informační programy (talkshow, hudební videa apod.)."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Program je určen pro mladší děti do 8 let."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Program je určen pro děti starší 8 let. V případě dětí mladších 8 let je doporučeno program sledovat společně s rodičem nebo zákonným zástupcem."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Program je určen pro všechny věkové skupiny a vhodný ke sledování celou rodinou."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Program je určen pro obecné publikum, ale nemusí být vhodný pro menší děti (mladší 8 let). Upozorňujeme rodiče a zákonné zástupce, že program může obsahovat prvky, které by někteří lidé mohli považovat za nevhodné ke sledování dětmi ve věku 8–13 let bez dozoru."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Programy s touto klasifikací obsahují témata nebo prvky, které nemusí být vhodné pro diváky mladší 14 let. Rodičům a zákonným zástupcům důrazně doporučujeme zvážit, zda dětem nebo dospívajícím dovolí sledovat je bez dozoru. Programy s touto klasifikací mohou obsahovat motivy pro dospělé a realisticky vyobrazené společenské problémy."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Program je určen pro diváky od 18 let."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programy s výjimkou z klasifikace."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Program je vhodný pro všechny věkové kategorie. Program s hodnocením G by mohl být citlivý pro děti mladší osmi let."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Program je vhodný pro všechny věkové kategorie, ale může obsahovat mírné či ojedinělé násilí, které může být znepokojivé pro malé děti. U dětí do 8 let proto při sledování doporučujeme dohled rodičů."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Program je vhodný pro osoby starší 13 let. Děti mladší 13 let se na něj mohou dívat pod dohledem dospělé osoby."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Program je vhodný pro osoby starší 16 let. Programy s tímto hodnocením pojednávají o nepříjemných tématech, situacích a chováních a prezentují přímější pohled na věci."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Program je vhodný pro osoby starší 18 let. Programy vyhrazené pouze pro dospělé nejčastěji souvisejí se zobrazováním explicitního sexuálního jednání. Mohou být také extrémně násilné a obsahovat hyperrealistické vyobrazení krutostí, mučení a děsivého obsahu."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Doporučeno pro všechny věkové kategorie."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Doporučeno pro děti."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Doporučeno pro dospělé."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programy neobsahují materiál nevhodný pro jakoukoli věkovou kategorii, a jsou proto vhodné pro všechny věkové kategorie."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programy mohou obsahovat materiál nevhodný pro děti mladší 7 let, posouzení vhodnosti závisí na uvážení rodičů."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programy mohou obsahovat materiál nevhodný pro děti mladší 12 let, posouzení vhodnosti závisí na uvážení rodičů."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programy mohou obsahovat materiál nevhodný pro publikum mladší 15 let, posouzení vhodnosti závisí na uvážení rodičů."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programy mohou obsahovat materiál nevhodný pro publikum mladší 19 let, pro osoby mladší 19 let proto nejsou vhodné."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Vhodné pro všechny věkové kategorie."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Vhodné pro všechny kategorie, avšak je doporučen dohled rodičů."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Vhodné pro osoby od 13 let, u dětí do 13 let je doporučen dohled rodičů."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Vhodné pro osoby od 16 let."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Vhodné pro osoby od 18 let."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Vhodné pro dospělé od 21 let."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Vhodné pro děti od 3 do 6 let."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Vhodné pro děti od 6 do 12 let."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Vhodné pro všechny diváky."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Vhodné pro osoby od 13 let"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Vhodné pro osoby starší 18 let. U dětí do 18 let je třeba dohled rodičů"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Vhodné pro dospělé"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dialogy se sexuálním podtextem"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Hrubé výrazy"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Sexuální obsah"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Násilí"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Fiktivní násilí"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Tento program je určen pro všechny děti."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Tento program je určen pro děti od 7 let."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Tento program by většina rodičů považovala za vhodný pro všechny věkové skupiny."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Tento program obsahuje materiál, který mohou rodiče považovat za nevhodný pro mladší děti. Mnoho rodičů by si přálo, aby jejich mladší děti sledovaly tento obsah pod dohledem."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Tento program obsahuje materiál, který by mnoho rodičů považovalo za nevhodný pro děti mladší 14 let."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Tento program je určen pro dospělé, a proto může být nevhodný pro osoby mladší 17 let."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Obecné publikum. Nic, co by pohoršilo rodiče, pokud by se na to dívaly jejich děti."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Je doporučen dohled rodičů. Může obsahovat materiály, které by rodiče mohli považovat za nevhodné pro malé děti."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Je důrazně doporučen dohled rodičů. Některé materiály mohou být nevhodné pro mladší třinácti let."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Omezený přístup, obsahuje materiál pouze pro dospělé. Než rodiče na film vezmou malé děti, měli by si o něm zjistit další informace."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Mládeži do 17 let nepřístupné. Jasně určeno pro dospělé. Dětem nepřístupné."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Vhodné pro dospělé"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Tento program/film nesmějí sledovat děti mladší 10 let."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Vhodné pro všechny věkové kategorie."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Děti mladší 10 let se na tento program/film mohou dívat, ale pouze pod dohledem dospělé osoby."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Děti mladší 13 let se na tento program/film mohou dívat, ale pouze pod dohledem dospělé osoby."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Tento program/film nesmějí sledovat děti mladší 13 let."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Tento program/film nesmějí sledovat děti mladší 16 let."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Tento program/film nesmějí sledovat děti mladší 18 let."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"Tato možnost je vyhrazená pro filmy extremně sexuální povahy (pornografii)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Vypnout"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blokovat"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Roky"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Věkové hodnocení"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Hodnocení obsahu"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Není definováno"</string>
+</resources>

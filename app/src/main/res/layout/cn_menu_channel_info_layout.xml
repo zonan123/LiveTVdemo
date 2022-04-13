@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/livetvsettings_background"
+    android:padding="20dp" >
+
+    <!--
+        <com.mediatek.wwtv.setting.base.view.ChannelInfoListView
+            android:id="@+id/channel_info_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:descendantFocusability="afterDescendants"
+            android:focusable="true"
+            android:gravity="center_vertical"
+            android:layout_margin="20dp"
+            android:visibility="gone"
+             android:gravity="center_vertical"
+             android:layout_centerInParent="true"
+         />
+
+    -->
+
+    <ListView
+        android:id="@+id/channel_info_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@drawable/scan_condition_background" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <RelativeLayout
+            android:id="@+id/pagebutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/channel_info_listview"
+            android:background="@color/legacy_app_item_background" >
+
+            <ImageView
+                android:id="@+id/page_left_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:src="@drawable/page_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:layout_toEndOf="@id/page_left_img"
+                android:text="@string/pager_left" />
+            
+            <ImageView
+                android:id="@+id/page_mid_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/tk_cm_color_key_blue" />
+            
+             <TextView
+                android:id="@+id/page_mid_delete"
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:layout_toEndOf="@id/page_mid_img"
+                android:text="@string/pager_mid" />
+
+            <ImageView
+                android:id="@+id/page_right_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="10dp"
+                android:src="@drawable/page_right" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="10dp"
+                android:layout_toStartOf="@id/page_right_img"
+                android:text="@string/pager_right" />
+
+            <!--
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/page_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:text="@string/pager_left" />
+
+            <TextView
+                style="@style/Canvas.Scan.Text.Middle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/pager_right" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/page_right" />
+        </LinearLayout>
+
+            -->
+        </RelativeLayout>
+        <!-- channel list displaying bottom -->
+
+        <!-- <com.mediatek.wwtv.setting.view.ChannelMenuViewBottom
+            android:id="@+id/channelmenu_bottom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pagebutton"
+            android:paddingTop="@dimen/menu_channel_edit_blayoyt_marginbottom"
+            android:visibility="gone" /> -->
+    </RelativeLayout>
+
+</RelativeLayout>

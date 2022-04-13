@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Рекомендуется для зрителей от <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> лет."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Для зрителей всех возрастов. Программы могут содержать сцены насилия, нецензурную лексику, а также эпизоды для взрослых."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Подходит для зрителей от 13 лет. Программы могут содержать нецензурные или грубо-просторечные слова, упоминания секса и эпизодические сцены насилия."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Подходит для зрителей от 16 лет. Программы могут содержать сцены насилия, нецензурную лексику, частичную наготу и упоминания секса."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Подходит только для взрослой аудитории. Программы содержат нецензурную лексику, сцены явного насилия и секса."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Наркотики"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Секс"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Насилие"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Программы для детей дошкольного возраста"</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Программы с рейтингом C предназначены для детей младшего и среднего школьного возраста"</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Программы с рейтингом G не всегда предназначены только для детей. Однако они не оказывают значительного влияния на психику и не содержат сцен, для просмотра которых требуется присутствие взрослых."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Программы с рейтингом PG могут содержать сцены и понятия для взрослой аудитории. При этом они не оказывают значительного влияния на психику и подходят для просмотра детьми в присутствии взрослых."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Программы с рейтингом M предназначены для взрослых. Они рекомендуются к просмотру только для зрителей от 15 лет."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Программы с рейтингом MA подходят только для зрителей старше 15 лет. Они содержат откровенные сцены насилия, секса, употребления наркотиков, а также нецензурную лексику и другие материалы для взрослых, оказывающие сильное воздействие на психику."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Программы с рейтингом AV подходят только для зрителей от 15 лет. Они сосредоточены на демонстрации большого числа откровенных сцен насилия, поэтому для них не подходит рейтинг MA. По остальным критериям они соответствуют обычной классификации для взрослых."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Программы с рейтингом R подходят только для взрослых. Некоторые материалы в них могут быть неприемлемы для определенных категорий пользователей."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Для зрителей всех возрастов"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Не рекомендуется для зрителей до <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> лет"</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Наркотики"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Секс"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Насилие"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Исключения: новости, спорт, документальные и информационные программы, ток-шоу, видеоклипы и другое."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Для зрителей до 8 лет"</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Для зрителей от 8 лет. Детям младшего возраста рекомендуется просмотр под контролем взрослого."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Подходит для всех возрастных групп, рекомендовано для семейного просмотра"</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Эти программы, предназначенные для широкой аудитории, не рекомендуются детям до 8 лет. В них также встречаются материалы, которые могут считаться неуместными для просмотра детьми в возрасте от 8 до 13 лет без контроля взрослых."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Эти программы содержат сцены, которые не рекомендуются детям до 14 лет. Мы советуем ограничивать их просмотр детьми младшего и среднего школьного возраста без контроля, поскольку в них могут быть реалистично представлены проблемы общества и тематика, рассчитанная на взрослых зрителей."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Для зрителей от 18 лет"</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Программы не классифицированы"</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Для зрителей всех возрастов. Программа с рейтингом G может шокировать детей до 8 лет."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Подходит для широкой аудитории, но может содержать сцены умеренного насилия, пугающие маленьких детей. Просмотр детьми до 8 лет рекомендуется только в присутствии взрослых."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Для зрителей от 13 лет. Детям до 13 лет просмотр разрешен в присутствии взрослых."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Для зрителей от 16 лет. Эти программы поднимают острые темы и содержат прямолинейные высказывания о происходящих событиях."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Для зрителей от 18 лет. Программы для взрослых обычно содержат откровенные сексуальные сцены. В них также может присутствовать демонстрация чрезмерной жестокости, пыток и пугающих событий."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Для всех возрастов"</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Для детей"</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Для взрослых"</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Эти программы не содержат неподходящих материалов. Их могут смотреть зрители всех возрастов."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Просмотр программ детьми до 7 лет возможен с разрешения родителей"</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Просмотр программ детьми до 12 лет возможен с разрешения родителей"</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Просмотр программ пользователями до 15 лет возможен с разрешения родителей"</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Некоторые сцены могут быть неподходящими для зрителей до 19 лет"</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Для зрителей всех возрастов"</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Подходит для всех возрастов (на усмотрение родителей)"</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Детям до 13 лет рекомендуется просмотр только в присутствии взрослых"</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Для зрителей от 16 лет"</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Для зрителей от 18 лет"</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Для зрителей от 21 года"</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Для зрителей от 3 до 6 лет"</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Для зрителей от 6 до 12 лет"</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Для любой аудитории"</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Для зрителей от 13 лет"</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Подходит для зрителей от 18 лет. Просмотр детьми до 18 лет допускается в присутствии родителей."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Подходит для взрослых"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Непристойные диалоги"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Нецензурная лексика"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Секс"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Насилие"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Фантастика со сценами насилия"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Для детей любого возраста"</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Для зрителей от 7 лет"</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Для детей любого возраста"</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"В этой программе есть сцены, не подходящие для просмотра детьми. Маленьким детям рекомендуется просмотр этой программы только в присутствии родителей."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Эта программа не рекомендуется к просмотру детям до 14 лет"</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Эта программа предназначена для взрослой аудитории. Не рекомендуется к просмотру детям до 17 лет."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Для широкой аудитории. Разрешается просматривать детям любого возраста."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Желательно присутствие родителей. Некоторые сцены могут быть неподходящими для маленьких детей."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Предупреждение родителям: некоторые сцены могут быть неподходящими для детей до 13 лет."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Видео для взрослых. Родителям необходимо ознакомиться с содержанием, прежде чем показывать это видео детям."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Только для зрителей 18 лет и старше"</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Подходит для взрослых"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Для зрителей от 10 лет"</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Для зрителей всех возрастов"</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Детям до 10 лет просмотр разрешен в сопровождении взрослых"</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Детям до 13 лет просмотр разрешен в присутствии взрослых"</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Для зрителей от 13 лет"</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Для зрителей от 16 лет"</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Для зрителей от 18 лет"</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"Содержит крайне откровенные фильмы сексуального характера (порнографию)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Откл."</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Блокировка"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Возраст"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Возрастные ограничения"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Возрастные ограничения"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Не определено"</string>
+</resources>

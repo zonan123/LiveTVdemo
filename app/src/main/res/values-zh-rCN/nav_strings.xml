@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"返回"</string>
+    <string name="setup_select" msgid="1270661539800592611">"选择"</string>
+    <string name="setup_next" msgid="4079616525492116810">"继续"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"退出"</string>
+    <string name="satellites" msgid="2437056584091944552">"卫星"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"输入"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"子画面"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"频道来源"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"请扫描频道！"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"没有功能"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"选择列表"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"选择更多"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"选择"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"排序"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"默认"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"按名称升序排列"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"按名称降序排列"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"已加密"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"查找"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"请输入频道号码或频道名称。"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"广播"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"类别"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"套餐"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"数字"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"没有属于这个类型的频道。请选择其他类型。"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"电台"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"模拟"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"免费"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"已加密"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"网络"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"选择类型"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"正在加载，请稍候…"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"上一页"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"下一页"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"上移"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"下移"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"收藏列表"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"删除"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"卫星列表"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"卫星选择"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"频道列表"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"找到新频道且已将其添加到频道列表。"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"类别 -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"套餐 -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"频道列表选项"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"收藏列表选择"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"频道详情"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"主音量"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"请输入您的密码"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"您已输错 3 次密码！\n请等待大约 15 分钟…"</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"密码错误。请重新输入！"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"天线"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"（没有节目标题。）"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"（没有节目详情。）"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"（没有频道详情。）"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"无信号！"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"不支持！"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"频道已锁定！"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"输入来源已锁定！"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"节目已锁定！"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"隐藏的频道"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"音频已加扰"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"视频已加扰"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"休眠："</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"关闭"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"分钟"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"没有视频"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"正在检索数据…"</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"未知音频"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"未知立体声"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"未知"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"没有音频"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"类型"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"子类型"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"预订列表"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"预约活动列表"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"要预约此节目吗？"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"已经预约该节目，要取消吗？"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"即将开始，要更改为相应频道吗？"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"未分级"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"（没有节目详情。）"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"（无节目数据。）"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"（没有节目标题。）"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"（无标题）"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"解锁"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"未设定时间"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"已排定时间"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"未分类"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"不支持"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"确定"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"取消"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"全屏"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"特殊区域"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"否"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"调整"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"要对整个屏幕还是特殊区域进行屏幕截图？"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"要获取此屏幕的屏幕截图吗？"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"请选择用于保存此徽标的位置。"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"正在拍摄…"</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"截图成功"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"截取失败，请重试。"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"此操作已取消。"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"无信号。电源即将关闭。"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"请按任意键以继续。"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"前一天"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"次日"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"查看详情"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"类型过滤"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"上一页"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"下一页"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"输入"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"未分类"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"无"</string>
+    <string name="epg_password" msgid="8012355648918471162">"密码"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"密码错误"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"正在检索数据…"</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"1 月"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"2 月"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"3 月"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"4 月"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"5 月"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"6 月"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"7 月"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"8 月"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"9 月"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"10 月"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"11 月"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"12 月"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"星期日"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"星期一"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"星期二"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"星期三"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"星期四"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"星期五"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"星期六"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"应用列表"</string>
+    <string name="nav_select" msgid="990203763701782141">"选择"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"没有应用！"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"正在下载 Ginga 应用…"</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"要停止字幕功能并启动 Ginga 应用吗？"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"更新向导"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"更多信息。"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"固件映像文件无效！"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"正在更新…"</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"在固件更新期间，请勿拔下 USB 加密狗，也不要关闭电视！"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"正在验证固件…"</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"确定要更新固件吗？"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"固件更新成功。\n请重启电视以启动新固件。"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"无法更新。\n请重启电视以重新下载此固件。"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"更新失败。\n要重试吗？"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"更新失败。请插入 USB。\n要重试吗？"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"USB 加密狗的可用空间不足。"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB 加密狗尚未准备就绪，请将其插入，然后重试。"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"发生了内部错误。"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"无可用的固件版本。"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"解密失败。"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"固件无效。"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"没有可更新的固件。"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"无法检查新固件。"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"无法通过网络下载固件。"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB 加密狗存在问题。"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"电源"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"必须先关闭字幕，然后才能启用数字文本功能。同意继续操作吗？"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"是"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"否"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"要切换为 EWS 服务吗？"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"要切换为此特殊服务吗？"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"活动即将开始。要切换到此活动吗？"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"要停止 Ginga 应用并打开字幕吗？"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"块"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"群组"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"页面"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"没有顶端"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"收藏网页列表"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"未分级"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus 网络已更改。您可以搜索更新后的网络！"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus 网络不可用。您必须搜索更新后的网络！"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus 网络未初始化。您必须搜索更新后的网络！"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"已达 CI Plus 网络搜索排定时间。您可以搜索更新后的网络！"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"请选择您所在的国家/地区："</string>
+    <string name="setup_country" msgid="629173256579318536">"国家/地区"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"请配置有线电视信息。"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"时区"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"扫描模式"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"频率 (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"调制"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"符号率 (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"网络 ID"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"邮政编码"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"新密码"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"确认密码"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"选择运营商"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"卫星类型"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"请选择卫星类型。"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"选择运营商"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"您只能从以下列表中选择一个运营商。"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"请配置有线电视信息。"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"请配置扫描信息。"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"请选择要扫描的卫星，或修改所选卫星。"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"请设置天线类型配置。"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"天线设置"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"请设置卫星的参数。"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"请设置转发器的参数。"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"设置"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"无线下载"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"扫描中"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"无法通过无线方式查找新软件。"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"正在编排"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"正在下载"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"此过程最多可能需要 25 分钟。"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"已成功下载软件。要开始刷写吗？"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"无法编排节目。要重试吗？\n\n请致电服务中心。"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"软件下载成功！要立即重启电视吗？"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"警告：在操作过程中，请勿拔下电视的电源线，因为这可能会导致电视出现故障。"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"软件更新。有新的建议软件更新。更新可能需要一段时间才能完成，而且屏幕可能会变为黑屏。请勿在更新期间关闭电视。要立即更新吗？"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"无法下载此软件。要重试吗？"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"软件更新。有新的建议软件更新。更新可能需要一段时间才能完成，而且屏幕可能会变为黑屏。请勿在更新期间关闭电视。要立即更新吗？此操作将在 <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> 秒后自动开始"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"软件更新。新的建议软件将在 <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>推出。更新可能需要一点时间才能完成，而且屏幕可能会变为黑屏。请勿在更新期间关闭接收器。如果您接受此更新，请让电视在预定时间保持开机状态或待机模式。要接受此更新吗？"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"软件更新。系统检测到在另一个频道上可能存在新的建议软件更新。如果您同意下载此更新，系统可能会自动切换到该频道。要立即下载吗？系统将在 <xliff:g id="AUTOMATICALLY">%s</xliff:g> 秒后自动开始更新"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"检测到新软件！\n您是否同意让系统在电视处于待机模式时自动下载软件？"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"正在编排"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"奥地利"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"比利时"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"瑞士"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"捷克"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"德国"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"丹麦"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"西班牙"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"芬兰"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"法国"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"英国"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"意大利"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"卢森堡"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"荷兰"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"挪威"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"瑞典"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"保加利亚"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"克罗地亚"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"希腊"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"匈牙利"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"爱尔兰"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"波兰"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"葡萄牙"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"罗马尼亚"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"俄罗斯"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"塞尔维亚"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"斯洛伐克"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"斯洛文尼亚"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"土耳其"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"爱沙尼亚"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"澳大利亚"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"新西兰"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"印度尼西亚"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"请选择您所在的时区："</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"请设置密码。0000 是无效密码"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"请输入邮政编码。"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"已成功设置密码！"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"由于网络变化，某些频道已变为无效状态。要立即移除这些频道吗？"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"电视频道已更改，请按“确定”扫描更新。"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"天线设置"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"卫星"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"卫星名称"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"轨道位置"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"移动控制"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"停用限制"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"限制向东移动"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"限制向西移动"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"商店位置"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Goto 位置"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Goto 参考"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"步长"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"超时"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"向东移动"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"向西移动"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"停止移动"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"停用"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"单频 22KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"关闭"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"开启"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"自动"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"转发器"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"频率"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"符号率 (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"极化"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"未知"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"横向"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"纵向"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"左"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"右"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"添加新卫星"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"添加新转发器"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"卫星微调"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"扫描类型"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"存储类型"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"扫描模式"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"网络搜索"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"搜索"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"自动"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"预设"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"仅加密频道"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"仅免费频道"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"全部"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"仅数字频道"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"仅电台频道"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"（没有卫星。）"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"卫星手动微调"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"（没有转发器。）"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"卫星名称是空的。\n请输入名称！"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"卫星重新扫描"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"卫星添加"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"卫星更新"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"卫星状态"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"网络"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"全部"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"卫星"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"位置"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB 电源"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"天线类型"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"通用"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"单线"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"调谐器"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"子调谐器"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"用户频段 <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"频段频率"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"用户指定"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"位置"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"有线电视"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"偏好的卫星"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"一般卫星"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"通用"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"冲击声"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"停用"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"冲击声 A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"冲击声 B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"开启"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"关闭"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"此来源与<xliff:g id="CONFLICTS">%s</xliff:g>来源发生冲突！"</string>
+    <string name="ews_status" msgid="451574410866097453">"状态：<xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"来源设置"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"自动频道排序"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"付费电视订购"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"（没有节目标题。）"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"输入来源不支持自动扫描。"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"无法为“<xliff:g id="TV_INPUT">%s</xliff:g>”启动自动扫描"</string>
+    <string name="str" msgid="4738306056683483195">"收藏<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"全部"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"电台"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"休眠：关闭"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"休眠：<xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> 分钟"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"缩放 X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"缩放倍率：2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"缩放倍率：1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"冻结：已开启"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"冻结：已关闭"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"没有类别"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"电影/剧情片"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"新闻/时事"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"节目/游戏节目"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"体育"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"体育（一般）"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"儿童/青少年节目"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"音乐/芭蕾/舞蹈"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"艺术/文化（不含音乐）"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"社会/政治问题/经济"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"教育/科学/写实主题"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"休闲爱好"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"特殊性质"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"儿童"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"色情"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"其他"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"娱乐"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"时事"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"信息娱乐"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"喜剧"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"戏剧"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"纪实"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"新闻和写实"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"体育"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"生活方式"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"新闻和写实"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"不支持"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"连续剧"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"综艺"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"信息"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"滑稽"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"爱情片"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"正剧/古典/宗教/历史片/剧情片"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"严肃音乐/古典音乐"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"成人电影/剧情片"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"新闻/实事（综合）"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"新闻/天气预报"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"新闻杂志"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"纪录片"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"讨论/采访/辩论"</string>
+    <string name="nav_News" msgid="3663290212801352195">"新闻"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"节目/游戏节目（一般）"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"游戏节目/测验/竞赛"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"综艺节目"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"脱口秀"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"体育杂志"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"橄榄球/足球"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"网球/壁球"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"团体运动（不包含橄榄球）"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"田径运动"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"赛车运动"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"水上运动"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"冬季运动"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"马术"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"武术运动"</string>
+    <string name="nav_Children" msgid="873820541320552860">"儿童节目/青少年节目"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"学龄前儿童节目"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"适合 6 到 14 周岁观众的娱乐节目"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"适合 10 到 16 周岁观众的娱乐节目"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"信息/教育/学校节目"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"卡通/木偶戏"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"音乐/芭蕾/舞蹈（一般）"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"摇滚音乐/流行音乐"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"民俗音乐/传统音乐"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"爵士"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"音乐剧/歌剧"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"芭蕾"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"艺术/文化（不含音乐）"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"表演艺术"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"美术"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"宗教"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"流行文化/传统艺术"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"文学"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"电影/影片"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"实验电影/视频"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"广播/新闻媒体"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"直播"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"新媒体"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"艺术杂志"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"时尚"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"拒绝"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"社会/政治问题/经济（一般）"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"杂志/报告/纪录片"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"经济/社会咨询"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"非凡人物"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"教育/科学/写实主题（一般）"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"自然/动物/环境"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"技术/自然科学"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"医学/生理学/心理学"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"国外/考察"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"社会科学/精神科学"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"进修教育"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"语言"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"电影"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"休闲爱好（一般）"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"游览/旅行"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"手工艺"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"驾车"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"健身和健康"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"广告/购物"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"园艺"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"原始语言"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"黑白"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"未发布"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"平面立体"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"本地或区域性"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"未知"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"单声道"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"立体声"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam 单声道"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam 立体声"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"丽音双声道 2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM 单声道"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM 立体声"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"双单声道"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"环绕声 2 声道"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"环绕声"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> 声道"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"星期日"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"星期一"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"星期二"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"星期三"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"星期四"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"星期五"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"星期六"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"取消"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"接受"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"以后提醒我"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"无信号！"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"请扫描频道！"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"正在检索数据"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"儿童"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"频道已锁定！"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"节目已锁定！"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"输入来源已锁定！"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"（没有节目标题。）"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"隐藏的频道！"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"音频节目"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"没有音频和视频"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"（没有节目详情。）"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"（没有频道详情。）"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"无音频流"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"没有视频流"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"请稍候…"</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"不支持视频"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"不支持"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"非广播"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"没有频道"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"此内容已被服务提供商屏蔽。"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"已加扰"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"正在移动定位器…"</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"服务未运行"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"停用"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"不间断"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"步骤"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"超时"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"缩放"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"已添加“<xliff:g id="MSG_CHANNEL">%1$d</xliff:g>”频道。"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"添加了 <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> 个频道"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"未添加任何频道"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"已连接 USB 设备"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"<xliff:g id="CONFIG_LABLE">%1$s</xliff:g>频道"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"新闻、报道"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"常规、一般"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"天气报道"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"特别节目、纪录片"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"政治、国会"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"经济、市场报道"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"海外、国际报道"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"新闻分析"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"讨论、会议"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"特别报道"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"当地节目"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"路况播报"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"其他"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"体育"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"体育新闻"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"棒球"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"足球"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"高尔夫"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"其他球类运动"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"相扑、格斗运动"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"奥林匹克、国际运动会"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"马拉松、田径运动、游泳"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"赛车运动"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"海上运动、冬季运动"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"赛马、公开赛"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"信息/小报节目"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"八卦/小报节目"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"时尚"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"生活、居家"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"健康、医疗"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"购物、邮购业务"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"美食、烹饪"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"活动"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"收视指南、信息"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"剧情片"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"日本戏剧"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"海外戏剧"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"历史剧"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"音乐"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"日本摇滚、流行乐"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"海外摇滚、流行乐"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"经典、歌剧"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"爵士乐、融合"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"流行歌曲、日本流行歌曲（演歌）"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"现场音乐会"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"排行榜、点歌"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"卡拉 OK、业余歌唱比赛"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"日本民谣、日本传统音乐"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"儿童歌曲"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"民族音乐、世界音乐"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"综艺节目"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"知识问答"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"游戏"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"谈话综艺"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"喜剧节目"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"音乐综艺"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"旅游综艺"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"烹饪综艺"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"电影"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"海外影片"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"日本影片"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"动画"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"动画/特效影片"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"日本动画"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"海外动画"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"特效"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"纪录片/文化"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"社会、时事"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"历史、旅行记录"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"自然、动物、环境"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"太空、科学、医学"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"文化、传统文化"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"文学、文学艺术"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"体育"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"综合纪录片"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"采访、讨论"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"剧场/公开表演"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"现代戏剧、西式戏剧"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"音乐剧"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"舞蹈、芭蕾"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"动漫故事、娱乐"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"歌舞伎、古典剧"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"爱好/教育"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"旅行、垂钓、户外娱乐"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"园艺、宠物、手工"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"音乐、艺术、工艺"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"日本象棋（将棋）和围棋"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"麻将、弹珠游戏"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"汽车、摩托车"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"计算机、电视游戏"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"对话、语言"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"学前儿童、学龄儿童"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"初中生和高中生"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"大学生、考试"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"终身教育、资格"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"教育问题"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"福利"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"老年人"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"残障人士"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"社会福利"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"志愿者"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"手语"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"文字（字幕）"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"关于声音多路复用广播的说明"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"保留"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"保留"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"用于扩展"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"广播卫星/地面数字广播节目的附录信息"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"宽带通信卫星数字广播扩展"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"数字卫星声音广播扩展"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"服务器类型节目的附录信息"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"其他"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"上一个"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV 主屏幕"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"无"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"此节目的分级为：<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"输入来源已锁定"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"根据您定义的输入来源锁定设置，系统已锁定该输入来源。您可以通过电视菜单进行更改。按 ENTER 键即可解锁屏幕。"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"请检查外部输入来源，或使用“输入”按钮选择其他输入来源。"</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"尚未安装任何频道。请通过电视菜单扫描频道。"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"即将显示内容。请稍等片刻。"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"该频道目前不可用。如需了解详情，请与您的服务提供商联系。"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"该频道仅包含音频节目。"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"该频道没有视频和音频内容。"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"正在加载"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"正在加载频道数据。请稍等片刻。"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"电视不支持该视频格式。"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"此内容已被服务提供商停止。"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"当前频道列表中没有任何频道。"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"此内容已被服务提供商屏蔽。"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"正在移动定位器"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"正在转动定位器以定位卫星。请稍等片刻。"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"没有可用的频道服务。"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"节目已锁定"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"请扫描频道"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"即将显示内容。请稍等片刻。"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP 频道"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"生活方式/休闲爱好"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"选择频道排序方法。默认方法是“自动频道排序”。\n        “付费电视排序”是付费电视客户的专属功能，方便他们一览频道编号。\n        如果“付费电视排序”无法安装频道，请使用“自动频道排序”。"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"关闭"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"正确！"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"某种类型无效！"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"不得留空！"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"屏幕内容清除服务已启动，这个状态将持续 <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> 分钟"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"屏幕内容清除服务已停止。"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"确定需要扫描吗？系统将移除所有已安装的频道。"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Bahasa Melayu"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"当地"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"原始"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"其他语言"</string>
+</resources>

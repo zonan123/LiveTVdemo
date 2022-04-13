@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/epg_2nd_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:gravity="center"
+    android:background="@drawable/epg_2nd_event_bg"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:layout_marginStart="@dimen/epg_title_lmargin"
+        android:id="@+id/epg_2nd_list_item_time"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textColor="@color/epg_ts_grey_white"
+        android:gravity="center"
+        android:textSize="@dimen/epg_ts_mini" />
+
+    <TextView
+        android:layout_marginStart="@dimen/epg_title_lmargin"
+        android:id="@+id/epg_2nd_list_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textColor="@color/epg_ts_grey_white"
+        android:textSize="@dimen/epg_ts_mini"
+         />
+
+</LinearLayout>

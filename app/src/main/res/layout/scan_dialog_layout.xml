@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/menu_scan_dialog_id"
+    android:orientation="vertical"
+    android:background="@color/scan_background">
+
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@+id/menu_scan_dialog_contentview"
+	    android:orientation="vertical"
+	    android:layout_marginTop="40dip"
+	    >
+   <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dip"
+        android:layout_marginEnd="40dip">
+
+        <TextView android:id="@+id/state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/middle_margin_edge"
+            style="@style/Canvas.Scan.Text.Large"
+            android:maxWidth="340dp"/>
+        <com.mediatek.wwtv.tvcenter.commonview.Loading
+            android:id="@+id/setup_tv_scan_loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/middle_margin_edge"
+            android:focusable="false"
+            android:layout_toEndOf="@id/state"
+            style="@style/Canvas.Scan.Text.Large" />
+
+         <TextView android:id="@+id/trun_mode"
+             android:layout_alignParentEnd="true"
+             android:layout_marginEnd="@dimen/menu_scan_layout_margin"
+             android:text="@string/menu_tv_tuner_mode"
+             android:layout_marginTop="@dimen/middle_margin_edge"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             style="@style/Canvas.Scan.Text.Large" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/dvbsusedigital_channels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dip"
+        style="@style/Canvas.Scan.Text.Middle"/>
+
+    <TextView android:id="@+id/analoguechannel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dip"
+        style="@style/Canvas.Scan.Text.Middle"/>
+
+    <TextView android:id="@+id/numberchannel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dip"
+        style="@style/Canvas.Scan.Text.Middle"/>
+
+    <TextView android:id="@+id/ip_channels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dip"
+        style="@style/Canvas.Scan.Text.Middle"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/menu_scan_proline"
+        android:layout_marginTop="15dip"
+        android:layout_marginStart="40dip"
+        android:layout_marginEnd="40dip"
+        android:layout_marginBottom="40dip">
+
+        <TextView
+            android:id="@+id/finishpercentage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            style="@style/Canvas.Scan.Text.Middle"/>
+        <ProgressBar
+            android:id="@+id/scanprogressbar"
+            android:layout_width="fill_parent"
+            android:layout_height="8dip"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressDrawable="@drawable/progressbar_pvr_color"
+            android:layout_below="@id/finishpercentage"
+            android:layout_marginTop="10dip"/>
+        
+        <TextView
+            android:id="@+id/scan_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scan_exit_tip"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"           
+            style="@style/Canvas.Scan.Text.Middle"/>
+        
+        <TextView
+            android:id="@+id/fvp_scan_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/scanprogressbar"
+            android:layout_marginTop="10dip"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:visibility="gone"/>
+    </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

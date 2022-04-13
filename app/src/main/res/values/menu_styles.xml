@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme" parent="android:Theme">
+	</style>
+		<style name="Theme.ToastDialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+	<style name="Theme.TurnkeyCommDialog" parent="@style/Theme.Leanback">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowBackground">@color/pin_dialog_background</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+	<style name="Theme.ActivityDialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+
+
+	<style name="info_label">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:paddingRight">4dip</item>
+		<item name="android:textAppearance">@style/TextAppearance.info_small</item>
+	</style>
+
+	<style parent="android:TextAppearance" name="TextAppearance">
+	</style>
+
+	<style name="TextAppearance.info_small">
+		<item name="android:textSize">12sp</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+
+	<style name="Theme.MenuActivityDialog">
+		<item name="android:activityOpenEnterAnimation">@null</item>
+		<item name="android:activityOpenExitAnimation">@null</item>
+		<item name="android:activityCloseEnterAnimation">@null</item>
+		<item name="android:activityCloseExitAnimation">@null</item>
+		<item name="android:taskOpenEnterAnimation">@null</item>
+		<item name="android:taskOpenExitAnimation">@null</item>
+		<item name="android:taskCloseEnterAnimation">@null</item>
+		<item name="android:taskCloseExitAnimation">@null</item>
+		<item name="android:taskToFrontEnterAnimation">@null</item>
+		<item name="android:taskToFrontExitAnimation">@null</item>
+		<item name="android:taskToBackEnterAnimation">@null</item>
+		<item name="android:taskToBackExitAnimation">@null</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:colorBackgroundCacheHint">@null</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowNoTitle">true</item>
+	</style>
+
+	<!-- style for text view,which is used in schedule list item info-->
+	<style name="schedule_list_tv">
+	    <item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">@dimen/large_text_size1</item>
+		<item name="android:focusable">false</item>
+		<item name="android:clickable">false</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+	<!-- style for text view,which is item of list view-->
+	<style name="listitem_normal_tv">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">@dimen/small_text_size</item>
+		<item name="android:focusable">false</item>
+		<item name="android:clickable">false</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+	<!-- style for text view,which is item of list view-->
+	<style name="listitem_normal_wifi">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@color/white</item>
+		<item name="android:textSize">20dip</item>
+		<item name="android:focusable">false</item>
+		<item name="android:clickable">false</item>
+	</style>
+
+	<!-- style for top button in menu main -->
+	<style name="main_top_button">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+		<item name="android:layout_alignParentLeft">true</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textSize">@dimen/large_text_size</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:background">@drawable/menu_dialog_button</item>
+		<item name="android:layout_weight">1</item>
+	</style>
+
+	<!-- style for prompt box in left-bottom -->
+	<style name="menu_prompt_show">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textSize">@dimen/middle_text_size</item>
+    <item name="android:focusable">false</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:drawablePadding">@dimen/menu_main_draw_pad</item>
+  </style>
+
+	<style name="Transparent" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@null</item>
+	</style>
+
+	<style name="menuMain_Transparent" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+	</style>
+	<style name="menuMain_Transparent_Scan" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowAnimationStyle">@null</item>
+	</style>
+	<!-- Sleep timer Dialog -->
+	<style name="Theme.SleepTipDialog" parent="android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowFrame">@null</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+
+    <!-- To maximize the height of the contents view, keep the height of the TextView as small as possible. -->
+    <!-- <item name="android:layout_width">@dimen/menu_row_title_width</item> -->
+    <style name="menu_row_title_view">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/menu_padding_start</item>
+        <item name="android:layout_marginEnd">@dimen/menu_padding_end</item>
+        <item name="android:fontFamily">@string/condensed_font</item>
+        <item name="android:textAlignment">gravity</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/menu_row_title_text_size_deselected</item>
+        <item name="android:transformPivotX">@dimen/menu_row_title_transform_pivot_x</item>
+        <item name="android:alpha">@dimen/menu_row_title_alpha_deselected</item>
+    </style>
+
+    <style name="menu_row_contents_view">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingStart">@dimen/menu_padding_start</item>
+        <item name="android:paddingEnd">@dimen/menu_padding_end</item>
+        <item name="android:paddingTop">@dimen/menu_row_contents_padding_top</item>
+    </style>
+
+    <style name="menu_row_view">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:focusable">true</item>
+        <item name="android:descendantFocusability">afterDescendants</item>
+    </style>
+
+</resources>

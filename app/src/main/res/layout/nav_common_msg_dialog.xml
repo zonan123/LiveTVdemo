@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff384248"
+    android:orientation="vertical"
+    android:padding="@dimen/menu_main_draw_pad" >
+
+    <LinearLayout
+        android:id="@+id/msg_dialog_content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/nav_common_msg_dialog_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/nav_common_dialog_content_text"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+        <Button
+            android:id="@+id/comm_dialog_buttonYes"
+            android:layout_width="@dimen/nav_common_dialog_button_width"
+            android:layout_height="@dimen/nav_common_dialog_button_height"
+            android:text="@string/common_dialog_msg_yes"
+            android:background="@drawable/menu_dialog_button"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/comm_dialog_buttonNo"
+            android:layout_width="@dimen/nav_common_dialog_button_width"
+            android:layout_height="@dimen/nav_common_dialog_button_height"
+            android:layout_marginLeft="@dimen/nav_common_dialog_button_margin"
+            android:text="@string/common_dialog_msg_no"
+            android:background="@drawable/menu_dialog_button"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+    
+
+</LinearLayout>

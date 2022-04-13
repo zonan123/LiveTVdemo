@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dip" >
+     
+    <CheckBox 
+        android:id="@+id/channel_info_check"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_centerVertical="true"
+    	android:layout_alignParentRight="true"
+    	android:focusable="false"
+    	android:layout_marginRight="40dp"
+    	/>
+     <LinearLayout
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="horizontal"
+    	android:layout_alignParentLeft="true"
+    	android:layout_toLeftOf="@id/channel_info_check"
+    	android:layout_marginRight="10dp">
+	    <TextView 
+	        android:id="@+id/channel_info_no"
+	        android:layout_width="0dip"
+	    	android:layout_height="wrap_content"
+	    	android:layout_weight="1"
+	    	android:textSize="18sp"
+	    	android:text="@string/menu_cancel"
+	    	android:layout_marginLeft="10dp"
+	    	android:layout_gravity="center_vertical"
+	    	style="@style/Canvas.Scan.Text.Middle"
+	    	/>
+	    <TextView 
+	        android:id="@+id/channel_info_type"
+	        android:layout_width="0dip"
+	    	android:layout_height="wrap_content"
+	    	android:layout_weight="1"
+	    	android:textSize="18sp"
+			android:singleLine="true"
+	    	android:text="@string/menu_cancel"
+	    	android:gravity="center_horizontal"
+	    	android:layout_gravity="center_vertical"
+	    	style="@style/Canvas.Scan.Text.Middle"
+	    	/>
+	    <TextView 
+	        android:id="@+id/channel_info_name"
+	        android:layout_width="0dip"
+	    	android:layout_height="wrap_content"
+	    	android:layout_weight="1"
+	    	android:textSize="18sp"
+	    	android:text="@string/menu_cancel"
+	    	android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+	    	android:gravity="center_horizontal"
+	    	android:layout_gravity="center_vertical"
+	    	style="@style/Canvas.Scan.Text.Middle"
+	    	/>
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="36dip" >
+
+    <CheckBox
+        android:id="@+id/channel_info_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="40dp"
+        android:button="@drawable/nav_channel_info_checkbox_selector"
+        android:focusable="false"
+        android:scaleX="0.5"
+        android:scaleY="0.5" />
+
+    <ImageView
+        android:id="@+id/iv_channel_info_enter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="40dp"
+        android:focusable="false"
+        android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:src="@drawable/nav_channel_info_enter"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@id/channel_info_check"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/channel_info_no"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="@dimen/nav_channel_title_padding"
+            android:gravity="center_vertical|start"
+            android:text="@string/menu_cancel"
+            android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+        <TextView
+            android:id="@+id/channel_info_type"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="@string/menu_cancel"
+            android:textSize="@dimen/nav_channel_list_textsize_normal"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/channel_info_name"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1.5"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical|start"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:text="@string/menu_cancel"
+            android:textSize="@dimen/nav_channel_list_textsize_normal" />
+
+        <TextView
+            android:id="@+id/channel_info_freq"
+            style="@style/Canvas.Scan.Text.Middle"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_weight="1.5"
+            android:gravity="center_vertical|start"
+            android:singleLine="true"
+            android:text="@string/menu_cancel"
+            android:textSize="@dimen/nav_channel_list_textsize_normal"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+</RelativeLayout>

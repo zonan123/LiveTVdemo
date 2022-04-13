@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"Atrás"</string>
+    <string name="setup_select" msgid="1270661539800592611">"Seleccionar"</string>
+    <string name="setup_next" msgid="4079616525492116810">"Seguinte"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"Saír"</string>
+    <string name="satellites" msgid="2437056584091944552">"Satélites"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"Entradas"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"Ventá secundaria"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"Fontes de canles"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"Busca canles."</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"Ningunha función"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"Seleccionar lista"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"Seleccionar máis"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"Seleccionar"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"Ordenar"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"Valor predeterminado"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"Por nome, orde ascendente"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"Por nome, orde descendente"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"Encriptado"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"Buscar"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"Introduce o número ou o nome da canle."</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"Emisión"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"Categorías"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"Paquetes"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"Dixital"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"Non hai ningunha canle deste tipo. Selecciona outros tipos."</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"Radio"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"Análogo"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"Gratis"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"Encriptado"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"Rede"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"Seleccionar tipo"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"Cargando. Agarda…"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"Retroceder páxina"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"Avanzar páxina"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"Mover cara arriba"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"Mover cara abaixo"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"Lista de favoritos"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"Eliminar"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"Lista do satélite"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"Seleccionar satélite"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"Lista de canles"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"Atopáronse canles novas e engadíronse á lista."</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"Categorías:"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"Paquetes:"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"Selección da lista de canles"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"Selección da lista de favoritos"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"Detalles da canle"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"Volume principal"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"Introduce o teu contrasinal"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"Introduciches un contrasinal incorrecto tres veces.\nAgarda uns 15 minutos…"</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"O contrasinal é incorrecto. Introdúceo de novo."</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"Antena"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(Programa sen título)."</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(Non hai detalles sobre o programa)."</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(Non hai detalles sobre a canle)."</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"Sen sinal."</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"Non se admite."</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"A canle está bloqueada."</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"A entrada está bloqueada."</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"O programa está bloqueado."</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"Canle oculta"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"Audio codificado"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"Vídeo codificado"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"Suspensión:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"Desactivado"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"Minutos"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"Sen vídeo"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"Obtendo datos…"</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"Audio descoñecido"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"Estéreo descoñecido"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"Audio descoñecido"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"Sen audio"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"Tipo"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"Subtipo"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"Lista de canles reservadas"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"Lista de eventos reservados"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"Queres reservar este programa?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"Xa reservaches este programa. Queres cancelalo?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"está á volta da esquina. Queres cambiar á canle?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"Sen clasificar"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(Non hai detalles sobre o programa)."</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"(Non hai datos sobre o programa)."</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(Programa sen título)."</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(Sen título)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"Desbloqueado"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"Anular planificación"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"Programación"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"Sen clasificar"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"Non se admite"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"Aceptar"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"Cancelar"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"Pantalla completa"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"Zona especial"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"Non"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"Axustar"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"Queres facer unha captura de toda a pantalla ou dunha parte dela?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"Queres facer unha captura desta pantalla?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"Escolle unha posición para gardar o logotipo."</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"Capturando…"</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"A captura realizouse correctamente"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"Produciuse un erro ao realizar a captura. Téntao de novo."</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"Esta operación cancelouse."</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"Sen sinal Apagarase a televisión."</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"Preme calquera tecla para continuar."</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"Día anterior"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"Día seguinte"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"Ver detalles"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"Filtro por tipo"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"Páxina anterior"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"Avanzar páxina"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"INTRODUCIR"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"Sen clasificar"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"Ningún tipo"</string>
+    <string name="epg_password" msgid="8012355648918471162">"Contrasinal"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"Contrasinal incorrecto"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"Obtendo datos…"</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"xaneiro"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"febreiro"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"marzo"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"abril"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"maio"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"xuño"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"xullo"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"agosto"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"setembro"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"outubro"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"novembro"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"decembro"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"Domingo"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"Luns"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"Martes"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"Mércores"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"Xoves"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"Venres"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"Sábado"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"Lista de aplicacións"</string>
+    <string name="nav_select" msgid="990203763701782141">"Seleccionar"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"Non hai ningunha aplicación."</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"A aplicación Ginga está cargando…"</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"Queres deter os subtítulos e iniciar a aplicación Ginga?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"Asistente de actualización"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"Máis información."</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"O ficheiro de imaxe do firmware non é válido."</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"Actualizando…"</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"Non desconectes o dispositivo USB nin apagues a televisión durante a actualización do firmware."</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"Validando firmware…"</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"Seguro que queres actualizar o firmware?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"O firmware actualizouse correctamente.\nReinicia a televisión para activar o firmware novo."</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"Produciuse un erro ao realizar a actualización.\nReinicia a televisión para descargar o firmware de novo."</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"Non se puido realizar a actualización.\nQueres tentalo de novo?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"Produciuse un erro ao realizar a actualización. Introduce o USB.\nQueres tentalo de novo?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"O espazo dispoñible do teu dispositivo USB non é suficiente."</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"O dispositivo USB non está listo. Conéctao e téntao de novo."</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"Produciuse un erro interno."</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"A versión do firmware non está dispoñible."</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"Produciuse un erro ao desencriptar o firmware."</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"O firmware non é válido."</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"Non hai firmware dispoñible para actualizar."</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"Produciuse un erro ao comprobar se hai firmware novo."</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"Produciuse un erro ao descargar o firmware da rede."</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"Produciuse un problema co dispositivo USB."</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"Acender/Apagar"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"Os subtítulos débense pechar antes de activar o texto dixital. Queres realizar esta acción?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"SI"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"NON"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"Queres cambiar ao servizo EWS?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"Queres cambiar ao servizo especial?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"está á volta da esquina. Queres cambiar?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Queres deter a aplicación Ginga e abrir os subtítulos?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"BLOQUEAR"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"GRUPO"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"PÁXINA"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"Sen parte superior"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"Lista de páxinas favoritas"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"Sen clasificar"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus Network cambiou. Podes buscar a rede actualizada."</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus Network non está dispoñible. Debes buscar unha rede actualizada."</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"Non se iniciou CI Plus Network. Debes buscar unha rede actualizada."</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"Chegou a hora para a que se planificou a busca de CI Plus Network. Podes buscar unha rede actualizada."</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"Selecciona o teu país:"</string>
+    <string name="setup_country" msgid="629173256579318536">"País"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"Configura a información da televisión por cable."</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"Fuso horario"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"Modo de busca"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"Frecuencia (kHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"Modulación"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"Taxa de baudios (ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"Código de identificación da rede"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"Código postal"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"Novo contrasinal"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"Confirma o contrasinal"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"Seleccionar operador"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"Tipo de satélite"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"Selecciona o tipo de satélite."</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"Seleccionar operador"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"Só podes seleccionar un operador da lista seguinte."</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"Configura a información da televisión por cable."</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"Configura a información da busca."</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"Selecciona os satélites que queres buscar ou edita o satélite seleccionado."</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"Define a configuración do tipo de antena."</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"Configuración da antena"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"Configura os parámetros do satélite."</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"Define os parámetros do transpondedor."</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"Establecer"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"Descarga de Internet"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"Buscando"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"Produciuse un erro ao buscar software novo para descargar."</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"Programación"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"Descargando"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"Este proceso pode levar ata 25 minutos"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"O software descargouse correctamente. Queres iniciar a instalación?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"Produciuse un erro ao descargar a programación. Queres tentalo de novo?\n\nChama ao centro de asistencia."</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"O software descargouse correctamente. Queres reiniciar a televisión agora?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"Advertencia: Durante este proceso, non desconectes da corrente a televisión, xa que podería quedar defectuosa."</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"Actualización de software. Hai unha nova actualización de software recomendada dispoñible. A actualización pode tardar un pouco e a pantalla podería poñerse de cor negra. Non apagues a televisión durante a actualización. Queres actualizar o software agora?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"Non se puido descargar o software. Queres tentalo de novo?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"Actualización de software. Hai unha nova actualización de software recomendada dispoñible. A actualización pode tardar un pouco e a pantalla podería poñerse de cor negra. Non apagues a televisión durante a actualización. Queres actualizalo agora? Comezará automaticamente en <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> s"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"Actualización de software. Haberá un novo software recomendado dispoñible a esta hora: <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>. A actualización pode tardar un pouco e a pantalla podería poñerse de cor negra. Non apagues o receptor durante a actualización. Se aceptas esta actualización, deixa a televisión acendida ou en espera á hora indicada. Queres aceptar esta actualización?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"Actualización de software. Pode haber unha nova actualización de software recomendada noutra canle. Se aceptas descargala, pódese cambiar á canle automaticamente. Queres facelo agora? Comezará automaticamente en <xliff:g id="AUTOMATICALLY">%s</xliff:g> s"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"Detectouse software novo.\nAceptas que se descargue automaticamente cando a televisión estea no modo de espera?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"Programación"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"Austria"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"Bélxica"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"Suíza"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"República Checa"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"Alemaña"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"Dinamarca"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"España"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"Finlandia"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"Francia"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"Reino Unido"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"Italia"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"Luxemburgo"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"Países Baixos"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"Noruega"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"Suecia"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"Bulgaria"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"Croacia"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"Grecia"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"Hungría"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"Irlanda"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"Polonia"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"Portugal"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"Romanía"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"Rusia"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"Serbia"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"Eslovaquia"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"Eslovenia"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"Turquía"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"Estonia"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"Australia"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"Nova Zelandia"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"Indonesia"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"Selecciona o teu fuso horario:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"Define un contrasinal, xa que \"0000\" non é válido"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"Introduce o código postal."</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"O contrasinal configurouse correctamente."</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"Algunhas canles volvéronse inactivas debido ao cambio de rede. Queres quitalas agora?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"As canles de televisión cambiaron. Preme Aceptar para buscar actualizacións."</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"Configuración da antena"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"Satélite"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"Nome do satélite"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"Posición da órbita"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"Control do movemento"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"Desactivar límites"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"Límite oriental"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"Límite occidental"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"Posición da tenda"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Posición de Goto"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Referencia de Goto"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"Tamaño do paso"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"Tempo/s de espera"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"Mover cara ao leste"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"Mover cara ao oeste"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"Deter movemento"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"Desactivar"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"Ton 22 kHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"Desactivado"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"Activar"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"Automática"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"Transpondedor"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"Frecuencia"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"Taxa de baudios (ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"Polarización"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"Valor descoñecido"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"Horizontal"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"Vertical"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"Esquerda"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"Dereito"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"Engadir satélites novos"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"Engadir transpondedores novos"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"Sintonización do satélite"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"Tipo de busca"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"Tipo de tenda"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"Modo de busca"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"Busca de rede"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"Buscar"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"Busca automática"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"Configuración predeterminada"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"Só canles encriptadas"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"Só canles gratuítas"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"Todo"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"Só canles dixitais"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"Só canles de radio"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(Non hai satélite)."</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"Sintonización manual da televisión por satélite"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(Non hai transpondedor)."</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"O nome do satélite está baleiro.\nIntrodúceo."</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"Nova busca do satélite"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"Engadir satélite"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"Actualización do satélite"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"Estado do satélite"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"Rede"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"Modo completo"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"Satélites"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"Posición"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"Potencia de LNB"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"Tipo de antena"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"Universal"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"Cable único"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"Sintonizador"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"Subsintonizador"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"Banda do usuario <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"Frecuencia da banda"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"Definida polo usuario"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"Posición"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"Cable"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"Satélite preferido"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"Satélite xeral"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"Universal"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"Ton dos disparos"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"Desactivar"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"Ton dos disparos A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"Ton dos disparos B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"Activar"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"Desactivado"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"Hai un conflito entre esta fonte e a de <xliff:g id="CONFLICTS">%s</xliff:g>."</string>
+    <string name="ews_status" msgid="451574410866097453">"ESTADO: <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"Configuración da fonte"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"Ordenar canles automaticamente"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"Pedidos por televisión de pago"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(Programa sen título)."</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"A entrada non admite a busca automática."</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"Non se puido iniciar a busca automática de \"<xliff:g id="TV_INPUT">%s</xliff:g>\""</string>
+    <string name="str" msgid="4738306056683483195">"Favoritos<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"Todo"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"Radio"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"Suspensión: desactivada"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"Suspensión: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> minutos"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"Zoom: 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"Zoom: 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"Zoom: 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"Bloqueo: activado"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"Bloqueo: desactivado"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"Non hai categoría"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"Películas/dramas"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"Noticias/actualidade"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"Programa/concurso"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"Deportes"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"deportes (xeral)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"Programas para nenos/xoves"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"Música/ballet/danza"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"Artes/cultura (sen música)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"Temas sociais/políticos/económicos"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"Temas de educación/ciencia/feitos reais"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"Lecer e afeccións"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"Características especiais"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"Contido infantil"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"Contido erótico"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"Outro contido"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"Entretemento"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"Eventos actuais"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"Información e entretemento"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"Comedia"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"Drama"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"Documental"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"Noticias e feitos reais"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"Deportes"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"Estilo de vida"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"Noticias e feitos reais"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"non se admite"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"Serie"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"Variedades"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"Información"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"Comedia"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"contido romántico"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"serios/clásicos/relixiosos/cine histórico/dramas"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"música seria/clásica"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"películas para adultos/dramas"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"noticias/actualidade (xeral)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"noticias/información meteorolóxica"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"magazine de noticias"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"documentais"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"debates/entrevistas"</string>
+    <string name="nav_News" msgid="3663290212801352195">"Noticias"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"programa/concurso (xeral)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"concursos"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"programa de variedades"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"programa de entrevistas"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"magazines sobre deportes"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"fútbol americano/fútbol"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"tenis/squash"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"deportes de equipo (excepto fútbol americano)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"atletismo"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"deportes de motor"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"deportes de auga"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"deportes de inverno"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"equitación"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"artes marciais"</string>
+    <string name="nav_Children" msgid="873820541320552860">"programas para nenos/xoves"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"programas para nenos en idade preescolar"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"programas de entretemento para 6-14 anos"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"programas de entretemento para nenos de 10-16 anos"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"programas informativos/educativos/escolares"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"debuxos/marionetas"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"música/ballet/danza (xeral)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"rock/pop"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"música folclórica e tradicional"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"jazz"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"musical/ópera"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"ballet"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"artes/cultura (sen música)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"artes escénicas"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"belas artes"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"relixión"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"cultura popular/artes tradicionais"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"literatura"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"cine"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"película/vídeo experimental"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"emisións/prensa"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"emisión en directo"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"novos recursos multimedia"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"magazines sobre artes"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"moda"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"Rexeitar"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"temas sociais/políticos/económicos (xeral)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"magazines/reportaxes/documentais"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"asesoramento económico/social"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"persoas importantes"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"temas de educación/ciencia/feitos reais (xeral)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"natureza/animais/medio ambiente"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"ciencias da tecnoloxía/naturais"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"medicina/fisioloxía/psicoloxía"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"países estranxeiros/expedicións"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"ciencias sociais/espirituais"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"educación superior"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"idiomas"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"Película"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"lecer e afeccións (xeral)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"turismo/viaxes"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"artesanía"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"motor"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"forma física e saúde"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"anuncios/compras"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"xardinaría"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"idioma orixinal"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"branco e negro"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"sen publicar"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"plano-estereoescópico"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"local ou rexional"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"VALOR DESCOÑECIDO"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"Mono"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"Estéreo"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam en mono"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam estéreo"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"NICAM Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM en mono"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM estéreo"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"Audio dual e en mono"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"Envolvente de 2 canles"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"Envolvente"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"Canles: <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g>"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"Domingo"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"Luns"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"Martes"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"Mércores"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"Xoves"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"Venres"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"Sábado"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"Cancelar"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"Aceptar"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"Lembrarmo máis tarde"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"Sen sinal."</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"Busca canles."</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"Obtendo datos"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"Infantil"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"A canle está bloqueada."</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"O programa está bloqueado."</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"A entrada está bloqueada."</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(Programa sen título)."</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"A canle está oculta."</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"Programa de audio"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"Non hai audio nin vídeo"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(Non hai detalles sobre o programa)."</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(Non hai detalles sobre a canle)."</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"Sen emisión de audio"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"Non hai emisión de vídeo"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"Agarda…"</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"Non se admite o vídeo"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"Non se admite a entrada"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"Sen difusión"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"Non hai ningunha canle"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"O teu fornecedor de servizo bloqueou este contido."</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"Codificado"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"Movendo posicionador…"</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"O servizo non se está executando"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"Desactivar"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"Continuo"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"Paso"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"Tempo de espera"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"Zoom"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"Engadiuse <xliff:g id="MSG_CHANNEL">%1$d</xliff:g> canle"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"Engadíronse <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> canles"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"Non se engadiron canles"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"O dispositivo USB está conectado"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"C <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g> %%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"Noticias, reportaxe"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"Contido normal, xeral"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"Información meteorolóxica"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"Programa especial, documental"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"Política, parlamento nacional"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"Economía, informe de mercado"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"Reportaxe estranxeira ou internacional"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"Análise de noticias"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"Debate, conferencia"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"Reportaxe especial"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"Programa local"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"Informe de tráfico"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"Outros"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"Deporte"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"Noticias sobre deportes"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"Béisbol"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"Fútbol"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"Golf"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"Outros deportes de pelota"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"Sumo, deportes de loita"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"Xogos olímpicos ou internacionais"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"Maratón, atletismo, natación"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"Deportes de motor"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"Deportes acuáticos, deportes de inverno"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"Carreira de cabalos, carreira pública"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"Programa sensacionalista ou informativo"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"Programa do corazón ou sensacionalista"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"Moda"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"Vida cotiá, fogar"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"Saúde, tratamentos médicos"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"Compras, negocios de venda por correo"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"Cociña, cociña gourmet"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"Eventos"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"Guía de programas, información"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"Drama"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"Dramas xaponeses"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"Dramas estranxeiros"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"Dramas de época"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"Música"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"Música pop, rock xaponés"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"Rock ou música pop estranxeira"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"Música clásica, ópera"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"Jazz, fusión"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"Música popular, música popular xaponesa (enka)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"Concerto en directo"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"Clasificación, música a petición"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"Karaoke, concursos de canto de afeccionados"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"Balada xaponesa, música tradicional xaponesa"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"Música infantil"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"Música folk, música internacional"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"Programa de variedades"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"Programa de preguntas"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"Xogo"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"Contido variado de debate"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"Programa de comedia"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"Contido musical variado"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"Contido variado de viaxes"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"Contido variado de cociña"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"Películas"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"Películas estranxeiras"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"Películas xaponesas"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"Animación"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"Películas de animación ou efectos especiais"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"Anime xaponés"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"Animación estranxeira"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"Efectos especiais"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"Documental, cultura"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"Sociedade, actualidade"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"Historia, historias de viaxes"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"Natureza, animais, medio ambiente"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"Espazo, ciencia, ciencias médicas"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"Cultura, cultura tradicional"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"Literatura, arte literaria"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"Deporte"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"Documental"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"Entrevistas, debates"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"Teatro, espectáculo público"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"Drama moderno, drama do oeste"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"Musical"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"Baile, ballet"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"Historia de comedia, entretemento"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"Kabuki, drama clásico"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"Afeccións, educación"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"Viaxes, pesca, entretemento ao aire libre"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"Xardinaría, mascotas, artesanía"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"Música, arte, arte industrial"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"Xadrez xaponés (shōgi) e go"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"Xogos de mahjong ou de pinball"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"Coches, motos"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"Xogos para a televisión e o ordenador"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"Conversa, idiomas"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"Rapazada, colexiais"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"Estudantes de secundaria básica e superior"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"Estudantado universitario, exames"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"Educación permanente, cualificacións"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"Problema educativo"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"Benestar"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"Persoas de idade"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"Persoas con discapacidades"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"Benestar social"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"Voluntariado"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"Lingua de signos"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"Texto (subtítulos)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"Explicación sobre difusión de son multiplexado"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"Reservado"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"Reservado"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"Para extensión"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"Información difusión dixital terrestre/satélite"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"Extensión difusión dixital satélite banda ancha"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"Extensión para difusión sonora dixital de satélite"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"Información complementaria programas de servidor"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"Outros"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"Anterior"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Pantalla de inicio de Android TV"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"Ningún"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"Este programa está clasificado cunha frecuencia de <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"A entrada está bloqueada"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"A fonte de entrada está bloqueada debido ao bloqueo que definiches. Esta opción pódese cambiar mediante o menú da televisión. Para desbloquear a pantalla, preme INTRODUCIR."</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"Comproba a entrada externa ou selecciona outra co botón ENTRADA."</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"Non se instalou ningunha canle. Inicia unha busca de canles a través do menú da televisión."</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"Axiña terás acceso ao contido. Agarda un momento."</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"A canle non está dispoñible nestes momentos. Para obter máis información, ponte en contacto co fornecedor de servizo."</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"Esta canle presenta contido exclusivamente sonoro."</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"Esta canle non ten contido de audio nin de vídeo."</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"Cargando"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"Estanse cargando os datos das canles. Agarda un momento."</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"A televisión non admite o formato do vídeo."</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"O teu fornecedor de servizo detivo este contido."</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"Non hai ningunha canle nesta lista."</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"O teu fornecedor de servizo bloqueou este contido."</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"Movendo posicionador"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"O posicionador está xirando para localizar o satélite. Agarda un momento."</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"Non hai servizos de canles activos."</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"O programa está bloqueado"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"Busca canles"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"Axiña terás acceso ao contido. Agarda un momento."</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"Canles IP"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"Estilo de vida, afeccións para o tempo de lecer"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"Selecciona o método de ordenación das canles. A ordenación automática é a predeterminada.\n        A función de ordenación de canles da televisión de pago preséntalle ao usuario os números das canles dun xeito cómodo e exclusivo para os clientes do servizo.\n        Se non consegues instalar as canles a través da función de ordenación da televisión de pago, utiliza a ordenación automática."</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"pechar"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"Correcto!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"Algún dos caracteres non é válido."</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"Non pode estar baleiro."</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"Iniciouse o servizo de limpeza da pantalla. Manterase o estado de limpeza da pantalla.<xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> minuto"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"Detívose o servizo de limpeza da pantalla."</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"Seguro que precisas iniciar unha busca? Quitaranse todas as canles instaladas."</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Malaio"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"Local"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"Orixinal"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"Outro idioma"</string>
+</resources>

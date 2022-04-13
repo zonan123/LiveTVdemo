@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"Schijf is niet klaar voor gebruik."</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR kan niet worden gestart. Schijf is niet klaar voor gebruik."</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"Bestand is gemaakt"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR kan niet worden gestart. SIS moet eerst worden gesloten."</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR kan niet worden gestart. Schakel eerst naar een digitale tv-bron."</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR kan niet worden gestart. Geen signaal gedetecteerd."</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR kan niet worden gestart. Tijdverschuiving is actief."</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV-stream niet beschikbaar."</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"Stream niet geautoriseerd."</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"Invoer vergrendeld."</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"Fout met videoresolutie"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"Interne fout."</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"Tijdverschuiving niet beschikbaar. PVR moet eerst worden gesloten."</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"Geen apparaten of apparaten niet beschikbaar. Probeer het later opnieuw."</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR stopt en opname wordt opgeslagen."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"Schijf losgekoppeld"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"Let op: Koppel het apparaat niet los, anders kunnen er onbekende fouten optreden."</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"Er is niet genoeg ruimte. Er moet minimaal 1 GB ruimte vrij zijn op de schijf."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"Functie wordt niet ondersteund."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"Snel achter elkaar zoeken wordt niet ondersteund."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"Bestand wordt niet ondersteund."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"Bij formatteren worden alle gegevens gewist"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"Weet je het zeker?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"Dit bestand wordt verwijderd."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"Snelheidstest wordt uitgevoerd"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"Koppel het apparaat niet los"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"Formatteren van schijf voltooid"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"Schijfformattering mislukt"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"Snelheidstest uitgevoerd"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"De maximum snelheid is "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"Er is een opname actief."</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR afspelen"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Tijdverschuiving"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"Opname starten"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"Opname stoppen"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR is actief."</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"Wil je het opnameproces stoppen\n en EPG openen?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"Wil je Tijdverschuiving stoppen\n en de EPG openen?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"Wil je het opnameproces stoppen\n en het kanaal wijzigen?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"Wil je het opnameproces stoppen\n en de bron wijzigen?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"Wil je Tijdverschuiving stoppen\n en het kanaal wijzigen?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"Wil je Tijdverschuiving stoppen\n en de bron wijzigen?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"Wil je het opnameproces stoppen\n en PIP/POP openen?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"Wil je Tijdverschuiving stoppen\n en PIP/POP openen?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"Wil je het afspelen van PVR stoppen\n en PIP/POP openen?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"Wil je Tijdverschuiving stoppen\n en de opnamelijst openen?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"Wil je PIP/POP openen?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"Er is een geplande opname"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"Wil je beginnen met opnemen?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"Wil je Tijdverschuiving stoppen?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"Ontsleuteld kanaal kan leiden tot onderbrekingen. Wil je doorgaan?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"Waarschuwing"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"Instelling voor apparaatgegevens"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"Als je de opslag formatteert, worden alle gegevens gewist. Weet je het zeker?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"Tijdverschuiving is bezig met opnemen."</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR is actief."</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR wordt afgespeeld."</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"Tijdverschuiving is niet beschikbaar"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"Het programma voor het testen van de lees- en schrijfsnelheid van de opslag is actief."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"Er is een geplande opname [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>]. Wil je de opname starten?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"Naam:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"Er is een geplande herinnering."</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"wil je dat kanaal bekijken?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"Opnamepoging voor [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] mislukt"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"De opname van [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] is niet voltooid voor <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> sec"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"Een deel van de opname is opgeslagen. De stroom is uitgeschakeld tijdens de opname."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"Gebeurtenismodel"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"Timingprogrammering"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"Met signaal ondersteunde opname"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'Met signaal ondersteunde opname\' kan niet worden bewerkt"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"Tijdverschuiving gestopt."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"Er is een opname actief. Snelheidstest mislukt."</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"Tijdverschuiving is actief. Snelheidstest mislukt."</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"Toegang geweigerd. Snelheidstest mislukt."</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"Onvoldoende schijfruimte. Snelheidstest mislukt."</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"Snelheidstest mislukt."</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"Vooruit- en terugspoelen worden niet ondersteund"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"Er is een fout opgetreden tijdens het verwijderen van het item. Het kanaal neemt op."</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR actief of er wordt een PVR-bestand afgespeeld.\nStop dit en probeer het opnieuw."</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Tijdverschuiving is actief.\nStop de functie en probeer het opnieuw."</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"Huidig kanaal is ongeldig."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"Bezig met vooruitspoelen. Probeer het later opnieuw."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"Bezig met terugspoelen. Probeer het later opnieuw."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Tijdverschuiving-opname vol en automatisch afspelen."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"Geen vorig kanaal beschikbaar. \n Tijdverschuiving is nog bezig met opnemen."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"Mislukte of onvolledige opnames"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"Gedeeltelijke opname door gebrek signaalverlies."</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"Gedeeltelijke opname door gebrek aan EIT."</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"Gedeeltelijke opname door gebrek aan EIT en signaalverlies."</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"Fout met begintijd. De tijd ligt nu vóór de huidige tijd."</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"Onjuiste bestandslengte."</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"Aangevraagde toevoeging van planning overschrijdt maximum."</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"Wil je het opnameproces stoppen\n en het kanaaltype wijzigen?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"Wil je Tijdverschuiving stoppen\n en het kanaaltype wijzigen?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"Schakelen tussen kanalen is niet toegestaan terwijl een opname wordt voorbereid."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"Formatteren"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"Schijfformattering mislukt. Er is een opname actief."</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"Schijfformattering mislukt. Tijdverschuiving is actief."</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"Snelheid ongeldig"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"Formatteren. Een ogenblik geduld…"</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"Vooruitspoelen wordt niet ondersteund"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"Terugspoelen wordt niet ondersteund"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"Schijf is traag en gegevens worden verwijderd"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"Sommige geplande opnamen zijn mislukt of onvolledig"</string>
+</resources>

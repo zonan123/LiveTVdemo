@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ampm">
+    <item msgid="2147250436361165525">"AM"</item>
+    <item msgid="2143773709656890302">"PM"</item>
+  </string-array>
+    <plurals formatted="false" msgid="837834894451191902" name="duration_hour">
+      <item quantity="one"><ns1:g id="OTHER">%1$d</ns1:g> oras</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> na oras</item>
+    </plurals>
+    <plurals formatted="false" msgid="5333672761360360608" name="duration_minute">
+      <item quantity="one"><ns1:g id="OTHER">%1$d</ns1:g> minuto</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> na minuto</item>
+    </plurals>
+    <plurals formatted="false" msgid="1668086011878312925" name="duration_second">
+      <item quantity="one"><ns1:g id="OTHER">%1$d</ns1:g> segundo</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> na segundo</item>
+    </plurals>
+    <plurals formatted="false" msgid="273148666195694222" name="pin_enter_countdown">
+      <item quantity="one">Naglagay ka ng maling PIN nang 5 beses.\nSubukang muli sa loob ng <ns1:g id="COUNTDOWN_XX">%1$d</ns1:g> segundo.</item>
+      <item quantity="other">Naglagay ka ng maling PIN nang 5 beses.\nSubukang muli sa loob ng <ns1:g id="COUNTDOWN_XX">%1$d</ns1:g> na segundo.</item>
+    </plurals>
+    <plurals formatted="false" msgid="7467087757043399175" name="setup_input_channels">
+      <item quantity="one"><ns1:g id="OTHER">%1$d</ns1:g> channel</item>
+      <item quantity="other"><ns1:g id="OTHER">%1$d</ns1:g> na channel</item>
+    </plurals>
+    <string msgid="5589947719764807067" name="TKGS_preferred_list">"Gustong Listahan"</string>
+    <string msgid="3498655065440357780" name="TKGS_reset_table_version">"I-reset ang Bersyon ng Talahanayan"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"I-ON"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string msgid="2445867222494847702" name="action_text_done">"Tapos na"</string>
+    <string msgid="2486894067451814589" name="add_schedule">"PVR"</string>
+    <string msgid="3449389933072208075" name="atsc_end_on_screen">"Huminto ang serbisyo sa paglilinis ng screen."</string>
+    <string msgid="7555502536719724563" name="atsc_start_on_screen">"Sinimulan ang serbisyo ng paglilinis ng screen, papanatilihin ang status na malinis ang screen sa loob ng <ns1:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</ns1:g> (na) minuto."</string>
+    <string msgid="6340508038331619946" name="attention_unplug_device">"Paunawa: Huwag i-unplug ang device, o baka magdulot ito ng mga hindi natukoy na error!"</string>
+    <string msgid="4992829616135797253" name="audio_focus_lost_warnning_info">"Nawala ang focus ng audio. Gusto mo bang hilingin ito ulit?"</string>
+    <string msgid="7132239122157461543" name="audio_hi">"May problema sa pandinig"</string>
+    <string msgid="5066803905413664431" name="audio_type_dts_express_p">"DTS Express"</string>
+    <string msgid="1262425049351310424" name="audio_type_dts_hd">"DTS_HD Master Audio"</string>
+    <string msgid="584091497939463376" name="audio_type_dts_hd_master_audio">"DTS-HD Master Audio"</string>
+    <string msgid="3720443854736419512" name="audio_type_dts_hd_p">"DTS-HD"</string>
+    <string msgid="1683045038949751116" name="audio_vi">"May problema sa paningin"</string>
+    <string msgid="6822352280910575878" name="automatic_Channel_ordering">"Awtomatikong Pagkakasunod-sunod ng Channel"</string>
+    <string msgid="1088782448904712799" name="banner_category_reservd_not_defined">"Nakareserba-hindi tinukoy"</string>
+    <string msgid="640307599005724967" name="banner_category_reserved_for_future_use">"Nakareserba para sa paggamit sa hinaharap"</string>
+    <string msgid="8321549590622504362" name="banner_category_user_defined">"tinukoy ng user"</string>
+    <string msgid="2387680572414212216" name="banner_no_program_title">"(Walang pamagat ang programa.)"</string>
+    <string msgid="9163676286922283591" name="banner_transponder_frequency">"<ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</ns1:g> MHz"</string>
+    <string msgid="5761345425754357247" name="banner_transponder_sysbol_rate">"<ns1:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</ns1:g> Ksym/s"</string>
+    <string msgid="213992569753158855" name="bgm_fail_record_before">"Hindi nagtagumpay ang pagsubok na pag-record sa [<ns1:g id="BGM_FAIL_RECORD_BE">%1$s</ns1:g>]"</string>
+    <string msgid="6661331936971542266" name="bgm_loss_time_pvr">"Hindi natapos ang pag-record ng [<ns1:g id="CHANNEL_INFO_0">%1$s</ns1:g>] nang <ns1:g id="CHANNEL_INFO_TIME">%2$s</ns1:g> (na) segundo"</string>
+    <string msgid="2301067526669124374" name="bisskey_deletekey">"Key na I-delete"</string>
+    <string msgid="1066739106235688236" name="bisskey_savekey">"Key na I-save"</string>
+    <string msgid="7558012292134266265" name="bisskey_updatekey">"Key na I-update"</string>
+    <string msgid="2654494463009417197" name="cable_advance_scan_message">"Mag-tune sa mux transponder frequency ng bansa kung saan ka nakatira."</string>
+    <string msgid="6043223513158402752" name="cam_scan_not_init">"Hindi sinimulan ang CI Plus Network. Dapat kang maghanap ng na-update na network!"</string>
+    <string msgid="5786350609197186292" name="cam_scan_schedule">"Naabot na ang oras ng iskedyul ng paghahanap sa CI Plus Network. Puwede kang maghanap ng na-update na network!"</string>
+    <string msgid="1298120559959087457" name="cam_scan_set_satellte">"Gusto mo bang itakda ang satellite? O kaya, puwede mong gamitin ang default na mga setting para mag-install ng mga cam channel?"</string>
+    <string msgid="4567776796906397627" name="cam_scan_urgent">"Hindi available ang CI Plus Network. Dapat kang maghanap ng na-update na network!"</string>
+    <string msgid="5146179543490482349" name="cam_scan_warning">"Nagbago ang CI Plus Network. Puwede kang maghanap ng na-update na network!"</string>
+    <string msgid="7735928820185294839" name="cannot_be_empty">"Hindi puwedeng walang laman!"</string>
+    <string msgid="2857846823041690857" name="channels_item_app_link_app_launcher">"Buksan ang <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="9103178860749908818" name="channels_item_down">"Ilipat Pababa"</string>
+    <string msgid="897725734324467870" name="channels_item_program_guide">"Gabay ng Programa"</string>
+    <string msgid="4398500479423430803" name="channels_item_setup">"May Mga Bagong Channel"</string>
+    <string msgid="788422281726191758" name="channels_item_up">"Ilipat Pataas"</string>
+    <string msgid="3135386254291939864" name="ci_inserted_msg">"Inilagay ang CAM."</string>
+    <string msgid="7732383317221505376" name="ci_removed_msg">"Inalis ang CAM."</string>
+    <string msgid="372414068198664695" name="ci_title">"Impormasyon ng Cam"</string>
+    <string msgid="9001413346969647308" name="closed_caption_option_item_off">"Naka-off"</string>
+    <string msgid="2542348141320667250" name="closed_caption_system_settings">"I-customize ang Pag-format"</string>
+    <string msgid="7265197580579923226" name="closed_caption_system_settings_description">"Itakda ang mga kagustuhan sa buong system para sa mga closed caption"</string>
+    <string msgid="3850169022645102998" name="closed_caption_unknown_language">"Mga closed caption na <ns1:g id="UNKNOWN_LANGUAGE_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="4964477552557272993" name="commmon_dialog_book_reminder_content">"ay malapit na, gusto mo bang lumipat dito?"</string>
+    <string msgid="2564241104151636624" name="common_dialog_ews_service_content">"Gusto mo bang lumipat sa serbisyo ng EWS?"</string>
+    <string msgid="8611362945357749142" name="common_dialog_msg_no">"HINDI"</string>
+    <string msgid="7210388111074762775" name="common_dialog_msg_yes">"OO"</string>
+    <string msgid="4958454613374227587" name="common_dialog_special_service_content">"Gusto mo bang lumipat sa espesyal na serbisyo?"</string>
+    <string msgid="2444929547847632590" name="common_dialog_start_cc_stop_ginga">"Gusto mo bang ihinto ang Ginga Application at buksan ang Closed Caption?"</string>
+    <string msgid="7117815518726170364" name="common_off">"Naka-off"</string>
+    <string msgid="1719893568304311442" name="common_on">"Naka-on"</string>
+    <string msgid="6833020719645419850" name="confirm_rescan_dialog_title">"Sigurado ka bang kailangan mong mag-scan? Maaalis ang lahat ng naka-install na channel."</string>
+    <string msgid="3378580688716744962" name="continue_to_seek_not_support">"Hindi sinusuportahan ang pagpapatuloy sa pag-seek."</string>
+    <string msgid="2481650396767698912" name="cplogo_bt_adjust">"Isaayos"</string>
+    <string msgid="6981036414598823439" name="cplogo_bt_cancel">"Kanselahin"</string>
+    <string msgid="6449338304259426080" name="cplogo_bt_full_screen">"Full Screen"</string>
+    <string msgid="4773541461478563031" name="cplogo_bt_no">"Hindi"</string>
+    <string msgid="7875576129200767006" name="cplogo_bt_ok">"OK"</string>
+    <string msgid="915184264716301392" name="cplogo_bt_special_area">"Espesyal na Bahagi"</string>
+    <string msgid="4877456366530455468" name="cplogo_capture_res_cancel">"Kinansela ang pagpapatakbong ito."</string>
+    <string msgid="6731510295698263749" name="cplogo_msg_capturing">"Kina-capture..."</string>
+    <string msgid="7543396001845034459" name="cplogo_msg_res_fail">"Hindi nakapag-capture, pakisubukan ulit."</string>
+    <string msgid="1957282842405730989" name="cplogo_msg_res_success">"Matagumpay na Na-capture"</string>
+    <string msgid="1834995871503691155" name="cplogo_msg_select_position">"Pumili ng posisyon kung saan ise-save ang logo."</string>
+    <string msgid="7623959933620691099" name="cplogo_msg_this_screen">"Gusto mo bang i-capture ang screen na ito?"</string>
+    <string msgid="1993311512365826243" name="cplogo_msg_which_screen">"Gusto mo bang i-capture ang buong screen o ang isang espesyal na bahagi?"</string>
+    <string msgid="2989800886940563168" name="create_tshift_file_success">"Matagumpay na Nagawa ang File"</string>
+    <string msgid="8320404648551406234" name="current_channel_invalid_msg">"Invalid ang kasalukuyang channel."</string>
+    <string msgid="2684054899428450899" name="dai_hdmi_dialog_msg">"Na-update ang Kasunduan sa Karagdagang Feature. Tingnan ito?"</string>
+    <string msgid="6674628934134075536" name="default_audio">"Default na Audio"</string>
+    <string msgid="1147638785994808407" name="delet_recording_fail">"Nagka-error habang nagde-delete ng item, nagre-record ang channel."</string>
+    <string msgid="8938889174571141231" name="delete_pvr_file_dialog_confirm1">"Made-delete ang file na ito."</string>
+    <string msgid="2310840604629413136" name="description_age_num">"Inirerekomenda para sa mga <ns1:g id="DESCRIPTION_AGE_NUM_ID">%d</ns1:g> na taong gulang pataas."</string>
+    <string msgid="275280778758600669" name="description_ar_tv_atp">"Naaangkop sa lahat ng audience. Baka naglalaman ang mga programa ng bahagyang karasahan, pananalita, at mga sitwasyong para sa mga nasa hustong gulang."</string>
+    <string msgid="5687319465704756897" name="description_ar_tv_d">"Droga"</string>
+    <string msgid="3649269859977270733" name="description_ar_tv_s">"Pagtatalik"</string>
+    <string msgid="395458137803720902" name="description_ar_tv_sam_13">"Naaangkop sa mga 13 taong gulang pataas. Baka naglalaman ang mga programa ng bahagya hanggang katamtamang pananalita at bahagyang karahasan at sekswal na pagpapahiwatig."</string>
+    <string msgid="5461932730891880296" name="description_ar_tv_sam_16">"Naaangkop sa mga 16 na taong gulang pataas. Baka naglalaman ang mga programa ng matinding karahasan at bulgar na pananalita, bahagyang kahubaran, at katamtamang sekswal na pagpapahiwatig."</string>
+    <string msgid="967289005476938628" name="description_ar_tv_sam_18">"Naaangkop lang sa mga audience na nasa hustong gulang. Naglalaman ang mga programa ng matinding karahasan, bulgar na pananalita, at mga tahasang sekswal na pagpapahiwatig."</string>
+    <string msgid="4115089510428057167" name="description_ar_tv_v">"Karahasan"</string>
+    <string msgid="9052849694835114072" name="description_au_tv_av">"Naaangkop lang na panoorin ng mga 15 taong gulang pataas ang materyal na nauri bilang AV. Hindi ito naaangkop na mauri bilang MA dahil sa tindi at/o dalas ng karahasan, o dahil malaking bahagi ng tema ang karahasan. Sa iba pang aspeto, kapareho ng mga kinakailangan para sa klasipikasyong MA ang mga kinakailangan para sa klasipikasyong ito."</string>
+    <string msgid="8211009928919927197" name="description_au_tv_c">"Ang materyal na nauri bilang C ay para sa mga bata (maliban sa mga preschool na bata) na wala pang 14 na taong gulang."</string>
+    <string msgid="3648769415275928051" name="description_au_tv_g">"Hindi nangangahulugang para sa mga bata ang materyal na nauri bilang G pero mababa ang epekto nito at hindi ito dapat maglaman ng anumang bagay na malamang na hindi naaangkop na mapanood ng mga bata nang walang patnubay."</string>
+    <string msgid="3758823660530867895" name="description_au_tv_m">"Ang materyal na nauri bilang M ay para sa mga nasa hustong gulang na audience. Inirerekomendang mapanood lang ito ng mga 15 taong gulang pataas."</string>
+    <string msgid="1560774867226204453" name="description_au_tv_ma">"Naaangkop lang na panoorin ng mga taong 15 taong gulang pataas ang materyal na nauri bilang MA dahil sa tindi at/o dalas ng karahasan, sekswal na paglalarawan, o bulgar na pananalita, mga tema para sa nasa hustong gulang, o paggamit ng droga. Baka malakas ang epekto."</string>
+    <string msgid="8443265431119407386" name="description_au_tv_p">"Ang materyal na nauri bilang P ay para sa mga preschool na bata."</string>
+    <string msgid="2474110069879436425" name="description_au_tv_pg">"Baka maglaman ang materyal na nauri bilang PG ng mga tema o konseptong para sa mga nasa hustong gulang pero dapat hindi matindi ang epekto ng mga ito at dapat manatiling naaangkop ang mga ito na panoorin ng mga bata nang may patnubay."</string>
+    <string msgid="5658589437756696378" name="description_au_tv_r">"Legal na pinaghihigpitan sa mga nasa hustong gulang ang materyal na nauri bilang R. Baka nakakasakit sa ilang bahagi ng komunidad ng mga nasa hustong gulang ang ilang materyal na nauri bilang R."</string>
+    <string msgid="531580256923909164" name="description_br_tv_d">"Droga"</string>
+    <string msgid="3659480129004604299" name="description_br_tv_l">"Para sa lahat"</string>
+    <string msgid="8592393496388213855" name="description_br_tv_num">"Hindi inirerekomenda para sa mga wala pang <ns1:g id="DESCRIPTION_BR_TV_NUM_ID">%d</ns1:g> taong gulang."</string>
+    <string msgid="6296128386089692428" name="description_br_tv_s">"Pagtatalik"</string>
+    <string msgid="4791910148551562553" name="description_br_tv_v">"Karahasan"</string>
+    <string msgid="5215879895927351742" name="description_ca_tv_en_14">"Ang programming na may ganitong pag-uuri ay may mga tema o elemento ng content na baka hindi naaangkop sa mga manonood na wala pang 14 na taong gulang. Lubos na pinapaalalahanan ang mga magulang na pagpasyahan ang pagpapahintulot sa panonood ng mga pre-teen at nasa mga unang bahagi ng pagiging teen nang walang patnubay ng magulang/tagapag-alaga, dahil ang programming na may ganitong pag-uuri ay puwedeng tumalakay ng mga mature na tema at isyung panlipunan sa makatotohanang paraan."</string>
+    <string msgid="728062003854446182" name="description_ca_tv_en_18">"Ang programming na ito ay para sa mga manonood na 18 taong gulang pataas."</string>
+    <string msgid="4239130347733600747" name="description_ca_tv_en_c">"Ang programming na ito ay para sa mga batang wala pang 8 taong gulang."</string>
+    <string msgid="157653961756834847" name="description_ca_tv_en_c8">"Ang programming na ito ay para sa mga batang 8 taong gulang pataas. Iminumungkahi na samahan ng magulang/tagapag-alaga ang mga batang wala pang 8 taong gulang sa panonood ng programming na nakatalaga sa ganitong pag-uuri."</string>
+    <string msgid="4594700374681841325" name="description_ca_tv_en_exempt">"Kabilang sa hindi kasamang programming ang: mga balita, sports, dokumentaryo, at iba pang programming na nagbibigay ng impormasyon; mga talk show, music video, at variety programming."</string>
+    <string msgid="9011387267323394838" name="description_ca_tv_en_g">"Ang programming na ito ay para sa lahat ng pangkat ng edad at naaangkop na panoorin ng buong pamilya."</string>
+    <string msgid="1281647966041358531" name="description_ca_tv_en_pg">"Ang programming na ito, bagama\'t para sa lahat, ay baka hindi naaangkop sa mga bata (wala pang 8 taong gulang). Dapat malaman ng mga magulang/tagapag-alaga na baka mayroon itong mga elemento ng content na maituturing ng iba na hindi naaangkop para sa hindi pinapatnubayang panonood ng mga batang 8-13 taong gulang."</string>
+    <string msgid="3733179399640639129" name="description_ca_tv_fr_13">"Naaangkop na panoorin ng mga 13 taong gulang pataas ang programang ito. Papapasukin lang ang mga batang wala pang 13 taong gulang kung may kasamang nasa hustong gulang."</string>
+    <string msgid="1724956882971714521" name="description_ca_tv_fr_16">"Naaangkop na panoorin ng mga 16 na taong gulang pataas ang programang ito. Nagpapakita ang mga programang may ganitong rating ng mga nakakabahalang tema, sitwasyon, o pag-uugali at may mas direktang pananaw sa mga bagay-bagay ang mga ito."</string>
+    <string msgid="7351531806464525403" name="description_ca_tv_fr_18">"Naaangkop na panoorin ng mga 18 taong gulang pataas ang programang ito. Ang mga programang nakalaan sa mga nasa hustong gulang ay kadalasang tungkol sa pagpapakita ng mga tahasang sekswal na pangyayari. Puwede ring labis na marahas ang mga ito, nang nagpapakita ng mga eksena ng lubos na makatotohanang karahasan, torture, at pananakot."</string>
+    <string msgid="4710290620628915788" name="description_ca_tv_fr_8">"Naaangkop sa lahat ang programa pero puwede itong maglaman ng bahagya o paminsan-minsang karahasan na baka ikabahala ng mga batang nasa murang edad. Samakatuwid, inirerekomenda ang panonood nang may patnubay ng nasa hustong gulang para sa mga batang nasa murang edad (8 taong gulang pababa)."</string>
+    <string msgid="6181168031949930593" name="description_ca_tv_fr_e">"Mga programang hindi kasama sa pag-uuri."</string>
+    <string msgid="812712328730700550" name="description_ca_tv_fr_g">"Naaangkop na panoorin ng lahat ng edad ang programa. Baka makapanakit ng damdamin ng mga batang wala pang walong taong gulang ang programang may rating na G."</string>
+    <string msgid="7613329223897343137" name="description_es_dvb_all">"Inirerekomenda para sa lahat ng edad."</string>
+    <string msgid="980267721855879361" name="description_es_dvb_c">"Inirerekomenda para sa mga bata."</string>
+    <string msgid="6397110507731134043" name="description_es_dvb_x">"Inirerekomenda para sa mga nasa hustong gulang."</string>
+    <string msgid="505880672388477268" name="description_kr_tv_12">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga batang wala pang 12 taong gulang, at samakatuwid ay dapat pagpasyahan ng mga magulang."</string>
+    <string msgid="1424825062188417293" name="description_kr_tv_15">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga audience na wala pang 15 taong gulang. Samakatuwid, dapat gabayan ng mga magulang ang kanilang mga anak sa panonood."</string>
+    <string msgid="8141648682052815394" name="description_kr_tv_19">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga audience na wala pang 19 na taong gulang. Samakatuwid, hindi naaangkop ang mga ito sa mga kabataang wala pang 19 na taong gulang."</string>
+    <string msgid="6294578566249258989" name="description_kr_tv_7">"Ang mga programa ay baka may materyal na hindi naaangkop sa mga batang wala pang 7 taong gulang, at samakatuwid ay dapat pagpasyahan ng mga magulang."</string>
+    <string msgid="2880536060037059992" name="description_kr_tv_all">"Hindi naglalaman ang mga programa ng materyal na hindi naaangkop sa lahat ng edad, at samakatuwid ay puwedeng panoorin ng lahat ng edad."</string>
+    <string msgid="7534715057755212480" name="description_sa_tv_10">"Pinagbabawalan ang mga batang wala pang 10 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string msgid="6849007243977700328" name="description_sa_tv_13">"Pinagbabawalan ang mga batang wala pang 13 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string msgid="6934567274078402600" name="description_sa_tv_16">"Pinagbabawalan ang mga batang wala pang 16 na taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string msgid="6814431681831259975" name="description_sa_tv_18">"Pinagbabawalan ang mga batang wala pang 18 taong gulang na panoorin ang programa/pelikulang ito."</string>
+    <string msgid="2839067796739398528" name="description_sa_tv_none">"Naaangkop sa lahat ng edad."</string>
+    <string msgid="5232468306982287272" name="description_sa_tv_pg10">"Puwedeng panoorin ng mga batang wala pang 10 taong gulang ang programa/pelikulang ito, pero dapat may kasama siyang nasa hustong gulang."</string>
+    <string msgid="2826427571649837624" name="description_sa_tv_pg13">"Puwedeng panoorin ng mga batang wala pang 13 taong gulang ang programa/pelikulang ito, pero dapat may kasama siyang nasa hustong gulang."</string>
+    <string msgid="8966466636870535072" name="description_sa_tv_r18">"nakalaan ito para sa mga pelikulang labis na sekswal (pornograpiya)."</string>
+    <string msgid="9207245510001823663" name="description_sg_tv_g">"Naaangkop sa lahat ng edad."</string>
+    <string msgid="4495688622482686386" name="description_sg_tv_m18">"Naaangkop sa mga 18 taong gulang pataas."</string>
+    <string msgid="4655362789601793713" name="description_sg_tv_nc16">"Naaangkop sa mga 16 na taong gulang pataas."</string>
+    <string msgid="8807413147853484668" name="description_sg_tv_pg">"Naaangkop sa lahat pero dapat patnubayan ng mga magulang ang kanilang mga anak."</string>
+    <string msgid="1187187083836621720" name="description_sg_tv_pg13">"Naaangkop sa mga 13 taong gulang pataas pero inirerekomenda ang patnubay ng magulang para sa mga batang wala pang 13 taong gulang."</string>
+    <string msgid="8469412927671691778" name="description_sg_tv_r21">"Naaangkop sa mga nasa hustong gulang na 21 taong gulang pataas."</string>
+    <string msgid="380126567363659012" name="description_th_tv_c">"Naaangkop sa mga batang 6 hanggang 12 taong gulang."</string>
+    <string msgid="8696507527665670160" name="description_th_tv_g">"Naaangkop sa lahat."</string>
+    <string msgid="573604443870633316" name="description_th_tv_p">"Naaangkop sa mga batang 3 hanggang 6 na taong gulang."</string>
+    <string msgid="1695934461809229216" name="description_th_tv_pg13">"Naaangkop sa mga 13 taong gulang pataas."</string>
+    <string msgid="597070833139949945" name="description_th_tv_pg18">"Naaangkop sa mga 18 taong gulang pataas. Kailangan ng patnubay ng magulang para sa mga batang wala pang 18 taong gulang"</string>
+    <string msgid="8921473820857112565" name="description_th_tv_x">"Naaangkop sa nasa hustong gulang"</string>
+    <string msgid="299794744638684056" name="description_us_mv_g">"Para sa lahat. Hindi naglalaman ng anumang bagay na puwedeng makapanakit sa mga magulang kapag pinanood ng kanilang mga anak."</string>
+    <string msgid="8734654245083149008" name="description_us_mv_nc17">"Walang pinapapasok na sinumang 17 taong gulang pababa. Para sa nasa hustong gulang lang. Hindi pinapapasok ang mga bata."</string>
+    <string msgid="81027516479177975" name="description_us_mv_pg">"Inirerekomenda ang gabay ng magulang. Baka maglaman ng ilang materyal na baka hindi gustong ipapanood ng mga magulang sa kanilang mga anak na nasa murang edad."</string>
+    <string msgid="2094119267970306011" name="description_us_mv_pg13">"Lubos na pinapaalalahanan ang mga magulang. Baka hindi naaangkop ang ilang materyal para sa mga pre-teen."</string>
+    <string msgid="2248384382323431666" name="description_us_mv_r">"Pinaghihigpitan, Naglalaman ng ilang materyal na para sa nasa hustong gulang. Hinihikayat ang mga magulang na matuto pa tungkol sa pelikula bago isama sa panonood nito ang kanilang mga anak na nasa murang edad."</string>
+    <string msgid="2203823258178769659" name="description_us_mv_x">"Naaangkop sa nasa hustong gulang"</string>
+    <string msgid="1945274614246329605" name="description_us_tv_14">"Ang programang ito ay may ilang materyal na posibleng sumang-ayon ang maraming magulang na hindi angkop sa mga batang wala pang 14 na taong gulang."</string>
+    <string msgid="7417126048971563355" name="description_us_tv_d">"Dialogue na may pagpapahiwatig"</string>
+    <string msgid="5087038597184709325" name="description_us_tv_fv">"Karahasang fantasy"</string>
+    <string msgid="5919925009580010961" name="description_us_tv_g">"Posibleng sumang-ayon ang karamihan ng mga magulang na angkop ang programang ito sa lahat ng edad."</string>
+    <string msgid="2276830531676175553" name="description_us_tv_l">"Bulgar na pananalita"</string>
+    <string msgid="7118695706408907620" name="description_us_tv_ma">"Partikular na idinisenyo ang programang ito para panoorin ng mga nasa hustong gulang at samakatuwid, baka hindi ito naaangkop sa mga batang wala pang 17 taong gulang."</string>
+    <string msgid="7696801642081644497" name="description_us_tv_pg">"Ang programang ito ay may materyal na posibleng sumang-ayon ang mga magulang na hindi angkop sa mga batang nasa mas murang edad. Baka gusto ng maraming magulang na panoorin ito kasama ng kanilang mga mas batang anak."</string>
+    <string msgid="4966533437570326272" name="description_us_tv_s">"Sekswal na content"</string>
+    <string msgid="4340768360627689297" name="description_us_tv_v">"Karahasan"</string>
+    <string msgid="7153666670476947891" name="description_us_tv_y">"Idinisenyo ang programang ito para maging angkop sa lahat ng bata."</string>
+    <string msgid="4388896445294252013" name="description_us_tv_y7">"Idinisenyo ang programang ito para sa mga batang 7 taong gulang pataas."</string>
+    <string msgid="6144499940145005003" name="detail_banner_category">"Genre:"</string>
+    <string msgid="5996262731054423895" name="detail_banner_dis">"Paglalarawan:"</string>
+    <string msgid="4575884876693300911" name="detail_banner_next">"Susunod"</string>
+    <string msgid="7869959253865544969" name="detail_banner_now">"Ngayon"</string>
+    <string msgid="1347473641807661535" name="device_picture">"Larawan"</string>
+    <string msgid="4138595103405578192" name="digital_sat_tuning_title">"Digital Tuning ng Satellite"</string>
+    <string msgid="7659644073053777732" name="diseqc_port">"DiSEqC Port"</string>
+    <string msgid="7020850762067790261" name="disk_disconnect">"Nadiskonekta ang Disk"</string>
+    <string msgid="6643274573175153036" name="disk_formating_wait">"Nagfo-format! Maghintay..."</string>
+    <string msgid="3501780706543760865" name="disk_not_ready">"Hindi nasimulan ang PVR. Hindi handa ang disk!"</string>
+    <string msgid="444496377616975879" name="disk_setting_format_done">"Tapos na ang Pag-format sa Disk"</string>
+    <string msgid="3777611744782439571" name="disk_setting_format_fail">"Hindi Na-format ang Disk"</string>
+    <string msgid="5191386885992163401" name="disk_setting_speeding">"Gumagana ang programa para subukan ang bilis ng pag-read at pag-write ng storage."</string>
+    <string msgid="1603733236399606911" name="disk_setting_speedtest_done">"Tapos na ang Pagsusuri sa Bilis"</string>
+    <string msgid="9023581692808320928" name="disk_setting_speedtest_maxspeed">"Ang maximum na bilis ay "</string>
+    <string msgid="4159500008692147138" name="disk_setting_speedtest_maxspeed_mb">"MB/S"</string>
+    <string msgid="511301017211685858" name="disk_setting_speedtesting">"Kasalukuyang Sinusuri ang Bilis"</string>
+    <string msgid="4543196640273344427" name="disk_setting_unplugdevice_warnning">"Huwag i-unplug ang device"</string>
+    <string msgid="8108387760481208547" name="disksetting_no_enough_speed_fail">"Hindi sapat na espasyo ng disk! Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string msgid="4811641872047486965" name="disksetting_ntfs_speed_fail">"Tinanggihan ang access. Hindi naisagawa ang speed test!"</string>
+    <string msgid="4336995221918770222" name="disksetting_recording_speed_fail">"Nagre-record! Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string msgid="4918605528929173678" name="disksetting_speed_fail">"Hindi natapos ang Pagsusuri sa Bilis!"</string>
+    <string msgid="783220768925022499" name="disksetting_timeshift_speed_fail">"Tumatakbo ang Timeshift! Hindi naisagawa ang Speed Test!"</string>
+    <string msgid="1377378184906101820" name="display_episode_number_format">"S<ns1:g id="SEASON_NUMBER">%1$s</ns1:g>: Ep.<ns1:g id="EPISODE_NUMBER">%2$s</ns1:g>"</string>
+    <string msgid="6917613965080930331" name="display_episode_number_format_no_season_number">"Ep.<ns1:g id="EPISODE_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="3912670160529339468" name="display_episode_title_format_no_season_number">"Ep. <ns1:g id="EPISODE_NUMBER">%1$s</ns1:g> <ns1:g id="EPISODE_TITLE">%2$s</ns1:g>"</string>
+    <string msgid="3199049722134706179" name="divx_dialog_warning">"Nakarehistro na ang iyong device.\nSigurado ka bang gusto mong i-unregister ang device?"</string>
+    <string msgid="4782613096912733081" name="dobly_audio">"Dolby Audio"</string>
+    <string msgid="55797026286728957" name="download_firmware_progress_textview_text">"Pag-usad:"</string>
+    <string msgid="1433346694752099465" name="download_firmware_reboot_button_text">"I-reboot"</string>
+    <string msgid="6186600724359406693" name="download_firmware_start_button_text">"Magsimula"</string>
+    <string msgid="8644139064217773221" name="download_firmware_status_textview_text">"Status:"</string>
+    <string msgid="6026239865587351590" name="download_firmware_status_value_cancel_down">"Kanselahin ang Pag-download"</string>
+    <string msgid="647678136629697974" name="download_firmware_status_value_complete">"Tapos na ang Pag-download"</string>
+    <string msgid="6859186634668850800" name="download_firmware_status_value_downloading">"Dina-download"</string>
+    <string msgid="8839366151705837548" name="download_firmware_status_value_start">"Nagsimula na ang pag-download"</string>
+    <string msgid="3232164838989608671" name="download_firmware_toast_textview_download_exit_fail">"Lumabas sa Pag-download! Hindi nakapag-download!"</string>
+    <string msgid="4044079832519768043" name="download_firmware_toast_textview_download_exit_network_error">"Lumabas sa Pag-download! May error sa network!"</string>
+    <string msgid="2317579984559465646" name="download_firmware_toast_textview_download_exit_none">"Lumabas sa Pag-download! Wala ang ida-download na file!"</string>
+    <string msgid="9093460341791920709" name="download_firmware_toast_textview_download_exit_validate_error">"Lumabas sa Pag-download! Error sa pag-validate!"</string>
+    <string msgid="5026601491883723923" name="download_firmware_toast_textview_to_start_text">"Pakipindot ang button na Magsimula para i-download ang firmware!"</string>
+    <string msgid="8456190132216922491" name="download_firmware_toast_textview_upgrade_text">"Handa na ang firmware. Sigurado ka bang gusto mong i-reboot ang system ngayon?"</string>
+    <string msgid="7644949143448739457" name="download_firmware_toast_textview_validate_complete">"Tapos na ang Pag-validate"</string>
+    <string msgid="8785529636944055113" name="download_firmware_toast_textview_validating_text">"Vina-validate..."</string>
+    <string msgid="2394430484481002527" name="download_firmware_upgrade_successfully">"Matagumpay na na-update ng system ang firmware!"</string>
+    <string msgid="7068385964836530550" name="download_firmware_upgrade_unsuccessfully">"Hindi na-upgrade ng system ang firmware!"</string>
+    <string msgid="7175024292677524576" name="dvbs_add_new_satl">"Magdagdag ng mga bagong satellite"</string>
+    <string msgid="4087291986765580179" name="dvbs_add_new_tp">"Magdagdag ng mga bagong transponder"</string>
+    <string msgid="2972753815380328403" name="dvbs_antenna_setup">"Pag-set Up ng Antenna"</string>
+    <string msgid="4022715171586673363" name="dvbs_antenna_type">"Uri ng Antenna"</string>
+    <string msgid="8699988951473827384" name="dvbs_antenna_type_single">"Single"</string>
+    <string msgid="1287040189459737002" name="dvbs_antenna_type_singlecable">"Iisang Cable"</string>
+    <string msgid="1804642576387540677" name="dvbs_antenna_type_universal">"Universal"</string>
+    <string msgid="7651396014614696697" name="dvbs_band_freq">"Frequency ng Band"</string>
+    <string msgid="707512341400473759" name="dvbs_band_freq_user_define">"Tinukoy ng User"</string>
+    <string msgid="742279976036704869" name="dvbs_cable">"Cable"</string>
+    <string msgid="6553210874716752432" name="dvbs_channel_all">"Lahat"</string>
+    <string msgid="7382339597398479690" name="dvbs_channel_encrypted">"Mga Naka-encrypt na Channel Lang"</string>
+    <string msgid="6736055147307084973" name="dvbs_channel_free">"Mga Libreng Channel Lang"</string>
+    <string msgid="5930404812310851470" name="dvbs_channel_story_type_digital">"Mga Digital na Channel Lang"</string>
+    <string msgid="7336947157467722757" name="dvbs_channel_story_type_radio">"Mga Channel lang sa Radyo"</string>
+    <string msgid="9045990222417359716" name="dvbs_conflict_diseqc_toast">"Sumasalungat ang uri ng DiSEqC, pakisuri ang mga setting ng DiSEqC."</string>
+    <string msgid="1489559417633513786" name="dvbs_diseqc12_motor_disablelimits">"I-disable ang Mga Limitasyon"</string>
+    <string msgid="4537336399129014090" name="dvbs_diseqc12_motor_gotoposition">"Posisyon ng Goto"</string>
+    <string msgid="6254795571170735105" name="dvbs_diseqc12_motor_gotoreference">"Reference ng Goto"</string>
+    <string msgid="6395392274966864246" name="dvbs_diseqc12_motor_limiteast">"Limitahan ang Silangan"</string>
+    <string msgid="8457578140107894074" name="dvbs_diseqc12_motor_limitwest">"Limitahan ang Kanluran"</string>
+    <string msgid="137363920323826557" name="dvbs_diseqc12_motor_movementcontrol">"Kontrol ng Paggalaw"</string>
+    <string msgid="7831370800809423106" name="dvbs_diseqc12_motor_storeposition">"Posisyon sa Store"</string>
+    <string msgid="7047409663259036827" name="dvbs_diseqc12_movement_GotoXX">"Goto x.x°"</string>
+    <string msgid="6733476973734632871" name="dvbs_diseqc12_movement_latitude">"Aking latitude"</string>
+    <string msgid="3678228778221741011" name="dvbs_diseqc12_movement_longitude">"Aking longitude"</string>
+    <string msgid="2827351788964268809" name="dvbs_diseqc12_movement_moveeast">"Lumipat sa Silangan"</string>
+    <string msgid="7123211228805919889" name="dvbs_diseqc12_movement_movewest">"Lumipat sa Kanluran"</string>
+    <string msgid="7793161872139465990" name="dvbs_diseqc12_movement_orbit_position">"Posisyon ng orbit ng satellite"</string>
+    <string msgid="8682323610592008764" name="dvbs_diseqc12_movement_stepsize">"Laki ng Hakbang"</string>
+    <string msgid="1462218797182659459" name="dvbs_diseqc12_movement_stopmovement">"Ihinto ang Paggalaw"</string>
+    <string msgid="313118780591552706" name="dvbs_diseqc12_movement_timeout">"(Mga) Timeout"</string>
+    <string msgid="2904564865763683800" name="dvbs_diseqc_input_0">"I-disable"</string>
+    <string msgid="4057062345858532690" name="dvbs_general_satellite">"Pangkalahatang Satellite"</string>
+    <string msgid="4612812454674154948" name="dvbs_lnb_configration">"Mga Configuration ng LNB"</string>
+    <string msgid="6030869505379137523" name="dvbs_lnb_power">"LNB Power"</string>
+    <string msgid="3743833568050427349" name="dvbs_lnb_skip_scan">"Laktawan ang pag-scan"</string>
+    <string msgid="6239879639460583996" name="dvbs_manual_tuning">"Manual Tuning ng Satellite"</string>
+    <string msgid="6032112355240733150" name="dvbs_network_search">"Paghahanap ng Network"</string>
+    <string msgid="4597539354587303004" name="dvbs_position">"Posisyon"</string>
+    <string msgid="2318484385999187895" name="dvbs_preferred_satellite">"Gustong Satellite"</string>
+    <string msgid="3116396672861528026" name="dvbs_rescan_dialog_title">"Sigurado ka bang gusto mong i-scan ulit ang lahat ng satellite? Maaalis ang lahat ng naka-install na channel."</string>
+    <string msgid="8182980047456997930" name="dvbs_rescan_more">"Higit pa"</string>
+    <string msgid="951113880294713457" name="dvbs_same_port_lnb_toast">"Hindi puwedeng magkapareho ang ilang port ng mga satellite, pakitingnan ang mga setting ng DiSEqC."</string>
+    <string msgid="3047792918924070124" name="dvbs_sat_name_empty_alarm">"Walang laman ang pangalan ng satellite.\nPakilagay ito!"</string>
+    <string msgid="3184206254184333211" name="dvbs_sat_no_satl">"(Walang Satellite.)"</string>
+    <string msgid="4338485354553994282" name="dvbs_sat_no_tp">"(Walang Transponder.)"</string>
+    <string msgid="6344968304652340601" name="dvbs_sat_off">"I-off"</string>
+    <string msgid="3030836158325577633" name="dvbs_sat_on">"I-on"</string>
+    <string msgid="562016984880548647" name="dvbs_satellite_add">"Pagdaragdag ng Satellite"</string>
+    <string msgid="3895707561303710877" name="dvbs_satellite_antenna_type">"Uri ng Satellite Antenna"</string>
+    <string msgid="5074556275726412795" name="dvbs_satellite_channel">"Uri ng Pag-scan"</string>
+    <string msgid="5716197702446157151" name="dvbs_satellite_channel_store_type">"Uri ng Store"</string>
+    <string msgid="4776876001455788631" name="dvbs_satellite_detail">"Detalye ng Satellite"</string>
+    <string msgid="3859616799929488652" name="dvbs_satellite_detail_high_freq">"Mataas na frequency"</string>
+    <string msgid="362470160273770698" name="dvbs_satellite_detail_low_freq">"Mababang frequency"</string>
+    <string msgid="7011227087621403482" name="dvbs_satellite_detail_switch_freq">"Lumipat ng frequency"</string>
+    <string msgid="1084080307775292449" name="dvbs_satellite_name">"Pangalan ng Satellite"</string>
+    <string msgid="7359611960869875178" name="dvbs_satellite_orbit">"Posisyon ng Orbit"</string>
+    <string msgid="1127096646056480525" name="dvbs_satellite_rescan">"Pag-scan Ulit sa Satellite"</string>
+    <string msgid="2524642316348336755" name="dvbs_satellite_search">"Paghahanap"</string>
+    <string msgid="4720894419273187517" name="dvbs_satellite_selection">"Pagpipiliang Satellite"</string>
+    <string msgid="3053329371093705283" name="dvbs_satellite_setting">"Satellite"</string>
+    <string msgid="7318477883891109028" name="dvbs_satellite_status">"Status ng Satellite"</string>
+    <string msgid="8417770524403541865" name="dvbs_satellite_tuning">"Satellite Tuning"</string>
+    <string msgid="8654948129962734041" name="dvbs_satellite_update">"Update ng Satellite"</string>
+    <string msgid="1637251811528417434" name="dvbs_scan_download_sdx">"Mag-download ng SatcoDX"</string>
+    <string msgid="8283847435432638067" name="dvbs_scan_mode">"Scan Mode"</string>
+    <string msgid="6427513165971616257" name="dvbs_scan_mode_auto">"Auto"</string>
+    <string msgid="5079949030817709762" name="dvbs_scan_mode_full">"Buo"</string>
+    <string msgid="397846288165617698" name="dvbs_scan_mode_network">"Network"</string>
+    <string msgid="4526803816932732504" name="dvbs_scan_mode_preset">"Preset"</string>
+    <string msgid="1931453765281387830" name="dvbs_scan_positon">"Posisyon"</string>
+    <string msgid="39135175175659536" name="dvbs_scan_satellites">"Mga Satellite"</string>
+    <string msgid="4028961194688664591" name="dvbs_scan_tip">"Pakipindot ang kanang key para mag-scan"</string>
+    <string msgid="8431491600467381774" name="dvbs_scan_type_normal">"Normal na Pag-scan"</string>
+    <string msgid="8828241765191566761" name="dvbs_scan_type_sdx">"Pag-scan ng SatcoDX"</string>
+    <string msgid="3586313354629667245" name="dvbs_sdx_select_satellite_tip">"Pakitiyak na pumili ng pangalan ng satellite at i-configure ang DiSEqC."</string>
+    <string msgid="934739686877164305" name="dvbs_sdx_select_satellite_warning">"Sa pag-load ng listahan ng preset, kinakailangang pumili ng kahit isa lang sa mga satellite sa ibaba:\n\n\n    <ns1:g id="SATELLITE_NAME">%1$s</ns1:g>\n Kaya hindi ma-load ang listahan ng preset!"</string>
+    <string msgid="7107319723055117254" name="dvbs_status_storing">"Status: Sino-store"</string>
+    <string msgid="5066779230374934082" name="dvbs_storing_wait">"Sino-store na ngayon ang mga channel, maghintay..."</string>
+    <string msgid="6486203450059492940" name="dvbs_sub_band_frequency">"Frequency ng Sub Band"</string>
+    <string msgid="6055266277998312868" name="dvbs_sub_user_band">"Sub Tuner"</string>
+    <string msgid="7874453770844029312" name="dvbs_sub_user_define_frequency">"Frequency na Tinukoy ng Sub User"</string>
+    <string msgid="1373442618400041462" name="dvbs_tone_22khz">"Tone 22KHz"</string>
+    <string msgid="2135233828771513065" name="dvbs_tone_22khz_auto">"Auto"</string>
+    <string msgid="3268883660443420418" name="dvbs_tone_22khz_off">"Naka-off"</string>
+    <string msgid="6752287281718331623" name="dvbs_tone_22khz_on">"Naka-on"</string>
+    <string msgid="2243245840655328045" name="dvbs_tone_burst">"Tone Burst"</string>
+    <string msgid="2720610846391022032" name="dvbs_tone_burst_a">"Tone Burst A"</string>
+    <string msgid="178126213400576111" name="dvbs_tone_burst_b">"Tone Burst B"</string>
+    <string msgid="3874748353266460431" name="dvbs_tone_burst_disable">"I-disable"</string>
+    <string msgid="29263512803296005" name="dvbs_tp_fre">"Frequency"</string>
+    <string msgid="1197912184998798968" name="dvbs_tp_pol">"Polarization"</string>
+    <string msgid="5653469867422424846" name="dvbs_tp_pol_0_unknown">"Hindi Alam"</string>
+    <string msgid="2719356412874668259" name="dvbs_tp_pol_1_HORIZONTAL">"Horizontal"</string>
+    <string msgid="4316294256100373911" name="dvbs_tp_pol_2_VERTICAL">"Vertical"</string>
+    <string msgid="6229301100202150697" name="dvbs_tp_pol_3_LEFT">"Kaliwa"</string>
+    <string msgid="4289490618801741661" name="dvbs_tp_pol_4_RIGHT">"Kanan"</string>
+    <string msgid="8005246419544394607" name="dvbs_tp_sys_rate">"Rate ng Simbolo (Ksym/s)"</string>
+    <string msgid="1452034905307894504" name="dvbs_trasponder">"Transponder"</string>
+    <string msgid="7993112503468933797" name="dvbs_user_band">"Tuner"</string>
+    <string msgid="3936352644748717288" name="dvbs_user_band_item_id">"User band <ns1:g id="DVBS_USER_BAND_ID">%d</ns1:g>"</string>
+    <string msgid="1929522613437163818" name="dvbs_user_define_frequency">"Frequency na Tinukoy ng User"</string>
+    <string msgid="3618328259182471233" name="dvbt_inactivechannel_nw_chg">"Nagiging hindi aktibo ang ilang channel dahil sa pagbabago sa network. Gusto mo bang alisin ang mga iyon ngayon?"</string>
+    <string msgid="6838309354217896476" name="dvbt_ita_no_channels">"Walang na-install na digital na channel, pindutin ang OK para magsagawa ng awtomatikong pag-scan sa pagkakasunod-sunod ng channel."</string>
+    <string msgid="27559318606000652" name="dvbt_single_rf_frequency">"<ns1:g id="FREQUENCY_NAME">%1$s</ns1:g> (<ns1:g id="FREQUENCY_0">%2$s</ns1:g> KHz)"</string>
+    <string msgid="2122762489369759402" name="dvr_device_formate_title">"Buburahin ng pag-format ang lahat ng data, Sigurado ka ba?"</string>
+    <string msgid="5629036414782412313" name="dvr_device_info_title">"Setting ng Impormasyon ng Device"</string>
+    <string msgid="4638709416180940311" name="dvr_device_no">"Walang Device"</string>
+    <string msgid="1234820896587479766" name="dvr_devices_mount">"Nakakonekta ang USB Device"</string>
+    <string msgid="3498310333268513772" name="dvr_dialog_message_desramble">"Puwedeng makaabala ang naka-descramble na channel, gusto mo bang magpatuloy?"</string>
+    <string msgid="2872115340693460333" name="dvr_dialog_message_pip">"Gusto mo bang pumasok sa PIP/POP?"</string>
+    <string msgid="8528375250371620271" name="dvr_dialog_message_playback_pip">"Gusto mo bang ihinto ang pag-playback ng PVR,\n at pumasok sa PIP/POP?"</string>
+    <string msgid="7326803297218411233" name="dvr_dialog_message_record_channel">"Gusto mo bang ihinto ang proseso ng pag-record, \n at lumipat ng channel?"</string>
+    <string msgid="45392879517475466" name="dvr_dialog_message_record_epg">"Gusto mo bang ihinto ang proseso ng pag-record,\n at buksan ang EPG?"</string>
+    <string msgid="3926706775392648872" name="dvr_dialog_message_record_pip">"Gusto mo bang ihinto ang proseo ng pag-record,\n at pumasok sa PIP/POP?"</string>
+    <string msgid="4498121837579811401" name="dvr_dialog_message_record_source">"Gusto mo bang ihinto ang proseso ng pag-record,\n at palitan ang source?"</string>
+    <string msgid="1689154925747366258" name="dvr_dialog_message_record_type">"Gusto mo bang ihinto ang proseso ng pag-record, \n at baguhin ang uri ng channel?"</string>
+    <string msgid="8516324929831781272" name="dvr_dialog_message_schedule_pvr">"May nakaiskedyul na pag-record [<ns1:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</ns1:g>], gusto mo bang magsimula ng pag-record?"</string>
+    <string msgid="4708146321028406075" name="dvr_dialog_message_schedule_record">"gusto mo bang simulan ang pag-record?"</string>
+    <string msgid="4418553876378578935" name="dvr_dialog_message_schedule_timeshift">"gusto mo bang ihinto ang Timeshift?"</string>
+    <string msgid="76319744670730127" name="dvr_dialog_message_schedule_title">"Babala"</string>
+    <string msgid="1454735178842495094" name="dvr_dialog_message_shcedule_before">"May nakaiskedyul na record"</string>
+    <string msgid="2687376893468785064" name="dvr_dialog_message_timeshift_channel">"Gusto mo bang ihinto ang Timeshift,\n at lumipat ng channel?"</string>
+    <string msgid="6401245722652707495" name="dvr_dialog_message_timeshift_epg">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa EPG?"</string>
+    <string msgid="4026877154963099921" name="dvr_dialog_message_timeshift_pip">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa PIP/POP?"</string>
+    <string msgid="7504548204570690417" name="dvr_dialog_message_timeshift_record">"Gusto mo bang ihinto ang Timeshift,\n at pumasok sa listahan ng record?"</string>
+    <string msgid="2747832318245383768" name="dvr_dialog_message_timeshift_source">"Gusto mo bang ihinto ang Timeshift,\n at palitan ang source?"</string>
+    <string msgid="5274533061439991720" name="dvr_dialog_message_timeshift_type">"Gusto mo bang ihinto ang Timeshift,\n at baguhin ang uri ng channel?"</string>
+    <string msgid="1612091177824337611" name="dvr_msg_disk_speed_slow">"Mabagal ang disk at i-discard ang data"</string>
+    <string msgid="7878420357993411563" name="dvr_play_speed_invalied">"Invalid ang bilis!"</string>
+    <string msgid="4216962952591911215" name="dvr_playback_name">"Pangalan:"</string>
+    <string msgid="8151755810271812155" name="dvr_schedule_event_toast">"Hindi mae-edit ang \'Pag-record na Sinusuportahan ng Signal\'"</string>
+    <string msgid="238593508388029913" name="dvr_schedule_event_type_name">"Modelo ng Event"</string>
+    <string msgid="8918968976378102585" name="dvr_schedule_event_type_normal">"Pagtatakda ng Oras ng Programming"</string>
+    <string msgid="8289362504238612522" name="dvr_schedule_event_type_track">"Pag-record na Sinusuportahan ng Signal"</string>
+    <string msgid="8078152277135454645" name="dvr_schedule_watch_after">"gusto mo bang panoorin ang channel na iyon?"</string>
+    <string msgid="1939668473819679446" name="dvr_schedule_watch_content">"May nakaiskedyul na paalala."</string>
+    <string msgid="2720694528780337887" name="dvr_starting_not_switch_channel">"Hindi pinapayagan ang paglipat ng channel habang naghahandang mag-record."</string>
+    <string msgid="1167274067666724348" name="dvr_stop_reason_fail">"Mga pumalya o hindi kumpletong recording"</string>
+    <string msgid="6821810428678641140" name="epg_bottom_ENTER">"ILAGAY"</string>
+    <string msgid="3569371225335446793" name="epg_bottom_next_day">"Kinabukasan"</string>
+    <string msgid="2541424065169620680" name="epg_bottom_next_page">"Page Down"</string>
+    <string msgid="6400043693394476392" name="epg_bottom_prev_day">"Nakaraang Araw"</string>
+    <string msgid="1630450278083496915" name="epg_bottom_prev_page">"Page Up"</string>
+    <string msgid="3310556571928273711" name="epg_bottom_type_filter">"Uri ng Filter"</string>
+    <string msgid="8139815806235866958" name="epg_bottom_view_detail">"Tingnan ang Detalye"</string>
+    <string msgid="4158534457218991762" name="epg_info_program_type">"Wala"</string>
+    <string msgid="8012355648918471162" name="epg_password">"Password"</string>
+    <string msgid="6211665596718748186" name="epg_password_message">"Mali ang Password"</string>
+    <string msgid="2896633488111871263" name="epg_rating_unclassified">"Walang klasipikasyon"</string>
+    <string msgid="914621654709744814" name="epg_retrieving_show">"Kinukuha ang Data..."</string>
+    <string msgid="2513297384655608276" name="epg_type_none">"Wala"</string>
+    <string msgid="451574410866097453" name="ews_status">"STATUS <ns1:g id="EWS_STATUS_EWS">%1$s</ns1:g>"</string>
+    <string msgid="7630821608627714353" name="exit">"Lumabas"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Advanced"</string>
+    <string msgid="4210998606974173799" name="fav_list_is_full">"Puno na ang listahan ng mga paborito."</string>
+    <string msgid="3826438517111496497" name="feature_not_support">"Hindi sinusuportahan ang feature."</string>
+    <string msgid="2046907877432770190" name="file_notsupport">"Hindi sinusuportahan ang file."</string>
+    <string msgid="6901492378026442073" name="format_confirm_dialog_line1">"Mabubura ang lahat ng data kapag nag-format"</string>
+    <string msgid="8219710721924911870" name="format_confirm_dialog_line2">"Sigurado ka ba?"</string>
+    <string msgid="2659951684849881728" name="fvp_advise_scan_msg">"Posibleng na-update ang mga channel sa iyong rehiyon.\nInirerekomendang i-scan ulit ang TV mo.\nPindutin ang OK para ma-update ang listahan ng channel.\nPindutin ang Exit para balewalain ito sa ngayon."</string>
+    <string msgid="3800139600742058804" name="fvp_scan_error_msg">"Hindi available ang listahan ng channel sa Freeview Play sa ngayon.\nMagpapatuloy na ang TV sa listahan ng broadcast channel. \nPindutin ang OK para magpatuloy."</string>
+    <string msgid="1348613590087653692" name="fvp_scan_timeout_tip">"Umaabot nang <ns1:g id="FVP_SCAN_TIP_MSG_WAIT_TIME_FIRST">%1$d</ns1:g> (na) segundo ang pagkonekta sa server pero hindi tumugon ang network, puwede mong pindutin ang exit para kanselahin ang pag-install ng listahan ng channel sa Freeview Play."</string>
+    <string msgid="2608187961502463042" name="hbbtv_close_dialog">"isara"</string>
+    <string msgid="734528083985709244" name="hbbtv_failed_message">"Kasalukuyang hindi available ang palabas na pinili mo"</string>
+    <string msgid="1707645071224134304" name="hbbtv_failed_title">"Babala"</string>
+    <string msgid="2183428351070826605" name="inputspanel_android_tv_home">"Home ng Android TV"</string>
+    <string msgid="8986022644010668512" name="insert_Cam_Select_Canscan">"Gusto mo bang mag-load ng mga operator na channel?"</string>
+    <string msgid="8306486065781450378" name="ip_channels">"Mga IP Channel:"</string>
+    <string msgid="1043639557116394355" name="italy_clarify_text">"Piliin ang paraan ng pagkakasunod-sunod ng channel. Awtomatikong pagkakasunod-sunod ng channel ang default na paraan.\n        Nagbibigay-daan ang pagkakasunod-sunod ng Pay TV na maipakita sa user ang mga numero ng channel sa isang madaling gamiting anyo na nakatuon sa mga customer ng Pay TV.\n        Gumamit ng awtomatikong pagkakasunod-sunod ng channel kung sakaling hindi magtagumpay ang pagkakasunod-sunod ng Pay TV na mag-install ng mga channel."</string>
+    <string msgid="5735084199521518293" name="keep_least_one_channel_skip">"Huwag laktawan ang lahat ng channel."</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"Magpatuloy"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"Tapusin"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"Code ng error na %1$d ng MediaPlayer na may extra na %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"Menu sa pag-navigate"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"Susunod"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"MAGSIMULA"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"I-disable ang Closed Captioning"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"I-enable ang Closed Captioning"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"I-fast Forward"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"I-fast Forward nang %1$dX"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"Nakatago ang mga kontrol ng media, pindutin ang d-pad upang ipakita"</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"I-disable ang Mataas na Kalidad"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"I-enable ang Mataas na Kalidad"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"Mas Marami Pang Pagkilos"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"I-pause"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"Pumasok sa Picture-In-Picture Mode"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"I-play"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"Ulitin Lahat"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"Walang Uulitin"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"Ulitin ang Isa"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"I-rewind"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"I-rewind nang %1$dX"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"Ipinapakita ang mga kontrol ng media"</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"I-disable ang Pag-shuffle"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"I-enable ang Pag-shuffle"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"Laktawan ang Susunod"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"Laktawan ang Nakaraan"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"Alisin sa Pagkakapili ang Thumb Down"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"Piliin ang Thumb Down"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"Alisin sa Pagkakapili ang Thumb Up"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"Piliin ang Thumb Up"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"Maghanap"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"Magsalita upang maghanap"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"Hanapin ang <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"Magsalita upang hanapin ang <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="312621538618828980" name="license_info_dialog_sign">"<ns1:g id="SIGN_ONE">%1$d</ns1:g>/<ns1:g id="SIGN_TWO">%2$d</ns1:g>"</string>
+    <string msgid="4767050238622861788" name="lnb_universal">"Universal"</string>
+    <string msgid="8237027936565795122" name="mediaset_premium_ordering">"Pag-order ng May Bayad na TV"</string>
+    <string msgid="8627341690980667363" name="menu_advanced_ci">"CI Card"</string>
+    <string msgid="4684187535340097577" name="menu_advanced_oad">"Manual na Pag-download ng OAD"</string>
+    <string msgid="6087419409021029702" name="menu_advanced_options">"Mga Advanced na Opsyon"</string>
+    <string msgid="1533025008287767607" name="menu_age_ratings">"Rating sa Edad"</string>
+    <string msgid="2513172428085896841" name="menu_allowed_rating">"Pinapayagang Rating"</string>
+    <string msgid="2607530786101957614" name="menu_app_link">"Link ng App"</string>
+    <string msgid="5968738389591460509" name="menu_arrays_Adult">"Pang-adult"</string>
+    <string msgid="8153584011983662479" name="menu_arrays_Advance">"Advanced"</string>
+    <string msgid="8294956944079962717" name="menu_arrays_All_channels">"Lahat ng channel"</string>
+    <string msgid="3866596728065174354" name="menu_arrays_Analog">"Analog"</string>
+    <string msgid="7801497378825097110" name="menu_arrays_Analog_Digital">"Analog/Digital"</string>
+    <string msgid="5931500471481039191" name="menu_arrays_Animal_Wildlife">"Hayop/Wildlife"</string>
+    <string msgid="792654887538581337" name="menu_arrays_Antenna">"Antenna"</string>
+    <string msgid="8639640177143632897" name="menu_arrays_Arts">"Sining"</string>
+    <string msgid="6749516296190568227" name="menu_arrays_As_Broadcast">"Bilang Broadcast"</string>
+    <string msgid="3890922072205931808" name="menu_arrays_As_Broadcaster">"Tulad ng Broadcaster"</string>
+    <string msgid="6718568285833546090" name="menu_arrays_Auto">"Auto"</string>
+    <string msgid="6974199440945968182" name="menu_arrays_Auto_Stereo">"Auto Stereo"</string>
+    <string msgid="2908704526338195080" name="menu_arrays_Bahasa_Melayu">"Bahasa Melayu"</string>
+    <string msgid="5316206528757697812" name="menu_arrays_Below_xx">"Wala pang <ns1:g id="BELOW_XX">%1$d</ns1:g>"</string>
+    <string msgid="7650695801370292338" name="menu_arrays_Black">"Itim"</string>
+    <string msgid="4098581090645860027" name="menu_arrays_Block_AV_and_above">"I-block ang AV Pataas"</string>
+    <string msgid="1010482734674538428" name="menu_arrays_Block_G_and_above">"I-block ang G Pataas"</string>
+    <string msgid="2902158154405770928" name="menu_arrays_Block_MA_and_above">"I-block ang MA Pataas"</string>
+    <string msgid="1587547949824334092" name="menu_arrays_Block_M_and_above">"I-block ang M Pataas"</string>
+    <string msgid="2329755086870199923" name="menu_arrays_Block_PG_and_above">"I-block ang PG Pataas"</string>
+    <string msgid="3931509965632385919" name="menu_arrays_Block_R_and_above">"I-block ang R Pataas"</string>
+    <string msgid="4489389407640869527" name="menu_arrays_Blue">"Asul"</string>
+    <string msgid="9203263115989080926" name="menu_arrays_Cable">"Cable"</string>
+    <string msgid="4442342875896881705" name="menu_arrays_Channel_Info">"Impormasyon ng Channel"</string>
+    <string msgid="367778033888365230" name="menu_arrays_Comedy">"Komedya"</string>
+    <string msgid="994203875824149303" name="menu_arrays_Country_Region_ID_x">"Country Region ID na <ns1:g id="COUNTRY_REGION_ID">%1$d</ns1:g>"</string>
+    <string msgid="590587736732468788" name="menu_arrays_Cyan">"Cyan"</string>
+    <string msgid="2887502959851143306" name="menu_arrays_Daily">"Araw-araw"</string>
+    <string msgid="8926526950352798110" name="menu_arrays_Digital">"Digital"</string>
+    <string msgid="6692493348087982008" name="menu_arrays_Drama">"Drama"</string>
+    <string msgid="9017988031684735231" name="menu_arrays_Drugs">"Droga"</string>
+    <string msgid="1237203245379622776" name="menu_arrays_Dual1">"Dual1"</string>
+    <string msgid="767741546937732184" name="menu_arrays_Dual2">"Dual2"</string>
+    <string msgid="6824372712457352356" name="menu_arrays_Education">"Edukasyon"</string>
+    <string msgid="8501789414043300586" name="menu_arrays_Entertainment">"Entertainment"</string>
+    <string msgid="2121237939250683484" name="menu_arrays_Everyday">"Araw-araw"</string>
+    <string msgid="4282409277333173747" name="menu_arrays_Family_Kids">"Pampamilya/Pambata"</string>
+    <string msgid="1452726097579727890" name="menu_arrays_Friday">"Biyernes"</string>
+    <string msgid="5670561186156834834" name="menu_arrays_Full">"Buo"</string>
+    <string msgid="2723175717685708412" name="menu_arrays_Gaming">"Gaming"</string>
+    <string msgid="2366515706387927382" name="menu_arrays_General">"Pangkalahatan"</string>
+    <string msgid="875594988593992607" name="menu_arrays_Good">"Maganda"</string>
+    <string msgid="7251521462222533405" name="menu_arrays_Green">"Berde"</string>
+    <string msgid="8311117292032115988" name="menu_arrays_Hearing_Impaired">"May Problema sa Pandinig"</string>
+    <string msgid="42985913839454918" name="menu_arrays_Horizonal">"Horizontal"</string>
+    <string msgid="3539750662826305136" name="menu_arrays_Kid_3_5_years">"Mga Batang Edad 3-5"</string>
+    <string msgid="4677503582394369759" name="menu_arrays_Kid_6_12_years">"Mga Batang Edad 6-12"</string>
+    <string msgid="566368717632187973" name="menu_arrays_Language_x">"Wikang <ns1:g id="LANGUAGE_X">%1$d</ns1:g>"</string>
+    <string msgid="6438453482331796882" name="menu_arrays_Large">"Malaki"</string>
+    <string msgid="6538332406071163031" name="menu_arrays_Last_Status">"Huling Status"</string>
+    <string msgid="4991501223080491744" name="menu_arrays_Level1.5">"Level 1.5"</string>
+    <string msgid="9174733134991326263" name="menu_arrays_Level2.5">"Level 2.5"</string>
+    <string msgid="344628403976644794" name="menu_arrays_Lifestyle">"Lifestyle"</string>
+    <string msgid="7514447619769965477" name="menu_arrays_Magenta">"Magenta"</string>
+    <string msgid="5434190892591659150" name="menu_arrays_Mature18">"Mature 18"</string>
+    <string msgid="966172060318708541" name="menu_arrays_Medium">"Katamtaman"</string>
+    <string msgid="4833956775933039776" name="menu_arrays_Minutes_xx">"<ns1:g id="MENU_XX_MINUTES">%1$d</ns1:g> (na) Minuto"</string>
+    <string msgid="6089505777337669562" name="menu_arrays_Monday">"Lunes"</string>
+    <string msgid="1872841660228144707" name="menu_arrays_Mono">"Mono"</string>
+    <string msgid="4554329450078702658" name="menu_arrays_Movies">"Mga Pelikula"</string>
+    <string msgid="6280028735889729793" name="menu_arrays_Music">"Musika"</string>
+    <string msgid="7694795603142535821" name="menu_arrays_Mute">"I-mute"</string>
+    <string msgid="8364326211751387772" name="menu_arrays_Narrative">"Narrative"</string>
+    <string msgid="5951599407676855210" name="menu_arrays_News">"Balita"</string>
+    <string msgid="4677413236939830581" name="menu_arrays_No_Block">"Walang Naka-block"</string>
+    <string msgid="3761088778488343013" name="menu_arrays_No_Children_Under16">"Bawal sa Mga Batang wala pang 16"</string>
+    <string msgid="3939586204187095405" name="menu_arrays_None">"Wala"</string>
+    <string msgid="8450245846110938402" name="menu_arrays_On_mute">"Naka-mute"</string>
+    <string msgid="78172329685696222" name="menu_arrays_Once">"Isang beses"</string>
+    <string msgid="5948689983034815513" name="menu_arrays_Only_Digital_Channels">"Mga Digital na Channel Lang"</string>
+    <string msgid="4367710654894958021" name="menu_arrays_Only_Encrypted_Channels">"Mga Encrypted Channel Lang"</string>
+    <string msgid="7444597831655990785" name="menu_arrays_Only_Free_Channels">"Mga Libreng Channel Lang"</string>
+    <string msgid="3856332747833315514" name="menu_arrays_Only_Radio_Channels">"Mga Channel Lang sa Radyo"</string>
+    <string msgid="5680611572652053920" name="menu_arrays_Original_Audio">"Orihinal na Audio"</string>
+    <string msgid="7669493811810041115" name="menu_arrays_Original_Version">"Orihinal na Bersyon"</string>
+    <string msgid="3583103550639620032" name="menu_arrays_Parental_Guidance">"Patnubay ng Magulang"</string>
+    <string msgid="7832333703315486939" name="menu_arrays_Parental_Guidance13">"Patnubay ng Magulang 13"</string>
+    <string msgid="1871527522087522120" name="menu_arrays_Poor">"Pangit"</string>
+    <string msgid="1245737364617765732" name="menu_arrays_Premier">"Premier"</string>
+    <string msgid="4522212572776781883" name="menu_arrays_Quick">"Mabilis"</string>
+    <string msgid="8172781096094246445" name="menu_arrays_Record">"I-record"</string>
+    <string msgid="1933455370143022832" name="menu_arrays_Red">"Pula"</string>
+    <string msgid="5837609288498586246" name="menu_arrays_Reminder">"Paalala"</string>
+    <string msgid="5314572088286729983" name="menu_arrays_Restricted21">"Pinaghihigpitan 21"</string>
+    <string msgid="3014742644407817155" name="menu_arrays_Satellite">"Satellite"</string>
+    <string msgid="6457750443619059503" name="menu_arrays_Saturday">"Sabado"</string>
+    <string msgid="2790938579764517097" name="menu_arrays_Select_Mode">"Pumili ng Mode"</string>
+    <string msgid="1993919359250833212" name="menu_arrays_Service_x">"Serbisyong <ns1:g id="SERVICE_X">%1$d</ns1:g>"</string>
+    <string msgid="9102359352375833921" name="menu_arrays_Sex">"Sekswal"</string>
+    <string msgid="8516289371524201010" name="menu_arrays_Sex_Drugs">"Sekswal at Droga"</string>
+    <string msgid="1395709079436543836" name="menu_arrays_Shopping">"Pamimili"</string>
+    <string msgid="2560822427714396463" name="menu_arrays_Show_Channels">"Ipakita ang Mga Channel"</string>
+    <string msgid="6190182690420474185" name="menu_arrays_Small">"Maliit"</string>
+    <string msgid="6891683596561584387" name="menu_arrays_Solid">"Solid"</string>
+    <string msgid="1029187922022865730" name="menu_arrays_Sports">"Sports"</string>
+    <string msgid="4783706065008964795" name="menu_arrays_Stereo">"Stereo"</string>
+    <string msgid="3013547987820441012" name="menu_arrays_Style_x">"Istilong <ns1:g id="STYLE_X">%1$d</ns1:g>"</string>
+    <string msgid="6056429344349439537" name="menu_arrays_Sunday">"Linggo"</string>
+    <string msgid="2101357483063576435" name="menu_arrays_Surround">"Surround"</string>
+    <string msgid="8766910158959028063" name="menu_arrays_Swap">"Pagpalitin"</string>
+    <string msgid="7281119021136267294" name="menu_arrays_Tech_Science">"Teknolohiya/Agham"</string>
+    <string msgid="1999854984006489035" name="menu_arrays_Thursday">"Huwebes"</string>
+    <string msgid="7348561646063373298" name="menu_arrays_Translucent">"Translucent"</string>
+    <string msgid="46136886913020453" name="menu_arrays_Transparent">"Transparent"</string>
+    <string msgid="4428017033007530561" name="menu_arrays_Travel">"Paglalakbay"</string>
+    <string msgid="6626938724432544424" name="menu_arrays_Tuesday">"Martes"</string>
+    <string msgid="4977177148723430553" name="menu_arrays_Undefined">"Hindi tinukoy"</string>
+    <string msgid="7223702514123201590" name="menu_arrays_User_Select">"Napili ng User"</string>
+    <string msgid="4770707067174121725" name="menu_arrays_Vertical">"Vertical"</string>
+    <string msgid="2700477239280676011" name="menu_arrays_Violence">"Karahasan"</string>
+    <string msgid="3176289985356955366" name="menu_arrays_Violence_Drugs">"Karahasan at Droga"</string>
+    <string msgid="3260356191627313395" name="menu_arrays_Violence_Sex">"Karahasan at Sekswal"</string>
+    <string msgid="7414018789604350251" name="menu_arrays_Violence_Sex_Drugs">"Karahasan at Sekswal at Droga"</string>
+    <string msgid="1140866814494390450" name="menu_arrays_Wednesday">"Miyerkules"</string>
+    <string msgid="8587984779955216982" name="menu_arrays_Week">"Linggo"</string>
+    <string msgid="893891783815283563" name="menu_arrays_White">"Puti"</string>
+    <string msgid="3350543070837348044" name="menu_arrays_Yellow">"Dilaw"</string>
+    <string msgid="585012643680792280" name="menu_arrays_Zoom">"Zoom"</string>
+    <string msgid="2283340712722771515" name="menu_arrays_good">"malakas"</string>
+    <string msgid="8307380298233816683" name="menu_arrays_hun_Multiple_Languages">"Orihinal"</string>
+    <string msgid="8074088613393007873" name="menu_arrays_hun_Original_Audio">"Lokal"</string>
+    <string msgid="5277088484737758554" name="menu_arrays_narrator">"Narrator"</string>
+    <string msgid="597094537003544099" name="menu_arrays_normal">"Normal"</string>
+    <string msgid="8700230837493236303" name="menu_arrays_other">"Ibang Wika"</string>
+    <string msgid="2357352005580864666" name="menu_arrays_poor">"mahina"</string>
+    <string msgid="7727208149710895180" name="menu_arrays_power_never">"Hindi kailanman"</string>
+    <string msgid="2838991471999484316" name="menu_arrays_power_x_hours">"<ns1:g id="POWER_X_HOURS">%1$d</ns1:g> (na) oras"</string>
+    <string msgid="5252553235566818161" name="menu_arrays_second_audio">"Pangalawang audio"</string>
+    <string msgid="8451764896926365139" name="menu_arrays_third_audio">"Pangatlong audio"</string>
+    <string msgid="5977833251658879047" name="menu_audio_sound_tracks">"Mga Sound Track"</string>
+    <string msgid="5914226981357187525" name="menu_back">"Bumalik"</string>
+    <string msgid="6345177090175746888" name="menu_band_width">"Bandwidth"</string>
+    <string msgid="1801906907555044876" name="menu_block_unrated">"I-block ang Walang Rating"</string>
+    <string msgid="1260923144167079695" name="menu_blocked_rating">"Naka-block na Rating"</string>
+    <string msgid="2306081694127448305" name="menu_c_analog_tune">"Pag-fine Tune ng Analog na Channel"</string>
+    <string msgid="6616915979489704399" name="menu_c_analogscan_scandown">"Mag-scan Pababa"</string>
+    <string msgid="5915910429110056976" name="menu_c_analogscan_scanup">"Mag-scan Pataas"</string>
+    <string msgid="2246890877020986294" name="menu_c_chanel_Move">"Paglilipat ng Channel"</string>
+    <string msgid="927992480379525339" name="menu_c_chanel_sor">"Pagbubukod-bukod ng Channel"</string>
+    <string msgid="6359117351919737306" name="menu_c_chanel_swap">"Pagpapalit ng Channel"</string>
+    <string msgid="4197159836237043495" name="menu_c_channelscan_oth">"Iba pa"</string>
+    <string msgid="5910290796430986311" name="menu_c_favorite_net">"Pagpili ng Paboritong Network"</string>
+    <string msgid="1556844292658590881" name="menu_c_net">"Network ID"</string>
+    <string msgid="3785625249318213028" name="menu_c_rfscan_frequency">"Frequency (KHz)"</string>
+    <string msgid="3582109260440911431" name="menu_c_rfscan_frequency_cn">"Frequency (MHz)"</string>
+    <string msgid="5717582981249177051" name="menu_c_rfscan_symbol_rate">"Rate ng Simbolo (Ksym/s)"</string>
+    <string msgid="4426044028697789748" name="menu_c_scan">"Mag-scan"</string>
+    <string msgid="8979396675252722869" name="menu_c_scan_clear_channel">"Maaalis ang mga nakaraang channel kapag nag-scan ng mga channel!"</string>
+    <string msgid="2928633248904936695" name="menu_canadian_english_ratings">"Mga Rating sa Canadian English"</string>
+    <string msgid="2471635396093309696" name="menu_canadian_french_ratings">"Mga Rating sa Canadian French"</string>
+    <string msgid="2096723547222310575" name="menu_cancel">"Kanselahin"</string>
+    <string msgid="7628333882345060865" name="menu_channel">"Channel"</string>
+    <string msgid="8241064516725478588" name="menu_channel_channel_installation_mode">"Channel Installation Mode"</string>
+    <string msgid="4438235370530709088" name="menu_channel_channel_sources">"Mga Source ng Channel"</string>
+    <string msgid="9083666960081625903" name="menu_channel_customize_channel_list">"I-customize ang Listahan ng Channel"</string>
+    <string msgid="1881145392080367595" name="menu_channel_customize_channel_list_summary">"Pumili ng mga channel para sa iyong gabay sa programa"</string>
+    <string msgid="7576326090930705049" name="menu_channel_freeze_switch">"Freeze Switch"</string>
+    <string msgid="168032913015984240" name="menu_channel_multi_audio">"Multi Audio"</string>
+    <string msgid="5517855524451929591" name="menu_channel_parental_controls">"Parental Controls"</string>
+    <string msgid="4360471719008301149" name="menu_channel_scan_type">"Uri ng Pag-scan ng Channel"</string>
+    <string msgid="6273001423492188772" name="menu_channel_store_type">"Uri ng Pag-store ng Channel"</string>
+    <string msgid="8003712676262175836" name="menu_channel_version">"Bersyon"</string>
+    <string msgid="3317168911929978611" name="menu_ci_cam_scan">"Pag-scan ng Cam"</string>
+    <string msgid="5000700797059162381" name="menu_ci_user_preference">"Kagustuhan ng User"</string>
+    <string msgid="9182964994599355185" name="menu_ci_user_preference_item_broadcast">"Broadcast"</string>
+    <string msgid="4209458683747214463" name="menu_ci_user_preference_item_default">"Default"</string>
+    <string msgid="235468670940168173" name="menu_content_ratings">"Content Rating"</string>
+    <string msgid="270119160492034920" name="menu_delete_biss_key_tip">"Sigurado ka bang gusto mong i-delete ang BISS key na ito?"</string>
+    <string msgid="940569276553637894" name="menu_dialog_numrepeat">"Ulitin ang Mga Numero ng Channel!"</string>
+    <string msgid="6992271585072387734" name="menu_dialog_numzero">"Hindi puwedeng 0 ang Numero ng Channel!"</string>
+    <string msgid="4953749502243337505" name="menu_dvbs_antenna_type_tip">"Pindutin ang kulay PULANG key para ipakita ang mga setting ng band at frequency."</string>
+    <string msgid="5339894688140615789" name="menu_enter">"Pumunta"</string>
+    <string msgid="5916797899906131306" name="menu_exit">"Lumabas"</string>
+    <string msgid="6258255290936085690" name="menu_interface_name">"Menu"</string>
+    <string msgid="1005475185681009858" name="menu_net_name">"Pangalan ng Network"</string>
+    <string msgid="5238174741692232278" name="menu_oceania_aus_ratings">"Paghihigpit sa Access"</string>
+    <string msgid="549595307019821477" name="menu_ok">"OK"</string>
+    <string msgid="1410237592394733548" name="menu_parental_change_password">"Palitan ang Password"</string>
+    <string msgid="7003428954204171196" name="menu_parental_channel_block">"Naka-block ang Channel"</string>
+    <string msgid="3727018689983113284" name="menu_parental_channel_schedule_block">"Pag-block sa Iskedyul ng Channel"</string>
+    <string msgid="3378946292723662496" name="menu_parental_channel_schedule_block_operation_mode">"Operation Mode"</string>
+    <string msgid="6825571214422092711" name="menu_parental_channel_schedule_end_date">"Petsa ng Pagtatapos"</string>
+    <string msgid="6705925703363265697" name="menu_parental_channel_schedule_end_time">"Oras ng Pagtatapos"</string>
+    <string msgid="3342250424179084140" name="menu_parental_channel_schedule_start_date">"Petsa ng Pagsisimula"</string>
+    <string msgid="1010861759252974627" name="menu_parental_channel_schedule_start_time">"Oras ng Pagsisimula"</string>
+    <string msgid="4257280620467440277" name="menu_parental_clean_all">"I-clear Lahat"</string>
+    <string msgid="4737097429483474525" name="menu_parental_input_block">"Naka-block ang Input"</string>
+    <string msgid="4576879579547866045" name="menu_parental_password">"Password"</string>
+    <string msgid="3506796281997230270" name="menu_parental_password_enter">"Pakilagay ang password"</string>
+    <string msgid="3411313245296435031" name="menu_parental_password_incorrect">"Mali ang password.\nPakilagay ulit!"</string>
+    <string msgid="4526902774665782344" name="menu_parental_password_matchinfo">"Hindi tumutugma ang password.\nPakilagay ulit!"</string>
+    <string msgid="8309978901021454441" name="menu_parental_password_new">"Bagong Password"</string>
+    <string msgid="4377338006931748859" name="menu_parental_password_new_re">"Kumpirmahin ang Password"</string>
+    <string msgid="3017893895583981306" name="menu_parental_program_block">"Naka-block ang Programa"</string>
+    <string msgid="3440392780424732761" name="menu_rating_enable">"I-enable ang Rating"</string>
+    <string msgid="4755397422752027961" name="menu_s_channel_decode">"Pag-decode ng Channel"</string>
+    <string msgid="4204530918013827303" name="menu_s_favorite_network">"Pagpili ng Paboritong Network"</string>
+    <string msgid="4676645206696055795" name="menu_s_sate_add">"Pagdaragdag ng Satellite"</string>
+    <string msgid="385551134194359571" name="menu_s_sate_rescan">"Pag-scan Ulit sa Satellite"</string>
+    <string msgid="6641088672339130577" name="menu_s_sate_tuning">"Manual Tuning ng Satellite"</string>
+    <string msgid="8295522446305537505" name="menu_s_sate_update">"Update ng Satellite"</string>
+    <string msgid="4003160032715199809" name="menu_set">"Itakda"</string>
+    <string msgid="8629595673599201848" name="menu_settings">"Mga Setting"</string>
+    <string msgid="3884334439195257889" name="menu_setup_HBBTV_Support">"Suporta sa HBBTV"</string>
+    <string msgid="7047780262945384208" name="menu_setup_HBBTV_cookie_settings">"Mga Setting ng Cookie"</string>
+    <string msgid="744961147888622795" name="menu_setup_HBBTV_deviceid">"Device ID"</string>
+    <string msgid="1290321132030841986" name="menu_setup_HBBTV_not_track">"Huwag Subaybayan"</string>
+    <string msgid="5270967485634552113" name="menu_setup_HBBTV_persistent_storage">"Matagalang Storage"</string>
+    <string msgid="4896116549707782493" name="menu_setup_HBBTV_reset_deviceid">"I-reset ang Device ID"</string>
+    <string msgid="2255284996722827595" name="menu_setup_HBBTV_reset_deviceid_message">"Sigurado ka bang gusto mong i-reset ang device ID?"</string>
+    <string msgid="425628542732834431" name="menu_setup_HBBTV_settings">"Mga Setting ng HBBTV"</string>
+    <string msgid="8030054744169205932" name="menu_setup_HBBTV_track_sites">"I-block ang Mga Sumusubaybay na Site"</string>
+    <string msgid="9013322575297645333" name="menu_setup_MHEG_PIN_Protection">"Proteksyon ng PIN ng MHEG"</string>
+    <string msgid="8369273652687922192" name="menu_setup_TKGS_hidden_locations">"Mga Nakatagong Lokasyon ng TKGS"</string>
+    <string msgid="6239011973619252782" name="menu_setup_TKGS_locate_list">"Listahan ng Locator ng TKGS"</string>
+    <string msgid="6717317359786252162" name="menu_setup_TKGS_setting">"Setting ng TKGS"</string>
+    <string msgid="4796051211945790617" name="menu_setup_analog_closed_caption">"Analog na Closed Caption"</string>
+    <string msgid="5130643060755546036" name="menu_setup_analog_subtitle">"Analog na Subtitle"</string>
+    <string msgid="8749345286614488535" name="menu_setup_auto_channel_update">"Awtomatikong Pag-update ng Channel"</string>
+    <string msgid="554655984033409887" name="menu_setup_auto_network_upgrade">"Upgrade ng Network"</string>
+    <string msgid="759687874059635844" name="menu_setup_auto_synchronization">"Awtomatikong Pag-synchronize"</string>
+    <string msgid="8613742900179692970" name="menu_setup_background_color">"Kulay ng Background"</string>
+    <string msgid="2867502947414945383" name="menu_setup_background_opacity">"Opacity ng Background"</string>
+    <string msgid="4743414048883762640" name="menu_setup_biss_key">"BISS Key"</string>
+    <string msgid="6638397470781538366" name="menu_setup_biss_key_add_item">"I-click para Idagdag ang BISS Key"</string>
+    <string msgid="1420141670124972197" name="menu_setup_biss_key_add_key">"Idagdag ang BISS Key"</string>
+    <string msgid="3155790790689603575" name="menu_setup_biss_key_cw_key">"CW Key"</string>
+    <string msgid="4922467304547321006" name="menu_setup_biss_key_freqency">"Frequency"</string>
+    <string msgid="3025566519316825016" name="menu_setup_biss_key_horizonal">"Horizontal"</string>
+    <string msgid="5179872075186805913" name="menu_setup_biss_key_polazation">"Polarization"</string>
+    <string msgid="5573105310385768872" name="menu_setup_biss_key_prog_id">"Program ID"</string>
+    <string msgid="4933737876683018945" name="menu_setup_biss_key_vertical">"Vertical"</string>
+    <string msgid="3507814533347681742" name="menu_setup_bluemute">"Blue Mute"</string>
+    <string msgid="4719936931569572435" name="menu_setup_button_no">"Hindi"</string>
+    <string msgid="5030166851411264581" name="menu_setup_button_yes">"Oo"</string>
+    <string msgid="8322539698238533246" name="menu_setup_caption_enable">"I-enable ang Caption"</string>
+    <string msgid="8962718484127042364" name="menu_setup_caption_setup">"Pag-set Up ng Caption"</string>
+    <string msgid="2961061197730048776" name="menu_setup_caption_style">"Istilo ng Caption"</string>
+    <string msgid="2473477203683812249" name="menu_setup_channel_scan">"Status: Nagsa-scan"</string>
+    <string msgid="5931927842967932526" name="menu_setup_channel_scan_ana">"Mga Analog na Channel:"</string>
+    <string msgid="392557174041827451" name="menu_setup_channel_scan_cancel">"Status: Kinansela ang Pag-scan"</string>
+    <string msgid="323883741930144178" name="menu_setup_channel_scan_dig">"Mga Digital na Channel:"</string>
+    <string msgid="1165298550342951653" name="menu_setup_channel_scan_done">"Status: Tapos na ang Pag-scan"</string>
+    <string msgid="1033963070035499350" name="menu_setup_channel_scan_error">"Status: Error sa Pag-scan"</string>
+    <string msgid="6637458773533512380" name="menu_setup_channel_scan_positioner_moving">"Status: Gumagalaw ang Positioner"</string>
+    <string msgid="2527134179338036692" name="menu_setup_channel_update">"Update sa Channel"</string>
+    <string msgid="6065600598875680983" name="menu_setup_channel_update_msg">"Mensahe ng Update ng Channel"</string>
+    <string msgid="7499549794650029556" name="menu_setup_ci_10s_answer_tip">"Maghintay..."</string>
+    <string msgid="7752969960527081420" name="menu_setup_ci_cam_menu">"Menu ng Cam"</string>
+    <string msgid="7764806669482503026" name="menu_setup_ci_no_card">"Walang card ng Cam."</string>
+    <string msgid="6804982608273473218" name="menu_setup_ci_pin_code">"Pin Code ng Cam"</string>
+    <string msgid="1196513370440084482" name="menu_setup_ci_pin_code_correct_tip">"Tama!"</string>
+    <string msgid="2243160300655248439" name="menu_setup_ci_pin_code_incorrect_tip">"Mali. Ilagay ulit!"</string>
+    <string msgid="3326787881056337207" name="menu_setup_ci_pin_code_input_tip">"Pakilagay ang pin code ng cam"</string>
+    <string msgid="1459027740499472507" name="menu_setup_ci_pin_invalid_type_tip">"May invalid na uri!"</string>
+    <string msgid="1895934295290944977" name="menu_setup_common_interface">"Karaniwang Interface"</string>
+    <string msgid="3849734594378853028" name="menu_setup_decoding_page_language">"Wika ng Pag-decode sa Page"</string>
+    <string msgid="8499914504929052590" name="menu_setup_device_info">"Impormasyon ng Device"</string>
+    <string msgid="7752290991660565843" name="menu_setup_digital_caption">"Digital na Closed Caption"</string>
+    <string msgid="1817076601837960094" name="menu_setup_digital_style">"Istilo ng Digital na Caption"</string>
+    <string msgid="3126491673293834539" name="menu_setup_digital_subtitle">"Digital na Subtitle"</string>
+    <string msgid="8584442274273067902" name="menu_setup_digital_subtitle_lang">"Wika ng Digital na Subtitle"</string>
+    <string msgid="5633803120810655815" name="menu_setup_digital_subtitle_lang_2nd">"Ika-2 Wika ng Digital na Subtitle"</string>
+    <string msgid="891930341886844341" name="menu_setup_digital_teletext_language">"Wika ng Digital na Teletext"</string>
+    <string msgid="3134377856178382070" name="menu_setup_divx_reg_setup">"Pagpaparehistro ng DivX(R)"</string>
+    <string msgid="1455485346175283490" name="menu_setup_divxdea">"Code sa Pag-deregister:\n Mag-deregister sa http://vod.divx.com\n Magpatuloy sa pagpaparehistro?"</string>
+    <string msgid="3215046319317947249" name="menu_setup_divxreg">"Dapat mong iparehistro ang iyong device para makapag-play ka ng mga video na pinoprotektahan ng DivX®.\nCode sa Pagpaparehistro:BX9ASIKQEI\n Magparehistro sa http://vod.divx.com"</string>
+    <string msgid="6189576467095870271" name="menu_setup_download_firmware">"I-download ang Firmware"</string>
+    <string msgid="1179707257557128411" name="menu_setup_font_color">"Kulay ng Font"</string>
+    <string msgid="7083632641371332767" name="menu_setup_font_opacity">"Opacity ng Font"</string>
+    <string msgid="1648009250200871183" name="menu_setup_font_size">"Laki ng Font"</string>
+    <string msgid="754747015410559718" name="menu_setup_font_style">"Istilo ng Font"</string>
+    <string msgid="1790004477593697582" name="menu_setup_ginga_auto_start_app">"Awtomatikong Simulan ang Application"</string>
+    <string msgid="2417958483244058708" name="menu_setup_ginga_enable">"I-enable ang Ginga"</string>
+    <string msgid="6584004260595154530" name="menu_setup_ginga_setup">"Pag-set Up ng Ginga"</string>
+    <string msgid="7614647649314796771" name="menu_setup_hdmi_2_0_setting">"Setting ng HDMI 2.0"</string>
+    <string msgid="5050066137876562783" name="menu_setup_hdmi_signalformat">"Format ng Signal"</string>
+    <string msgid="3212334206785779338" name="menu_setup_information">"Impormasyon"</string>
+    <string msgid="4630365409947205646" name="menu_setup_interaction_channel">"Channel para sa Interaction"</string>
+    <string msgid="463873547645757115" name="menu_setup_license_info">"Impormasyon ng Lisensya"</string>
+    <string msgid="1839888825103443088" name="menu_setup_modes_dmr_control">"Function ng DMR"</string>
+    <string msgid="7885202064630994111" name="menu_setup_network">"Network"</string>
+    <string msgid="8873285800776457027" name="menu_setup_network_no_net">"Walang wireless device na nakakonekta sa TV!"</string>
+    <string msgid="6904467374965461541" name="menu_setup_network_upgrade">"Ina-upgrade ang Network..."</string>
+    <string msgid="3798727644774125311" name="menu_setup_network_wireless">"Mga Setting ng Wireless"</string>
+    <string msgid="6308706999803471830" name="menu_setup_oad_set_auto_dl">"Awtomatikong I-download"</string>
+    <string msgid="6161218000501401501" name="menu_setup_postal_code_setting">"Postal Code"</string>
+    <string msgid="7365397437405062965" name="menu_setup_power_off_timer">"Oras ng Awtomatikong Pag-off"</string>
+    <string msgid="3304493181284351914" name="menu_setup_power_on_channel">"Default na Channel"</string>
+    <string msgid="3982599806537535251" name="menu_setup_power_on_channel_mode">"Pumili ng Mode"</string>
+    <string msgid="6273815747191069139" name="menu_setup_power_on_show_channels">"Ipakita ang Mga Channel"</string>
+    <string msgid="8213142792432806791" name="menu_setup_power_on_timer">"Oras ng Awtomatikong Pag-on"</string>
+    <string msgid="6376833337222407361" name="menu_setup_poweroff_music">"Musika sa Pag-shut Down"</string>
+    <string msgid="9196505526630859181" name="menu_setup_poweron_music">"Musika sa Pag-start Up"</string>
+    <string msgid="3735181891975276255" name="menu_setup_record_setting">"Setting ng Record"</string>
+    <string msgid="248617517946500738" name="menu_setup_region_setting">"Rehiyon ng EWBS"</string>
+    <string msgid="5394108608331615342" name="menu_setup_reset_default">"I-factory Reset"</string>
+    <string msgid="2604438744325405839" name="menu_setup_reset_info1">"Sigurado ka ba?"</string>
+    <string msgid="4733344701470024023" name="menu_setup_satellite_name">"Pangalan ng Satellite:"</string>
+    <string msgid="5737465981898547696" name="menu_setup_schedule_list">"Listahan ng Iskedyul"</string>
+    <string msgid="1980108423170746383" name="menu_setup_screenmode">"Screen Mode"</string>
+    <string msgid="4440344959181499609" name="menu_setup_subtitle">"Subtitle"</string>
+    <string msgid="3422400611429742301" name="menu_setup_subtitle_type">"Uri ng Subtitle"</string>
+    <string msgid="5727231442927827407" name="menu_setup_superimpose_setup">"Pag-set Up ng Superimpose"</string>
+    <string msgid="5689257233500612565" name="menu_setup_system_info">"Impormasyon sa System"</string>
+    <string msgid="2721981902427685784" name="menu_setup_teletext">"Teletext"</string>
+    <string msgid="3758184248573228819" name="menu_setup_time_setup">"Pag-set up ng Oras"</string>
+    <string msgid="1673392370191940227" name="menu_setup_time_shifting_mode">"Time Shift Mode"</string>
+    <string msgid="3817173332451714750" name="menu_setup_timer">"Timer"</string>
+    <string msgid="4780183199961225027" name="menu_setup_ttx_presentation_level">"Antas ng Presentasyon para sa TTX"</string>
+    <string msgid="5395481546668942228" name="menu_setup_upgrade_info1">"Simulang i-download ang bagong firmware mula sa server."</string>
+    <string msgid="27929881756666210" name="menu_setup_upgrade_info2">"Hindi natingnan kung may Bagong firmware."</string>
+    <string msgid="8691864032506489497" name="menu_setup_upgrade_info2_title">"Wizard para sa Pag-update"</string>
+    <string msgid="8473165394531457450" name="menu_setup_version_info">"Impormasyon ng Bersyon"</string>
+    <string msgid="724136219399454577" name="menu_setup_window_color">"Kulay ng Window"</string>
+    <string msgid="4647626132198382426" name="menu_setup_window_opacity">"Opacity ng Window"</string>
+    <string msgid="8863057864727370068" name="menu_setup_wireless_setting">"Setting ng Wireless"</string>
+    <string msgid="1614323014281173540" name="menu_string_block_3rd_new">"I-block ang cookies ng 3rd party"</string>
+    <string msgid="1631822952530836203" name="menu_string_freeview_setting">"Mga Setting ng Freeview Play"</string>
+    <string msgid="692387196497397664" name="menu_string_postal_code_toast_cannot_empty">"Hindi puwedeng walang laman!"</string>
+    <string msgid="1333218593666594370" name="menu_string_postal_code_toast_invalid_input">"Invalid na input!"</string>
+    <string msgid="8068824565893800120" name="menu_string_postal_code_toast_less_than16">"Hindi puwedeng wala pang 16 ang cwkey"</string>
+    <string msgid="922025259667122726" name="menu_string_power_content">"Magsi-sleep ang TV sa loob ng limang minuto. Gusto mo ba itong hayaang mag-sleep?"</string>
+    <string msgid="2855368982497716492" name="menu_string_power_setting">"Auto Sleep"</string>
+    <string msgid="1651628824563369102" name="menu_string_power_tips">"Mga Tip sa Pag-sleep"</string>
+    <string msgid="2790323775706670191" name="menu_string_rrt5_none_title">"Walang Text."</string>
+    <string msgid="7741932472480967423" name="menu_string_term_condition">"Mga Tuntunin at Kundisyon"</string>
+    <string msgid="8145876274007994574" name="menu_string_toast_scanning_background">"Nagsa-scan sa background. Pakisubukan ulit sa ibang pagkakataon"</string>
+    <string msgid="6783272571611214508" name="menu_subtitle_track">"Mga Track ng Subtitle"</string>
+    <string msgid="6958085423021208435" name="menu_system_info_ber">"Ber"</string>
+    <string msgid="2890078060935000199" name="menu_system_info_channel">"Channel"</string>
+    <string msgid="3452677003187359490" name="menu_system_info_channel_title">"Numero ng RF Channel"</string>
+    <string msgid="6242392172548735366" name="menu_system_info_service_id">"Service ID"</string>
+    <string msgid="8080844306048103018" name="menu_system_info_symbol_svctype">"Uri ng Serbisyo"</string>
+    <string msgid="8708057766635951249" name="menu_tab_audio">"Audio"</string>
+    <string msgid="7246686894971088412" name="menu_tab_inactive_channels">"Mga Hindi Aktibong Channel"</string>
+    <string msgid="2437139766892902869" name="menu_tab_parent">"Parental"</string>
+    <string msgid="7109847756230324037" name="menu_tab_setup">"Setup"</string>
+    <string msgid="3742429458000810169" name="menu_tab_tv">"TV"</string>
+    <string msgid="4331109997413003863" name="menu_tab_video">"Video"</string>
+    <string msgid="4353539071531837451" name="menu_teletext_no_top_tip">"Walang ITAAS"</string>
+    <string msgid="3112153343567716372" name="menu_teletext_notsupport_tip">"Walang Teletext"</string>
+    <string msgid="3390192267994167470" name="menu_title_channels">"Mga Channel"</string>
+    <string msgid="7217170962187655180" name="menu_title_options">"Mga opsyon sa TV"</string>
+    <string msgid="6782223608461116398" name="menu_tv_analog_channels">"Mga Analog na Channel"</string>
+    <string msgid="5873694513744888407" name="menu_tv_analog_manual_scan">"Manual na Pag-scan ng Analog"</string>
+    <string msgid="4554600010019688554" name="menu_tv_analog_manual_scan_cancel">"Status: Kinansela ang Pag-scan"</string>
+    <string msgid="5059349028560346222" name="menu_tv_analog_manual_scan_init">"Maghanap ng Mga Analog na Channel"</string>
+    <string msgid="6779595551399926489" name="menu_tv_audio_language">"Wika ng Audio"</string>
+    <string msgid="3882877571377539936" name="menu_tv_audio_language2nd">"Ika-2 Wika ng Audio"</string>
+    <string msgid="7669615966645353924" name="menu_tv_channel_delete">"I-delete ang Channel"</string>
+    <string msgid="4220014947121388564" name="menu_tv_channel_edit">"Pag-edit ng Channel"</string>
+    <string msgid="3520189529118882493" name="menu_tv_channel_edit_info">"Impormasyon sa Pag-edit ng Channel"</string>
+    <string msgid="5985398262786058250" name="menu_tv_channel_list_type">"Uri ng Listahan ng Channel"</string>
+    <string msgid="5666152567700519485" name="menu_tv_channel_name">"Pangalan ng Channel :"</string>
+    <string msgid="8812504182847087421" name="menu_tv_channel_no">"Numero ng Channel :"</string>
+    <string msgid="8114676020485306916" name="menu_tv_channel_scan">"Pag-scan ng Channel"</string>
+    <string msgid="2281034408241451410" name="menu_tv_channel_setup">"Pag-set Up ng Channel"</string>
+    <string msgid="7390004344012497423" name="menu_tv_channel_skip">"Paglaktaw ng Channel"</string>
+    <string msgid="4383566614098451792" name="menu_tv_channel_tsname">"Pangalan ng TS :"</string>
+    <string msgid="4660659962974681532" name="menu_tv_channel_type">"Uri ng Channel"</string>
+    <string msgid="4671898427743017872" name="menu_tv_channelfine_tune">"Pag-fine Tune ng Analog na Channel"</string>
+    <string msgid="7222930204275471898" name="menu_tv_channels">"Mga Channel"</string>
+    <string msgid="2579995964359144257" name="menu_tv_clear_channel_info">"Sigurado ka ba?"</string>
+    <string msgid="5696948603488738154" name="menu_tv_clear_channel_list">"I-clear ang Listahan ng Channel"</string>
+    <string msgid="2134749435885210203" name="menu_tv_color_system">"System ng Kulay"</string>
+    <string msgid="184277561339631204" name="menu_tv_country_region_id">"Country Region ID"</string>
+    <string msgid="8619464517901908860" name="menu_tv_delete">"I-delete"</string>
+    <string msgid="8422587329057147750" name="menu_tv_delete_loading">"Dine-delete. Maghintay..."</string>
+    <string msgid="5525068056883731934" name="menu_tv_delete_message">"Puwedeng ma-delete ang mga channel nang walang anumang babalang OSD. Sigurado ka ba?"</string>
+    <string msgid="2193262484180007326" name="menu_tv_delete_not_forM7Number">"Hindi sinusuportahan ang feature na ito dahil wala pang 4001 ang numero ng channel."</string>
+    <string msgid="571325254394265803" name="menu_tv_digital_channels">"Mga Digital na Channel"</string>
+    <string msgid="5580627258710695873" name="menu_tv_dual_tuner">"Dual Tuner"</string>
+    <string msgid="8836617212317116080" name="menu_tv_edit_M7_num_more4000">"Maglagay ng numero ng channel na lampas 4000"</string>
+    <string msgid="1288459543538148961" name="menu_tv_end_frequency">"Dulong Frequency (MHz)"</string>
+    <string msgid="2704466796908770615" name="menu_tv_finetune">"I-fine tune"</string>
+    <string msgid="6021649320973642221" name="menu_tv_freeze_channel">"I-freeze ang Channel"</string>
+    <string msgid="7386267125400334008" name="menu_tv_freq">"Frequency :"</string>
+    <string msgid="6453522331200699877" name="menu_tv_freq_scan_no_channel">"Hindi Nahanap ang Channel."</string>
+    <string msgid="6571318152971176638" name="menu_tv_frequency">"Freq."</string>
+    <string msgid="1358321819225060000" name="menu_tv_insert">"Ilagay"</string>
+    <string msgid="1747546514998305717" name="menu_tv_keep_least_one_channel">"Magpanatili ng kahit isa lang na channel"</string>
+    <string msgid="8058358981133927877" name="menu_tv_m7_scan_confirm">"Simulan na ngayon ang paghahanap sa LNB? \n Kung lalaktawan mo ang hakbang na ito, gagamitin ang mga default."</string>
+    <string msgid="8701126040235187294" name="menu_tv_manual_service_update">"Manual na Update ng Serbisyo"</string>
+    <string msgid="8489824467735386755" name="menu_tv_move_loading">"Inililipat. Maghintay..."</string>
+    <string msgid="256769042292806112" name="menu_tv_mts">"Channel ng Audio"</string>
+    <string msgid="7227721405917128844" name="menu_tv_name">"Pangalan"</string>
+    <string msgid="1671388845426299891" name="menu_tv_network_name">"Pangalan ng Network :"</string>
+    <string msgid="7616075285030351284" name="menu_tv_number">"Num."</string>
+    <string msgid="40103874127321459" name="menu_tv_oceania_country_region">"Rehiyon ng Bansa"</string>
+    <string msgid="8801789215514635871" name="menu_tv_remove_all_inactive_channels">"Sigurado ka bang gusto mong alisin ang lahat ng channel?"</string>
+    <string msgid="4037172677462149166" name="menu_tv_remove_inactive_channel">"Sigurado ka bang gusto mong alisin ang channel na ito?"</string>
+    <string msgid="325888876117294389" name="menu_tv_reset_all">"Sigurado ka bang gusto mong i-reset ang lahat ng setting?"</string>
+    <string msgid="1796042308306874502" name="menu_tv_rf_scan_frequency">"Frequency ng Pag-scan (MHz)"</string>
+    <string msgid="3370179992000118544" name="menu_tv_rf_scan_mode">"Istilo ng QAM"</string>
+    <string msgid="6308736417074941026" name="menu_tv_rf_sym_rate">"Rate ng Simbolo"</string>
+    <string msgid="5772702059253361594" name="menu_tv_scan_digital_channel_init">"Maghanap ng Mga Digital na Channel"</string>
+    <string msgid="6560723639956889117" name="menu_tv_scann_allchannels">"I-scan ang lahat ng channel."</string>
+    <string msgid="5986186956365767139" name="menu_tv_sigle_frequency_plan">"Plan ng Frequency"</string>
+    <string msgid="7773224697874334577" name="menu_tv_sigle_from_channel">"Simulang Index"</string>
+    <string msgid="8466442069650929933" name="menu_tv_sigle_modulation">"Modulation"</string>
+    <string msgid="6790730560440038639" name="menu_tv_sigle_scan_mode">"Scan Mode"</string>
+    <string msgid="3097529181862261069" name="menu_tv_sigle_to_channcel">"Dulong Index"</string>
+    <string msgid="551119918966787868" name="menu_tv_single_rf_channel">"Channel ng RF"</string>
+    <string msgid="8917066043207412602" name="menu_tv_single_rf_scan">"Pag-scan ng Single RF"</string>
+    <string msgid="1496999582183630210" name="menu_tv_single_rf_scan_init">"I-scan ang Single RF Channel. (Digital Lang)"</string>
+    <string msgid="6749915054386007806" name="menu_tv_single_signal_level">"Antas ng Signal"</string>
+    <string msgid="5426229316907070059" name="menu_tv_single_signal_quality">"Kalidad ng Signal"</string>
+    <string msgid="1248357537058558355" name="menu_tv_skip">"Laktawan"</string>
+    <string msgid="4269723226624021325" name="menu_tv_sort_loading">"Pinagbubukod-bukod. Maghintay..."</string>
+    <string msgid="6046361573130329018" name="menu_tv_sound_system">"Sound System"</string>
+    <string msgid="9061427598128187616" name="menu_tv_start_frequency">"Simulang Frequency (MHz)"</string>
+    <string msgid="126959169937779632" name="menu_tv_status">"Status"</string>
+    <string msgid="8528401689277276496" name="menu_tv_status_value">"Pag-scan"</string>
+    <string msgid="5870426199870476614" name="menu_tv_store">"I-store"</string>
+    <string msgid="6069293662781579793" name="menu_tv_store_data">"Sigurado ka bang gusto mong i-save ang data?"</string>
+    <string msgid="2906413096735599257" name="menu_tv_system">"System"</string>
+    <string msgid="1983044089621021765" name="menu_tv_tshift_config">"Time Shift Mode"</string>
+    <string msgid="4534577012277218806" name="menu_tv_tuner_mode">"Tuner Mode"</string>
+    <string msgid="7347482638955677242" name="menu_tv_tv_system">"TV System"</string>
+    <string msgid="5559784090794274350" name="menu_tv_type">"Uri"</string>
+    <string msgid="17835394959085982" name="menu_tv_update_scan">"Pag-scan ng Update"</string>
+    <string msgid="8106372407195238776" name="menu_tv_us_range_scan">"Mag-scan sa isang Hanay ng Mga Channel"</string>
+    <string msgid="8116488007741874603" name="menu_us_movie_ratings">"Mga Rating ng Pelikula sa U.S."</string>
+    <string msgid="3755104139396309977" name="menu_us_tv_ratings">"Mga TV Rating sa U.S."</string>
+    <string msgid="6872910755941077113" name="menu_versioninfo_name">"Pangalan ng Modelo"</string>
+    <string msgid="4181667293912833576" name="menu_versioninfo_number">"Serial Number"</string>
+    <string msgid="5598308716341968435" name="menu_versioninfo_version">"Bersyon"</string>
+    <string msgid="2428163831513361272" name="menu_wrong_new_pin_notify">"Invalid na password ang \'0000\'"</string>
+    <string msgid="1823379068466406534" name="motor_settings">"Mga Setting ng Motor"</string>
+    <string msgid="8891453665943022634" name="msg_channel_added_one">"<ns1:g id="MSG_CHANNEL">%1$d</ns1:g> channel ang naidagdag"</string>
+    <string msgid="8259822376614850146" name="msg_delet_schedule_item">"hindi nagtagumpay o hindi natapos ang ilang nakaiskedyul na pag-record!"</string>
+    <string msgid="6012765156842077538" name="msg_no_channel_added">"Wala naidagdag na channel"</string>
+    <string msgid="1293770946898508954" name="msg_no_channel_added_other">"<ns1:g id="MSG_NO_CHANNEL_ADDED">%1$d</ns1:g> (na) channel ang naidagdag"</string>
+    <string msgid="1072183791129632173" name="msg_no_setup_activity">"Hindi sinusuportahan ng input ang auto-scan."</string>
+    <string msgid="5981825030398555360" name="msg_unable_to_start_setup_activity">"Hindi masimulan ang auto-scan para sa \'<ns1:g id="TV_INPUT">%s</ns1:g>\'"</string>
+    <string msgid="2023371839435704614" name="msg_unable_to_start_system_captioning_settings">"Hindi masimulan ang mga kagustuhan sa buong system para sa mga closed caption."</string>
+    <string msgid="5362034951962029463" name="nav_A2_DUAL1_DUAL2">"Dual I+II"</string>
+    <string msgid="6067522758623414409" name="nav_ADULT">"Pang-adult"</string>
+    <string msgid="3292151116834016023" name="nav_ADULT_UK">"Pang-adult"</string>
+    <string msgid="7109269795352673155" name="nav_ANIMATION_SA">"Animation/mga pelikulang may special effect"</string>
+    <string msgid="76277791819234215" name="nav_ARTS">"Sining/Kultura (walang musika)"</string>
+    <string msgid="8238446431321376675" name="nav_ARTS_AUS">"Sining/kultura"</string>
+    <string msgid="7548118392838609215" name="nav_Accept">"Tanggapin"</string>
+    <string msgid="4892417368489212947" name="nav_Adult">"pang-adult (pangkalahatan)"</string>
+    <string msgid="3331444442028338542" name="nav_Adult_Movie">"pang-adult na pelikula/drama"</string>
+    <string msgid="1562432260333771131" name="nav_Adult_cartoon">"pang-adult na cartoon"</string>
+    <string msgid="2020233948494351594" name="nav_Adventure">"pakikipagsapalaran/western/digmaan"</string>
+    <string msgid="5363575588003558517" name="nav_Advertisement">"advertisement/pamimili"</string>
+    <string msgid="4092498780895009315" name="nav_Animation_movies_sa">"Animation"</string>
+    <string msgid="1231222501166526460" name="nav_Appendix_bs_sa">"Impormasyon sa appendix sa programa sa BS/terrestrial digital broadcast"</string>
+    <string msgid="517955942667234433" name="nav_Appendix_server_type_sa">"Impormasyon sa appendix sa server-type na programa"</string>
+    <string msgid="6554614247798295199" name="nav_Art_hobby_sa">"Musika, sining, industrial art"</string>
+    <string msgid="3778760294295379300" name="nav_Arts">"sining/kultura (walang musika)"</string>
+    <string msgid="2972164873743815729" name="nav_Arts_magazines">"mga magazine ng sining"</string>
+    <string msgid="1638796230059292318" name="nav_Athletics">"athletics"</string>
+    <string msgid="750651562397983758" name="nav_Audio_Program">"Programang Audio"</string>
+    <string msgid="4569731673631345789" name="nav_Auditorium">"auditorium"</string>
+    <string msgid="5674152464877812744" name="nav_Ballad_sa">"Japanese ballad, tradisyonal na musika sa Japan"</string>
+    <string msgid="4569418398390525032" name="nav_Ballet">"ballet"</string>
+    <string msgid="6716071109682846442" name="nav_Baseball_sa">"Baseball"</string>
+    <string msgid="8166473152648563258" name="nav_Biography">"talambuhay"</string>
+    <string msgid="123677481804570864" name="nav_Black_and_White">"black and white"</string>
+    <string msgid="1769647110854572386" name="nav_Broadcasting">"broadcasting/press"</string>
+    <string msgid="8876419163301754170" name="nav_CHILDREN">"Pambata"</string>
+    <string msgid="6383058919905217882" name="nav_CHILDRENS">"Mga programang Pambata/Pangkabataan"</string>
+    <string msgid="5844351978428938279" name="nav_COMEDY">"Komedya"</string>
+    <string msgid="344493986982126341" name="nav_COMICAL">"Comical"</string>
+    <string msgid="1728721321904544994" name="nav_CURRENT_AFFAIRS">"Mga kasalukuyang pangyayari"</string>
+    <string msgid="7485655405127911626" name="nav_CURRENT_AFFAIRS_AUS">"Mga kasalukuyang pangyayari"</string>
+    <string msgid="7617524187961590647" name="nav_Cancel">"Kanselahin"</string>
+    <string msgid="2691198266609566393" name="nav_Cars_sa">"Mga kotse, motorsiklo"</string>
+    <string msgid="3119574119243171205" name="nav_Cartoons">"mga cartoon/puppet"</string>
+    <string msgid="2352759515560215768" name="nav_Channel_Locked">"Naka-lock ang Channel!"</string>
+    <string msgid="873820541320552860" name="nav_Children">"mga programang pambata/pangkabataan"</string>
+    <string msgid="6831456170842790872" name="nav_Childrens">"Pambata"</string>
+    <string msgid="5424477391960867406" name="nav_Childrens_song_sa">"Pambatang kanta"</string>
+    <string msgid="2234409890948755317" name="nav_Classic_sa">"Classic, opera"</string>
+    <string msgid="6993507339935504263" name="nav_Cocking_sa">"Variety show na pagluluto"</string>
+    <string msgid="7487834454945416514" name="nav_Comedy">"komedya"</string>
+    <string msgid="9029624226612544774" name="nav_Comedy_program_sa">"Programang komedya"</string>
+    <string msgid="1515257472064134851" name="nav_Comic_story_sa">"Kuwentong mula sa komiks, entertainment"</string>
+    <string msgid="3706642553609961619" name="nav_Comical">"katawa-tawa"</string>
+    <string msgid="2740628597884358931" name="nav_Computer_games_sa">"Computer, mga laro sa TV"</string>
+    <string msgid="1696469391180059577" name="nav_Conversation_sa">"Pag-uusap, mga wika"</string>
+    <string msgid="6317662479870562229" name="nav_Cooking">"pagluluto"</string>
+    <string msgid="4774122318391503820" name="nav_Country">"bansa"</string>
+    <string msgid="4447376466213581085" name="nav_Culture_sa">"Kultura, tradisyonal na kultura"</string>
+    <string msgid="2306180072443523238" name="nav_Current_Affairs">"balita/mga kasalukuyang pangyayari (pangkalahatan)"</string>
+    <string msgid="1732520131708701722" name="nav_DEBATE_INTERVIEW">"Debate/Panayam"</string>
+    <string msgid="7005982821525458545" name="nav_DOCUMENTARY">"Dokumentaryo"</string>
+    <string msgid="273709365086519291" name="nav_DOCUMENTARY_SA">"Dokumentaryo/kultura"</string>
+    <string msgid="1875946404286373763" name="nav_DRAMA">"Drama"</string>
+    <string msgid="9134229304370094253" name="nav_DRAMA_SA">"Drama"</string>
+    <string msgid="519339402026386669" name="nav_DUAL1">"Dual1"</string>
+    <string msgid="5675496762534505028" name="nav_DUAL2">"Dual2"</string>
+    <string msgid="1360518573780719910" name="nav_Dance_sa">"Sayaw, ballet"</string>
+    <string msgid="6944832467084835207" name="nav_Detective">"detective/thriller"</string>
+    <string msgid="4267005461999346240" name="nav_Disable">"I-disable"</string>
+    <string msgid="7576113986215044245" name="nav_Discussion">"talakayan/panayam/debate"</string>
+    <string msgid="5929362767175579586" name="nav_Discussion_sa">"Talakayan, kumperensya"</string>
+    <string msgid="2844670789033271646" name="nav_Documentary">"dokumentaryo"</string>
+    <string msgid="8593035086403306433" name="nav_Drama">"pelikula/drama (pangkalahatan)"</string>
+    <string msgid="3673009370247312330" name="nav_Dual_Mono">"Dual Mono"</string>
+    <string msgid="938224962511736802" name="nav_EDUCATION">"Edukasyon/Agham/Mga paksa tungkol sa katotohanan"</string>
+    <string msgid="5056937358866165681" name="nav_EDUCATION_AUS">"Edukasyon/impormasyon"</string>
+    <string msgid="653065048554614545" name="nav_EDUCATION_UK">"Edukasyon"</string>
+    <string msgid="4605496354611843816" name="nav_ENTERTAINMENT">"Entertainment"</string>
+    <string msgid="1304583066017461593" name="nav_EROTIC">"Erotic"</string>
+    <string msgid="5439953435078101179" name="nav_Economics">"economics/pagpapayo sa lipunan"</string>
+    <string msgid="3307470267321933669" name="nav_Economics_sa">"Economics, ulat sa market"</string>
+    <string msgid="5394706074492599081" name="nav_Education">"edukasyon/agham/katotohanan (pangkalahatan)"</string>
+    <string msgid="1192313608379234158" name="nav_Educational_problem_sa">"Problemang pang-edukasyon"</string>
+    <string msgid="6376185534207789971" name="nav_Educative">"nagbibigay-kaalaman"</string>
+    <string msgid="4955515426374623029" name="nav_Entertainment_for_10_to">"entertainment para sa edad 10 pataas"</string>
+    <string msgid="4596895874459228120" name="nav_Entertainment_for_10_to_16">"mga programang pang-entertainment para sa 10-16"</string>
+    <string msgid="6579986337624167499" name="nav_Entertainment_for_6_to_14">"mga programang pang-entertainment para sa 6-14"</string>
+    <string msgid="1196221104874175057" name="nav_Equestrian">"equestrian"</string>
+    <string msgid="1046901442635212556" name="nav_Erotic">"erotic"</string>
+    <string msgid="5443791148920743588" name="nav_Events_sa">"Mga Event"</string>
+    <string msgid="6437946401259902116" name="nav_Experimental">"eksperimental na pelikula/video"</string>
+    <string msgid="4244257989998469079" name="nav_Explanation_sa">"Paliwanag para sa sound multiplex broadcasting"</string>
+    <string msgid="6032109737121463545" name="nav_Extension_cs_sa">"Pagpapalawak sa broadband CS digital broadcasting"</string>
+    <string msgid="2472481098917054792" name="nav_Extension_digital_sa">"Pagpapalawak sa digital satellite sound broadcasting"</string>
+    <string msgid="2543877636805414180" name="nav_FM_MONO">"FM Mono"</string>
+    <string msgid="7770673071379369067" name="nav_FM_STEREO">"FM Stereo"</string>
+    <string msgid="1211905037639289115" name="nav_FOR_EXTENSION_SA">"Para sa pagpapalawak"</string>
+    <string msgid="2050823462294515705" name="nav_Fashion">"fashion"</string>
+    <string msgid="1080670509158220474" name="nav_Fashion_sa">"Fashion"</string>
+    <string msgid="7060627966765049296" name="nav_Feminine">"pambabae"</string>
+    <string msgid="1204508655031614719" name="nav_Film">"pelikula/sine"</string>
+    <string msgid="5482394381748298762" name="nav_Fine_Arts">"fine arts"</string>
+    <string msgid="2432505034639236793" name="nav_Fitness_and_Health">"fitness at kalusugan"</string>
+    <string msgid="5975600553529084616" name="nav_Folk">"katutubo/tradisyonal na musika"</string>
+    <string msgid="4206693975914382487" name="nav_Folk_sa">"Folk music, world music"</string>
+    <string msgid="1765978463317525263" name="nav_Football">"football/soccer"</string>
+    <string msgid="6375836042317483758" name="nav_Foreign_Countries">"mga banyagang bansa/ekspedisyon"</string>
+    <string msgid="259476765651855513" name="nav_Freeze_Off">"Pag-freeze: I-off"</string>
+    <string msgid="2487572919806462214" name="nav_Freeze_On">"Pag-freeze: Naka-on"</string>
+    <string msgid="7464890933282521242" name="nav_Friday">"Biyernes"</string>
+    <string msgid="3652921897487755257" name="nav_Further_Education">"karagdagang edukasyon"</string>
+    <string msgid="8709132440378345463" name="nav_Game_Show">"game show/quiz/paligsahan"</string>
+    <string msgid="8860523726680025850" name="nav_Game_sa">"Laro"</string>
+    <string msgid="6322886775783788914" name="nav_Game_show">"game show"</string>
+    <string msgid="1358278892867306976" name="nav_Gardening">"paghahalaman"</string>
+    <string msgid="1765059596896216380" name="nav_Gardening_sa">"Paghahalaman, alagang hayop, mga handicraft"</string>
+    <string msgid="1253151215784285549" name="nav_Golf_sa">"Golf"</string>
+    <string msgid="4113658340252435541" name="nav_Gossip_sa">"Palabas na tsismisan/tabloid"</string>
+    <string msgid="1897210291128847840" name="nav_Gourmet_sa">"Gourmet, pagluluto"</string>
+    <string msgid="5014328749354031501" name="nav_HD_Service">"Hindi Sinusuportahan"</string>
+    <string msgid="8223174910041052349" name="nav_HOBBY_SA">"Libangan/edukasyon"</string>
+    <string msgid="584686890574365542" name="nav_Handicapped_sa">"Mga taong may kapansanan"</string>
+    <string msgid="5446091048096305473" name="nav_Handicraft">"handicraft"</string>
+    <string msgid="459265531175632531" name="nav_Health">"kalusugan"</string>
+    <string msgid="6203438185267447781" name="nav_Health_sa">"Kalusugan, medikal na paggamot"</string>
+    <string msgid="7840175771914493133" name="nav_Hidden_Channel">"Nakatago ang Channel!"</string>
+    <string msgid="5436756662158442209" name="nav_History_sa">"Kasaysayan, tala ng paglalakbay"</string>
+    <string msgid="2646061752919784406" name="nav_Horse_race_sa">"Karera ng kabayo, pampublikong karera"</string>
+    <string msgid="7646455434505072002" name="nav_INFORMATION">"Impormasyon"</string>
+    <string msgid="5773850341168412017" name="nav_INFORMATION_SA">"Palabas na nagbibigay-kaalaman/tabloid"</string>
+    <string msgid="2818083324816896145" name="nav_INFOTAINMENT">"Infotainment"</string>
+    <string msgid="1676270512417122332" name="nav_Informational">"nagbibigay-kaalaman/pang-edukasyon/pampaaralan"</string>
+    <string msgid="4656472229392175517" name="nav_Input_Locked">"Naka-lock ang Input!"</string>
+    <string msgid="4944475415599607499" name="nav_Interactive">"interactive"</string>
+    <string msgid="5936247805082909748" name="nav_Interview">"panayam"</string>
+    <string msgid="6630052105744757311" name="nav_Interviews_sa">"Mga panayam, talakayan"</string>
+    <string msgid="8140497578825267884" name="nav_Japanese_animation_sa">"Japanese animation"</string>
+    <string msgid="5407129016759357530" name="nav_Japanese_movies_sa">"Mga pelikulang Japanese"</string>
+    <string msgid="1809142524497621993" name="nav_Japanese_sa">"Mga Japanese na drama"</string>
+    <string msgid="5950908321643041601" name="nav_Japenese_chess_sa">"Japenese chess (shogi) at \"go\""</string>
+    <string msgid="1794190714262750095" name="nav_Jazz">"jazz"</string>
+    <string msgid="5565281119863947709" name="nav_Jazz_sa">"Jazz, fusion"</string>
+    <string msgid="4946731424053160407" name="nav_Junior_high_school_sa">"Mga mag-aaral ng junior high school at high school"</string>
+    <string msgid="6701718622445257554" name="nav_Kabuki_sa">"Kabuki, classical drama"</string>
+    <string msgid="7118383045713716846" name="nav_Karaoke_sa">"Karaoke, mga amateur na patimpalak sa kantahan"</string>
+    <string msgid="6265660683742541759" name="nav_LEISURE">"Mga Libangan"</string>
+    <string msgid="4859934281880943797" name="nav_LIFESTYLE">"Lifestyle"</string>
+    <string msgid="8979824056359689450" name="nav_Languages">"mga wika"</string>
+    <string msgid="2742977934574491795" name="nav_Leisure_Hobbies">"mga libangan (pangkalahatan)"</string>
+    <string msgid="7667815794777596798" name="nav_Lifelong_education_sa">"Panghabambuhay na edukasyon, mga kwalipikasyon"</string>
+    <string msgid="4660226768709528314" name="nav_Literature">"panitikan"</string>
+    <string msgid="8402565093184706475" name="nav_Literature_sa">"Literatura, sining ng panitikan"</string>
+    <string msgid="8335075907050996501" name="nav_Little_children_sa">"Maliliit na bata, mga batang mag-aaral"</string>
+    <string msgid="4429081938116334804" name="nav_Live_Broadcast">"live broadcast"</string>
+    <string msgid="5914271084697251230" name="nav_Live_concert_sa">"Live na konsyerto"</string>
+    <string msgid="7775026060503448530" name="nav_Living_sa">"Pamumuhay, tahanan"</string>
+    <string msgid="2184453960648947427" name="nav_Local_program_sa">"Lokal na programa"</string>
+    <string msgid="67683936489138963" name="nav_MINI_SERIES">"Mini series"</string>
+    <string msgid="5964204903436155057" name="nav_MONO">"Mono"</string>
+    <string msgid="8372923047639889285" name="nav_MOVIE">"Pelikula/Drama"</string>
+    <string msgid="109821876319564851" name="nav_MOVIES_SA">"Mga Pelikula"</string>
+    <string msgid="1808781462551154183" name="nav_MUSIC">"Musika/Ballet/Sayaw"</string>
+    <string msgid="3808874808023664795" name="nav_MUSIC_AUS">"Musika"</string>
+    <string msgid="6627059359192965422" name="nav_MUSIC_SA">"Musika"</string>
+    <string msgid="2682584552541018208" name="nav_Magazines">"mga magazine/mga ulat/dokumentaryo"</string>
+    <string msgid="1478304511748361803" name="nav_Making_of">"paggawa ng"</string>
+    <string msgid="7592732997388665678" name="nav_Marathon_sa">"Marathon, athletic sports, paglangoy"</string>
+    <string msgid="7338901193038264886" name="nav_Marine_sa">"Marine sports, winter sports"</string>
+    <string msgid="2430164779675552067" name="nav_Martial_Sport">"martial sport"</string>
+    <string msgid="8460091950412007364" name="nav_Martial_Sports">"martial sports"</string>
+    <string msgid="6843793782660520156" name="nav_Medicine">"medisina/pisiyolohiya/sikolohiya"</string>
+    <string msgid="1992816844029786986" name="nav_Mini_series">"mini-series"</string>
+    <string msgid="521384632051767107" name="nav_Modern_drama_sa">"Modern drama, drama sa Western na istilo"</string>
+    <string msgid="6992612570374105204" name="nav_Monday">"Lunes"</string>
+    <string msgid="6070562989096653251" name="nav_Motor_Sport">"motor sport"</string>
+    <string msgid="5240740911241940133" name="nav_Motor_sa">"Motor sports"</string>
+    <string msgid="4160103961980735576" name="nav_Motoring">"sasakyan"</string>
+    <string msgid="373389300795401657" name="nav_Movie">"Pelikula"</string>
+    <string msgid="2192749429911603964" name="nav_Moving_Positioner">"Inililipat ang Positioner..."</string>
+    <string msgid="7070642218067196085" name="nav_Music">"musika/ballet/sayaw (pangkalahatan)"</string>
+    <string msgid="5960536243378369431" name="nav_Music_variety_sa">"Variety show na musika"</string>
+    <string msgid="4298905131042350427" name="nav_Musical">"musical/opera"</string>
+    <string msgid="3923446084419312125" name="nav_Musical_sa">"Musical"</string>
+    <string msgid="79298973506310292" name="nav_NEWS">"Balita/Mga kasalukuyang pangyayari"</string>
+    <string msgid="4069664565249248929" name="nav_NEWS_AND_FACTUAL">"Balita at Katotohanan"</string>
+    <string msgid="588403828661392490" name="nav_NEWS_SA">"Balita, ulat"</string>
+    <string msgid="6525638479776627839" name="nav_NICAM_DUAL1">"Nicam Dual1"</string>
+    <string msgid="4001223863545237570" name="nav_NICAM_DUAL1_DUAL2">"NICAM Dual I+II"</string>
+    <string msgid="1754387769798722520" name="nav_NICAM_DUAL2">"Nicam Dual2"</string>
+    <string msgid="7769686848165289720" name="nav_NICAM_MONO">"Nicam Mono"</string>
+    <string msgid="3856113660877677151" name="nav_NICAM_STEREO">"Nicam Stereo"</string>
+    <string msgid="4885492493461552592" name="nav_Nature">"kalikasan/mga hayop/kapaligiran"</string>
+    <string msgid="6134317789671534472" name="nav_Nature_sa">"Kalikasan, hayop, kapaligiran"</string>
+    <string msgid="6618211849118048631" name="nav_New_Media">"new media"</string>
+    <string msgid="3663290212801352195" name="nav_News">"Balita"</string>
+    <string msgid="7736306538834483698" name="nav_News_Epg">"balita"</string>
+    <string msgid="4271562254297752472" name="nav_News_Magazine">"magazine ng balita"</string>
+    <string msgid="2709673854663011997" name="nav_News_analisis_sa">"Pagsusuri sa balita"</string>
+    <string msgid="4078485895049636995" name="nav_News_sa">"Karaniwan, pangkalahatan"</string>
+    <string msgid="8708600459640992732" name="nav_No_Audio_Stream">"Walang Audio Stream"</string>
+    <string msgid="5246878918070447382" name="nav_No_Audio_and_Video">"Walang Audio at Video"</string>
+    <string msgid="8000498560272966399" name="nav_No_Channel">"Walang Channel"</string>
+    <string msgid="4425690584431331306" name="nav_No_Signal">"Walang Signal!"</string>
+    <string msgid="7517504210645255208" name="nav_No_Video_Stream">"Walang Video Stream"</string>
+    <string msgid="2108452697412045355" name="nav_No_channel_details">"(Walang detalye ang channel.)"</string>
+    <string msgid="6784347151583110026" name="nav_No_program_details">"(Walang detalye ang programa.)"</string>
+    <string msgid="1025175380273805238" name="nav_No_program_title">"(Walang pamagat ang programa.)"</string>
+    <string msgid="1925028466418229027" name="nav_Non_Broadcasting">"Hindi Nagbo-broadcast"</string>
+    <string msgid="6562125397170361637" name="nav_Nonstop">"Nonstop"</string>
+    <string msgid="2948113502898065100" name="nav_OTHER">"Iba pa"</string>
+    <string msgid="1470108166158892565" name="nav_OTHERS_SA">"Iba pa"</string>
+    <string msgid="88965773203853871" name="nav_Old_aged_sa">"Matatandang tao"</string>
+    <string msgid="6401967282343973836" name="nav_Olympic_sa">"Mga laro sa Olympics, pandaigdigang laro"</string>
+    <string msgid="2573570488640913389" name="nav_Original_language">"orihinal na wika"</string>
+    <string msgid="5932267196244939155" name="nav_Other_ball_sa">"Iba pang larong ginagamitan ng bola"</string>
+    <string msgid="998409201479443361" name="nav_Others_sa">"Iba pa"</string>
+    <string msgid="6015556343656852650" name="nav_Outdoor_entertainment_sa">"Biyahe, pangingisda, outdoor entertainment"</string>
+    <string msgid="908857413571897711" name="nav_Overseas_animation_sa">"Animation sa ibang bansa"</string>
+    <string msgid="5788384233415248264" name="nav_Overseas_dramas_sa">"Mga drama sa ibang bansa"</string>
+    <string msgid="1023323435201154306" name="nav_Overseas_movies_sa">"Mga pelikula sa ibang bansa"</string>
+    <string msgid="468372470690578128" name="nav_Overseas_rock_sa">"Rock, pop music sa ibang bansa"</string>
+    <string msgid="3747956060154665943" name="nav_Overseas_sa">"Ulat sa ibang bansa, pandaigdigang ulat"</string>
+    <string msgid="3423846309658711747" name="nav_Performing_Arts">"performing arts"</string>
+    <string msgid="3768546977583292215" name="nav_Period_sa">"Mga period drama"</string>
+    <string msgid="2845711634208725361" name="nav_Pinball_sa">"Mah-jong, mga pinball na laro"</string>
+    <string msgid="6921350197405145179" name="nav_Please_Scan_Channels">"Paki-scan ang mga channel!"</string>
+    <string msgid="1823765577040951588" name="nav_Please_Wait">"Maghintay..."</string>
+    <string msgid="611381502727473653" name="nav_Policy">"patakaran"</string>
+    <string msgid="8692797935325382999" name="nav_Politics_sa">"Pulitika, pambansang pagpupulong"</string>
+    <string msgid="3538911329306522366" name="nav_Popular_culture">"popular culture/tradisyonal na sining"</string>
+    <string msgid="7248744440286912124" name="nav_Popular_sa">"Sikat na kanta, sikat na Japanese na kanta (enka)"</string>
+    <string msgid="7412140885112394816" name="nav_Pre_school_children">"mga programa para sa mga batang nasa preschool"</string>
+    <string msgid="6378939082932407980" name="nav_Prizing">"nagpapapremyo"</string>
+    <string msgid="5136827293232303669" name="nav_Program_Locked">"Naka-lock ang Programa!"</string>
+    <string msgid="172370616761362438" name="nav_Program_guide_sa">"Gabay sa programa, impormasyon"</string>
+    <string msgid="7889254320652743571" name="nav_Quiz_sa">"Pagsusulit"</string>
+    <string msgid="2122184619914848507" name="nav_REALITY_SHOW">"Reality show"</string>
+    <string msgid="4287254519782291875" name="nav_RESERVED_FOR_FUTURE_USE">"Nakareserba para sa paggamit sa hinaharap"</string>
+    <string msgid="2550264511464017973" name="nav_RESERVED_NOT_DEFINED_AUS">"Nakareserba-hindi tinukoy"</string>
+    <string msgid="5312180884586333534" name="nav_RESERVED_SA">"Nakareserba"</string>
+    <string msgid="9145757814283258059" name="nav_Raffle">"raffle"</string>
+    <string msgid="1852915244795225252" name="nav_Ranking_sa">"Ranking, humiling ng musika"</string>
+    <string msgid="6822104968805792840" name="nav_Reality_show">"reality show"</string>
+    <string msgid="4374185644835531434" name="nav_Reject">"Tanggihan"</string>
+    <string msgid="1281646817926297685" name="nav_Religion">"relihiyon"</string>
+    <string msgid="3742201560954935131" name="nav_Remarkable_people">"mga kamangha-manghang tao"</string>
+    <string msgid="984453100440930687" name="nav_Remind_me_Later">"Paalalahanan Ako Sa Ibang Oras"</string>
+    <string msgid="8158583781925215416" name="nav_Report">"ulat"</string>
+    <string msgid="3701653096900603586" name="nav_Reserved_for_future_use">"nakareserba para sa paggamit sa hinaharap"</string>
+    <string msgid="4035149701030955594" name="nav_Reserved_sa">"Nakareserba"</string>
+    <string msgid="7969007055616561943" name="nav_Retrieving_Data">"Kinukuha ang Data"</string>
+    <string msgid="5492160504993631426" name="nav_Rock">"rock/pop"</string>
+    <string msgid="5243261233617607998" name="nav_Rock_sa">"Japanese na rock, pop music"</string>
+    <string msgid="4288777205288123674" name="nav_Romance">"Romansa"</string>
+    <string msgid="8659770437081469248" name="nav_SAP">"SAP"</string>
+    <string msgid="4188569780353472703" name="nav_SERIES">"Serye"</string>
+    <string msgid="5994064519730822726" name="nav_SHOW">"Palabas/Game show"</string>
+    <string msgid="2915219109639202163" name="nav_SOAP_OPERA">"Soap opera"</string>
+    <string msgid="38770600701306654" name="nav_SOCIAL">"Panlipunan/Mga Isyung Pulitikal/Economics"</string>
+    <string msgid="8320732507229913515" name="nav_SPECIAL">"Mga espesyal na katangian"</string>
+    <string msgid="5227083605335899206" name="nav_SPECIAL_AUS">"Espesyal"</string>
+    <string msgid="4833965674434744387" name="nav_SPORT">"Sport"</string>
+    <string msgid="4706156904091255021" name="nav_SPORTS">"Sports"</string>
+    <string msgid="9144720611589594382" name="nav_SPORTS_SA">"Sports"</string>
+    <string msgid="1173990767733612620" name="nav_STEREO">"Stereo"</string>
+    <string msgid="6454861943592948168" name="nav_Saturday">"Sabado"</string>
+    <string msgid="5515239166867063341" name="nav_Science_Fiction">"science fiction/fantasy/horror"</string>
+    <string msgid="6329251948867332296" name="nav_Science_sa">"Kalawakan, agham, medikal na agham"</string>
+    <string msgid="9151790137831251844" name="nav_Scrambled">"Naka-scramble"</string>
+    <string msgid="1509682219514074688" name="nav_Series">"serye"</string>
+    <string msgid="5276406648850963863" name="nav_Serious">"seryoso/classical/panrelihiyon/makasaysayang pelikula/drama"</string>
+    <string msgid="6008559901931855472" name="nav_Serious_Music">"seryosong musika/classical music"</string>
+    <string msgid="5008698094740226314" name="nav_Service_Not_Running">"Hindi Gumagana ang Serbisyo!"</string>
+    <string msgid="5359730743422967430" name="nav_Shopping_sa">"Pamimili, negosyong mail-order"</string>
+    <string msgid="7044536302317720750" name="nav_Show">"palabas/game show (pangkalahatan)"</string>
+    <string msgid="4470690495472078506" name="nav_Sign_language_sa">"Sign language"</string>
+    <string msgid="5834787426533334001" name="nav_Soap">"soap/melodrama/folkloric"</string>
+    <string msgid="1312563792331939305" name="nav_Soccer_sa">"Soccer"</string>
+    <string msgid="8326463219159687252" name="nav_Social">"panlipunan/isyung pulitikal/economics (panlahat)"</string>
+    <string msgid="6955041851599591609" name="nav_Social_events_sa">"Mga panlipunan, kasalukuyang kaganapan"</string>
+    <string msgid="2552058953348385271" name="nav_Social_sciences">"panlipunan/mga agham ispiritwal"</string>
+    <string msgid="269526386269476136" name="nav_Social_welfare_sa">"Kapakanang panlipunan"</string>
+    <string msgid="2277333606337532836" name="nav_Special_Events">"mga special event (olympic games,world Cup,atbp.)"</string>
+    <string msgid="6195397241263387785" name="nav_Special_effects_sa">"Mga special effect"</string>
+    <string msgid="9047394715031764418" name="nav_Special_program_sa">"Espesyal na programa, dokumentaryo"</string>
+    <string msgid="516418317017980926" name="nav_Special_report_sa">"Espesyal na ulat"</string>
+    <string msgid="3192435822872843947" name="nav_Sports">"sports (pangkalahatan)"</string>
+    <string msgid="8476324860214116667" name="nav_Sports_Magazines">"mga sports magazine"</string>
+    <string msgid="7684740721075142318" name="nav_Sports_news_sa">"Balita sa sports"</string>
+    <string msgid="4655841880997766309" name="nav_Sports_sa">"Sports"</string>
+    <string msgid="1535888822361943521" name="nav_Step">"Hakbang"</string>
+    <string msgid="40361118503172651" name="nav_Sumo_sa">"Sumo, labanang sports"</string>
+    <string msgid="1543041185005799709" name="nav_Sunday">"Linggo"</string>
+    <string msgid="5461235279942804744" name="nav_Surround">"Surround"</string>
+    <string msgid="8608301678331658729" name="nav_Surround_2CH">"Mga Surround 2 Channel"</string>
+    <string msgid="8974332067209571570" name="nav_THEATRE_SA">"Teatro/pampublikong pagtatanghal"</string>
+    <string msgid="2702838823518690813" name="nav_Talk_Show">"talk show"</string>
+    <string msgid="3146815438836614710" name="nav_Talk_variety_sa">"Variety show na kuwentuhan"</string>
+    <string msgid="8210098159890432892" name="nav_Team_Sports">"pangkoponang sports (hindi kasama ang football)"</string>
+    <string msgid="1095093673781711334" name="nav_Technology">"teknolohiya/agham pangkalikasan"</string>
+    <string msgid="280610584178386772" name="nav_Television_sales">"pagbebenta sa telebisyon"</string>
+    <string msgid="1887994633207213742" name="nav_Tennis">"tennis/squash"</string>
+    <string msgid="5684928688361598169" name="nav_Text_sa">"Text (mga subtitle)"</string>
+    <string msgid="7972345876792877737" name="nav_This_content_is_blocked">"Bina-block ng iyong service provider ang content na ito."</string>
+    <string msgid="2086750884783388391" name="nav_Thursday">"Huwebes"</string>
+    <string msgid="2717698496855049019" name="nav_Timeout">"Timeout"</string>
+    <string msgid="8359072777003907639" name="nav_Total_documentary_sa">"Kabuuang dokumentaryo"</string>
+    <string msgid="1064217920952534771" name="nav_Tour_sa">"Variety show na paglilibot"</string>
+    <string msgid="2206534807802085595" name="nav_Tourism">"turismo/paglalakbay"</string>
+    <string msgid="4864896650781813095" name="nav_Traffic_report_sa">"Ulat sa trapiko"</string>
+    <string msgid="6590886423819622433" name="nav_Travel">"paglalakbay"</string>
+    <string msgid="46359676068985925" name="nav_Tuesday">"Martes"</string>
+    <string msgid="3061043482995318058" name="nav_UNDEFINED">"Hindi natukoy na content"</string>
+    <string msgid="2329192642842883800" name="nav_UNKNOW">"HINDI ALAM"</string>
+    <string msgid="8325702713371074686" name="nav_USER_DEFINED">"Tinukoy ng user"</string>
+    <string msgid="7618135808979427930" name="nav_Undefined">"hindi natukoy na content"</string>
+    <string msgid="7068372345809953307" name="nav_University_sa">"Mga mag-aaral, eksaminasyon sa unibersidad"</string>
+    <string msgid="3767225414701637677" name="nav_Unpublished">"hind naka-publish"</string>
+    <string msgid="7464246612076601850" name="nav_User_defined">"tinukoy ng user"</string>
+    <string msgid="335916253460870247" name="nav_VARIETY">"Variety"</string>
+    <string msgid="665812415541556131" name="nav_VARIETY_SA">"Variety show"</string>
+    <string msgid="6392866565801802457" name="nav_Variety_Show">"variety show"</string>
+    <string msgid="8818543693009711253" name="nav_Video_not_Support">"Hindi Sinusuportahan ang Video"</string>
+    <string msgid="879615490910022244" name="nav_Volunteers_sa">"Mga Volunteer"</string>
+    <string msgid="2784119023122415578" name="nav_WELFARE_SA">"Kapakanan"</string>
+    <string msgid="2935243954220193670" name="nav_Water_Sport">"water sport"</string>
+    <string msgid="4787310984803157387" name="nav_Weather_Report">"balita/ulat panahon"</string>
+    <string msgid="2966360176726167336" name="nav_Weather_Report_sa">"Ulat sa lagay ng panahon"</string>
+    <string msgid="7437812315228564561" name="nav_Wednesday">"Miyerkules"</string>
+    <string msgid="1235064337232238883" name="nav_Winter_Sport">"winter sports"</string>
+    <string msgid="4784673586234419251" name="nav_Zoom">"I-zoom"</string>
+    <string msgid="1423416146353180751" name="nav_au_ARTS">"Sining/kultura"</string>
+    <string msgid="8175958670018776911" name="nav_au_EDUCATION_INFORMATION">"Edukasyon/impormasyon"</string>
+    <string msgid="7535536656101098890" name="nav_au_MUSIC">"Musika"</string>
+    <string msgid="8557902401422354877" name="nav_au_SPECIAL">"Espesyal"</string>
+    <string msgid="2373226362601702644" name="nav_au_undefined">"Hindi natukoy na content"</string>
+    <string msgid="5924250989831727442" name="nav_banner_not_rating">"Hindi Na-rate"</string>
+    <string msgid="1888349023955299704" name="nav_channel_All">"Lahat"</string>
+    <string msgid="4411622601976729909" name="nav_channel_Radio">"Radyo"</string>
+    <string msgid="6714245276115596065" name="nav_channel_antenna">"Antenna"</string>
+    <string msgid="2971064824022070667" name="nav_channel_audio_scrambled">"Naka-scramble na Audio"</string>
+    <string msgid="1545463507484207611" name="nav_channel_details">"Mga Detalye ng Channel"</string>
+    <string msgid="4775598194894742710" name="nav_channel_has_locked">"Naka-lock ang Channel!"</string>
+    <string msgid="5877629862359097611" name="nav_channel_infoNoChannelDetail">"(Walang Detalye ang Channel.)"</string>
+    <string msgid="8125356897518159307" name="nav_channel_infoNoProgram">"(Walang Detalye ang Programa.)"</string>
+    <string msgid="1636614751099482229" name="nav_channel_infoTitle">"(Walang pamagat ang programa.)"</string>
+    <string msgid="1142928191994319781" name="nav_channel_list">"Listahan ng Channel"</string>
+    <string msgid="2611146848768461491" name="nav_channel_list_loading">"Naglo-load, pakihintay..."</string>
+    <string msgid="8360955300780574598" name="nav_channel_list_options">"Operation"</string>
+    <string msgid="9098272571468415489" name="nav_channel_list_title_categories">"Mga Kategorya -"</string>
+    <string msgid="1217609978878169061" name="nav_channel_list_title_packs">"Mga Pack -"</string>
+    <string msgid="3435097407068737744" name="nav_channel_list_type_favs">"Paborito"</string>
+    <string msgid="713004835192195038" name="nav_channel_new_channels">"May mga bagong channel na nakita at idinagdag sa listahan ng channel."</string>
+    <string msgid="5292674760045443656" name="nav_channel_no_audio">"Walang Audio"</string>
+    <string msgid="8707542275819348335" name="nav_channel_retrieving">"Kinukuha ang Data..."</string>
+    <string msgid="7081152459657498495" name="nav_channel_selection">"Mga Pagpipilian sa Listahan ng Channel"</string>
+    <string msgid="367408450916090783" name="nav_channel_sources_title_string">"Mga Source ng Channel"</string>
+    <string msgid="9177381028485366425" name="nav_channel_video_scrambled">"Naka-scramble na Video"</string>
+    <string msgid="4815143002852141012" name="nav_ci_dns_text">"Nagkaproblema, pakibisita ang website!"</string>
+    <string msgid="5383639720278755347" name="nav_conflict_source_toast">"Sumasalungat ang source sa source ng <ns1:g id="CONFLICTS">%s</ns1:g>!"</string>
+    <string msgid="6481409432739745356" name="nav_delete">"I-delete"</string>
+    <string msgid="1099353673572719034" name="nav_dialog_go_page">"Pumunta Sa Channel"</string>
+    <string msgid="9049343424723101309" name="nav_dialog_input_channel">"Pakilagay ang channel number :"</string>
+    <string msgid="4057770614821115856" name="nav_dialog_no_available">"Hindi Available"</string>
+    <string msgid="8145344817948499664" name="nav_epg_April">"Abril"</string>
+    <string msgid="326780788387758757" name="nav_epg_August">"Agosto"</string>
+    <string msgid="878290796792074056" name="nav_epg_December">"Disyembre"</string>
+    <string msgid="8254919892260259823" name="nav_epg_February">"Pebrero"</string>
+    <string msgid="3825317046745111285" name="nav_epg_Friday">"Biyernes"</string>
+    <string msgid="6958561583226781835" name="nav_epg_January">"Enero"</string>
+    <string msgid="7142740960448747031" name="nav_epg_July">"Hulyo"</string>
+    <string msgid="8911826908826022098" name="nav_epg_June">"Hunyo"</string>
+    <string msgid="7343064359703214822" name="nav_epg_March">"Marso"</string>
+    <string msgid="3565567303285876674" name="nav_epg_May">"Mayo"</string>
+    <string msgid="969996435840031725" name="nav_epg_Monday">"Lunes"</string>
+    <string msgid="8640654708843667157" name="nav_epg_November">"Nobyembre"</string>
+    <string msgid="8150183876804566043" name="nav_epg_October">"Oktubre"</string>
+    <string msgid="2286230218393646059" name="nav_epg_Saturday">"Sabado"</string>
+    <string msgid="8307634148805832687" name="nav_epg_September">"Setyembre"</string>
+    <string msgid="8808578073829723099" name="nav_epg_Sunday">"Linggo"</string>
+    <string msgid="5472944470032659615" name="nav_epg_Thursday">"Huwebes"</string>
+    <string msgid="3646506390857345808" name="nav_epg_Tuesday">"Martes"</string>
+    <string msgid="7947487725306919118" name="nav_epg_Wednesday">"Miyerkules"</string>
+    <string msgid="2630159311350270597" name="nav_epg_book_list">"Listahan ng Naka-book na Event"</string>
+    <string msgid="591922857604718278" name="nav_epg_book_program_coming_tip">"ay malapit na, lumipat sa channel?"</string>
+    <string msgid="7361331741956827556" name="nav_epg_book_program_tip">"I-book ang programang ito?"</string>
+    <string msgid="8675888537206947431" name="nav_epg_no_program_data">"(Walang Data ang Programa.)"</string>
+    <string msgid="2350918894053522934" name="nav_epg_no_program_detail">"(Walang Detalye ang Programa.)"</string>
+    <string msgid="3830058099413781902" name="nav_epg_no_program_title">"(Walang Pamagat ang Programa.)"</string>
+    <string msgid="8227107983496133464" name="nav_epg_no_title">"(Walang Pamagat)"</string>
+    <string msgid="6100488274899427539" name="nav_epg_not_rated">"Hindi Na-rate"</string>
+    <string msgid="6264564394682202113" name="nav_epg_not_support">"Hindi Sinusuportahan"</string>
+    <string msgid="1421720457481076348" name="nav_epg_schedule">"Iskedyul"</string>
+    <string msgid="6465437649178270457" name="nav_epg_sub_type">"Sub Type"</string>
+    <string msgid="8178656973753219626" name="nav_epg_type">"Uri"</string>
+    <string msgid="246000861326408008" name="nav_epg_unbook_program_tip">"Na-book na ang programang ito. Kanselahin ito?"</string>
+    <string msgid="5310604557008494360" name="nav_epg_unclassified">"Walang klasipikasyon"</string>
+    <string msgid="1246372268607241556" name="nav_epg_unlock">"I-unlock"</string>
+    <string msgid="2816528467979628243" name="nav_epg_unschedule">"Hindi Nakaiskedyul"</string>
+    <string msgid="4170843803038412946" name="nav_epg_zero_tip">"Listahan ng Naka-book"</string>
+    <string msgid="2672205946282525690" name="nav_exit">"Listahan ng Mga Paborito"</string>
+    <string msgid="1059045593510301629" name="nav_fav_list_move">"Ilipat"</string>
+    <string msgid="5544785394685074068" name="nav_fav_move_down">"Ilipat Pababa"</string>
+    <string msgid="7635027935866366524" name="nav_fav_move_up">"Ilipat Pataas"</string>
+    <string msgid="177926793187779212" name="nav_fav_skip_flow">"Nilaktawan ang channel, at hindi pinapayagan ang kasalukuyang operasyon."</string>
+    <string msgid="759713397693032080" name="nav_favourite_selection">"Mga Pagpipilian sa Listahan ng Mga Paborito"</string>
+    <string msgid="1893172445136839503" name="nav_ginga_tv_for_infobar">"Naglo-load ang Ginga Application..."</string>
+    <string msgid="2350058975169490403" name="nav_ginga_tv_for_tips">"Gusto mo bang ihinto ang CC at simulan ang Ginga Application?"</string>
+    <string msgid="3599403232886227504" name="nav_ginga_tv_message">"Walang application!"</string>
+    <string msgid="1190205865791226140" name="nav_ginga_tv_title">"Listahan ng Application"</string>
+    <string msgid="1761740323940190763" name="nav_hidden_channel">"Nakatagong Channel"</string>
+    <string msgid="5259404886694911270" name="nav_input_has_locked">"Naka-lock ang Input!"</string>
+    <string msgid="7097484280828194219" name="nav_list_satellite">"Listahan ng Satellite"</string>
+    <string msgid="2374763601211492934" name="nav_local_or_regional">"lokal o panrehiyon"</string>
+    <string msgid="1488845112444335210" name="nav_mheg5_tips">"Dapat isara ang SUBTITLE bago i-enable ang digital na TEXT. Sumang-ayong magpatuloy?"</string>
+    <string msgid="585210386773818333" name="nav_movie">"pelikula"</string>
+    <string msgid="5703823134403932882" name="nav_no_category">"Walang Kategorya"</string>
+    <string msgid="2648028768044488333" name="nav_no_function">"Walang Function"</string>
+    <string msgid="6367428274317270544" name="nav_no_signal">"Walang Signal!"</string>
+    <string msgid="4211951000080501477" name="nav_no_support">"Hindi Sinusuportahan!"</string>
+    <string msgid="5561694487375138270" name="nav_not_supported">"hindi sinusuportahan"</string>
+    <string msgid="3330063422869273430" name="nav_num_CH">"Mga <ns1:g id="MSG_NO_CHANNEL_ADDED">%1$s</ns1:g> Channel"</string>
+    <string msgid="1437884667675036114" name="nav_oad_atuo_download_with_bgm">"May na-detect na bagong software!\nSumasang-ayon ka bang awtomatikong ida-download ang software kapag naka-standby mode ang TV?"</string>
+    <string msgid="575331343673401409" name="nav_oad_auto_download_confirm">"Update ng Software. May available na bagong inirerekomendang update ng software. Baka medyo matagalan ang update at baka dumilim ang screen. Huwag i-off ang TV habang nag-a-update. Gusto mo bang mag-update ngayon? Awtomatiko itong magsisimula sa loob ng <ns1:g id="NAV_OAD_AUTO_DOWNLOAD">%s</ns1:g> (na) segundo"</string>
+    <string msgid="7886426790561725864" name="nav_oad_dialog_title">"Over Air na Pag-download"</string>
+    <string msgid="7704252632696691146" name="nav_oad_downloading">"Dina-download"</string>
+    <string msgid="8436439616432319259" name="nav_oad_downloading_info">"Baka abutin nang hanggang 25 minuto ang prosesong ito"</string>
+    <string msgid="9005641290426065580" name="nav_oad_flash_confirm">"Matagumpay na na-download ang software. Gusto mo bang magsimulang mag-flash?"</string>
+    <string msgid="5810878089947893577" name="nav_oad_flash_fail">"Hindi nagawa ang programming. Subukan ito ulit?\n\nTumawag sa service center."</string>
+    <string msgid="2156547052157466619" name="nav_oad_latest_version_already">"Up to date ang iyong system."</string>
+    <string msgid="2696288320604118343" name="nav_oad_manual_download_confirm">"Update ng Software. May available na bagong inirerekomendang update ng software. Baka medyo matagalan ang update at baka dumilim ang screen. Huwag i-off ang TV habang nag-a-update. Gusto mo bang mag-update ngayon?"</string>
+    <string msgid="6744258775934844120" name="nav_oad_manual_download_fail">"Hindi ma-download ang software. Gusto mo bang subukan ulit?"</string>
+    <string msgid="7797666180604743461" name="nav_oad_programming">"Programming"</string>
+    <string msgid="4544167256333729358" name="nav_oad_progress">"Progreso: <ns1:g id="OAD_PROPGRESS">%1$s %%</ns1:g>"</string>
+    <string msgid="3572563769792982424" name="nav_oad_restart_confirm">"Matagumpay na na-download ang software! I-restart ngayon ang TV?"</string>
+    <string msgid="1604402042149950254" name="nav_oad_scanning">"Pag-scan"</string>
+    <string msgid="3646282039113187291" name="nav_oad_scanning_result_fail">"Hindi nakahanap ng bagong software on the air."</string>
+    <string msgid="3811421261290979294" name="nav_oad_schedule_oad_accept_schedule_confirm">"Update ng Software. May bagong inirerekomendang software na magiging available nang <ns1:g id="ACCEPT_SCHEDULE">%s</ns1:g>. Baka medyo matagalan ang update at baka dumilim ang screen. Huwag i-off ang receiver habang nag-a-update. Kung tatanggapin mo ang update na ito, hayaang naka-on o naka-standby mode ang TV sa nakaiskedyul na oras. Gusto mo bang tanggapin ang update na ito?"</string>
+    <string msgid="5861191929380008667" name="nav_oad_schedule_oad_change_channel_confirm">"Update ng Software. Posibleng may bagong inirerekomendang update ng software sa ibang channel. Kung sasang-ayon kang i-download ito, baka awtomatiko itong lumipat sa channel na iyon. Gusto mo ba itong gawin ngayon? Awtomatiko itong magsisimula sa loob ng <ns1:g id="AUTOMATICALLY">%s</ns1:g> (na) segundo"</string>
+    <string msgid="2980413146743195968" name="nav_oad_warning_msg_str">"Babala: Habang isinasagawa ang proseso, huwag i-unplug ang power cord ng TV Set dahil hahantong ito sa pagkasira ng TV Set."</string>
+    <string msgid="8785354636981485708" name="nav_page_down">"Page Down"</string>
+    <string msgid="3270051581100408370" name="nav_page_up">"Page Up"</string>
+    <string msgid="308348470614629015" name="nav_parent_dvbs_hint">"Tatlong beses kang naglagay ng maling password!\nMaghintay nang humigit-kumulang 15 minuto..."</string>
+    <string msgid="46198784024271122" name="nav_parent_psw">"Ilagay ang iyong Password"</string>
+    <string msgid="1525620521477162152" name="nav_parent_wrong_psw">"Mali ang Password. Pakilagay ulit!"</string>
+    <string msgid="1804434214124447939" name="nav_percent_sign">"<ns1:g id="NAV_PERCENT_SIGN_VALUE">%1$d</ns1:g>%%"</string>
+    <string msgid="7900614697578947188" name="nav_plano_stereoscopic">"plano-stereoscopic"</string>
+    <string msgid="3487093583724429407" name="nav_please_scan_channels">"Paki-scan ang mga channel!"</string>
+    <string msgid="6948099854934642276" name="nav_program_has_locked">"Naka-lock ang Programa!"</string>
+    <string msgid="3552956286008541271" name="nav_resolution_null">"Walang Video"</string>
+    <string msgid="7295892735269658347" name="nav_satellite_list">"Pumili ng Satellite"</string>
+    <string msgid="990203763701782141" name="nav_select">"Pumili"</string>
+    <string msgid="1430232488103132351" name="nav_select_find">"Maghanap"</string>
+    <string msgid="4955181758886475830" name="nav_select_find_no_channel">"Walang nakitang channel."</string>
+    <string msgid="4496521336500791773" name="nav_select_find_text">"Pakilagay ang numero o pangalan ng channel."</string>
+    <string msgid="1027121931380049166" name="nav_select_list">"Pumili ng Listahan"</string>
+    <string msgid="8780703315157174233" name="nav_select_list_cn">"Pumili"</string>
+    <string msgid="3349417212025190988" name="nav_select_more">"Pumili Pa"</string>
+    <string msgid="6508271100062731920" name="nav_select_sort">"Pagbukud-bukurin"</string>
+    <string msgid="8581827442683448193" name="nav_select_sort_default">"Default"</string>
+    <string msgid="1594866560728134004" name="nav_select_sort_encrypted">"Naka-encrypt"</string>
+    <string msgid="6921153400093046784" name="nav_select_sort_namedown">"Pababang Pangalan"</string>
+    <string msgid="5580908348787749506" name="nav_select_sort_nameup">"Pataas na Pangalan"</string>
+    <string msgid="9076713592287522086" name="nav_select_type">"Pumili ng Uri"</string>
+    <string msgid="2592457661994643123" name="nav_select_type_analogue">"Analogue"</string>
+    <string msgid="2256433531995539017" name="nav_select_type_broadcast">"Broadcast"</string>
+    <string msgid="131884890129452289" name="nav_select_type_categories">"Mga Kategorya"</string>
+    <string msgid="7079139882636642651" name="nav_select_type_digital">"Digital"</string>
+    <string msgid="3947438160597205615" name="nav_select_type_encrypted">"Naka-encrypt"</string>
+    <string msgid="4515366205034945174" name="nav_select_type_fav">"Mga Paborito"</string>
+    <string msgid="4236873277834252882" name="nav_select_type_free">"Libre"</string>
+    <string msgid="7350628433970151756" name="nav_select_type_network">"Network"</string>
+    <string msgid="4606980815353766703" name="nav_select_type_no_channel">"Walang channel ang uring ito. Pumili ng ibang uri."</string>
+    <string msgid="6781847657898029815" name="nav_select_type_packs">"Mga Pack"</string>
+    <string msgid="2544353653799094620" name="nav_select_type_radio">"Radyo"</string>
+    <string msgid="3566331474323594407" name="nav_sleep__off">"Sleep: Naka-off"</string>
+    <string msgid="1273142476991172762" name="nav_sleep_label">"Sleep:"</string>
+    <string msgid="7071964790067590983" name="nav_sleep_min">"Sleep: <ns1:g id="NAV_SLEEP_TIME">%d</ns1:g> (na) Minuto"</string>
+    <string msgid="3683886457066438960" name="nav_sleep_minutes">"Minuto"</string>
+    <string msgid="8552794208521851300" name="nav_sleep_off">"Naka-off"</string>
+    <string msgid="6199547169049414230" name="nav_source_atv">"ATV"</string>
+    <string msgid="5152302644958567371" name="nav_source_dtv">"DTV"</string>
+    <string msgid="2932465973368848409" name="nav_source_main_title">"Mga Input"</string>
+    <string msgid="3984145309082960750" name="nav_source_sub_title">"Sub"</string>
+    <string msgid="7937093959037218994" name="nav_ttx_favorite_list">"Listahan ng Paboritong Page"</string>
+    <string msgid="4965343578621302243" name="nav_ttx_no_top">"Walang Itaas"</string>
+    <string msgid="1849434056018291267" name="nav_ttx_top_block">"BLOCK"</string>
+    <string msgid="9049629479556534806" name="nav_ttx_top_group">"PANGKAT"</string>
+    <string msgid="6221648624822109190" name="nav_ttx_top_page">"PAGE"</string>
+    <string msgid="6769591863518754361" name="nav_uk_EDUCATION">"Edukasyon"</string>
+    <string msgid="8189882236519482485" name="nav_uk_NEWS">"Balita at Katotohanan"</string>
+    <string msgid="4595599306746256896" name="nav_uk_category_Lifestyle_Leisure_hobbies">"Lifestyle/Mga libangan"</string>
+    <string msgid="5030403358718427171" name="nav_uk_channellist_add_fav">"Magdagdag ng Paborito"</string>
+    <string msgid="8496350159150880462" name="nav_uk_channellist_player">"Mga Player"</string>
+    <string msgid="219791164528735785" name="nav_uk_channellist_remove_fav">"Alisin ang Paborito"</string>
+    <string msgid="7303511441302991257" name="nav_uk_channellist_type_fav">"Mga Paborito"</string>
+    <string msgid="5986175772967350438" name="nav_uk_channellist_type_hd">"Mga HD na Channel"</string>
+    <string msgid="2219677295274235253" name="nav_uk_channellist_type_interactive">"Mga Interactive na Channel"</string>
+    <string msgid="3901748556238195401" name="nav_uk_channellist_type_ipapp">"Mga IP App na Channel"</string>
+    <string msgid="4852246670688130011" name="nav_uk_channellist_type_ipapp_ip_channel">"Mga IP Channel"</string>
+    <string msgid="3039380889608556576" name="nav_uk_channellist_type_radio">"Mga Channel sa Radyo"</string>
+    <string msgid="418747611250263057" name="nav_unknown_audio">"HIndi Alam na Audio"</string>
+    <string msgid="1960427620589764744" name="nav_unknown_audio_sundry">"Hindi Alam"</string>
+    <string msgid="6851427853792848474" name="nav_unknown_stereo">"Hindi Alam na Stereo"</string>
+    <string msgid="7378640345883431032" name="nav_upgrader_MoreInfo">"Higit pang Impormasyon."</string>
+    <string msgid="68677685977452446" name="nav_upgrader_check_fail">"Hindi natingnan kung may bagong firmware."</string>
+    <string msgid="1433605412771472680" name="nav_upgrader_completed">"Matagumpay na na-update ang firmware.\nPaki-restart ang TV set para i-activate ang bagong firmware."</string>
+    <string msgid="185592686475555093" name="nav_upgrader_confirm">"Sigurado ka bang gusto mong i-update ang firmware?"</string>
+    <string msgid="6277453313226388182" name="nav_upgrader_decry_fail">"Hindi nakapag-decrypt."</string>
+    <string msgid="2568138728137239753" name="nav_upgrader_download_fail">"Hindi na-download ang firmware sa network."</string>
+    <string msgid="2054272664938450834" name="nav_upgrader_failed">"Hindi nakapag-update.\nPaki-restart ang TV set para i-download ulit ang firmware."</string>
+    <string msgid="217630650334359123" name="nav_upgrader_firmware_invalid">"Invalid ang firmware."</string>
+    <string msgid="4389691957216704028" name="nav_upgrader_internal_err">"Internal na error."</string>
+    <string msgid="1502059087895454643" name="nav_upgrader_invalid">"Invalid ang Image File ng Firmware!"</string>
+    <string msgid="7871307630536776066" name="nav_upgrader_no_update">"Walang available na firmware na ia-update."</string>
+    <string msgid="3579172277955128322" name="nav_upgrader_not_avail_firmware">"Walang available na bersyon ng firmware."</string>
+    <string msgid="2148803173276888193" name="nav_upgrader_power">"Power"</string>
+    <string msgid="4322711666412270344" name="nav_upgrader_retry">"Hindi nakapag-update.\nGusto mo bang subukan ulit?"</string>
+    <string msgid="8339244791652128051" name="nav_upgrader_retry2">"Hindi nakapag-update. Pakilagay ang USB.\nGusto mo bang subukan ulit?"</string>
+    <string msgid="2584420305904044750" name="nav_upgrader_title">"Wizard para sa Pag-update"</string>
+    <string msgid="9104450900608728584" name="nav_upgrader_updating">"Nag-a-update..."</string>
+    <string msgid="5391382330036796702" name="nav_upgrader_usb_not_ready">"Hindi nakahanda ang USB dongle, paki-plug ito at subukan ulit."</string>
+    <string msgid="8543029645051862073" name="nav_upgrader_usb_problem">"May ilang problema sa USB dongle."</string>
+    <string msgid="7664091580717615400" name="nav_upgrader_usb_space_not_enough">"Hindi sapat ang available na espasyo sa iyong USB dongle."</string>
+    <string msgid="4761068359114556988" name="nav_upgrader_validate">"Vina-validate ang firmware..."</string>
+    <string msgid="8436059139284528381" name="nav_upgrader_warnning">"HUWAG i-unplug ang USB dongle at i-off ang TV set habang nag-a-update!"</string>
+    <string msgid="8985415486230287339" name="nav_volume_main">"Master Volume"</string>
+    <string msgid="385809644281808411" name="nav_zoom_x1">"I-zoom nang X 1"</string>
+    <string msgid="6011779723156123987" name="nav_zoom_x1_2">"I-zoom nang X 1/2"</string>
+    <string msgid="2720215545960741306" name="nav_zoom_x2">"I-zoom nang X 2"</string>
+    <string msgid="6176108713668500983" name="network_not_avaiable">"Hindi available ang network"</string>
+    <string msgid="2620718003929766549" name="no_program_information">"Walang impormasyon ng programa"</string>
+    <string msgid="2138706123507764923" name="no_support_epg">"Hindi sinusuportahan ang EPG!"</string>
+    <string msgid="2564706635374985520" name="not_enough_space">"Walang sapat na espasyo. Dapat ay may hindi bababa sa 1 GB ng bakanteng espasyo ang disk."</string>
+    <string msgid="4949105063973409628" name="not_support_fb">"Hindi sinusuportahan ang pag-rewind"</string>
+    <string msgid="4915685677306383736" name="not_support_ff">"Hindi sinusuportahan ang pag-fastforward"</string>
+    <string msgid="2945606375091157535" name="not_support_ff_fb">"Hindi sinusuportahan ang fastforward at rewind"</string>
+    <string msgid="2577844873443781633" name="oad_channel_jump_title">"Isaayos ang channel sa pamamagitan ng OAD"</string>
+    <string msgid="3047029303285767785" name="oad_download_bgm_title">"Mag-download sa pamamagitan ng BGM"</string>
+    <string msgid="4877708338250766856" name="oad_downloading_title">"Dina-download"</string>
+    <string msgid="7192443817118007645" name="oad_flash_failed_title">"Hindi na-upgrade"</string>
+    <string msgid="2410275374412762890" name="oad_linkage_found">"Nahanap ang Linkage ng OAD, gusto mo bang isaayos ang channel?"</string>
+    <string msgid="6948481951924283977" name="oad_restart_to_proceed_title">"Mag-restart para ma-install"</string>
+    <string msgid="7014087140650340990" name="oad_scan_failed_description">"Hindi Nakapag-scan, gusto mo bang subukan ulit?"</string>
+    <string msgid="4968696677300239126" name="oad_scanning_tip">"Puwedeng abutin nang ilang sandali bago matapos pag-scan ng OAD"</string>
+    <string msgid="1737670690057789082" name="oad_schedule_title">"Iskedyul ng OAD"</string>
+    <string msgid="4850983469749879770" name="one_key_ch_last">"CH -"</string>
+    <string msgid="209588048760330201" name="one_key_ch_next">"CH +"</string>
+    <string msgid="4009784748638794309" name="one_key_power_off">"Power"</string>
+    <string msgid="79156765527125949" name="one_key_powered_off">"I-off"</string>
+    <string msgid="6554721728000374639" name="one_key_source_control">"Source"</string>
+    <string msgid="8730424095805619277" name="one_key_title">"Menu ng Function Key"</string>
+    <string msgid="2022523121682095052" name="one_key_volume_decrease">"Vol -"</string>
+    <string msgid="8173734395735427399" name="one_key_volume_increase">"Vol +"</string>
+    <string msgid="5859306912976445887" name="option_attribution">"Mga Source ng Mga Paglalarawan ng Rating"</string>
+    <string msgid="919063147302651327" name="option_block_unrated_programs">"I-block ang mga programang walang rating"</string>
+    <string msgid="1933418586775188460" name="option_change_pin">"Palitan ang PIN"</string>
+    <string msgid="1308860815117282408" name="option_channels_lock_all">"I-block Lahat"</string>
+    <string msgid="4278553646650920903" name="option_channels_locked">"Mga Naka-block na Channel"</string>
+    <string msgid="8525566190972924859" name="option_channels_skip_all">"Laktawan Lahat"</string>
+    <string msgid="7577132153514645863" name="option_channels_subheader_hidden">"Mga Nakatagong Channel"</string>
+    <string msgid="8863189264168651216" name="option_channels_unlock_all">"I-unblock Lahat"</string>
+    <string msgid="2008840585521526440" name="option_channels_unskip_all">"I-unskip Lahat"</string>
+    <string msgid="1392413757942636834" name="option_country_rating_systems">"Mga Rating System"</string>
+    <string msgid="5018552805474427630" name="option_inputs_locked">"Mga Naka-block na Input"</string>
+    <string msgid="4556667077460286621" name="option_item_source">"Source"</string>
+    <string msgid="893654855305492748" name="option_no_locked_channel">"Wala"</string>
+    <string msgid="2858973210829446465" name="option_program_open_vchip">"Setting ng RRT5"</string>
+    <string msgid="4040225166560427264" name="option_program_restrictions">"Mga Paghihigpit sa Programa"</string>
+    <string msgid="7979151968299060057" name="option_rating_custom">"Custom"</string>
+    <string msgid="5626098292379342615" name="option_rating_custom_description">"Mga Manual na Paghihigpit"</string>
+    <string msgid="4823561495527911126" name="option_rating_high">"Matataas na Paghihigpit"</string>
+    <string msgid="2263330370930290830" name="option_rating_high_description">"Naaangkop ang Content sa Mga Bata"</string>
+    <string msgid="6799595596891724805" name="option_rating_low">"Mabababang Paghihigpit"</string>
+    <string msgid="6998332910682382011" name="option_rating_low_description">"Naaangkop ang Content para sa Mga Teenager"</string>
+    <string msgid="1315066690064706951" name="option_rating_medium">"Mga Katamtamang Paghihigpit"</string>
+    <string msgid="5208544963533615943" name="option_rating_medium_description">"Naaangkop sa Mga Nakatatandang Bata"</string>
+    <string msgid="2660806052790302617" name="option_ratings">"Mga Rating"</string>
+    <string msgid="4730040709343309680" name="option_ratings_age">"Mga Rating Batay sa Edad"</string>
+    <string msgid="2743117466268053677" name="option_ratings_content">"Mga Content Rating"</string>
+    <string msgid="6201049705170695880" name="option_see_all_rating_systems">"Tingnan ang Lahat ng Rating System"</string>
+    <string msgid="8076550601405699796" name="option_subrating_header">"Mga Sub-rating"</string>
+    <string msgid="8895683546288375781" name="option_subrating_title">"<ns1:g id="OPTION_SUBRATING">%1$s</ns1:g> at mga sub-rating"</string>
+    <string msgid="1676835230755231708" name="options_item_add_to_favorite_normal">"Idagdag sa Aking Mga Paborito"</string>
+    <string msgid="1544428407279964983" name="options_item_add_to_favorite_selected">"Aking Mga Paborito"</string>
+    <string msgid="5853195639158707605" name="options_item_closed_caption">"Mga Closed Caption"</string>
+    <string msgid="7841703877115700888" name="options_item_display_mode">"Display Mode"</string>
+    <string msgid="8072740194649321532" name="options_item_more_channels">"Kumuha pa ng mga channel"</string>
+    <string msgid="1114519104794016159" name="options_item_my_fav_edit">"I-edit"</string>
+    <string msgid="5810386866875884047" name="options_item_picture_style">"Picture Mode"</string>
+    <string msgid="1453090179989181072" name="options_item_settings">"Mga Setting"</string>
+    <string msgid="122267496452408739" name="options_item_sounds_style">"Istilo ng Tunog"</string>
+    <string msgid="713533890590523853" name="options_item_speakers">"Mga Speaker"</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"Pagkilos sa Paghahanap"</string>
+    <string msgid="4596971851245610516" name="other_countries">"Iba Pang Bansa"</string>
+    <string msgid="5916835708420351938" name="pager_left">"Naunang Page"</string>
+    <string msgid="4968062902568815399" name="pager_mid">"I-delete"</string>
+    <string msgid="7603224449754953394" name="pager_right">"Susunod na Page"</string>
+    <string msgid="7370943383274566757" name="parental_open_vchip_dim">"Pag-dim ng RRT5"</string>
+    <string msgid="2714124932028883408" name="parental_open_vchip_level">"Antas ng RRT5"</string>
+    <string msgid="1033206366441155458" name="parental_open_vchip_region">"Setting ng RRT5"</string>
+    <string msgid="1524137500002115214" name="parental_rrt5_reset">"Pag-reset ng RRT5"</string>
+    <string msgid="5659508326927657540" name="pin_enter_again">"Kumpirmahin ang iyong PIN"</string>
+    <string msgid="6301919043650037174" name="pin_enter_create_pin">"Para itakda ang parental controls, gumawa ng PIN"</string>
+    <string msgid="4029016259168851554" name="pin_enter_new_pin">"Ilagay ang bagong PIN"</string>
+    <string msgid="616711077575827250" name="pin_enter_old_pin">"Ilagay ang kasalukuyan mong PIN"</string>
+    <string msgid="3413604816599667866" name="pin_enter_pin">"Ilagay ang iyong PIN"</string>
+    <string msgid="3985838512650380181" name="pin_enter_unlock_channel">"Ilagay ang iyong PIN para mapanood ang channel na ito"</string>
+    <string msgid="5027150578792028257" name="pin_enter_unlock_dvr">"May rating na <ns1:g id="RATING">%1$s</ns1:g> ang programang ito. Ilagay ang iyong PIN para mapanood ang programang ito"</string>
+    <string msgid="1457727956598351054" name="pin_enter_unlock_dvr_unrated">"Walang rating ang programang ito. Ilagay ang iyong PIN para mapanood ang programang ito"</string>
+    <string msgid="4241029038098662965" name="pin_enter_unlock_program">"Ilagay iyong PIN para mapanood ang programang ito"</string>
+    <string msgid="2549043675305454893" name="pin_toast_not_match">"Subukan ulit, hindi tumutugma ang PIN"</string>
+    <string msgid="7295547708747589572" name="pin_toast_wrong">"Mali ang PIN na iyon. Subukan ulit."</string>
+    <string msgid="4986405808790790433" name="power_on_off_time_same">"Hindi puwedeng magkapareho ang dalawang timer. Paki-reset"</string>
+    <string msgid="6467202054236523688" name="pro_disk_remove">"Walang Device o Hindi Available ang Mga Device. Subukan sa Ibang Pagkakataon!"</string>
+    <string msgid="6329568671163429699" name="pro_input_lock">"Naka-lock ang Input!"</string>
+    <string msgid="8983754404763649181" name="pro_internal_error">"Internal na Error!"</string>
+    <string msgid="1640001084557796517" name="pro_none_tv_source">"Hindi nasimulan ang PVR. Lumipat Muna sa Source na Digital TV!"</string>
+    <string msgid="7362200187733688632" name="pro_pip_running">"Hindi nasimulan ang PVR. Lumabas Muna sa PIP!"</string>
+    <string msgid="6520366875348857107" name="pro_pvr_running">"Hindi Available ang Timeshift. Lumabas Muna sa PVR!"</string>
+    <string msgid="317426771654592603" name="pro_signal_loss">"Hindi nasimulan ang PVR. Walang Nahanap na Signal!"</string>
+    <string msgid="1518360166410122547" name="pro_stream_not_authorized">"Hindi Pinapahintulutan ang Stream!"</string>
+    <string msgid="6945804649462258510" name="pro_stream_not_available">"Hindi Available ang AV Stream!"</string>
+    <string msgid="8744947546295367404" name="pro_time_shift_disk_not_ready">"Hindi handa ang disk!"</string>
+    <string msgid="299292333603331577" name="pro_tshift_running">"Hindi nasimulan ang PVR. Tumatakbo ang Timeshift!"</string>
+    <string msgid="8338964372355276797" name="pro_video_resolution_error">"Error sa Resolution ng Video!"</string>
+    <string msgid="4637995776353107319" name="program_title_with_episode_number">"<ns1:g id="PROGRAMNAME">%1$s</ns1:g> S<ns1:g id="SEASONNUMBER">%2$s</ns1:g>: Ep. <ns1:g id="EPISODENUMBER">%3$s</ns1:g>"</string>
+    <string msgid="1743483596922267494" name="pvr_confirm_no">"Hindi"</string>
+    <string msgid="1960977629850737637" name="pvr_confirm_yes">"Oo"</string>
+    <string msgid="732207163687513098" name="pvr_deviceinfo_format">"Format"</string>
+    <string msgid="8686619785147159232" name="pvr_deviceinfo_info">"Impormasyon"</string>
+    <string msgid="1812035881698409659" name="pvr_deviceinfo_set_pvr">"Itakda ang PVR"</string>
+    <string msgid="638982818771137638" name="pvr_deviceinfo_set_timeshift">"Itakda ang Timeshift"</string>
+    <string msgid="1705696933436508819" name="pvr_deviceinfo_speed_test">"Pagsusuri sa Bilis"</string>
+    <string msgid="473183767606082352" name="pvr_dialog_Loadding">"Naglo-load"</string>
+    <string msgid="3411787444556554562" name="pvr_dialog_formatting">"Pag-format"</string>
+    <string msgid="6695036643563889270" name="pvr_disk_ispvr_pvr_tshift">"PVR/Timeshift"</string>
+    <string msgid="8895833207517205045" name="pvr_disk_no_name">"Walang Pangalan"</string>
+    <string msgid="5047713114089933131" name="pvr_disksetup_disk_setup">"Pag-set Up ng Disk"</string>
+    <string msgid="2027643471229072718" name="pvr_disksetup_select">"Pumili"</string>
+    <string msgid="286512503027071771" name="pvr_file_list_no_eit">"Putol ang recording, naputol ang pag-record dahil walang EIT!"</string>
+    <string msgid="5063609682989327692" name="pvr_file_list_no_eit_singal_loss">"Putol ang recording, naputol ang pag-record dahil walang EIT at nawalan ng signal!"</string>
+    <string msgid="3168384973802632224" name="pvr_file_list_singal_loss">"Putol ang recording, naputol ang pag-record dahil nawalan ng signal!"</string>
+    <string msgid="3971729435570427497" name="pvr_file_list_specia_toast">"Na-save ang bahagi ng recording. Na-off ang power habang nagre-record."</string>
+    <string msgid="2700249281983575436" name="pvr_playlist_channel_name">"Pangalan ng Channel"</string>
+    <string msgid="7441439086772670454" name="pvr_playlist_channel_num">"Numero ng Channel"</string>
+    <string msgid="5088425874562384948" name="pvr_playlist_date">"Petsa"</string>
+    <string msgid="8154163383737436183" name="pvr_playlist_duration">"Tagal"</string>
+    <string msgid="2832544805028365267" name="pvr_playlist_info">"Impormasyon"</string>
+    <string msgid="462603358423284402" name="pvr_playlist_page_down">"Page Down"</string>
+    <string msgid="7872028984404843967" name="pvr_playlist_page_up">"Page Up"</string>
+    <string msgid="7787340288465263048" name="pvr_playlist_program_name">"Pangalan ng File"</string>
+    <string msgid="7464433327310697729" name="pvr_playlist_programe_info">"Impormasyon ng Programa"</string>
+    <string msgid="6676719393966953458" name="pvr_playlist_record_detail">"I-record ang Detalye"</string>
+    <string msgid="6385411317725709030" name="pvr_playlist_record_list">"Listahan ng Record"</string>
+    <string msgid="7665349581842466301" name="pvr_playlist_time">"Oras"</string>
+    <string msgid="3866986988910255809" name="pvr_playlist_week">"Linggo"</string>
+    <string msgid="2667946459618756921" name="pvr_running_warning_msg">"Tumatakbo ang PVR o may nagpe-play na PVR file.\nPakihinto ito, pagkatapos ay subukan ito ulit!"</string>
+    <string msgid="2572035665912933037" name="pvr_save_record">"Ihinto ang PVR at pagkatapos ay i-save ang record."</string>
+    <string msgid="6110852830700398259" name="pvr_schedule_add">"Idagdag"</string>
+    <string msgid="3135146425081661396" name="pvr_schedule_cancel">"Kanselahin"</string>
+    <string msgid="6869378196887302864" name="pvr_schedule_edit">"I-edit"</string>
+    <string msgid="2077309687182548451" name="pvr_schedule_max_schedule_error">"Lumampas na sa maximum na pinapayagan ang hinihiling na pagdaragdag ng iskedyul!"</string>
+    <string msgid="7896175252425269525" name="pvr_schedule_ok">"OK"</string>
+    <string msgid="5856456294154475187" name="pvr_schedule_replace">"Palitan"</string>
+    <string msgid="6133534846130873072" name="pvr_schedule_time_error">"Nagka-error sa oras ng pagsisimula, ang oras ngayon ay nauuna sa kasalukuyang oras!"</string>
+    <string msgid="3584652870083785079" name="pvr_schedulelist_delete_line1">"I-delete ang iskedyul!"</string>
+    <string msgid="1095814224051622093" name="pvr_schedulelist_delete_line2">"Gusto mo bang i-delete ang mga iskedyul na ito?"</string>
+    <string msgid="1964336334167319443" name="pvr_schedulelist_replace_line1">"Nag-overlap ang mga iskedyul!"</string>
+    <string msgid="3784414124800559080" name="pvr_schedulelist_replace_line2">"Gusto mo bang palitan ang mga iskedyul na ito?"</string>
+    <string msgid="5117651242858869047" name="pvr_schedulepvr_add_schedule">"Magdagdag Iskedyul"</string>
+    <string msgid="3263076279672391726" name="pvr_schedulepvr_record">"I-record"</string>
+    <string msgid="319347236544867326" name="pvr_schedulepvr_schedule_list">"Listahan ng Iskedyul"</string>
+    <string msgid="7027839432116753202" name="pvr_schedulepvr_schedule_list2">"Listahan ng Iskedyul"</string>
+    <string msgid="2575698815926464983" name="pvr_schedulepvr_selected">"Napili"</string>
+    <string msgid="5040919860922460694" name="pvr_schedulepvr_week">"Linggo"</string>
+    <string msgid="5062139540953124754" name="pvr_title_device_info">"Impormasyon ng Device"</string>
+    <string msgid="2905842702207528862" name="pvrplay_file_deficiency">"Kulang ang haba ng file!"</string>
+    <string msgid="3930030730202531332" name="rating_not_defined">"Hindi tinukoy"</string>
+    <string msgid="8052768659911065234" name="rating_schedule_block">"I-block"</string>
+    <string msgid="90379047922234847" name="rating_schedule_off">"I-off"</string>
+    <string msgid="2286124473198629391" name="rating_years">"Mga Taon"</string>
+    <string msgid="6436447919555650534" name="recording_formate_msg">"Hindi Na-format ang Disk. Nagre-record!"</string>
+    <string msgid="2437056584091944552" name="satellites">"Mga Satellite"</string>
+    <string msgid="4703140098131614774" name="scan_exit_tip">"Pindutin ang [back/exit] para lumabas sa page sa pag-scan."</string>
+    <string msgid="4432949124051604385" name="scan_trd_fav_network">"Pakipili ang iyong paboritong network:"</string>
+    <string msgid="8248507858900319578" name="scan_trd_lcn_CONFLICT_CHANL_NUM">"Hindi tumutugmang numero ng channel:"</string>
+    <string msgid="2886988137950355383" name="scan_trd_lcn_CONFLICT_INDEX">"Hindi tumutugmang index ng grupo:"</string>
+    <string msgid="5499850751634484897" name="scan_trd_lcn_CONFLICT_USE_DEFAULT">"Gamitin ang Default na Setting para sa Lahat"</string>
+    <string msgid="6777686697506190937" name="scan_trd_lcnv2_title">"Pumili ng listahan ng channel:"</string>
+    <string msgid="7007913898492887551" name="scan_trd_pt_save_channel">"Gusto mo bang i-save ang mga resulta ng paghahanap?"</string>
+    <string msgid="7414490297579669812" name="scan_trd_turkey_tkgs_update_scan">"Updated na ang channel list.\n Ituloy ang download?"</string>
+    <string msgid="7057836872283539861" name="scan_trd_uk_reg_reg_nodefine">"Walang Tinukoy"</string>
+    <string msgid="7011732649786693105" name="scan_trd_uk_reg_reg_x">"Rehiyong <ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>"</string>
+    <string msgid="2002648253057830525" name="scan_way">"Pumili ng scan mode"</string>
+    <string msgid="7033470766507631908" name="schedule_pvr_channel_num">"Impormasyon ng Channel"</string>
+    <string msgid="2405300786656196134" name="schedule_pvr_reminder_type">"Uri ng Iskedyul"</string>
+    <string msgid="769903071861617735" name="schedule_pvr_repeat_type">"Uri ng Pag-ulit"</string>
+    <string msgid="7227298346850974232" name="schedule_pvr_srctype">"Uri ng Source"</string>
+    <string msgid="5682115056414411309" name="schedule_pvr_start_date">"Petsa ng Pagsisimula"</string>
+    <string msgid="5399050783975179444" name="schedule_pvr_start_time">"Oras ng Pagsisimula"</string>
+    <string msgid="2057408639553834766" name="schedule_pvr_stop_time">"Oras ng Paghinto"</string>
+    <string msgid="1102370370491303160" name="schedulelist_nofiles">"Walang naka-record na iskedyul! Pakipindot ang key na Mag-record para magdagdag ng iskedyul."</string>
+    <string msgid="188335947614278738" name="schedulelist_nofiles_disable_add">"Walang naka-record na iskedyul!"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Maghanap"</string>
+    <string msgid="6982631071764474437" name="select_channel_title">"Pumili ng Listahan ng Channel"</string>
+    <string msgid="8452853862535028462" name="select_region_detail_title">"Pumili ng Rehiyon para sa <ns1:g id="SELECT_REGION_DETAIL">%1$s</ns1:g>"</string>
+    <string msgid="6909113383906775952" name="select_region_title">"Pumili ng Rehiyon"</string>
+    <string msgid="4653062046959284678" name="selected">"Napili"</string>
+    <string msgid="3192336140991154148" name="settings_menu_licenses">"Mga Lisensya ng Open Source"</string>
+    <string msgid="3837780715001543416" name="setup_back">"Bumalik"</string>
+    <string msgid="688699805047968989" name="setup_cable_select_operation">"Pumili ng Operator"</string>
+    <string msgid="3046886112072318375" name="setup_cable_setting_title">"Paki-configure ang impormasyon ng cable."</string>
+    <string msgid="5890077326704095589" name="setup_category_done">"Mga Source"</string>
+    <string msgid="6994855730807922321" name="setup_category_new">"Bago"</string>
+    <string msgid="629173256579318536" name="setup_country">"Bansa"</string>
+    <string msgid="6895556328920770170" name="setup_country_cty_1">"Austria"</string>
+    <string msgid="3056297609456613005" name="setup_country_cty_10">"United Kingdom"</string>
+    <string msgid="4886485417104780550" name="setup_country_cty_11">"Italy"</string>
+    <string msgid="2664156860205384207" name="setup_country_cty_12">"Luxembourg"</string>
+    <string msgid="362195204633077934" name="setup_country_cty_13">"Netherlands"</string>
+    <string msgid="4958582868096425639" name="setup_country_cty_14">"Norway"</string>
+    <string msgid="1646322127343084018" name="setup_country_cty_15">"Sweden"</string>
+    <string msgid="8041191922706061880" name="setup_country_cty_16">"Bulgaria"</string>
+    <string msgid="8287793660007172956" name="setup_country_cty_17">"Croatia"</string>
+    <string msgid="3342594133100842340" name="setup_country_cty_18">"Greece"</string>
+    <string msgid="6887153920694730657" name="setup_country_cty_19">"Hungary"</string>
+    <string msgid="2803937035365082471" name="setup_country_cty_2">"Belgium"</string>
+    <string msgid="3927879336029866856" name="setup_country_cty_20">"Ireland"</string>
+    <string msgid="83779937097370574" name="setup_country_cty_21">"Poland"</string>
+    <string msgid="413264530388355855" name="setup_country_cty_22">"Portugal"</string>
+    <string msgid="6819226363331994829" name="setup_country_cty_23">"Romania"</string>
+    <string msgid="5352514055951286995" name="setup_country_cty_24">"Russia"</string>
+    <string msgid="305619576638207540" name="setup_country_cty_25">"Serbia"</string>
+    <string msgid="1534705148291674933" name="setup_country_cty_26">"Slovakia"</string>
+    <string msgid="6357379183553936835" name="setup_country_cty_27">"Slovenia"</string>
+    <string msgid="9100572966992266131" name="setup_country_cty_28">"Turkey"</string>
+    <string msgid="5725492303681548415" name="setup_country_cty_29">"Estonia"</string>
+    <string msgid="6540541202129861400" name="setup_country_cty_3">"Switzerland"</string>
+    <string msgid="6813760029259647258" name="setup_country_cty_30">"Australia"</string>
+    <string msgid="90824140511863915" name="setup_country_cty_31">"New Zealand"</string>
+    <string msgid="3334442635649234712" name="setup_country_cty_32">"Indonesia"</string>
+    <string msgid="6081164770807313636" name="setup_country_cty_4">"Czechia"</string>
+    <string msgid="5026555588176089149" name="setup_country_cty_5">"Germany"</string>
+    <string msgid="7104231423165151711" name="setup_country_cty_6">"Denmark"</string>
+    <string msgid="1418014150397903839" name="setup_country_cty_7">"Spain"</string>
+    <string msgid="5994370917125174600" name="setup_country_cty_8">"Finland"</string>
+    <string msgid="922526384418070923" name="setup_country_cty_9">"France"</string>
+    <string msgid="4280149641479169806" name="setup_dvbc_config_frequency">"Frequency (KHz)"</string>
+    <string msgid="5423558599892759094" name="setup_dvbc_config_modulation">"Modulation"</string>
+    <string msgid="3521583765915663578" name="setup_dvbc_config_networkid">"Network ID"</string>
+    <string msgid="5698976511626122153" name="setup_dvbc_config_scanmode">"Scan Mode"</string>
+    <string msgid="2667479134977248624" name="setup_dvbc_config_symbolrate">"Rate ng Simbolo (Ksym/s)"</string>
+    <string msgid="205937058253974527" name="setup_dvbc_setting">"Paki-configure ang impormasyon ng cable."</string>
+    <string msgid="7127970425088180426" name="setup_dvbs_config_info_title">"Paki-configure ang impormasyon ng pag-scan."</string>
+    <string msgid="2064992804597231981" name="setup_dvbs_config_setting_title">"Pakitakda ang configuration ng uri ng antenna."</string>
+    <string msgid="803120765751219932" name="setup_dvbs_satellite_config">"Pag-set Up ng Antenna"</string>
+    <string msgid="7266127057913994977" name="setup_dvbs_satellite_config_title">"Pakitakda ang mga parameter ng satellite."</string>
+    <string msgid="2131317949979552719" name="setup_dvbs_satellite_config_tp_title">"Pakitakda ang mga parameter ng transponder."</string>
+    <string msgid="2800767936028832872" name="setup_dvbs_satellite_list_title">"Pumili ng mga satellite para i-scan o i-edit ang napiling satellite."</string>
+    <string msgid="3930677461028817109" name="setup_dvbs_statellite_select_operator">"Pumili ng Operator"</string>
+    <string msgid="8612565925665677402" name="setup_dvbs_statellite_select_operator_title">"Isang operator lang ang puwede mong piliin sa sumusunod na listahan."</string>
+    <string msgid="5784290849900230632" name="setup_dvbs_statellite_type">"Uri ng Satellite"</string>
+    <string msgid="4321564817055396329" name="setup_dvbs_statellite_type_title">"Pumili ng uri ng satellite."</string>
+    <string msgid="2146465055653514914" name="setup_exit">"Lumabas"</string>
+    <string msgid="6042999728027852143" name="setup_input_new">"Bago"</string>
+    <string msgid="6259265010188436855" name="setup_input_no_channels">"Walang channel na available"</string>
+    <string msgid="6101285296981157962" name="setup_input_setup_now">"Hindi naka-set up"</string>
+    <string msgid="7977082283099331083" name="setup_language_english_value">"Programming"</string>
+    <string msgid="4079616525492116810" name="setup_next">"Susunod"</string>
+    <string msgid="1270661539800592611" name="setup_select">"Pumili"</string>
+    <string msgid="3792242598534721731" name="setup_select_country">"Pakipili ang iyong bansa:"</string>
+    <string msgid="2441186944736538796" name="setup_select_set">"Itakda"</string>
+    <string msgid="8378902213632723169" name="setup_set_password_success_msg">"Matagumpay na naitakda ang password!"</string>
+    <string msgid="2206368276427679430" name="setup_set_password_titile1">"Bagong Password"</string>
+    <string msgid="747455523215475524" name="setup_set_password_titile2">"Kumpirmahin ang Password"</string>
+    <string msgid="4717439873577912103" name="setup_set_password_title">"Pakitakda ang password. Hindi valid na password ang 0000"</string>
+    <string msgid="8494012850018716458" name="setup_set_postal_code_editview">"Postal Code"</string>
+    <string msgid="2109762842032636610" name="setup_set_postalcode">"Pakilagay ang postal code."</string>
+    <string msgid="4897012831013531040" name="setup_set_timezone">"Pakipili ang iyong time zone:"</string>
+    <string msgid="3493578292062301829" name="setup_sources_description">"Pinagsasama sa LiveTV ang karanasan sa mga tradisyonal na channel sa TV at mga channel ng streaming na ibinibigay ng mga app. \n\nMagsimula sa pamamagitan ng pag-set up ng mga naka-install nang source ng channel, o i-browse ang online store para sa higit pang app na nag-aalok ng mga live channel."</string>
+    <string msgid="1716850046551772892" name="setup_sources_text">"I-set up ang iyong mga source"</string>
+    <string msgid="8379334586479456426" name="setup_timezone">"Time Zone"</string>
+    <string msgid="7448337163528445810" name="side_panel_title_closed_caption">"Mga Closed Caption"</string>
+    <string msgid="2187576517473489816" name="simple_dialog_title_error">"Error"</string>
+    <string msgid="6154915111682423960" name="simple_dialog_title_info">"Impormasyon"</string>
+    <string msgid="3614091485269772625" name="simple_dialog_title_warning">"Babala"</string>
+    <string msgid="7541760001731796341" name="sleep_timer_btn_text">"Pumindot ng anumang key para magpatuloy"</string>
+    <string msgid="3481648915016121208" name="sleep_timer_tip_text">"Io-off ang Power."</string>
+    <string msgid="1081306172806831092" name="sound_category_title">"Tunog"</string>
+    <string msgid="6145194094666622568" name="sound_tracks_hoh">"May Problema sa Pagdinig"</string>
+    <string msgid="822349293465951769" name="source_setup">"Pag-Set Up ng Source"</string>
+    <string msgid="2284363079428727321" name="special_config_lable">"CH<ns1:g id="CONFIG_LABLE">%1$s</ns1:g>"</string>
+    <string msgid="8622200974026625558" name="special_input_toast">"Walang nakitang <ns1:g id="INPUT_NAME">%1$s</ns1:g> device!"</string>
+    <string msgid="5322063480296424872" name="state_file_pvr_playback">"Pag-playback ng PVR"</string>
+    <string msgid="5466156974132732806" name="state_pvr_recording">"Nagre-record!"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="4738306056683483195" name="str">"Mga Paborito<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="7459990367583595146" name="str_Fav_x">"Mga Paborito<ns1:g id="FAV_INDEX">%d</ns1:g>"</string>
+    <string msgid="8370264809404019282" name="str_uk_banner_indication_previous">"Nakaraan"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="877460059955531605" name="timeshfit_forwarding">"Ipinapasa! Pakisubukan ulit sa ibang pagkakataon."</string>
+    <string msgid="910280232790608628" name="timeshfit_no_pre_channel">"Walang pre-channel na puwedeng ilipat! \n At nagre-record pa ang Timeshift."</string>
+    <string msgid="1588447156983705802" name="timeshfit_record_full">"Puno na ang record ng Timeshift, at auto play."</string>
+    <string msgid="7880993052133075678" name="timeshfit_rewinding">"Nire-rewind! Pakisubukan ulit sa ibang pagkakataon."</string>
+    <string msgid="5593578809018652699" name="timeshif_formate_msg">"Hindi Na-format ang Disk. Tumatakbo ang Timeshift!"</string>
+    <string msgid="3296602156291996691" name="timeshift_not_available">"Hindi available ang Timeshift"</string>
+    <string msgid="1088177882921640598" name="timeshift_running_warning_msg">"Tumatakbo ang Timeshift.\nPakihinto ito, pagkatapos ay subukan ito ulit!"</string>
+    <string msgid="2943130436776634575" name="timeshift_stopped">"Huminto ang Timeshift."</string>
+    <string msgid="4997081216642996473" name="title_pvr_running">"Tumatakbo ang PVR!"</string>
+    <string msgid="6826940873590467793" name="title_pvr_start">"Simulan ang Pag-record"</string>
+    <string msgid="1710294865725868218" name="title_pvr_stop">"Ihinto ang Pag-record"</string>
+    <string msgid="5180683124416001276" name="title_timeshift">"Timeshift"</string>
+    <string msgid="7480797400286747706" name="tkgs_clear_all_locators">"I-clear ang Lahat ng Locator"</string>
+    <string msgid="7141140606539254579" name="tkgs_click_add_locator">"I-click para Magdagdag ng Locator"</string>
+    <string msgid="3067365535557983232" name="tkgs_delete_locator">"I-delete ang Locator"</string>
+    <string msgid="4911249617100313929" name="tkgs_existed_toast">"May locator ng TKGS!"</string>
+    <string msgid="8923722375264827912" name="tkgs_hidden_lacator_empty">"Walang Laman ang Mga Nakatagong Locator ng TKGS"</string>
+    <string msgid="7250647197764179059" name="tkgs_less_than_toast">"Dapat ay wala pang 5 item ang mga locator."</string>
+    <string msgid="318185164149893952" name="tkgs_locator_item">"Item ng Locator ng TKGS"</string>
+    <string msgid="231010818430260587" name="tkgs_mode_auto">"Awtomatiko"</string>
+    <string msgid="6743227536838884132" name="tkgs_mode_customisable">"Naku-customize"</string>
+    <string msgid="4777378373695625922" name="tkgs_no_hidden_locator">"Walang Nakatagong Locator ng TKGS"</string>
+    <string msgid="8002424289283210812" name="tkgs_off">"Naka-off ang TKGS"</string>
+    <string msgid="6577111553169632650" name="tkgs_operator_mode">"Operate Mode"</string>
+    <string msgid="1689980875904912549" name="tkgs_reset_hidden_msg">"Gusto mo bang i-clear ang lahat ng nakatagong locator?"</string>
+    <string msgid="8525335849959453030" name="tkgs_reset_table_msg">"Gusto mo bang i-reset ang bersyon ng talahanayan?"</string>
+    <string msgid="4579987253675950461" name="tkgs_save_locator">"I-save ang Locator"</string>
+    <string msgid="4847872721021191404" name="tkgs_select_service_list">"Pumili ng listahan ng serbisyo"</string>
+    <string msgid="1121387555194711910" name="tkgs_update_locator">"I-update ang Locator"</string>
+    <string msgid="6255941735525243539" name="tkgs_user_msg">"Mensahe para sa User ng TKGS"</string>
+    <string msgid="9068822818375928920" name="tnt_hd_nw_chg">"Nagbago ang mga channel ng TV, pindutin ang OK para mag-scan para sa mga update."</string>
+    <string msgid="1064813271461583443" name="tone_burst_port">"Tone Burst Port"</string>
+    <string msgid="5613585390434807631" name="tuner_tv">"Tuner(TV)"</string>
+    <string msgid="941689825014756320" name="twinkle_dialog_audio_program_msg">"Audio program lang ang nasa channel."</string>
+    <string msgid="1451097148130839000" name="twinkle_dialog_channel_lock_msg">"Na-lock ang channel dahil sa pag-lock ng channel na tinukoy mo. Puwede itong baguhin sa pamamagitan ng menu ng TV. Pindutin ang OK para i-unlock ang screen."</string>
+    <string msgid="5649175070655221463" name="twinkle_dialog_channel_lock_title">"Naka-lock ang channel"</string>
+    <string msgid="532101319394127685" name="twinkle_dialog_hidden_channel_msg">"Kasalukuyang hindi available ang channel. Makipag-ugnayan sa iyong service provider para sa higit pang impormasyon."</string>
+    <string msgid="8635344987707182474" name="twinkle_dialog_input_lock_msg">"Na-lock ang source ng input dahil sa pag-lock ng source ng input na tinukoy mo. Puwede itong baguhin sa pamamagitan ng menu ng TV. Pindutin ang ENTER para i-unlock ang screen."</string>
+    <string msgid="3845747400702657207" name="twinkle_dialog_input_lock_title">"Naka-lock ang Input"</string>
+    <string msgid="5099635874438955411" name="twinkle_dialog_moving_positioner_msg">"Umiikot ang positioner para hanapin ang satellite. Maghintay sandali."</string>
+    <string msgid="4062732733050175180" name="twinkle_dialog_moving_positioner_title">"Inililipat ang Positioner"</string>
+    <string msgid="3123649722702249119" name="twinkle_dialog_nav_service_not_running_msg">"Walang aktibong serbisyo ng channel."</string>
+    <string msgid="7961373546782601065" name="twinkle_dialog_no_audio_video_msg">"Walang video at audio na content ang channel."</string>
+    <string msgid="1400369018648606465" name="twinkle_dialog_no_channel_msg">"Walang channel sa kasalukuyang listahan ng channel."</string>
+    <string msgid="3366899141486631222" name="twinkle_dialog_no_signal_msg">"Naghahanap ng signal, o walang nahanap na signal. Pakisuri kung maayos na nakakonekta ang antenna cable."</string>
+    <string msgid="4531475926203448815" name="twinkle_dialog_no_signal_nontv_msg">"Suriin ang external na input o pumili ng isa pang input gamit ang button na INPUT."</string>
+    <string msgid="8796759935438013210" name="twinkle_dialog_no_signal_title">"Walang Signal"</string>
+    <string msgid="2014818369272906387" name="twinkle_dialog_non_broadcasting_msg">"Inihinto ng iyong service provider ang content na ito."</string>
+    <string msgid="2992915289324087677" name="twinkle_dialog_please_scan_channel_msg">"Walang na-install na channel. Paki-scan ang mga channel sa pamamagitan ng menu ng TV."</string>
+    <string msgid="1894575205131528453" name="twinkle_dialog_please_scan_channels_msg">"Paparating na ang content. Maghintay sandali."</string>
+    <string msgid="5153495923123253058" name="twinkle_dialog_please_scan_channels_title">"Paki-scan ang mga channel"</string>
+    <string msgid="1733617360069040358" name="twinkle_dialog_please_wait_msg">"Nilo-load ang data ng channel. Maghintay sandali."</string>
+    <string msgid="725264684329312017" name="twinkle_dialog_please_wait_title">"Naglo-load"</string>
+    <string msgid="4569115641534788884" name="twinkle_dialog_program_lock_msg">"Na-block ang programang ito dahil sa pag-block ayon sa edad na tinukoy mo. Puwede itong baguhin sa pamamagitan ng menu ng TV. Pindutin ang OK para i-unlock ang screen."</string>
+    <string msgid="646673269791532919" name="twinkle_dialog_program_lock_title">"Na-block ang programa"</string>
+    <string msgid="2879944854782896595" name="twinkle_dialog_program_lock_title_non_ziggo_title">"Naka-lock ang Programa"</string>
+    <string msgid="503031018391687811" name="twinkle_dialog_program_lock_value">"Ang programang ito ay Na-rate na <ns1:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</ns1:g>"</string>
+    <string msgid="4875530805932004418" name="twinkle_dialog_retrieving_data_msg">"Paparating na ang content. Maghintay sandali."</string>
+    <string msgid="1534072239248375213" name="twinkle_dialog_scrambled_msg">"(Na-scramble ang channel \\ Na-scramble ang content). Pakisuri kung maayos na nakalagay ang CI + module at smart card."</string>
+    <string msgid="5263822605368775113" name="twinkle_dialog_scrambled_title">"Na-code ang channel"</string>
+    <string msgid="4978261610177823681" name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg">"Bina-block ng iyong service provider ang content na ito."</string>
+    <string msgid="3558492969327887533" name="twinkle_dialog_video_not_support_msg">"Hindi sinusuportahan sa TV ang format ng video."</string>
+    <string msgid="4175870482702986083" name="uninsert_Cam_Select_broadcast">"Gusto mo bang mag-load ng mga broadcast na channel?"</string>
+    <string msgid="8066683266117656826" name="unrated_rating_name">"Walang Rating"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"NAKA-OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"NAKA-ON"</string>
+    <string msgid="6089616847361717375" name="vga_no_sinal_info">"Walang signal. Io-off ang power."</string>
+    <string msgid="8789508510792267977" name="vga_no_sinal_info_part2">\n"Pumindot ng anumang key para magpatuloy."</string>
+    <string msgid="6443470680010207003" name="vga_power_time">"0<ns1:g id="VGA_POWER_TIME_MIN">%1$d</ns1:g>:0<ns1:g id="VGA_POWER_TIME_SEC">%2$d</ns1:g>"</string>
+    <string msgid="5994597112286876149" name="vga_power_time_two">"0<ns1:g id="VGA_POWER_TIME_MIN_TWO">%1$d</ns1:g>:<ns1:g id="VGA_POWER_TIME_SEC_TWO">%2$d</ns1:g>"</string>
+    <string msgid="7526408112684327934" name="warning_pvr_playback_runnning">"Gumagana ang pag-playback ng PVR!"</string>
+    <string msgid="7457371451448496820" name="warning_pvr_runnning">"Gumagana ang PVR!"</string>
+    <string msgid="127366201055769457" name="warning_time_shifting_recording">"Nagre-record ang Timeshift!"</string>
+</resources>

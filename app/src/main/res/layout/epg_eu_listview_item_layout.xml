@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <!--  android:background="@drawable/translucent_background" -->
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/epg_channel_bg_icon"
+        android:paddingStart="5dp"
+        android:layout_weight="3">
+        
+        <ImageView
+            android:id="@+id/epg_radio_icon"
+            android:layout_width="@dimen/nav_chanenl_list_item_icon_widgh"
+            android:layout_height="@dimen/nav_chanenl_list_item_icon_widgh"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/nav_channel_list_item_no_marginleft" />
+        
+        <LinearLayout 
+            android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+	        android:orientation="vertical">
+
+        <TextView
+	        android:id="@+id/epg_channel_number"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:singleLine="true"
+	        android:textColor="@drawable/epg_channel_font"
+	        android:fontFamily="sans-serif-light"
+	        android:textSize="@dimen/epg_ts_mini"
+	        android:paddingTop="@dimen/epg_list_item_padding_top_bottom"/>
+        
+        <TextView
+	        android:id="@+id/epg_channel_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:singleLine="true"
+	        android:ellipsize="marquee"
+	        android:marqueeRepeatLimit="1"
+	        android:textColor="@drawable/epg_channel_font"
+	        android:fontFamily="sans-serif-condensed" 
+	        android:textSize="@dimen/epg_ts_mini"
+	        android:paddingBottom="@dimen/epg_list_item_padding_top_bottom"/>
+        
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+		android:background="@color/epg_lv_item_bg_color_unselected">
+
+	    <com.mediatek.wwtv.tvcenter.epg.eu.EPGLinearLayout
+	        android:id="@+id/epg_program_forecast_linearlayout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:focusable="true"
+	        android:focusableInTouchMode="true"
+	        android:gravity="center_vertical" />
+
+	    <RelativeLayout
+	        android:id="@+id/ll_pvrRoot"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:focusable="false"
+	        android:focusableInTouchMode="false">
+	    </RelativeLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

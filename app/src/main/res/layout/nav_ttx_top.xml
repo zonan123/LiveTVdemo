@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/black"
+    >
+<LinearLayout
+    android:layout_width="534dip"
+    android:layout_height="294dip"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:id="@+id/main_layout"
+    android:layout_gravity="center_horizontal">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="275dip"
+         android:baselineAligned="false"
+        android:orientation="horizontal">
+    <LinearLayout android:id="@+id/ttx_block_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/info_banner_background"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/nav_ttx_top_block"
+            android:background="@color/nav_ch_list_title_back" />
+        <ListView android:id="@+id/ttx_block_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="@drawable/nav_ch_list_selector"
+            android:textColor="@drawable/top_list_select_color"
+            android:layout_marginTop="5dp"
+            android:scrollbars="none"
+            android:divider="#00000000"
+            android:choiceMode="singleChoice" >
+            <requestFocus/>
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/ttx_group_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/info_banner_background"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/nav_ttx_top_group"
+            android:background="@color/nav_ch_list_title_back" />
+        <ListView android:id="@+id/ttx_group_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:listSelector="@drawable/nav_ch_list_selector"
+            android:textColor="@drawable/top_list_select_color"
+            android:layout_marginTop="5dp"
+            android:scrollbars="none"
+             android:divider="#00000000"
+            android:choiceMode="singleChoice">
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/ttx_page_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/info_banner_background"
+        android:layout_weight="1">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/nav_ttx_top_page"
+            android:background="@color/nav_ch_list_title_back"/>
+        <ListView android:id="@+id/ttx_page_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:listSelector="@drawable/nav_ch_list_selector"
+            android:textColor="@drawable/top_list_select_color"
+            android:scrollbars="none"
+             android:divider="#00000000"
+            android:choiceMode="singleChoice">
+        </ListView>
+    </LinearLayout>
+    </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/table"
+            android:textSize="@dimen/nav_textsize_normal"
+            />
+</LinearLayout>
+</LinearLayout>

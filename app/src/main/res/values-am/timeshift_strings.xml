@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"ዲስክ ዝግጁ አይደለም!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR ን ማስጀመር አልተሳካም። ዲስክ ዝግጁ አይደለም!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ፋይል በተሳካ ሁኔታ ተፈጥሯል"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR ን ማስጀመር አልተሳካም። በመጀመሪያ ከ PIP ይውጡ!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR ን ማስጀመር አልተሳካም። ወደ Digital TV Source First ይለውጡ!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR ን ማስጀመር አልተሳካም። ምንም ሲግናል አልተገኘም!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"ፒቪአርን ማስጀመር አልተሳካም። የጊዜ ሽግሽግ እየሠራ ነው!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV Stream አይገኝም!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"ልቀት አልተፈቀደም!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"ግቤት ተቆልፏል!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"የቪዲዮ ምስል ጥራት ስህተት!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"ውስጣዊ ስህተት!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"የጊዜ ሽግሽግ አይገኝም። በመጀመሪያ ከፒቪአር ይውጡ!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"ምንም መሣሪያዎች የሉም ወይም መሣሪያዎች አይገኙም። በኋላ ላይ ይሞክሩ!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR ያስቁሙ እና በመቀጠል ቀረጻውን ያስቀምጡ።"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"ዲስክ ግንኙነቱ ተቋርጧል"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ትኩረት፦ መሣሪያውን አይንቀሉት ወይም ያልተጠቀሱ ስህተቶችን ሊፈጠር ይችላል!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"በቂ ቦታ የለም። ዲስኩ ቢያንስ 1 ጊባ ነጻ ቦታ ሊኖረው ይገባል።"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"ባሕሪ አይደገፍም።"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"ወደ ፍለጋ ቀጥሏል አይደገፍም።"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ፋይል አይደገፍም።"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ቅርጸት ሁሉንም ውሂብ ይደመስሳል"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"እርግጠኛ ነዎት?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"ይህን ፋይል ይሰርዛል።"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"የፍጥነት ሙከራ በመከናወን ላይ ነው"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"መሣሪያውን አይንቀሉት"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"የዲስክ ቅርጸት ተከናውኗል"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"ዲስክ ቅርጸት አልተሳካም"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"የፍጥነት ሙከራ ተከናውኗል"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"ከፍተኛው ፍጥነት፦ "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"መቅዳት ላይ!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR መልሶ ማጫወት"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"የጊዜ ሽግሽግ"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"መቅዳት ጀምር"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"መቅረጽ አቁም"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR እየሠራ ነው!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"የመቅረጽ ሂደቱን ማቆም እና ወደ\n EPG መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"የጊዜ ሽግሽግን አስቁመው ወደ \n EPG መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"የቀረጻ ሂደቱን አስቁመው \n ጣቢያውን መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"ማቆምና ሂደቱን መቅረጽ፣ እና\n ምንጩን መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"የጊዜ ሽግሽግን አስቁመው \n እና ጣቢያውን መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"የጊዜ ሽግሽግን አስቁመው \n ምንጩን መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"የቀረጻ ሂደቱን ማቆም እና ወደ\n PIP/POP መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"የጊዜ ሽግሽግን አስቁመው \n እና PIP/POP ማስገባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"የፒቪአር መልሶ ማጫወትን ማቆም እና ወደ\n PIP/POP መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"የጊዜ ሽግሽግን አስቁመው \n እና ወደ ቅጅ ዝርዝር መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"ወደ PIP/POP መግባት ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"መርሐግብር የተያዘለት መዝገብ አለ"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"ቀረጻ መጀመር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"የጊዜ ሽግሽግን ማስቆም ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"የተፈታው ጣቢያ ሊያቋርጥ ይችላል፣ መቀጠል ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"ማስጠንቀቂያ"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"የመሣሪያ መረጃ ቅንብር"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ቅርጸት መስራት ሁኡንም ውሂብ ይሰርዛል፣ እርግጠኛ ነዎት?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"የጊዜ ሽግሽግ እየቀረጸ ነው!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"ፒቪአር እያሄደ ነው!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"ፒቪአር መልሶ ማጫውተ በማሄድ ላይ!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"የጊዜ ሽግሽግ አይገኝም"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"የማከማቻ ንባብና መጻፍ ፍጥነትን የሚፈትሽ ፕሮግራም በማሄድ ላይ ነው።"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"ሜባ/ሴ"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"በመርሐግብር የተያዘ የ [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] ቀረጻ አለ፣ ቀረጻ ለመጀመር ይፈልጋሉ?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"ስም፦"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"በመርሐግብር የተያዘ አስታዋሽ አለ።"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"ያንን ሰርጥ መመልከት ይፈልጋሉ?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"ለ [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] የቀረቻ ሙከራ አልተሳካም"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"የ [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] ቀረጻ ለ <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> ሰከንድ(ዶች) ያልተሟላ ነው"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"የቀረጻው አንድ ክፍል ተቀምጧል። ኃይሉ በቀረጻ ወቅት ጠፍቷል።"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"የክስተት ሞዴል"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"የጊዜ አያያዝ ፕሮግራሚንግ"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"ሲግኒሉ የሚደገፍ ቀረጻ"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"«ሲግናሉ የሚደገፍ ቀረጻ» አርትዕ ሊደረግ አይችልም"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"የጊዜ ሽግሽግ ቆሟል።"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"በመቅረጽ ላይ! የፍጥነት ሙከራ አልተሳካም!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"የጊዜ ሽግሽግ እየሠራ ነው! የፍጥነት ሙከራ አልተሳካም!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"መዳረሻ ተከልክሏል። የፍጥነት ሙከራ አልተሳካም!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"በቂ ያልሆነ የዲስክ ባዶ ቦታ! የፍጥነት ሙከራ አልተሳካም!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"የፍጥነት ሙከራ አልተሳካም!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"ወደፊት ማሳለፍ እና ወደኋላ መመለስ አይደገፉም"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"ንጥሉ በሚሰረዝበት ጊዜ ስህተት አጋጥሟል፣ ጣቢያው እየመዘገበ ነው"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"ፒቪአር እያሄደ ነው ወይም ፒቪአር ፋይል እየተጫወተ ነው።\nእባክዎ ያቁሙት፣ ከዚያ እንደገና ይሞክሩት!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"የጊዜ ሽግሽግ በማሄድ ላይ ነው።\nእባክዎ ያቁሙት፣ ከዚያ እንደገና ይሞክሩት!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"የአሁኑ ጣቢያ ልክ ያልሆነ ነው።"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"ወደፊት በማስተላለፍ ላይ! እባክዎ ቆይተው እንደገና ይሞክሩ።"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"ወደ ኋላ በመመለስ ላይ! እባክዎ ቆይተው እንደገና ይሞክሩ።"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"የጊዜ ሽግሽግ ቀረጻ ሙሉ፣ እና ራስ-ሰር ማጫወት።"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"ቅድመ-ጣቢያ መቀየር አይችልም! \n እና የጊዜ ሽግሽግ አሁንም በመቅረጽ ላይ።"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"ያልተሳኩ ወይም ያልተሟሉ ቀረጻዎች"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"ከፊል መቅረጽ፣ የሲግናል መጥፋት ስለሌለ ከፊል ቀረጻ!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"በከፊል መቅረጽ፣ ኢአይቲ ስለሌለ ከፊል ቀረጻ!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"በከፊል መቅረጽ፣ ኢአይቲ እና የሲግናል መጥፋት ስለሌለ ከፊል ቀረጻ!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"የመጀመሪያ ሰዓት ስህተት፣ የአሁኑ ሰዓት አሁን ካለው ሰዓት በፊት ነው!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"የፋይል ርዝመት ማነስ!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"የተጠየቀ የመርሐግብር መታከል ከተፈቀደው ከፍተኛው ያልፋል!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"የቀረጻ ሂደቱን አስቁመው \n የጣቢያውን አይነት መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"የጊዜ ሽግሽግን አስቁመው \n የጣቢያውን አይነት መቀየር ይፈልጋሉ?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"ለመቅረጽ በመዘጋጀት ላይ ሳሉ ጣቢያዎችን መቀየር አይፈቀድም።"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"ቅርጸት"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"ዲስክ ላይ ቅርጸት መስራት አልተሳካም። በመቅረጽ ላይ!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"ዲስክ ላይ ቅርጸት መስራት አልተሳካም። የጊዜ ሽግሽግ እየሠራ ነው!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"ፍጥነት ልክ ያልሆነ ነው!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"ቅርጸት በመስራት ላይ! እባክዎ ይጠብቁ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"በፍጥነት ወደፊት ድጋፍ አይደለም"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"ወደኋላ መመለስ ድጋፍ አይደለም"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"የዲስክ ፍጥነት ቀርፋፋ ነው፣ እና ውሂቡን ያስወግዱት"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"አንዳንድ የታቀዱ ቀረጻዎች አልተሳኩም ወይም አልተጠናቀቁም!"</string>
+</resources>

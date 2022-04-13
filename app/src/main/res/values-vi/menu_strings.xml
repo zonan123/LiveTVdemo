@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"Bật"</string>
+    <string name="common_off" msgid="7117815518726170364">"Tắt"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"Menu"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"Video"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"Âm thanh"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"Truyền hình"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"Thiết lập"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"Cha mẹ"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"Tùy chọn nâng cao"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"Thẻ CI"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"Tải xuống thủ công qua sóng"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"Kênh không hoạt động"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Nhập"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"Thoát"</string>
+    <string name="menu_back" msgid="5914226981357187525">"Quay lại"</string>
+    <string name="menu_set" msgid="4003160032715199809">"Đặt"</string>
+    <string name="menu_ok" msgid="549595307019821477">"Ok"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"Hủy"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"Nhạc phim"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"Chế độ bộ dò"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"Loại danh sách kênh"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"Mã khu vực quốc gia"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"Khu vực quốc gia"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"Kênh âm thanh"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"Ngôn ngữ âm thanh"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"Ngôn ngữ âm thanh thứ 2"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"Kênh"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"Quét kênh"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"Hệ thống TV"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"Hệ màu"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"Cập nhật trang quét"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"Quét thủ công ở chế độ tương tự"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"Quét RF đơn"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"Chỉnh sửa kênh"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"Bỏ qua kênh"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"Thiết lập kênh"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"Xóa danh sách kênh"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"Đóng băng kênh"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"Trạng thái"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"Đang quét"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"Kênh ở chế độ tương tự"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"Kênh kỹ thuật số"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"Tần số bắt đầu (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"Tần số kết thúc (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"Tần số quét (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"Kiểu QAM"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"Tốc độ biểu tượng"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"Gói tần số"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"Theo mô đun"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"Chế độ quét"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"Từ chỉ mục"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"Đến chỉ mục"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"Danh sách kênh đã cập nhật.\n Tiếp tục tải xuống?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"Chèn"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"Xóa"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"Kênh có thể bị xóa mà không có bất kỳ cảnh báo OSD nào. Bạn có chắc không?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"Tính năng này không được hỗ trợ vì mã số kênh nhỏ hơn 4001."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"Vui lòng nhập mã số kênh lớn hơn 4000"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"Mã số"</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"Loại"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"Tần số"</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"Hệ thống"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"Tên"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"Bỏ qua"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"Quét tất cả các kênh."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Bộ dò kép"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"Bắt đầu tìm kiếm LNB bây giờ? \n Nếu bạn bỏ qua bước này, thì thông tin mặc định sẽ được sử dụng."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"Kênh RF"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"Mức tín hiệu"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"Chất lượng tín hiệu"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"Tên luồng chuyển:"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"Số kênh:"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"Tên kênh:"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"Tên mạng:"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"Tần số:"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"Không tìm thấy kênh."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"Hệ thống âm thanh"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"Tinh chỉnh"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"Lưu trữ"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"Bạn có chắc không?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"Đang sắp xếp. Vui lòng chờ..."</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"Đang di chuyển. Vui lòng chờ..."</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"Lặp lại số kênh!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"Tinh chỉnh kênh tương tự"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"Bạn có chắc chắn muốn xóa kênh này không?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"Bạn có chắc chắn muốn xóa tất cả các kênh không?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"Chế độ màn hình"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Hiển thị màn hình xanh khi không có tín hiệu"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"Chức năng DMR"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"Kênh tương tác"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"Bảo vệ PIN MHEG"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"Tùy chọn cài đặt HBBTV"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"Hỗ trợ HBBTV"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"Không theo dõi"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"Tùy chọn cài đặt cookie"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"Bộ nhớ liên tục"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"Chặn trang web theo dõi"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"Mã thiết bị"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"Đặt lại mã thiết bị"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"Bạn có chắc chắn muốn đặt lại mã thiết bị không?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Thiết lập Ginga"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"Đăng ký DivX(R)"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"Thiết lập phụ đề"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"Nhạc khởi động"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"Tắt nhạc"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"Tùy chọn cài đặt thời gian"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"Teletext"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"Phụ đề"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"Phụ đề tương tự"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"Ngôn ngữ phụ đề kỹ thuật số"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"Ngôn ngữ phụ đề kỹ thuật số thứ 2"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"Loại phụ đề"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"Mạng"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"Thông tin phiên bản"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"Khôi phục tùy chọn cài đặt gốc"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"Tải chương trình cơ sở xuống"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"Giao diện phổ biến"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"Tùy chọn cài đặt ghi"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"Cập nhật kênh"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"Khu vực EWBS"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"Tùy chọn cài đặt TKGS"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"Danh sách bộ định vị TKGS"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"Vị trí ẩn TKGS"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"Đặt lại phiên bản bảng"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"Danh sách ưa thích"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"Mã bưu chính"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"Thông tin thiết bị"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"Chế độ dịch chuyển thời gian"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"Cập nhật kênh tự động"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"Thông báo cập nhật kênh"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"Ngang"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"Dọc"</string>
+    <string name="ci_title" msgid="372414068198664695">"Thông tin máy ảnh"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Không có thẻ máy ảnh"</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Menu máy ảnh"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Mã pin máy ảnh"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"Tùy chọn của người dùng"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"Mặc định"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"Phát sóng"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Quét máy ảnh"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"Vui lòng nhập mã pin máy ảnh"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"Không chính xác. Hãy nhập lại!"</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"Vui lòng chờ..."</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"Nâng cấp mạng"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Bật Ginga"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"Tự động khởi động ứng dụng"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"Bật phụ đề"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"Phụ đề tương tự"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"Phụ đề kỹ thuật số"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"Phong cách chú thích kỹ thuật số"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"Thiết lập chồng"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"Kiểu phụ đề"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"Cỡ phông chữ"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"Kiểu phông chữ"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"Màu phông chữ"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"Độ mờ phông chữ"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"Màu nền"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"Độ mờ của nền"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"Màu cửa sổ"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"Độ mờ cửa sổ"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"Ngôn ngữ Teletext kỹ thuật số"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"Ngôn ngữ trang giải mã"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"Cấp độ trình bày Teletext"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"Tự động đồng bộ hóa"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"Tự động bật đúng giờ"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"Bộ hẹn giờ"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"Kênh mặc định"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"Giờ tự động tắt"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"Tùy chọn cài đặt không dây"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"Thông tin"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"Chọn chế độ"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"Hiển thị kênh"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"Bắt đầu tải phần mềm cơ sở mới xuống từ máy chủ."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"Đang cập nhật trình hướng dẫn"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"Không thể kiểm tra chương trình cơ sở mới."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"Bạn có chắc không?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"Tìm kiếm kênh tương tự"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"Tìm kiếm kênh kỹ thuật số"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"Quét kênh RF đơn. (Chỉ dành cho TV kỹ thuật số)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"Quét một phạm vi các kênh"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"Trạng thái: Đã hủy quét"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"Trạng thái: Đang quét"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"Tên vệ tinh:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"Kênh tương tự:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"Kênh kỹ thuật số:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"Bạn có chắc chắn muốn lưu dữ liệu không?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"Bạn có chắc chắn muốn đặt lại tất cả tùy chọn cài đặt không?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"Trạng thái: Đã hủy quét"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"Trạng thái: Lỗi quét"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"Trạng thái: Đã quét xong"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"Trạng thái: Bộ điều khiển vị trí đang di chuyển"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"Nâng cấp mạng..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"Tùy chọn cài đặt không dây"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"Không có thiết bị không dây kết nối với TV!"</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"Có"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"Không"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"Tên kiểu thiết bị"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"Phiên bản"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"Số sê-ri"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"Bạn phải đăng ký thiết bị của mình để phát video được bảo vệ DivX®.\nMã đăng ký:BX9ASIKQEI\n Đăng ký tại http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"Mã hủy đăng ký:\n Hủy đăng ký tại http://vod.divx.com\n Tiếp tục quá trình đăng ký?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"Khóa BISS"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"Nhấp để thêm khóa BISS"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"Thêm khóa BISS"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"Tần số"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"Phân cực"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"Mã chương trình"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"Khóa CW"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"Tùy chọn cài đặt HDMI 2.0"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"Định dạng tín hiệu"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"Mật khẩu"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"Chặn kênh"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"Chặn chương trình"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"Chặn kênh theo lịch biểu"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"Chế độ hoạt động"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"Chặn tín hiệu đầu vào"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"Thay đổi mật khẩu"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"Xóa tất cả"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"Mật khẩu không đúng.\nVui lòng nhập lại!"</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"Vui lòng nhập mật khẩu"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"Mật khẩu mới"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"Xác nhận mật khẩu"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"Mật khẩu không hợp lệ.\nVui lòng nhập lại!"</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"Ngày bắt đầu"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"Thời gian bắt đầu"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"Ngày kết thúc"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"Thời gian kết thúc"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"Mức phân loại cho phép"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"Mức phân loại bị chặn"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"Mức phân loại chương trình truyền hình ở Hoa Kỳ"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"Mức phân loại phim của Hoa Kỳ"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"Mức phân loại cho người xem nói tiếng Anh ở Canada"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"Mức phân loại cho người xem nói tiếng Pháp ở Canada"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"Phân loại độ tuổi"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"Hạn chế truy cập"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"Mức phân loại nội dung"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"Chặn chương trình chưa phân loại"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"Cho phép phân loại"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"Không có Teletext"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"Không có phần TRÊN CÙNG"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"Loại nguồn"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"Thông tin kênh"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"Loại lịch trình"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"Loại lặp lại"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"Ngày bắt đầu"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"Thời gian bắt đầu"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"Thời gian ngừng"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"Chế độ dịch chuyển thời gian"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"Danh sách lịch trình"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"Thông tin giấy phép"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"Thông tin hệ thống"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"Tự động tải xuống"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"Chọn mạng yêu thích"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"Sắp xếp kênh"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"Di chuyển kênh"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"Tinh chỉnh kênh tương tự"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"Khác"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"Quét lên"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"Quét xuống"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"Việc quét các kênh sẽ xóa các kênh trước đó!"</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"Mã mạng"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"Quét"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"Tần số (KHz)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"Tần suất (MHz)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"Tốc độ biểu tượng (Ksym/giây)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"Quét lại vệ tinh"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"Thêm vệ tinh"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"Cập nhật vệ tinh"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"Dò vệ tinh thủ công"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"Chọn mạng yêu thích"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"Giải mã kênh"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"Kênh"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"Mã dịch vụ"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"Loại dịch vụ"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"Vui lòng chọn mạng bạn yêu thích:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"Bạn có muốn lưu các kết quả tìm kiếm này không?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"Chưa chỉ định nội dung nào"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"Chỉ mục nhóm xung đột:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"Số kênh xung đột:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"Sử dụng tùy chọn cài đặt mặc định cho tất cả"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"Bắt đầu"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"Khởi động lại"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"Tiến trình:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"Trạng thái:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"Đang xác thực..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"Chương trình cơ sở đã sẵn sàng. Bạn có chắc chắn muốn khởi động lại hệ thống ngay không?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"Vui lòng nhấn nút Bắt đầu để tải chương trình cơ sở!"</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"Đã bắt đầu tải xuống"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"Đang tải xuống"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"Đã tải xuống xong"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"Hủy tải xuống"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"Hãy thoát Tải xuống! Tệp tải xuống không tồn tại"</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"Đã xác thực xong"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"Hãy thoát quá trình tải xuống! Lỗi mạng!"</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"Hãy thoát Tải xuống! Lỗi xác thực!"</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"Hãy thoát quá trình tải xuống! Không tải xuống được!"</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"Hệ thống đã nâng cấp chương trình cơ sở thành công!"</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"Hệ thống không thể nâng cấp phần mềm cơ sở!"</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"Dò vệ tinh kỹ thuật số"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"Chọn danh sách kênh"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"Vui lòng chọn danh sách kênh:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"Chọn khu vực"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"Chọn khu vực cho <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"Vui lòng chọn chế độ quét"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"Tùy chọn TV"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"Nguồn"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"Phụ đề"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"Chế độ hiển thị"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"Thêm vào Nội dung yêu thích của tôi"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"Nội dung yêu thích của tôi"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"Chỉnh sửa"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"Tìm thêm kênh"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"Tùy chọn cài đặt"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"Loa"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"Chế độ hình ảnh"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"Đã có kênh mới"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"Hướng dẫn chương trình"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"Tăng kênh"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"Giảm kênh"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"Kênh"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"Mở <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"Nguồn đầu vào đã chặn"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"Kênh đã chặn"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"Chặn tất cả"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"Bỏ chặn tất cả"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"Bỏ qua tất cả"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"Không bỏ qua tất cả"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"Kênh bị ẩn"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"Giới hạn độ tuổi xem chương trình"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"Tùy chọn cài đặt RRT5"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"Tùy chọn cài đặt RRT5"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"RRT5 Dim"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"Mức RRT5"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"Đặt lại RRT5"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"Đổi mã PIN"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"Hệ thống phân loại"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"Mức phân loại"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"Xem tất cả hệ thống phân loại"</string>
+    <string name="other_countries" msgid="4596971851245610516">"Các quốc gia khác"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"Không có"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"Chưa được phân loại"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"Chặn chương trình chưa phân loại"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"Giới hạn nghiêm ngặt"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"Hạn chế trung bình"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"Hạn chế thấp"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"Dưới dạng chương trình truyền hình"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"Tùy chỉnh"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"Nội dung phù hợp với trẻ em"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"Nội dung phù hợp với trẻ lớn"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"Nội dung phù hợp với thanh thiếu niên"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"Hạn chế thủ công"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"Nguồn thông tin mô tả mức phân loại"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> và mức phân loại phụ"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"Mức phân loại phụ"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"Nhập mã PIN của bạn để xem kênh này"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"Nhập mã PIN của bạn để xem chương trình này"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"Chương trình này được phân loại <xliff:g id="RATING">%1$s</xliff:g>. Nhập mã PIN của bạn để xem chương trình này"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"Chương trình này chưa được phân loại. Hãy nhập mã PIN của bạn để xem chương trình này"</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"Nhập mã PIN của bạn"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"Để thiết lập quyền kiểm soát của cha mẹ, hãy tạo mã PIN"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"Nhập mã PIN mới"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"Xác nhận mã PIN"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"Nhập mã PIN hiện tại của bạn"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="other">Bạn đã nhập sai mã PIN 5 lần.\nHãy thử lại sau <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> giây.</item>
+      <item quantity="one">Bạn đã nhập sai mã PIN 5 lần.\nHãy thử lại sau <xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> giây.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"Mã PIN đó không đúng. Hãy thử lại."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"Hãy thử lại, mã PIN không khớp"</string>
+    <string name="no_program_information" msgid="2620718003929766549">"Không có thông tin chương trình"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"Giấy phép nguồn mở"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"Kênh"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"Nguồn kênh"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"Tùy chỉnh danh sách kênh"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"Chọn kênh cho hướng dẫn chương trình"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"Chế độ cài đặt kênh"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"Quyền kiểm soát của cha mẹ"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"Âm thanh đa kênh"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"Phiên bản"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"Xong"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"Phần <xliff:g id="SEASON_NUMBER">%1$s</xliff:g>: Tập <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"Tập <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"Tập <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g> <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> Phần <xliff:g id="SEASONNUMBER">%2$s</xliff:g>: Tập <xliff:g id="EPISODENUMBER">%3$s</xliff:g>"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"Thiết lập nguồn"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"LiveTV kết hợp trải nghiệm bạn có thể có được khi xem các kênh truyền hình truyền thống với các kênh truyền trực tuyến do các ứng dụng cung cấp. \n\nHãy bắt đầu bằng cách thiết lập các nguồn kênh đã cài đặt. Hoặc duyệt qua cửa hàng trực tuyến để xem thêm các ứng dụng cung cấp kênh trực tiếp."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"Mới"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"Nguồn"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> kênh</item>
+      <item quantity="one"><xliff:g id="ONE">%1$d</xliff:g> kênh</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"Không có kênh nào"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"Mới"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"Chưa thiết lập"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"Hình thức quét kênh"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"Loại hình lưu trữ kênh"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"Khiếm thính"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"Âm thanh nổi"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"Âm thanh nổi tự động"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"Vòm"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"Không xác định"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"Ăng ten"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"Cáp"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"Đơn âm"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"Âm thanh gốc"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"Phiên bản gốc"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"Tốt"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"Kém"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"Tương tự/Kỹ thuật số"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"Tương tự"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"Kỹ thuật số"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"Thông tin kênh"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"Hoán đổi"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"kém"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"tốt"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"Không có"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"Tắt tiếng"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"Tự động"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"Bình thường"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"Thu phóng"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"Đang tắt tiếng"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"Dịch vụ<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"Ngôn ngữ<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"Giống đài phát sóng"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"Trung bình"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"Nhỏ"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"Lớn"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"Kiểu<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"Đen"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"Trắng"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"Xanh lục"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"Xanh lam"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"Đỏ"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"Lục lam"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"Vàng"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"Đỏ thẫm"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"Liền nét"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"Mờ"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"Trong suốt"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"Thấp hơn <xliff:g id="BELOW_XX">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"Chung"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"Cần có cha mẹ chỉ dẫn"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"Trẻ dưới 13 tuổi cần có cha mẹ chỉ dẫn"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"Không dành cho trẻ em dưới 16 tuổi"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"Dành cho độ tuổi trưởng thành từ 18 tuổi"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"Chỉ dành cho độ tuổi 21 trở lên"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"Trẻ từ 3 đến 5 tuổi"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"Trẻ có độ tuổi từ 6 đến 12"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"Người lớn"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"Không chặn"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"Chặn chương trình có mức phân loại R trở lên"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"Chặn mức phân loại AV trở lên"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"Chặn chương trình có mức phân loại MA trở lên"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"Chặn chương trình có mức phân loại M trở lên"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"Chặn chương trình có mức phân loại PG trở lên"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"Chặn chương trình có mức phân loại G trở lên"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"Ma túy"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"Bạo lực"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"Tình dục"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"Bạo lực và ma túy"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"Tình dục và ma túy"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"Bạo lực và tình dục"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"Bạo lực và Tình dục và Ma túy"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"Hàng ngày"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"Một lần"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"Mức 1.5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"Mức 2.5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> phút"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"Chọn chế độ"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"Hiển thị kênh"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"Trạng thái gần đây nhất"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"Theo lựa chọn của người dùng"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"Ngang"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"Dọc"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"Ghi"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"Lời nhắc"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"Tuần"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"Toàn bộ"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"Nâng cao"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"Nhanh"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"Mã khu vực quốc gia <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"Hàng ngày"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"Chủ Nhật"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"Thứ Hai"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"Thứ Ba"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"Thứ Tư"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"Thứ Năm"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"Thứ Sáu"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"Thứ Bảy"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"Vệ tinh"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"Tất cả các kênh"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"Gia đình/Trẻ em"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"Thể thao"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"Mua sắm"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"Phim"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"Hài"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"Du lịch"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"Chính kịch"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"Giáo dục"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"Động vật/Hoang dã"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"Tin tức"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"Trò chơi"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"Nghệ thuật"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"Giải trí"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"Phong cách sống"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"Nhạc"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"Cao cấp"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"Công nghệ/Khoa học"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"Chỉ các kênh được mã hóa"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"Chỉ các kênh miễn phí"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"Chỉ các kênh kỹ thuật số"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"Chỉ các kênh đài phát thanh"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"Không bao giờ"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> giờ"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"Tự động ngủ"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"Mẹo cho chế độ ngủ của TV"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"TV sẽ vào chế độ ngủ sau 5 phút nữa, bạn có muốn để TV vào chế độ ngủ không?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"Quá trình quét đang diễn ra trong nền, vui lòng thử lại sau"</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"Khóa CW không thể dưới 16"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"Không được để trống!"</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"Đầu vào không hợp lệ!"</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"Không có văn bản."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"\'0000\' là mật khẩu không hợp lệ"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Cài đặt Freeview Play"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"Ðiều khoản và điều kiện"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"Cập nhật dịch vụ thủ công"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"Kiểu âm thanh"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"Âm thanh"</string>
+    <string name="device_picture" msgid="1347473641807661535">"Hình ảnh"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"Lưu khóa"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"Cập nhật khóa"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"Xóa khóa"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"Loại DiSEqC bị xung đột. Vui lòng kiểm tra chế độ cài đặt của DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"Hãy nhớ chọn tên kênh vệ tinh và định cấu hình DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"Để tải danh sách giá trị đặt trước, bạn cần chọn ít nhất một trong các kênh vệ tinh sau đây:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n Vì vậy, bạn không tải được danh sách giá trị đặt trước!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"Các kênh hiện đang được lưu trữ, vui lòng đợi..."</string>
+</resources>

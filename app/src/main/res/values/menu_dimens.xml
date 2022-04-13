@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_marge_size">13.3sp</dimen>
+    <dimen name="large_text_size">11.3sp</dimen>
+    <dimen name="large_text_size1">10sp</dimen>
+    <dimen name="large_text_size2">16.7sp</dimen>
+    <dimen name="middle_text_size">10.7sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="small_text_size1">7.5sp</dimen>
+    <dimen name="middle_margin_edge">10dip</dimen>
+    <dimen name="small_margin_edge">5dip</dimen>
+    <dimen name="large_margin_edge">10dip</dimen>
+    <dimen name="frame_layout_width">450dip</dimen>
+    <dimen name="frame_layout_height">400dip</dimen>
+    <dimen name="progressbar_height">150dip</dimen>
+    <dimen name="progressbar_width">350dip</dimen>
+    <dimen name="layout_alignRight">60dip</dimen>
+    <dimen name="menu_main_margin">23dip</dimen>
+    <dimen name="menu_main_draw_pad">10dip</dimen>
+    <dimen name="menu_main_seekbar">26dip</dimen>
+    <dimen name="prompt_textview_margin">27dip</dimen>
+    <dimen name="menu_finetune_padding">20dip</dimen>
+    <dimen name="menu_change_value_bar_bottom">40dip</dimen>
+    <dimen name="menu_seekbar_thumb_height">30dp</dimen>
+    <dimen name="menu_button_width">80dp</dimen>
+
+    <dimen name="menu_ci_main_listview_height">211dip</dimen>
+    <dimen name="menu_scan_layout_margin">40dp</dimen>
+    <dimen name="menu_scan_layout_minWidth">300dp</dimen>
+    <dimen name="channel_edit_text_size">13sp</dimen>
+
+    <dimen name="menu_channel_edit_blayoyt_marginbottom">5dp</dimen>
+
+    <!-- Guided step fragment -->
+    <dimen name="setup_guidedstep_guidance_section_width_2pane">600dp</dimen>
+    <dimen name="setup_guidedstep_guidance_section_width_3pane">476dp</dimen>
+    <dimen name="setup_done_button_container_width">138dp</dimen>
+    <dimen name="setup_guidedactions_selector_margin_start">24dp</dimen>
+    <dimen name="setup_guidedactions_selector_margin_end">24dp</dimen>
+    <dimen name="setup_guidedactions_selector_margin_top">220dp</dimen>
+    <dimen name="setup_guidedactions_item_container_padding_start">40dp</dimen>
+    <dimen name="setup_guidedactions_item_container_padding_end">40dp</dimen>
+    <dimen name="setup_guidedactions_vertical_padding">12dp</dimen>
+    <dimen name="setup_guidedactions_vertical_spacing">5dp</dimen>
+
+    <dimen name="setup_guidedactions_item_delimiter_padding">10dp</dimen>
+
+    <!-- Transition -->
+    <dimen name="setup_fragment_transition_long_distance">80dp</dimen>
+    <dimen name="setup_fragment_transition_short_distance">48dp</dimen>
+    <!-- This values should be less then or equal to -1 * setup_fragment_transition_long_distance. -->
+    <dimen name="setup_common_guidance_background_margin_start">-100dp</dimen>
+</resources>

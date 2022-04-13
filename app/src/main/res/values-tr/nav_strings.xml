@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"Geri"</string>
+    <string name="setup_select" msgid="1270661539800592611">"Seç"</string>
+    <string name="setup_next" msgid="4079616525492116810">"İleri"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"Çıkış"</string>
+    <string name="satellites" msgid="2437056584091944552">"Uydular"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"Girişler"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"Alt"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"Kanal Kaynakları"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"Lütfen kanalları tarayın!"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"İşlev Yok"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"Liste Seçin"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"Diğer\'i seçin"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"Seç"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"Sırala"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"Varsayılan"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"Ada Göre"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"Adlar Alfabetik Sırada"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"Şifreli"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"Bul"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"Lütfen kanal numarasını veya kanal adını girin."</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"Yayın"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"Kategoriler"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"Paket"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"Dijital"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"Bu türde kanal yok. Lütfen başka tür seçin."</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"Radyo"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"Analog"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"Ücretsiz"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"Şifreli"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"Ağ"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"Türü Seçin"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"Yükleniyor, lütfen bekleyin..."</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"Bir Sayfa Yukarı"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"Bir Sayfa Aşağı"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"Yukarı Taşı"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"Aşağı Taşı"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"Favori Listesi"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"Sil"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"Uydu Listesi"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"Uyduyu Seçin"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"Kanal Listesi"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"Yeni kanallar bulundu ve kanal listesine eklendi."</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"Kategoriler -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"Paket -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"Kanal Listesi Seçimi"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"Favori Listesi Seçimi"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"Kanal Ayrıntıları"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"Ana Ses Düzeyi"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"Şifrenizi girin"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"Üç kere yanlış şifre girdiniz!\nLütfen yaklaşık 15 dakika bekleyin..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"Yanlış Şifre. Lütfen tekrar girin!"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"Anten"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(Program Başlığı Yok.)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(Programla ilgili Ayrıntılı Bilgi Yok.)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(Kanalla ilgili Ayrıntılı Bilgi Yok.)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"Sinyal Yok!"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"Destek Yok!"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"Kanal Kilitlendi!"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"Giriş Kilitlendi!"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"Program Kilitlendi!"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"Gizli Kanal"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"Karmaşık Ses"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"Karmaşık Video"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"Uyku:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"Kapalı"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"Dakika"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"Görüntü yok"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"Veriler Alınıyor..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"Bilinmeyen Ses Türü"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"Bilinmeyen Stereo"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"Bilinmiyor"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"Ses yok"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"Tür"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"Alt Tür"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"Kaydedilenler Listesi"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"Kaydedilen Etkinlik Listesi"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"Bu program kaydedilsin mi?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"Bu program zaten kaydedildi, iptal edilsin mi?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"başlamak üzere, kanala geçilsin mi?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"Derecelendirilmemiş"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(Programla ilgili Ayrıntılı Bilgi Yok.)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"(Programla ilgili Veri Yok.)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(Program Başlığı Yok.)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(Başlık Yok)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"Kilidi aç"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"Programlanmamış"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"Program"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"Sınıflandırılmamış"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"Desteklenmez"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"Tamam"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"İptal"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"Tam Ekran"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"Belirli bir Bölge"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"Hayır"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"Ayarla"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"Ekranın tamamını mı yoksa belli bir bölümünü mü yakalamak istiyorsunuz?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"Bu ekranı yakalamak istiyor musunuz?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"Lütfen logonun kaydedileceği konumu seçin."</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"Yakalanıyor..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"Başarıyla Yakalandı"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"Yakalama başarısız oldu. Lütfen tekrar deneyin."</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"Bu işlem iptal edildi."</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"Sinyal yok. Güç kapatılacak."</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"Lütfen devam etmek için herhangi bir tuşa basın."</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"Önceki Gün"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"Ertesi Gün"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"Ayrıntıyı Görüntüle"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"Filtre Türü"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"Bir Sayfa Yukarı"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"Bir Sayfa Aşağı"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"GİR"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"Sınıflandırılmamış"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"Hiçbiri"</string>
+    <string name="epg_password" msgid="8012355648918471162">"Şifre"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"Yanlış Şifre"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"Veriler Alınıyor..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"Ocak"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"Şubat"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"Mart"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"Nisan"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"Mayıs"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"Haziran"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"Temmuz"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"Ağustos"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"Eylül"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"Ekim"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"Kasım"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"Aralık"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"Pazar"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"Pazartesi"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"Salı"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"Çarşamba"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"Perşembe"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"Cuma"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"Cumartesi"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"Uygulama Listesi"</string>
+    <string name="nav_select" msgid="990203763701782141">"Seç"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"Uygulama yok!"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Ginga Uygulaması yükleniyor..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"CC\'yi durdurup Ginga Uygulamasını başlatmak istiyor musunuz?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"Sihirbaz Güncelleniyor"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"Daha Fazla Bilgi."</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"Geçersiz Donanım Yazılımı Görüntü Dosyası!"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"Güncelleniyor..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"Donanım yazılımı güncellenirken lütfen USB\'yi ÇIKARMAYIN ve televizyonu kapatmayın!"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"Donanım yazılımı doğrulanıyor..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"Donanım yazılımını güncellemek istediğinizden emin misiniz?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"Donanım yazılımı başarıyla güncellendi.\nYeni donanım yazılımını etkinleştirmek için lütfen TV setini yeniden başlatın."</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"Güncellenemedi.\nDonanım yazılımını tekrar indirmek için lütfen TV setini yeniden başlatın."</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"Güncellenemedi.\nYeniden denemek ister misiniz?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"Güncellenemedi. Lütfen USB\'yi takın.\nTekrar denemek ister misiniz?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"USB\'nizde yeterli boş alan yok."</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB hazır değil. Lütfen USB\'yi takıp tekrar deneyin."</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"Dahili hata."</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"Kullanılabilir donanım yazılımı sürümü yok."</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"Şifre çözme başarısız oldu."</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"Donanım yazılımı geçersiz."</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"Güncellenebilecek donanım yazılımı yok."</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"Yeni donanım yazılımı kontrol edilemedi."</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"Ağdan donanım yazılımı indirilemedi."</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB ile ilgili bir sorun var."</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"Güç"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"Dijital METİN etkinleştirilmeden önce ALTYAZI kapatılmalıdır. Devam etmeyi kabul ediyor musunuz?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"EVET"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"HAYIR"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"EWS hizmetine geçmek istiyor musunuz?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"Özel hizmete geçmek istiyor musunuz?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"başlamak üzere. Geçmek istiyor musunuz?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"Ginga Uygulamasını durdurup Altyazıyı açmak istiyor musunuz?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"ENGELLE"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"GRUP"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"SAYFA"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"Üst Kısım Yok"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"Favori Sayfa Listesi"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"Derecelendirilmemiş"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus Ağı değişti. Güncellenmiş ağı arayabilirsiniz!"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus Ağı kullanılamıyor. Güncellenmiş ağı aramalısınız!"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus Ağı başlatılmadı. Güncellenmiş ağı aramalısınız!"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plus Ağ araması için programlanan zaman geldi. Güncellenmiş ağı arayabilirsiniz!"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"Lütfen ülkenizi seçin:"</string>
+    <string name="setup_country" msgid="629173256579318536">"Ülke"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"Lütfen kablo bilgilerini yapılandırın."</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"Saat Dilimi"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"Tarama Modu"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"Frekans (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"Modülasyon"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"Sembol Oranı (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"Ağ Kimliği"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"Posta Kodu"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"Yeni Şifre"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"Şifreyi doğrulayın"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"Operatör Seçin"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"Uydu Tipi"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"Lütfen uydu tipini seçin."</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"Operatör Seç"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"Aşağıdaki listeden sadece tek bir operatör seçebilirsiniz."</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"Lütfen kablo bilgilerini yapılandırın."</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"Lütfen tarama bilgilerini yapılandırın."</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"Lütfen taranacak uyduyu seçin veya seçilen uyduyu düzenleyin."</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"Lütfen anten türü yapılandırmasını ayarlayın."</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"Anten Kurulumu"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"Lütfen uydunun parametrelerini ayarlayın."</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"Lütfen aktarıcı parametrelerini ayarlayın."</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"Ayarla"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"Kablosuz İndirme"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"Tarama"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"Kablosuz olarak indirilecek yeni yazılım bulunamadı."</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"Programlama"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"İndiriliyor"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"Bu işlem 25 dakika kadar sürebilir"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"Yazılım başarıyla indirildi. Göstermeye başlamak istiyor musunuz?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"Programlama başarısız oldu. Tekrar denemek ister misiniz?\n\nLütfen servis merkezini arayın."</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"Yazılım başarıyla indirildi! TV şimdi yeniden başlatılsın mı?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"Uyarı: İşlem sırasında lütfen TV Setinin güç kablosunu fişten çıkarmayın. Aksi halde TV Setinde arıza meydana gelir."</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"Yazılım Güncellemesi. Önerilen yeni bir yazılım güncellemesi var. Güncelleme biraz vakit alabilir ve ekran kararabilir. Güncelleme sırasında televizyonu kapatmayın. Şimdi güncellemek istiyor musunuz?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"Yazılım indirilemiyor. Yeniden denemek istiyor musunuz?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"Yazılım Güncellemesi. Önerilen yeni bir yazılım güncellemesi var. Güncelleme biraz vakit alabilir ve ekran kararabilir. Güncelleme sırasında televizyonu kapatmayın. Şimdi güncellemek istiyor musunuz? Güncelleme <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> saniye sonra otomatik olarak başlayacak"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"Yazılım Güncellemesi. Önerilen yeni bir yazılım <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g> tarihinde kullanıma sunulacak. Güncelleme biraz vakit alabilir ve ekran kararabilir. Güncelleme sırasında alıcıyı kapatmayın. Bu güncellemeyi kabul ederseniz lütfen programlanan zamanda televizyonu açık veya standby modunda bırakın. Bu güncellemeyi kabul etmek istiyor musunuz?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"Yazılım Güncellemesi. Başka bir kanalda, önerilen yeni bir yazılım güncellemesi olabilir. Güncellemeyi indirmeyi kabul ederseniz otomatik olarak kanala geçiş yapabilir. Bunu şu anda yapmak ister misiniz? <xliff:g id="AUTOMATICALLY">%s</xliff:g> saniye sonra otomatik olarak başlayacak"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"Yeni yazılım algılandı!\nTelevizyon standby modundayken yazılımı otomatik olarak indirmeyi kabul ediyor musunuz?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"Programlama"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"Avusturya"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"Belçika"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"İsviçre"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"Çekya"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"Almanya"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"Danimarka"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"İspanya"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"Finlandiya"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"Fransa"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"Birleşik Krallık"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"İtalya"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"Lüksemburg"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"Hollanda"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"Norveç"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"İsveç"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"Bulgaristan"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"Hırvatistan"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"Yunanistan"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"Macaristan"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"İrlanda"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"Polonya"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"Portekiz"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"Romanya"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"Rusya"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"Sırbistan"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"Slovakya"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"Slovenya"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"Türkiye"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"Estonya"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"Avustralya"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"Yeni Zelanda"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"Endonezya"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"Lütfen saat diliminizi seçin:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"Lütfen şifre belirleyin. 0000 geçerli bir şifre değil"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"Lütfen posta kodunu girin."</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"Şifre başarıyla belirlendi!"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"Ağ değişikliği nedeniyle bazı kanallar artık aktif değil. Bu kanalları şimdi kaldırmak istiyor musunuz?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"TV kanalları değişti, tarama yaparak kanal listesini güncellemek için Tamam\'a basın."</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"Anten Kurulumu"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"Uydu"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"Uydu Adı"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"Yörünge Konumu"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"Hareket Kontrolü"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"Sınırları Devre Dışı Bırak"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"Doğu Yönünü Sınırla"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"Batı Yönünü Sınırla"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"Depolama Konumu"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"Goto Konumu"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"Goto Referansı"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"Adım Boyutu"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"Zaman aşımı (saniye)"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"Doğu Yönüne Hareket Ettir"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"Batı Yönüne Hareket Ettir"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"Hareketi Durdur"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"Devre dışı bırak"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"Ton 22 KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"Kapalı"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"Açık"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"Otomatik"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"Aktarıcı"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"Frekans"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"Sembol Oranı (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"Polarizasyon"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"Bilinmiyor"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"Yatay"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"Dikey"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"Sol"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"Sağ"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"Yeni uydu ekle"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"Yeni aktarıcı ekle"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"Uydu Ayarlama"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"Tarama Türü"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"Hafızaya Alma Türü"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"Tarama Modu"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"Ağ Arama"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"Ara"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"Otomatik"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"Hazır Ayar"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"Yalnızca Şifrelenmiş Kanallar"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"Yalnızca Ücretsiz Kanallar"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"Tümü"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"Yalnızca Dijital Kanallar"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"Yalnızca Radyo Kanalları"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(Uydu Yok.)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"Manuel Uydu Tarama"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(Aktarıcı Yok.)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"Uydu adı boş bırakılmış.\nLütfen adı girin."</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"Uydu Yeniden Taranıyor"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"Uydu Ekle"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"Uydu Güncellemesi"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"Uydu Durumu"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"Ağ"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"Tam"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"Uydular"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"Konum"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB Gücü"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"Anten Türü"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"Evrensel"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"Tek Kablolu"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"Tarayıcı"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"Alt Kanal Arayıcı"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"Kullanıcı bandı <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"Bant Frekansı"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"Kullanıcı Tanımlı"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"Konum"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"Kablolu"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"Tercih Edilen Uydu"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"Genel Uydu"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"Evrensel"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"Tone Burst"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"Devre dışı bırak"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"Tone Burst A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"Tone Burst B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"Açık"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"Kapalı"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"Kaynak, <xliff:g id="CONFLICTS">%s</xliff:g> kaynağıyla çakışıyor!"</string>
+    <string name="ews_status" msgid="451574410866097453">"DURUM <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"Kaynak Kurulumu"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"Otomatik Kanal Sıralama"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"Ücretli TV Sıralama"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(Program başlığı yok.)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"Giriş, otomatik taramayı desteklemiyor."</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"\"<xliff:g id="TV_INPUT">%s</xliff:g>\" için otomatik tarama başlatılamıyor"</string>
+    <string name="str" msgid="4738306056683483195">"Favoriler<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"Tümü"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"Radyo"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"Uyku: Kapalı"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"Uyku: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> Dakika"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"X 1 Yakınlaştır"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"2 X Yakınlaştır"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"1/2 X Yakınlaştır"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"Donma: Açık"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"Donma: Kapalı"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"Kategori Yok"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"Film/Drama"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"Haberler/Güncel gelişmeler"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"Program/Yarışma programı"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"Spor"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"spor (genel)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"Çocuklara/Gençlere yönelik programlar"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"Müzik/Bale/Dans"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"Kültür/Sanat (müzik hariç)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"Toplumsal/Siyasi konular/Ekonomi"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"Eğitim/Bilim/Gerçeğe dayalı konular"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"Boş zaman hobileri"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"Özel nitelikler"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"Çocuklar"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"Erotik"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"Diğer"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"Eğlence"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"Güncel haberler"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"Eğlendirici Bilgilendirme İçeriği"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"Komedi"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"Dram"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"Belgesel"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"Haberler"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"Spor"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"Yaşam Tarzı"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"Haberler"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"desteklenmiyor"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"Dizi"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"Varyete"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"Bilgi"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"Komedi"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"romantik"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"ciddi/klasik/dini/tarihi film/drama"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"ciddi müzik/klasik müzik"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"yetişkinlere yönelik filmler/drama"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"haberler/güncel gelişmeler (genel)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"haberler/hava durumu"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"haber dergisi"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"belgesel"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"tartışma/röportaj/münazara"</string>
+    <string name="nav_News" msgid="3663290212801352195">"Haberler"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"program/yarışma programı (genel)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"yarışma programı/bilgi yarışması/yarışma"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"varyete"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"talk show"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"spor dergileri"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"futbol"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"tenis/squash"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"takım sporları (futbol hariç)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"atletizm"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"motor sporları"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"su sporu"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"kış sporları"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"binicilik"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"dövüş sporları"</string>
+    <string name="nav_Children" msgid="873820541320552860">"çocuklara/gençlere yönelik programlar"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"okul öncesi çağdaki çocuklara yönelik programlar"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"6-14 yaşa yönelik eğlence programları"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"10-16 yaşa yönelik eğlence programları"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"bilgilendirici/eğitici/okul programları"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"çizgi filmler/kuklalar"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"müzik/bale/dans (genel)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"rock/pop"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"folklor/halk müziği"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"caz"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"müzikal/opera"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"bale"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"kültür/sanat (müzik hariç)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"gösteri sanatları"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"güzel sanatlar"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"din"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"popüler kültür/geleneksel sanatlar"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"edebiyat"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"film/sinema"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"deneysel film/video"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"yayıncılık/basın"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"canlı yayın"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"yeni medya"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"sanat dergileri"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"moda"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"Reddet"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"toplumsal/siyasi konular/ekonomi (genel)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"dergiler/raporlar/belgesel"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"ekonomi/sosyal danışmanlık"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"önemli kişiler"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"eğitim/bilim/gerçeğe dayalı konular (genel)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"doğa/hayvanlar/çevre"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"teknoloji/doğa bilimleri"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"tıp/fizyoloji/psikoloji"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"yabancı ülkeler/seyahat"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"sosyal/ruhani bilimler"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"ileri eğitim"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"diller"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"Film"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"boş zaman hobileri (genel)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"turizm/seyahat"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"el işleri"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"araçla seyahat"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"fitness ve sağlık"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"reklam/alışveriş"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"bahçıvanlık"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"orijinal dil"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"siyah beyaz"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"yayında değil"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"plano-stereoskopik"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"yerel veya bölgesel"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"BİLİNMİYOR"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"Mono"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"Stereo"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam Mono"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam Stereo"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM Mono"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM Stereo"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"Dual Mono"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"İki Kanalda Surround"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"Surround"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> Kanal"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"Pazar"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"Pazartesi"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"Salı"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"Çarşamba"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"Perşembe"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"Cuma"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"Cumartesi"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"İptal"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"Kabul et"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"Daha Sonra Hatırlat"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"Sinyal Yok!"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"Lütfen kanalları tarayın!"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"Veriler Alınıyor"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"Çocuklar"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"Kanal Kilitlendi!"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"Program Kilitlendi!"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"Giriş Kilitlendi!"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(Program başlığı yok.)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"Gizli Kanal!"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"Sesli (Görüntüsüz) Program"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"Ses ve Görüntü Yok"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(Programla ilgili ayrıntılı bilgi yok.)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(Kanalla ilgili ayrıntılı bilgi yok.)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"Ses Akışı Yok"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"Görüntü Akışı Yok"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"Lütfen Bekleyin..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"Video Desteklenmiyor"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"Desteklenmiyor"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"Canlı Yayın Dışı"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"Kanal Yok"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"Bu içerik, servis sağlayıcınız tarafından engellenmiş."</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"Karmaşık"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"Konumlandırıcı hareket ettiriliyor..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"Hizmet Çalışmıyor"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"Devre dışı bırak"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"Kesintisiz"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"Adım"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"Zaman aşımı"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"Yakınlaştır"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> kanal eklendi"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> kanal eklendi"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"Hiçbir kanal eklenmedi"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB Cihazı Bağlandı"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"KL<xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"%%<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"Haber, rapor"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"Normal, genel"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"Hava durumu raporu"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"Özel program, belgesel"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"Siyaset, ulusal meclis"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"Ekonomi, piyasa raporu"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"Yabancı, uluslararası haberler"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"Haber analizi"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"Tartışma, konferans"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"Özel haber"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"Yerel programlar"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"Trafik raporu"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"Diğer"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"Spor"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"Spor haberleri"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"Beyzbol"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"Futbol"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"Golf"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"Diğer top oyunları"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"Sumo, dövüş sporları"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"Olimpik, uluslararası oyunlar"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"Maraton, atletizm, yüzme"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"Motor sporları"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"Deniz sporları, kış sporları"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"At yarışı, herkese açık yarışlar"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"Bilgi/magazin programı"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"Dedikodu/magazin programı"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"Moda"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"Yaşam, ev"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"Sağlık, tıbbi tedavi"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"Alışveriş, postayla sipariş firmaları"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"Gurme, yemek"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"Etkinlikler"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"Program rehberi, bilgi"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"Dram"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"Japon dizileri"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"Yabancı diziler"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"Dönem dizileri"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"Müzik"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"Japon rock ve pop müziği"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"Yabancı rock ve pop müzik"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"Klasik, opera"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"Caz, fusion"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"Popüler şarkılar, popüler Japon şarkıları (enka)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"Canlı konser"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"Müzik listeleri, istek programları"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"Karaoke, amatör şarkı yarışmaları"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"Japon baladları, geleneksel Japon müziği"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"Çocuk şarkısı"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"Folk müzik, dünya müziği"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"Varyete"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"Bilgi yarışması"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"Oyun"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"Sohbet programı"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"Komedi programı"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"Müzik programı"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"Gezi programı"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"Yemek programı"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"Filmler"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"Yabancı filmler"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"Japon filmleri"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"Animasyon"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"Animasyon/özel efekt filmleri"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"Japon animasyonları"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"Yabancı animasyon"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"Özel efektler"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"Belgesel/kültür"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"Sosyal ve güncel konular"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"Tarih, seyahat günlükleri"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"Doğa, hayvanlar, çevre"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"Uzay, bilim, tıp bilimi"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"Kültür, geleneksel kültür"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"Edebiyat, edebi sanatlar"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"Spor"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"Belgesel"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"Röportajlar, tartışmalar"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"Tiyatro/herkese açık gösteri"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"Modern diziler, Batı tarzı diziler"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"Müzikal"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"Dans, bale"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"Mizah, eğlence"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"Kabuki, klasik drama"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"Hobi/eğitim"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"Gezi, balık avı, açık hava aktiviteleri"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"Bahçıvanlık, evcil hayvanlar, el işleri"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"Müzik, sanat, endüstriyel sanat"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"Japon satrancı (shogi) ve \"go\""</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"Mah-jong, tilt oyunları"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"Arabalar, motosikletler"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"Bilgisayar, TV oyunları"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"Sohbet, diller"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"Küçük çocuklar, okul çocukları"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"Ortaokul ve lise öğrencileri"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"Üniversite öğrencileri, sınavlar"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"Hayat boyu öğrenme, beceriler"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"Eğitim sorunları"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"Refah"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"Yaşlı bireyler"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"Engelli bireyler"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"Sosyal refah"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"Gönüllü"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"İşaret dili"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"Metin (altyazı)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"Çok ses kanallı açıklamalı yayın"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"Ayırtıldı"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"Ayırtıldı"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"Uzantı için"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"BS/karasal dijital yayın programı için ek bilgi"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"Geniş bant CS dijital yayın uzantısı"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"Dijital uydu ses yayını uzantısı"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"Sunucu türü program için ek bilgi"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"Diğer"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"Önceki"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV Ana Sayfası"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"Yok"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"Bu program <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g> olarak Derecelendirilmiştir"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"Giriş Kilitlendi"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"Bu giriş kaynağı, tanımladığınız giriş kaynağı kilitleme ölçütü nedeniyle kilitlendi. Bu, TV menüsünden değiştirilebilir. Ekranın kilidini açmak için ENTER\'a basın."</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"Harici girişi kontrol edin veya INPUT tuşunu kullanarak başka bir giriş seçin."</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"Hiç kanal kurulmadı. Lütfen TV menüsünden kanal taraması yapın."</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"Bu içerik yakında sunulacak. Lütfen biraz bekleyin."</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"Bu kanal şu anda kullanılamıyor. Daha fazla bilgi için lütfen servis sağlayıcınızla iletişim kurun."</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"Kanal yalnızca ses yayını içeriyor."</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"Bu kanalın video ve ses içeriği yok."</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"Yükleniyor"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"Kanal verileri yükleniyor. Lütfen biraz bekleyin."</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"Bu video biçimi TV\'de desteklenmiyor."</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"Bu içerik, servis sağlayıcınız tarafından durdurulmuş."</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"Mevcut kanal listesinde hiç kanal yok."</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"Bu içerik, servis sağlayıcınız tarafından engellenmiş."</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"Konumlandırıcı hareket ettiriliyor"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"Konumlandırıcı uyduyu bulmak için dönüyor. Lütfen biraz bekleyin."</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"Etkin kanal hizmeti yok."</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"Program Kilitlendi"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"Lütfen kanalları tarayın"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"Bu içerik yakında sunulacak. Lütfen biraz bekleyin."</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP Kanalları"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"Yaşam tarzı/Boş zaman hobileri"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"Kanal sıralama yöntemini seçin. Otomatik kanal sıralama varsayılan yöntemdir.\n        Ücretli TV sıralama, yalnızca Ücretli TV müşterilerine kanal numaralarının kullanışlı bir biçimde sunulmasına imkan sağlar.\n        Ücretli TV sıralama kanalları kuramazsa Otomatik kanal sıralamayı kullanın."</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"kapat"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"Doğru"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"Geçersiz tür"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"Boş olamaz"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"Temiz ekran hizmeti başlatıldı, ekran temizleme durumu <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> dakika sürecek"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"Temiz ekran hizmeti durduruldu."</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"Tarama yapmanız gerektiğinden emin misiniz? Tüm yüklü kanallar kaldırılır."</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Bahasa Melayu"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"Yerel"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"Orijinal"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"Diğer Dil"</string>
+</resources>

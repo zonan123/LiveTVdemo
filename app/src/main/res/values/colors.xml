@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="accent_color">#80D3FB</color>
+    <color name="control_activated_color">#80D3FB</color>
+    <color name="primary_color">#0285D3</color>
+    <color name="setup_actions_background">#B30374BF</color>
+
+    <color name="orange">#FFA500</color>
+    <color name="overlay_blended_light_primary">#ffeeeeee</color>
+    <color name="overlay_blended_light_secondary">#ff878787</color>
+    <color name="icon_background">#FF4A4F51</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="half_transparent">#10000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="capture_gray_background">#ff888888</color>
+    <color name="video_text_color">#00FFFFFF</color>
+    <color name="menu_main_MenuSetUpListView">#00000000</color>
+    <color name="nav_channel_list_txt">#f6f6f6</color>
+    <color name="nav_channel_list_color_txt">#e6e6e6</color>
+
+    <drawable name="translucent_background">#00000000</drawable>
+    <drawable name="tvview_background">        #fff74dff</drawable>
+    <drawable name="tv_background">        #00000000</drawable>
+    <drawable name="tv_dialog_bg">#ff384248</drawable>
+    <color name="mmp_videoplay_color">#000000</color>
+    <color name="mmp_asycgriditem_color">#00000000</color>
+    <color name="mmp_seek_time_color">#00000000</color>
+    <color name="dark_yellow">#fffefe11</color>
+    <color name="banner_text_yellow">#ffeaeaea</color>
+    <!-- password control box-yellow -->
+    <color name="nav_parental_ed">#D9D919</color>
+
+    <drawable name="red">#7f00</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>
+    <drawable name="yellow">#77ffff00</drawable>
+    <drawable name="white">#ffffffff</drawable>
+
+    <drawable name="screen_background_black">#ff000000</drawable>
+    <!--<drawable name="translucent_background">#e0000000</drawable>
+    -->
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <color name="solid_red">#f00</color>
+    <color name="solid_blue">#0000ff</color>
+    <color name="solid_green">#7cfc00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="mmp_black">#00000000</color>
+
+    <color name="progress_start">#ff454543</color>
+    <color name="progress_end">#ff453452</color>
+
+    <color name="blue">#003cd2</color>
+    <color name="blue_new">#08a6e2</color>
+    <color name="red">#80ff0000</color>
+    <color name="red_new">#ff0000</color>
+    <color name="translucent_black">#AA000000</color>
+    <color name="blue_transparent">#003cd200</color>
+    <color name="translucent_gray">#AA000000</color>
+    <color name="scan_background">#DD000000</color>
+    <color name="blue_start">#0f93b8</color>
+    <color name="green_list_head">#b8d272</color>
+    <color name="gray">#B7B8BE</color>
+    <color name="siwhite">#FFFFFFFD</color>
+    <color name="darkwhite">#FFFFFF</color>
+
+    <color name="lightblue">#87cefa</color>
+    <color name="yellow">#77ffff00</color>
+
+    <color name="finishpercentage_color">#ffff33</color>
+
+
+    <color name="focus_black">#ff005500</color>
+    <color name="focus_red">#55553322</color>
+
+    <color name="list_con">#22556678</color>
+    <color name="list_bian">#55668877</color>
+    <color name="ttx_top">#ff00529b</color>
+    <color name="setup_password_bg">#22ffffff</color>
+
+    <!-- Google GMS UI style -->
+    <color name="nav_ch_list_view_back">#202124</color>
+    <color name="nav_ch_list_title_back">#1B1C1E</color>
+    <color name="epg_divider">#35373B</color>
+    <color name="epg_current_time">#8B8A8A</color>
+    <drawable name="nav_ch_list">#2E2F32</drawable>
+    <drawable name="nav_uk_ch_list">#F39A1E</drawable>
+    <color name="nav_uk_ch_list_item_text">#1D1F21</color>
+    <color name="nav_uk_ch_list">#F39A1E</color>
+    <drawable name="barcolor">#33b5e5</drawable>
+    <drawable name="nav_input_pwd">#4b5459</drawable>
+    <drawable name="epg_list_item">#800176BC</drawable>
+    <drawable name="epg_list_item_normal">#F2263238</drawable>
+    <drawable name="epg_2nd_list_item_normal">#f237474f</drawable>
+    <drawable name="epg_lv_item_bg_color_unselected">#202124</drawable>
+    <drawable name="epg_lv_item_bg_color_selected">#002564</drawable>
+
+     <!-- EPG -->
+     <color name="epg_ts_bright_white">#FFFFFF</color>
+     <color name="epg_ts_grey_white">#888888</color>
+     <color name="epg_horizontal_divider">#181818</color>
+     
+     <color name="epg_title_layout_bg">#38393D</color>
+     <color name="epg_hour_color">#606060</color>
+     
+     <color name="epg_lv_item_bg_color_unselected">#202124</color>
+     <color name="epg_lv_item_bg_color_selected">#002564</color>
+     <color name="epg_event_filtered_bg_color">#002599</color>
+     <color name="epg_event_title_color_enabled">#EAEAEA</color>
+     <color name="epg_event_title_color_disabled">#888888</color>
+     
+     
+     <drawable name="epg_lv_channel_bg_unselected">#1B1C1E</drawable>
+     <drawable name="epg_lv_channel_bg_selected">#002564</drawable>
+     <color name="epg_lv_bg">#242424</color>
+     <color name="epg_pvr_reminder">#FFFFFF00</color>
+     <color name="epg_pvr_record">#FFFF0000</color>
+
+     <!-- IDN EWS -->
+     <drawable name="ews_item_bg_unselected">#08a6e2</drawable> 
+     <drawable name="ews_item_bg_selected">#889fc5e8</drawable>
+
+    <!-- PVR TimeShift -->
+    <color name="centercolor">#ff5a5d5a</color>
+    <color name="endcolor">#ff747674</color>
+    <color name="startcolor">#ff9d9e9d</color>
+    <color name="nav_button_normal">#00000000</color>
+    <color name="nav_button_select">#33EEEEEE</color>
+    <color name="tif_timeshift_progressbar_bg">#FF1A1A1A</color>
+    <color name="tif_timeshift_recording_bg">#FF4285F4</color>
+
+    <!-- List Common Color -->
+    <color name="nav_list_common_title_color">#0089d6</color>
+    <color name="nav_list_common_view_back_color">#455A64</color>
+    <drawable name="nav_list_common_select_back_color">#33EEEEEE</drawable>
+	
+	    <!-- Color for simple dialog -->
+    <color name="simple_button_normal">#242424</color>
+    <color name="simple_button_selected">#4a8af8</color>
+    <color name="simple_text_focused">#4a8af8</color>
+    <color name="simple_text_normal">#9f9f9f</color>
+    <color name="simple_dialog_background">#f0191919</color>
+
+    <!-- tv options background and hover -->
+    <color name="tv_options_item_background1">#2d4a6a</color>
+    <color name="tv_options_item_background2">#055b83</color>
+    <color name="tv_options_item_background3">#3a8161</color>
+    <color name="tv_options_item_background4">#c08443</color>
+    <color name="tv_options_item_background5">#c35445</color>
+    <color name="tv_options_item_hover1">#3772b3</color>
+    <color name="tv_options_item_hover2">#4387f6</color>
+    <color name="tv_options_item_hover3">#109f5f</color>
+    <color name="tv_options_item_hover4">#eaae4f</color>
+    <color name="tv_options_item_hover5">#dc483e</color>
+
+    <!-- Color for oad action -->
+    <color name="oad_action_focused">#4a8af8</color>
+	
+    <!-- Color for one key menu -->
+    <color name="one_key_action_focused">#4086f4</color>
+    
+    <color name="nav_list_common_button_text_color">#009688</color>
+
+    <!-- Play controls -->
+    <color name="play_controls_time_text_color">#26C6DA</color>
+    <color name="play_controls_progress_bar_background">#33EEEEEE</color>
+    <color name="play_controls_progress_bar_watched">#26C6DA</color>
+    <color name="play_controls_progress_bar_buffered">#00ACC1</color>
+    <color name="play_controls_progress_time_indicator_color">#26C6DA</color>
+    <color name="play_controls_rec_time_text_color">#26C6DA</color>
+    <color name="play_controls_body_background_enabled">#0277BD</color>
+    <color name="play_controls_body_background_disabled">#800277BD</color>
+    <color name="play_controls_unavailable_message_text_color">#B3EEEEEE</color>
+    <color name="play_id">#FF0000</color>
+
+    <color name="settings_background">#FF1F292E</color>
+
+    <!-- for mew color form tv settings -->
+    <drawable name="settings_item_bg_normal">#ff333333</drawable>
+    <drawable name="settings_item_bg_pressed">#ff777777</drawable>
+    <drawable name="settings_item_bg_disabled">#ff555555</drawable>
+
+    <color name="normal">#FFFFFFFF</color>
+    <color name="background">#FF707070</color>
+    <color name="quiet">#FF909090</color>
+    <color name="legacy_app_item_background">#1a000000</color>
+
+    <color name="livetvsettings_background">#FF1F292E</color>
+
+    <drawable name="network_item_focus">#FF5CC0FF</drawable>
+    <drawable name="network_item">#FF707070</drawable>
+
+    <color name="storage_used">#FF0000</color>
+    <color name="storage_avail">#333333</color>
+    <color name="storage_apps_usage">#77831A</color>
+    <color name="storage_downloads">#476093</color>
+    <color name="storage_dcim">#793A7F</color>
+    <color name="storage_music">#8E562A</color>
+    <color name="storage_cache">#479392</color>
+    <color name="storage_misc">#7C3030</color>
+
+    <color name="list_item_selected_summary_text_color">#4DF1F1F1</color>
+    <color name="add_accessory_hint_text_color">#FFE0E0E0</color>
+
+    <color name="captioning_color_FFFFFF">#FFFFFFFF</color>
+    <color name="captioning_color_000000">#FF000000</color>
+    <color name="captioning_color_FF0000">#FFFF0000</color>
+    <color name="captioning_color_FFFF00">#FFFFFF00</color>
+    <color name="captioning_color_00FF00">#FF00FF00</color>
+    <color name="captioning_color_00FFFF">#FF00FFFF</color>
+    <color name="captioning_color_0000FF">#FF0000FF</color>
+    <color name="captioning_color_FF00FF">#FFFF00FF</color>
+    <color name="captioning_color_000055">#FF000055</color>
+    <color name="captioning_color_0000AA">#FF0000AA</color>
+    <color name="captioning_color_005500">#FF005500</color>
+    <color name="captioning_color_005555">#FF005555</color>
+    <color name="captioning_color_0055AA">#FF0055AA</color>
+    <color name="captioning_color_0055FF">#FF0055FF</color>
+    <color name="captioning_color_00AA00">#FF00AA00</color>
+    <color name="captioning_color_00AA55">#FF00AA55</color>
+    <color name="captioning_color_00AAAA">#FF00AAAA</color>
+    <color name="captioning_color_00AAFF">#FF00AAFF</color>
+    <color name="captioning_color_00FF55">#FF00FF55</color>
+    <color name="captioning_color_00FFAA">#FF00FFAA</color>
+    <color name="captioning_color_550000">#FF550000</color>
+    <color name="captioning_color_550055">#FF550055</color>
+    <color name="captioning_color_5500AA">#FF5500AA</color>
+    <color name="captioning_color_5500FF">#FF5500FF</color>
+    <color name="captioning_color_555500">#FF555500</color>
+    <color name="captioning_color_555555">#FF555555</color>
+    <color name="captioning_color_5555AA">#FF5555AA</color>
+    <color name="captioning_color_5555FF">#FF5555FF</color>
+    <color name="captioning_color_55AA00">#FF55AA00</color>
+    <color name="captioning_color_55AA55">#FF55AA55</color>
+    <color name="captioning_color_55AAAA">#FF55AAAA</color>
+    <color name="captioning_color_55AAFF">#FF55AAFF</color>
+    <color name="captioning_color_55FF00">#FF55FF00</color>
+    <color name="captioning_color_55FF55">#FF55FF55</color>
+    <color name="captioning_color_55FFAA">#FF55FFAA</color>
+    <color name="captioning_color_55FFFF">#FF55FFFF</color>
+    <color name="captioning_color_AA0000">#FFAA0000</color>
+    <color name="captioning_color_AA0055">#FFAA0055</color>
+    <color name="captioning_color_AA00AA">#FFAA00AA</color>
+    <color name="captioning_color_AA00FF">#FFAA00FF</color>
+    <color name="captioning_color_AA5500">#FFAA5500</color>
+    <color name="captioning_color_AA5555">#FFAA5555</color>
+    <color name="captioning_color_AA55AA">#FFAA55AA</color>
+    <color name="captioning_color_AA55FF">#FFAA55FF</color>
+    <color name="captioning_color_AAAA00">#FFAAAA00</color>
+    <color name="captioning_color_AAAA55">#FFAAAA55</color>
+    <color name="captioning_color_AAAAAA">#FFAAAAAA</color>
+    <color name="captioning_color_AAAAFF">#FFAAAAFF</color>
+    <color name="captioning_color_AAFF00">#FFAAFF00</color>
+    <color name="captioning_color_AAFF55">#FFAAFF55</color>
+    <color name="captioning_color_AAFFAA">#FFAAFFAA</color>
+    <color name="captioning_color_AAFFFF">#FFAAFFFF</color>
+    <color name="captioning_color_FF0055">#FFFF0055</color>
+    <color name="captioning_color_FF00AA">#FFFF00AA</color>
+    <color name="captioning_color_FF5500">#FFFF5500</color>
+    <color name="captioning_color_FF5555">#FFFF5555</color>
+    <color name="captioning_color_FF55AA">#FFFF55AA</color>
+    <color name="captioning_color_FF55FF">#FFFF55FF</color>
+    <color name="captioning_color_FFAA00">#FFFFAA00</color>
+    <color name="captioning_color_FFAA55">#FFFFAA55</color>
+    <color name="captioning_color_FFAAAA">#FFFFAAAA</color>
+    <color name="captioning_color_FFAAFF">#FFFFAAFF</color>
+    <color name="captioning_color_FFFF55">#FFFFFF55</color>
+    <color name="captioning_color_FFFFAA">#FFFFFFAA</color>
+
+    <color name="lb_dialog_activity_background">#77000000</color>
+    <color name="lb_dialog_list_item_unselected_text_color">#FFF1F1F1</color>
+    <color name="lb_content_title_text_color">#FFF1F1F1</color>
+    <color name="lb_content_breadcrumb_text_color">#88F1F1F1</color>
+    <color name="lb_content_description_text_color">#88F1F1F1</color>
+    <color name="lb_action_fragment_background">#FF111111</color>
+    <color name="lb_dialog_selector_color">#0DFFFFFF</color>
+    <item name="lb_dialog_list_item_unselected_text_alpha" format="float" type="string">1.00</item>
+    <color name="lb_tv_white">#FFCCCCCC</color>
+    <item name="lb_dialog_list_item_unselected_description_text_alpha" format="float" type="string">0.50</item>
+    <item name="lb_dialog_list_item_selected_chevron_background_alpha" format="float" type="string">1.00</item>
+    <item name="lb_dialog_list_item_disabled_chevron_background_alpha" format="float" type="string">0.50</item>
+    <item name="lb_dialog_list_item_selected_title_text_alpha" format="float" type="string">1.00</item>
+    <item name="lb_dialog_list_item_disabled_title_text_alpha" format="float" type="string">0.50</item>
+    <item name="lb_dialog_list_item_selected_description_text_alpha" format="float" type="string">0.50</item>
+    <item name="lb_dialog_list_item_disabled_description_text_alpha" format="float" type="string">0.50</item>
+
+    <!-- Default avatar colors -->
+    <color name="indigo_500">#FF3F51B5</color>
+
+    <!-- PIN dialog -->
+    <color name="pin_dialog_background">#E6191919</color>
+    <color name="pin_dialog_text_color_enabled">#FFEEEEEE</color>
+    <color name="pin_dialog_text_color_disabled">#4DEEEEEE</color>
+    <color name="pin_dialog_text_color">#C0EEEEEE</color>
+    <color name="pin_number_picker_focused_background">#4B5459</color>
+
+    <!-- Canvas colors -->
+    <color name="action_fragment_background">#FF111111</color>
+    <color name="content_breadcrumb_text_color">#88F1F1F1</color>
+    <color name="content_description_text_color">#88F1F1F1</color>
+    <color name="content_fragment_default_icon_color">#33F1F1F1</color>
+    <color name="content_title_text_color">#FFF1F1F1</color>
+    <color name="dialog_activity_background">#77000000</color>
+    <color name="list_item_selected_description_text_color">#FFF1F1F1</color>
+    <color name="list_item_selected_title_text_color">#FFF1F1F1</color>
+    <color name="list_item_unselected_text_color">#FFF1F1F1</color>
+    <color name="selector_color">#5DC1C1C1</color>
+    <color name="toast_notification_background">#881F1F1F</color>
+    <color name="toast_notification_text_color">#FFF0F0F0</color>
+    <color name="tv_white">#FFCCCCCC</color>
+
+    <item name="list_item_selected_description_text_alpha" format="float" type="dimen">0.50</item>
+    <item name="list_item_selected_title_text_alpha" format="float" type="dimen">1.00</item>
+    <item name="list_item_unselected_text_alpha" format="float" type="dimen">1.00</item>
+    <item name="list_item_disabled_chevron_background_alpha" format="float" type="dimen">0.50</item>
+    <item name="list_item_disabled_description_text_alpha" format="float" type="dimen">0.50</item>
+    <item name="list_item_disabled_title_text_alpha" format="float" type="dimen">0.50</item>
+    <item name="list_item_selected_chevron_background_alpha" format="float" type="dimen">1.00</item>
+    <item name="list_item_unselected_description_text_alpha" format="float" type="dimen">0.50</item>
+
+    <item name="picker_item_invisible_column_item_alpha" format="float" type="dimen">0.00</item>
+    <item name="picker_item_separator_alpha" format="float" type="dimen">0.50</item>
+    <item name="picker_item_visible_column_item_alpha" format="float" type="dimen">0.50</item>
+
+    <color name="card_meta_text_color_enabled">#EEEEEE</color>
+    <color name="card_meta_text_color_disabled">#4DEEEEEE</color>
+
+
+    <!-- Action card -->
+    <color name="action_card_selected_background">#33EEEEEE</color>
+    <color name="action_card_deselected_background">#33455A64</color>
+    <color name="action_card_label_color">#EEEEEE</color>
+    <color name="action_card_state_color">#B3EEEEEE</color>
+
+    <!-- Channel card -->
+    <color name="channel_card">#455A64</color>
+    <color name="channel_card_guide">#0288D1</color>
+    <color name="channel_card_meta_background">#384248</color>
+    <color name="channel_card_progress_bar_background">#1AEEEEEE</color>
+    <color name="channel_card_progress_bar_foreground">#00FFFF</color>
+
+    <!-- App link card -->
+    <color name="app_link_card_icon_color_filter">@color/card_meta_text_color_enabled</color>
+
+    <!-- Guide card -->
+    <color name="guide_card_meta_background">#0176BC</color>
+
+    <!-- Side panel -->
+    <color name="side_panel_background">#202124</color>
+    <color name="side_panel_header_background">#1B1C1E</color>
+
+    <!-- More options -->
+    <color name="option_item_divider_color">#00EEEEEE</color>
+    <color name="option_item_text_color_enabled">#f6f6f6</color>
+    <color name="option_item_text_color_disabled">#4DEEEEEE</color>
+    <color name="option_item_secondary_text_color_enabled">#80EEEEEE</color>
+    <color name="option_item_secondary_text_color_disabled">#a5a5a5</color>
+    <color name="option_item_common_text_color_disabled">#4DEEEEEE</color>
+    <color name="option_item_common_text_color_enable">#e6e6e6</color>
+    <color name="option_item_divider_text_color">#039BE5</color>
+
+    <!-- Setup screen -->
+    <color name="common_tv_background">#0288D1</color>
+    <color name="common_setup_tv_background">#0288D1</color>
+    <color name="common_setup_action_background">#0374BF</color>
+    <color name="common_setup_done_container_background">#04549D</color>
+    <color name="common_setup_button_done_selected">#26FFFFFF</color>
+    <color name="common_setup_input_description">#EEEEEE</color>
+
+    <color name="setup_category">#3EC2FF</color>
+    <color name="lb_preference_decor_list_background">#263238</color>
+    
+    <color name="nav_source_list_dialog_title_text_color">@color/white</color>
+    <color name="nav_source_list_dialog_title_background">@color/nav_list_common_title_color</color>
+    <drawable name="nav_source_list_dialog_item_select_background">@drawable/nav_list_common_select_back_color</drawable>
+    <drawable name="nav_source_list_dialog_item_divider_color">#00000000</drawable>
+    <color name="nav_source_list_dialog_item_unselect_background">@color/nav_list_common_view_back_color</color>
+    <color name="nav_source_list_dialog_item_text_select">@color/white</color>
+    <color name="nav_source_list_dialog_item_text_unselect">@color/white</color>
+    <!-- Inputs -->
+    <color name="reference_white_100">#ffe8eaed</color>
+    <color name="reference_white_60">#99e8eaed</color>
+    <color name="reference_white_30">#4ce8eaed</color>
+    <color name="input_label_default_text_color">@color/reference_white_100</color>
+    <color name="input_parent_label_default_text_color">@color/reference_white_60</color>
+    <color name="input_panel_top_background">#1b1c1e</color>
+    <color name="input_label_selected_background">#2e2f32</color>
+    <color name="input_label_unselected_background">#202124</color>
+    <color name="input_label_pressed_background">#434447</color>
+    <color name="input_icon_disconnected_tint">@color/reference_white_30</color>
+   	<color name="toast_text_color">#f0f0f1</color>
+   	
+        <!-- DVR & Sundry-->
+    <color name="sundry_show_txt_color">#FFFFFF</color>
+    <color name="dvr_record_bg_color">#020202</color>
+    <color name="dvr_record_info_txt_color">#8c8b8b</color>
+    <color name="uk_banner_background">#F8000000</color>
+    <color name="uk_banner_next_programm_color">#8a8a8a</color>
+</resources>
+

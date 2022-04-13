@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"සක්‍රීයයි"</string>
+    <string name="common_off" msgid="7117815518726170364">"අක්‍රියයි"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"මෙනුව"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"වීඩියෝ"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"ශ්‍රව්‍ය"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"රූපවාහිනිය"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"සැකසීම"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"මාපිය"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"උසස් විකල්ප"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"CI කාඩ්පත"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"හස්තීය OAD බාගැනීම"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"ක්‍රියා විරහිත නාලිකා"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"ඇතුළත් කරන්න"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"පිටවන්න"</string>
+    <string name="menu_back" msgid="5914226981357187525">"ආපසු"</string>
+    <string name="menu_set" msgid="4003160032715199809">"සකසන්න"</string>
+    <string name="menu_ok" msgid="549595307019821477">"හරි"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"අවලංගු කරන්න"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"හඬපටි"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"සුසර ප්‍රකාරය"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"නාලිකා ලැයිස්තු වර්ගය"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"රටේ කලාප හැඳුනුම"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"රට කලාපය"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"ශ්‍රව්‍ය නාලිකාව"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"ශ්‍රව්‍ය භාෂාව"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"2 වෙනි ශ්‍රව්‍ය භාෂාව"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"නාලිකා"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"නාලිකාව ස්කෑන් කිරීම"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"රූපවාහිනී පද්ධතිය"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"වර්ණ පද්ධතිය"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"ස්කෑන් යාවත්කාලීනය"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"ප්‍රතිසම හස්තීය ස්කෑන්"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"තනි RF ස්කෑන්"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"නාලිකා සංස්කරණය"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"නාලිකාව මඟ හැරීම"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"නාලිකා සැකසීම"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"නාලිකා ලැයිස්තුව හිස් කරන්න"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"නාලිකාව නිශ්චලන කරන්න"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"තත්ත්‍වය"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"ස්කෑන් කිරීම"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"ප්‍රතිසම නාලික"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"ඩිජිටල් නාලිකා"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"සංඛ්‍යාතය පටන් ගන්න (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"අවසාන සංඛ්‍යාතය (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"සංඛ්‍යාතය ස්කෑන් කරන්න (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"QAM විලාසය"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"සංකේත අනුපාතය"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"සංඛ්‍යාත සැලැස්ම"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"මාපකරණය"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"ස්කෑන් ප්‍රකාරය"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"දර්ශකයෙන්"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"දර්ශකය වෙත"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"නාලිකා ලැයිස්තුව දැනටමත් යාවත්කාලීනයි.\n ඔබට බාගැනීම දිගටම කළ යුතුද?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"ඇතුළත් කරන්න"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"මකන්න"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"කිසියම් අවවාද OSD නොමැතිව නාලිකා මැකිය හැක. ඔබට තහවුරුද?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"නාලිකා අංකය 4001 ට අඩු බැවින් මෙම විශේෂාංගයට සහය නොදැක්වේ."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"4000 ට වැඩි නාලිකා අංකයක් ඇතුළත් කරන්න"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"අංකය"</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"වර්ගය"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"සංඛ්‍යාත."</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"පද්ධතිය"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"නම"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"මඟ හරින්න"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"සියලුම නාලිකා ස්කෑන් කරන්න."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"ද්විත්ව සුසරකය"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"දැන් LNB සෙවුම පටන් ගන්නද? \n ඔබ මෙම පියවර මඟ හරින්නේ නම්, පෙරනිමි ඒවා භාවිත කෙරෙති."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"RF නාලිකාව"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"සංඥා මට්ටම"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"සංඥා තත්ත්‍වය"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"TS නම :"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"නාලිකා අංකය :"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"නාලිකාවේ නම :"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"ජාලයේ නම :"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"සංඛ්‍යාතය :"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"නාහිකාව හමු නොවිය."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"ශබ්ද පද්ධතිය"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"සියුම් සුසර කිරීම"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"ගබඩා කරන්න"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"ඔබට තහවුරුද?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"අනුපිළිවෙලට සැකසේ. රැඳී සිටින්න..."</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"චලන වෙයි. රැඳී සිටින්න..."</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"නාලිකා අංක ආපසු යෙදෙති!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"ප්‍රතිසම නාලිකා සියුම් සුසරනය"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"ඔබට මෙම නාලිකාව ඉවත් කළ යුතු බව ඔබට තහවුරුද?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"ඔබට සියලුම නාලික ඉවත් කළ යුතු බව ඔබට තහවුරුද?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"තිර ප්‍රකාරය"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Blue Mute"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"DMR කාර්යය"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"අන්තර්ක්‍රියාකාරී නාලිකාව"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"MHEG PIN ආරක්‍ෂාව"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"HBBTV සැකසීම්"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"HBBTV සහය"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"හඹා නොයන්න"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"කුකී සැකසීම්"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"අනවරත ආචයනය"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"හඹා යන වෙබ් අඩවි අවහිර කරන්න"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"උපාංග හැඳුනුම"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"උපාංග හැඳුනුම යළි සකසන්න"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"ඔබට උපාංග හැඳුනුම යළි සැකසිය යුතු බව ඔබට තහවුරුද?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"ගිංගා සැකසීම"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"DivX(R) ලියාපදිංචිය"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"සිරස්තල සැකසුම"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"ආරම්භක සංගීතය"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"සංගීතය වසන්න"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"වේලා සැකසුම"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"දුරපාඨය"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"උපසිරැසිය"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"ප්‍රතිසම උපසිරැසි"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"ඩිජිටල් උපසිරැසි භාෂාව"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"2 වෙනි ඩිජිටල් උපසිරැසි භාෂාව"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"උපසිරැසි වර්ගය"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"ජාලය"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"අනුවාද තොරතුරු"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"කර්මාන්තශාලා යළි සැකසීම"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"ස්ථිරාංගය බාගන්න"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"පොදු අතුරුමුහුණත"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"පටිගත කිරීමේ සැකසීම්"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"නාලිකා යාවත්කාලීනය"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"EWBS කලාපය"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"TKGS සැකසුම"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"TKGS ස්ථානගතකරණ ලැයිස්තුව"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"TKGS සැඟවුණු ස්ථාන"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"මේස අනුවාදය යළි සකසන්න"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"කැමති ලැයිස්තුව"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"තැපැල් කේතය"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"උපාංග තොරතුරු"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"වේලා ෂිෆ්ට් ප්‍රකාරය"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"ස්වයංක්‍රීය නාලිකා යාවත්කාලීනය"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"නාලිකා යාවත්කාලීන පණිවුඩය"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"තිරස්"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"සිරස්"</string>
+    <string name="ci_title" msgid="372414068198664695">"කැම් තොරතුරු"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"කැම් කාඩ්පත් නැත."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"කැම් මෙනුව"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"කැම් රහස් අංක කේතය"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"පරිශීලක මනාපය"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"පෙරනිමි"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"විකාශනය"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"කැම් ස්කෑන්"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"කැම් රහස් අංක කේතය ආදාන කරන්න"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"වැරදියි. නැවත ආදාන කරන්න!"</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"රැඳී සිටින්න..."</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"ජාල උත්ශ්‍රේණිය"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"ගිංගා සබල කිරීම"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"යෙදුම ස්වයංක්‍රීයව පටන් ගන්න"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"සිරස්තලය සබල කරන්න"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"ප්‍රතිසම සංවෘත සිරස්තලය"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"ඩිජිටල් සංවෘත සිරස්තලය"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"ඩිජිටල් සිරස්තල විලාසය"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"අධිස්ථාපන සැකසීම"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"සිරස්තල විලාසය"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"අකුරු ප්‍රමාණය"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"අකුරු විලාසය"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"අකුරු වර්ණය"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"අකුරු වර්ගයේ පාරාන්ධතාව"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"පසුබිම් වර්ණය"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"පසුබිම් පාරාන්ධතාව"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"කවුළු වර්ණය"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"කවුළු පාරාන්ධතාව"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"ඩිජිටල් දුරපාඨ භාෂාව"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"විකේතන පිටු භාෂාව"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"TTX ඉදිරිපත් කිරීමේ මට්ටම"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"ස්වයං සමමුහූර්තය"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"ස්වයංක්‍රීයව බලය සක්‍රීය වීමේ වේලාව"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"මුහූර්තකය"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"පෙරනිමි නාලිකාව"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"ස්වයංක්‍රීයව බලය අක්‍රිය වීමේ වේලාව"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"නොරැහැන් සැකසීම"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"තොරතුරු"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"තේරීම් ප්‍රකාරය"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"නාලිකා පෙන්වන්න"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"සේවාදායකයෙන් නව ස්ථිරාංගය බාගැනීමට පටන් ගන්න."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"යාවත්කාලීන විශාරද"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"නව ස්ථිරාංගය පරීක්‍ෂා කිරීම අසාර්ථක විය."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"ඔබට තහවුරුද?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"ප්‍රතිසම නාලිකා සොයන්න"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"ඩිජිටල් නාලිකා සොයන්න"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"තනි RF නාලිකාව ස්කෑන් කරන්න. (ඩිජිටල් පමණයි)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"නාලිකා පරාසයක් සමඟ ස්කෑන් කරන්න"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"තත්ත්වය: ස්කෑන් කිරීම අවලංගු කරන ලදි"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"තත්ත්‍වය: ස්කෑන් කෙරේ"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"චන්‍ද්‍රිකා නම:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"ප්‍රතිසම නාලිකා:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"ඩිජිටල් නාලිකා:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"ඔබට දත්ත සුරැකිය යුතු බව ඔබට තහවුරුද?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"ඔබට සියලුම සැකසීම් යළි සැකසිය යුතු බව ඔබට තහවුරුද?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"තත්ත්වය: ස්කෑන් කිරීම අවලංගු කරන ලදි"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"තත්ත්‍වය: ස්කෑන් දෝෂය"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"තත්ත්‍වය: ස්කෑන් කිරීම සම්පූර්ණ කළා"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"තත්ත්‍වය: ස්ථානගතකරණය එහා මෙහා කිරීම"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"ජාල උත්ශ්‍රේණිය..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"රැහැන් රහිත සැකසීම්"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"රූපවාහිනියට සම්බන්ධ කළ රැහැන් රහිත උපාංග නැත!"</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"ඔව්"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"නැත"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"මාදිලියේ නම"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"අනුවාදය"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"කාණ්ඩ අංකය"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"ඔබ DivX® ආරක්‍ෂිත වීඩියෝ ධාවන කිරීමට ඔබේ උපාංගය ලියාපදිංචි කළ යුතුම ය.\nලියාපදිංචි කිරීමේ කේතය: BX9ASIKQEI\n http://vod.divx.com හි ලියාපදිංචි කරන්න"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"ලියාපදිංචි නොකිරිමේ කේතය:\n http://vod.divx.com හි ලියාපදිංචි නොකරන්න\n ලියාපදිංචිය කර ගෙන යන්නේද?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"BISS යතුර"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"BISS යතුර එක් කිරීමට ක්ලික් කරන්න"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"BISS යතුර එක් කරන්න"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"සංඛ්‍යාතය"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"ධ‍්‍රැවණය"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"වැඩසටහන් හැඳුනුම"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"CW යතුර"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"HDMI 2.0 සැකසීම"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"සංඥා ආකෘතිය"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"මුරපදය"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"නාලිකා අවහිර කිරීම"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"වැඩසටහන් අවහිර කිරීම"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"නාලිකා කාලසටහන් පොත"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"මෙහෙයවුම් ප්‍රකාරය"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"ආදානය අවහිර කළා"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"මුරපදය වෙනස් කරන්න"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"සියල්ල හිස් කරන්න"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"මුරපදය වැරදියි.\nනැවත ඇතුළත් කරන්න!"</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"මුරපදය ඇතුළත් කරන්න"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"නව මුරපදය"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"මුරපදය තහවුරු කරන්න"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"මුරපදය නොගැළපේ.\nනැවත ඇතුළත් කරන්න!"</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"ආරම්භක දිනය"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"ආරම්භ වන වේලාව"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"අවසන් වන දිනය"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"අවසන් වන වේලාව"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"අනුමත ඇගයීම"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"අවහිර කළ ඇගයීම"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"එ.ජ. රූපවාහිනී ඇගයීම්"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"එ.ජ. චිත්‍රපටි ඇගයීම"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"කැනේඩියානු ඉංග්‍රීසි ඇගයීම්"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"කැනේඩියානු ප්‍රංශ ඇගයීම්"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"වයස් ඇගයීම"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"ප්‍රවේශය සීමා කිරීම"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"අන්තර්ගතය ඇගයීම"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"අගයා නැති ඒවා අවහිර කරන්න"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"ඇගයීම සබල කිරීම"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"දුරපාඨ නැත"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"ඉහළ නැත"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"මූලාශ්‍ර වර්ගය"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"නාලිකා තොරතුරු"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"කාලසටහන් වර්ගය"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"යළි කිරීමේ වර්ගය"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"ආරම්භක දිනය"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"ආරම්භක වේලාව"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"නැවැත්වීමේ වේලාව"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"වේලා ෂිෆ්ට් ප්‍රකාරය"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"කාල සටහන් ලැයිස්තුව"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"බලපත්‍ර තොරතුරු"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"පද්ධති තොරතුරු"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"ස්වයං බාගැනීම"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"ප්‍රියතම ජාලය තේරීම"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"නාලිකාව පෙළ ගැසීම"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"නාලිකාව ගෙන යාම"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"ප්‍රතිසම නාලිකා සියුම් සුසරනය"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"වෙනත්"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"ඉහළ ස්කෑන් කරන්න"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"ස්කෑන් පහළ"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"නාලිකා ස්කෑන් කිරීම පෙර නාලිකා ඉවත් කරයි!"</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"ජාල හැඳුනුම"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"ස්කෑන් කරන්න"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"සංඛ්‍යාතය (KHz)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"සංඛ්‍යාතය (MHz)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"සංකේත අනුපාතය (Ksym/s)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"චන්‍ද්‍රිකා යළි ස්කෑන් කිරීම"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"චන්‍ද්‍රිකා එක් කිරීම"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"චන්ද්‍රිකා යාවත්කාලීන"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"චන්‍ද්‍රිකා හස්තීය සුසරනය"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"ප්‍රියතම ජාලය තේරීම"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"නාලිකා විසංකේතනය"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"නාලිකාව"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"සේවා හැඳුනුම"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"සේවා වර්ගය"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"ඔබේ ප්‍රියතම ජාලය තෝරන්න:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"ඔබට සෙවුම් ප්‍රතිඵල සුරැකිය යුතුද?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"කිසිවක් නිශ්චිත කර නැත"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"ගැටුම්කාරී සමූහ සුචිය:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"ගැටුම්කාරී නාලිකාවේ අංකය:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"සියල්ල සඳහා පෙරනිමි සැකසීම භාවිත කරන්න"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"අරඹන්න"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"යළි පණ ගන්වන්න"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"ප්‍රගතිය:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"තත්ත්‍වය:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"වලංගු කෙරේ..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"ස්ථිරාංගය සූදානම්. ඔබට දැන් පද්ධතිය යළි පණ ගැන්වීමට අවශ්‍ය බව ඔබට තහවුරුද?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"ස්ථිරාංගය බාගැනීමට ආරම්භක බොත්තම ඔබන්න!"</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"බාගැනීම ආරම්භ විය"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"බාගනිමින්"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"බාගැනීම සම්පූර්ණයි"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"බාගැනීම අවලංගු කරන්න"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"බාගැනීමෙන් පිටවන්න! බාගැනීමේ ගොනුව නොපවතියි!"</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"සත්‍යාපනය සම්පූර්ණ කළා"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"බාගැනීමෙන් පිටවන්න! ජාලයේ දෝෂයයි!"</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"බාගැනීමෙන් පිටවන්න! සත්‍යාපනයේ දෝෂයයි!"</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"බාගැනීමෙන් පිටවන්න! බාගැනීම අසාර්ථක විය!"</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"පද්ධතිය ස්ථිරාංගය සාර්ථකව උත්ශ්‍රේණි කර ඇත!"</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"පද්ධතිය ස්ථිරාංගය උත්ශ්‍රේණි කිරීම අසාර්ථක විය!"</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"ඩිජිටල් චන්‍ද්‍රිකා සුසරනය"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"නාලිකා ලැයිස්තුව තෝරන්න"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"නාලිකා ලැයිස්තුව තෝරන්න:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"කලාපය තෝරන්න"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"<xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g> සඳහා කලාපය තෝරන්න"</string>
+    <string name="scan_way" msgid="2002648253057830525">"ස්කෑන් ප්‍රකාරය තෝරන්න"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"රූපවාහිනී විකල්ප"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"මූලාශ්‍රය"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"සංවෘත සිරස්තල"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"සංදර්ශන ප්‍රකාරය"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"මගේ ප්‍රියතම ඒවා වෙත එක් කරන්න"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"මගේ ප්‍රියතම ඒවා"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"සංස්කරණය"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"තවත් නාලිකා ගන්න"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"සැකසීම්"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"ස්පීකර්"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"පින්තූර ප්‍රකාරය"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"නව නාලිකා තිබේ"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"වැඩසටහන් මාර්ගෝපදේශය"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"නාලිකාව ඉහළට"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"නාලිකාව පහළට"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"නාලිකා"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"<xliff:g id="APP_NAME">%1$s</xliff:g> විවෘත කරන්න"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"ආදාන අවහිර කළා"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"නාලිකා අවහිර කළා"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"සියල්ල අවහිර කරන්න"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"සියල්ල අවහිර නොකරන්න"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"සියල්ල මඟ හරන්න"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"සියල්ල මඟ නොහරින්න"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"සැඟවුණු නාලිකා"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"වැඩසටහන සීමා කිරීම්"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"RRT5 සැකසීම"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"RRT5 සැකසීම"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"RRT5 Dim"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"RRT5 මට්ටම"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"RRT5 යළි සැකසීම"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"රහස් අංකය වෙනස් කරන්න"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"ඇගයීම පද්ධති"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"ඇගයීම්"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"සියලුම ඇගයීම පද්ධති බලන්න"</string>
+    <string name="other_countries" msgid="4596971851245610516">"වෙනත් රටවල්"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"කිසිවක් නැත"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"අගයා නොමැති"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"අගයා නැති වැඩසටහන් අවහිර කරන්න"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"ඉහළ සීමා කිරීම්"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"මධ්‍යම සීමා කිරීම්"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"අඩු සීමා කිරීම්"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"විකාශනය පරිදි"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"අභිරුචි"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"ළමයින් සඳහා අන්තර්ගතය සුදුසු ය"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"වැඩි වයස් ළමයින් සඳහා අන්තර්ගතය සුදුසු ය"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"අන්තර්ගතය යොවුන් සඳහා සුදුසුයි"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"හස්තීය සීමා කිරීම්"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"ඇගයීම් විස්තර සඳහා වන මූලාශ්‍ර"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> සහ උප-ඇගයීම්"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"උප-ඇගයීම්"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"මෙම නාලිකාව නැරඹිමට ඔබගේ රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"මෙම වැඩසටහන නැරඹිමට ඔබගේ රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"මෙම වැඩසටහන <xliff:g id="RATING">%1$s</xliff:g> ඇගයුම ලබා ඇත. මෙම වැඩසටහන නැරඹිමට ඔබගේ රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"මෙම වැඩසටහන අගයා නැත. මෙම වැඩසටහන නැරඹිමට ඔබගේ රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"ඔබේ රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"මව්පිය පාලකයක් සකසන්න, රහස් අංකයක් සාදන්න"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"නව රහස් අංකය ඇතුළත් කරන්න"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"ඔබේ රහස් අංකය තහවුරු කරන්න"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"ඔබගේ වත්මන් රහස් අංකය ඇතුළත් කරන්න"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="one">ඔබ වැරදි PIN අංකය 5 වරක් ඇතුළු කළා.\nතත්පර <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g>කින් නැවත උත්සාහ කරන්න.</item>
+      <item quantity="other">ඔබ වැරදි PIN අංකය 5 වරක් ඇතුළු කළා.\nතත්පර <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g>කින් නැවත උත්සාහ කරන්න.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"එම රහස් අංකය වැරදියි. නැවත උත්සාහ කරන්න."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"නැවත උත්සහ කරන්න, රහස් අංකය නොගැළපේ"</string>
+    <string name="no_program_information" msgid="2620718003929766549">"වැඩසටහන් තොරතුරු නැත"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"විවෘත මූලාශ්‍ර බලපත්‍ර"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"නාලිකාව"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"නාලිකා මූලාශ්‍ර"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"අභිරුචි කළ නාලිකා ලැයිස්තුව"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"ඔබගේ වැඩසටහන් මාර්ගෝපදේශය සඳහා නාලිකා තෝරන්න"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"නාලිකා ස්ථාපන ප්‍රකාරය"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"මාපිය පාලන"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"බහු ශ්‍රව්‍ය"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"අනුවාදය"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"කළා"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"වාරය<xliff:g id="SEASON_NUMBER">%1$s</xliff:g>කතාංගය<xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"කතාගය <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"කතාංගය <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g> <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> වාරය<xliff:g id="SEASONNUMBER">%2$s</xliff:g>: කතාංගය. <xliff:g id="EPISODENUMBER">%3$s</xliff:g>"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"ඔබගේ මූලාශ්‍ර සකසන්න"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"LiveTV සම්ප්‍රදායික TV නාලිකාවල අත්දැකීම යෙදුම්වලින් සපයන ප්‍රවාහ කිරීමේ නාලිකා සමග ඒකාබද්ධ කරයි. \n\nදැනටමත් ස්ථාපන කර ඇති නාලිකා මූලාශ්‍ර සැකසීමෙන් ආරම්භ කරන්න. නැතහොත් සජීවී නාලිකා පිරිනමන තවත් යෙදුම් සඳහා සබැඳි වෙළෙඳසැල බ්‍රවුස් කරන්න."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"නව"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"මූලාශ්‍ර"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="one">නාලිකා <xliff:g id="OTHER">%1$d</xliff:g>ක්</item>
+      <item quantity="other">නාලිකා <xliff:g id="OTHER">%1$d</xliff:g>ක්</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"ලබා ගත හැකි නාලිකා නැත"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"නව"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"සකසා නැත"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"නාලිකා ස්කෑන් වර්ගය"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"නාලිකා ගබඩා වර්ගය"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"ශ්‍රවණ හානිය ඇති"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"ස්ටීරියෝ"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"ස්වයං ස්ටීරියෝ"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"වටපිටාව"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"විස්තර නොකළ"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"ඇන්ටෙනාව"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"කේබලය"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"ඒකල"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"මුල් ශ්‍රව්‍ය"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"මුල් අනුවාදය"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"හොඳයි"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"දුර්වලයි"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"ප්‍රතිසම/ඩිජිටල්"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"ප්‍රතිසමය"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"ඩිජිටල්"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"නාලිකා තොරතුරු"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"මාරු කරන්න"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"දුර්වලයි"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"හොඳයි"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"කිසිවක් නැත"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"නිහඬ කරන්න"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"ස්වයං"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"සාමාන්‍ය"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"විශාලනය"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"නිහඬයි"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"සේවාව<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"භාෂාව<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"විකාශක වශයෙන්"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"මධ්‍යම"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"කුඩා"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"විශාල"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"විලාසය<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"කළු"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"සුදු"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"කොළ"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"නිල්"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"රතු"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"මයුර නිල්"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"කහ"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"දම් රතු"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"ඝන"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"පාරභාසක"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"විනිවිද"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"<xliff:g id="BELOW_XX">%1$d</xliff:g>ට අඩු"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"පොදු"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"මාපිය මඟපෙන්වීම"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"මාපිය මඟ පෙන්වීම 13"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"16 ට අඩු ළමයින් එපා"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"18 පරිණත"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"21 සීමිත"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"3-5 වයසැති ළදරුවන්"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"6-12 වයසැති ළදරුවන්"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"වැඩිහිටි"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"අවහිර නැත"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"R සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"AV සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"MA සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"M සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"PG සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"G සහ ඉහළ අවහිර කරන්න"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"මත්ද්‍රව්‍ය"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"ප‍්‍රචණ්ඩත්වය"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"ලිංගිකත්වය"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"ප්‍රචණ්ඩත්වය සහ මත්ද්‍රව්‍ය"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"ලිංගිකත්වය සහ මත්ද්‍රව්‍ය"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"ප්‍රචණ්ඩත්වය සහ ලිංගිකත්වය"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"ප්‍රචණ්ඩත්වය සහ ලිංගිකත්වය සහ මත්ද්‍රව්‍ය"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"දිනපතා"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"වරක්"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"1.5 වෙනි මට්ටම"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"2.5 වෙනි මට්ටම"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"විනාඩි <xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g>ක්"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"තේරීම් ප්‍රකාරය"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"නාලිකා පෙන්වන්න"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"අවසාන තත්ත්‍වය"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"පරිශීලක තේරීම"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"තිරස්"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"සිරස්"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"පටිගත කිරීම"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"සිහි කැඳවීම"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"සතිය"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"පූර්ණ"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"උසස්"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"ඉක්මන්"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"රටේ කලාප ID <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"සෑම දිනකම"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"ඉරිදා"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"සඳුදා"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"අඟහරුවාදා"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"බදාදා"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"බ්‍රහස්පතින්දා"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"සිකුරාදා"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"සෙනසුරාදා"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"චන්‍ද්‍රිකා"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"සියලු නාලිකා"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"පවුල්/ළමා"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"ක්‍රීඩා"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"සාප්පු සවාරි"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"චිත්‍රපට"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"විකට"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"සංචාර"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"නාට්‍ය"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"අධ්‍යාපනය"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"සතුන්/වනජීවීන්"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"පුවත්"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"ක්‍රීඩා කිරීම"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"කලා"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"විනෝදාස්වාදය"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"ජීවන රටාව"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"සංගීතය"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"ප්‍රමුඛ"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"තාක්‍ෂණය/විද්‍යාව"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"සංකේතිත නාලිකා පමණයි"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"නොමිලේ නාලිකා පමණයි"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"ඩිජිටල් නාලිකා පමණයි"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"ගුවන් විදුලි නාලිකා පමණයි"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"කිසිදාත් නැත"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"පැය <xliff:g id="POWER_X_HOURS">%1$d</xliff:g>ක්"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"ස්වයං නිද්‍රාව"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"නිද්‍රා ඉඟි"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"රූපවාහිනිය විනාඩි පහකින් නිදා ගනියි, ඔබ එයට නිදා ගැනීමට ඉඩ දීමට කැමතිද?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"ස්කෑන් කිරීම පසුබිමේ සිදු වේ, පසුව නැවත උත්සාහ කරන්න"</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"cwkey 16 ට අඩු විය නොහැක"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"හිස් විය නොහැක!"</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"අවලංගු ආදානය!"</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"පාඨ නැත."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"\'0000\' යනු අවලංගු මුරපදයකි"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Freeview Play සැකසීම්"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"නියම සහ කොන්දේසි"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"හස්තීය සේවා යාවත්කාලීනය"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"ශබ්ද විලාසය"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"හඬ"</string>
+    <string name="device_picture" msgid="1347473641807661535">"පින්තූරය"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"යතුර සුරකින්න"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"යතුර යාවත්කාලීන කරන්න"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"යතුර මකන්න"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"DiSEqC වර්ගය ගැටුම්කාරී විය, කරුණාකර DiSEqC සැකසීම් පරීක්ෂා කරන්න."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"චන්ද්‍රිකා නම් තේරීම සහ DiSEqC වින්‍යාසකරණය පිළිබඳව සහතික වන්න."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"පෙර සැකසීම් ලැයිස්තුව පූරණය කිරීම සඳහා අවම වශයෙන් පහත චන්ද්‍රිකා එකක්වත් තේරිය යුතුය:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n එම නිසා පෙර සැකසීම් ලැයිස්තුව පූරණය කිරීමට නොහැකි විය!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"නාලිකා දැන් ගබඩා වෙමින් පවතී, කරුණාකර රැඳී සිටින්න..."</string>
+</resources>

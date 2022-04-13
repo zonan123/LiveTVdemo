@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="@dimen/side_panel_skip_width"
+    android:layout_height="match_parent"
+    android:layout_gravity="end"
+    android:background="@color/side_panel_background"
+    android:elevation="@dimen/side_panel_elevation"
+    android:translationX="@dimen/side_panel_enter_offset_x" >
+
+</FrameLayout>

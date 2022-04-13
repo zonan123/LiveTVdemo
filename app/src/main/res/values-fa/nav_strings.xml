@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"برگشت"</string>
+    <string name="setup_select" msgid="1270661539800592611">"انتخاب"</string>
+    <string name="setup_next" msgid="4079616525492116810">"بعدی"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"خروج"</string>
+    <string name="satellites" msgid="2437056584091944552">"ماهواره‌ها"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"ورودی‌ها"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"فرعی"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"منابع کانال"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"لطفاً کانال‌ها را اسکن کنید!"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"عملکردی وجود ندارد"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"انتخاب فهرست"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"«بیشتر» را انتخاب کنید"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"انتخاب"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"مرتب‌سازی"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"پیش‌فرض"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"نام در بالا"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"نام در پایین"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"رمزگذاری‌شده"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"یافتن"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"لطفاً شماره یا نام کانال را وارد کنید."</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"همه‌فرستی"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"دسته‌ها"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"بسته‌ها"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"دیجیتال"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"این نوع کانالی ندارد. لطفاً انواع دیگری انتخاب کنید."</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"رادیو"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"آنالوگ"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"رایگان"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"رمزگذاری‌شده"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"شبکه"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"انتخاب نوع"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"درحال بارگیری، لطفاً منتظر بمانید…"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"صفحه بالا"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"صفحه پایین"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"حرکت به بالا"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"حرکت به پایین"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"فهرست موارد دلخواه"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"حذف"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"فهرست ماهواره"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"انتخاب ماهواره"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"فهرست کانال"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"کانال‌های جدیدی پیدا شد و به فهرست کانال اضافه شد."</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"دسته‌ها -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"بسته‌ها -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"انتخاب فهرست کانال"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"انتخاب فهرست موارد دلخواه"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"جزئیات کانال‌ها"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"میزان صدای اصلی"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"گذرواژه‌تان را وارد کنید"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"سه بار گذرواژه نادرست وارد کردید!\nحدود ۱۵ دقیقه صبر کنید..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"گذرواژه نادرست است. لطفاً دوباره وارد کنید!"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"آنتن"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(هیچ عنوان برنامه‌ای وجود ندارد.)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(جزئیات برنامه وجود ندارد.)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(جزئیات کانال وجود ندارد.)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"بدون سیگنال!"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"پشتیبانی نمی‌شود!"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"کانال قفل است!"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"ورودی قفل است!"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"برنامه قفل است!"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"کانال پنهان"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"صدای درهم"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"ویدیوی درهم"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"خواب:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"خاموش"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"دقیقه"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"بدون ویدیو"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"درحال بازیابی داده..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"صدای ناشناس"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"استریوی ناشناس"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"نامشخص"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"بدون صدا"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"نوع"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"نوع فرعی"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"فهرست رزروشده"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"فهرست رویداد رزروشده"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"این برنامه رزرو شود؟"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"این برنامه قبلاً رزرو شده است، آن را لغو می‌کنید؟"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"برنامه رزروشده درراه است، به کانال می‌روید؟"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"بدون رده‌بندی"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(جزئیات برنامه وجود ندارد.)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"( داده برنامه وجود ندارد.)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(عنوان برنامه وجود ندارد.)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(بدون عنوان)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"باز کردن قفل"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"لغو زمان‌بندی"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"زمان‌بندی"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"طبقه‌بندی‌نشده"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"پشتیبانی نمی‌شود"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"تأیید"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"لغو"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"تمام صفحه"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"منطقه ویژه"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"نه"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"تنظیم"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"می‌خواهید تمام‌صفحه یا قسمت خاصی را ضبط کنید؟"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"می‌خواهید این صفحه را ضبط کنید؟"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"لطفاً موقعیتی را برای ذخیره نشان‌واره انتخاب کنید."</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"درحال ضبط…"</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"ضبط شد"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"ضبط نشد، لطفاً دوباره امتحان کنید."</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"این عملکرد لغو شده است."</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"فاقد سیگنال. دستگاه خاموش خواهد شد."</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"لطفاً برای ادامه دادن، کلیدی را فشار دهید."</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"روز پیش"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"روز بعد"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"مشاهده جزئیات"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"نوع فیلتر"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"صفحه بالا"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"صفحه پایین"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"ورود"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"طبقه‌بندی‌نشده"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"بدون نوع"</string>
+    <string name="epg_password" msgid="8012355648918471162">"گذرواژه"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"گذرواژه نادرست"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"درحال بازیابی داده..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"ژانویه"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"فوریه"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"مارس"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"آوریل"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"مه"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"ژوئن"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"ژوئیه"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"اوت"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"سپتامبر"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"اکتبر"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"نوامبر"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"دسامبر"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"یکشنبه"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"دوشنبه"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"سه‌شنبه"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"چهارشنبه"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"پنج‌شنبه"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"جمعه"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"شنبه"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"لیست برنامه"</string>
+    <string name="nav_select" msgid="990203763701782141">"انتخاب"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"برنامه‌ای وجود ندارد!"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"برنامه Ginga درحال بار شدن است..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"می‌خواهید CC را متوقف کنید و برنامه Ginga را شروع کنید؟"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"به‌روزرسانی برنامه نصب"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"اطلاعات بیشتر."</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"فیلتر تصویری سفت‌افزار نامعتبر است!"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"درحال به‌روزرسانی..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"لطفاً درطول به‌روزرسانی سفت‌افزار، قفل سخت‌افزاری USB را جدا نکنید و تلویزیون را خاموش نکنید."</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"درحال اعتبارسنجی سفت‌افزار..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"مطمئنید می‌خواهید سفت‌افزار را به‌روزرسانی کنید؟"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"سفت‌افزار به‌روزرسانی شد.\nلطفاً برای فعال‌سازی سفت‌افزار جدید، تلویزیون را بازراه‌اندازی کنید."</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"به‌روزرسانی ناموفق بود.\n لطفاً برای بارگیری مجدد سفت‌افزار، تلویزیون را بازراه‌اندازی کنید."</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"به‌روزرسانی نشد. \n می‌خواهید دوباره امتحان کنید؟"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"به‌روزرسانی نشد. لطفاً USB را وارد کنید.\n می‌خواهید دوباره امتحان کنید؟"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"فضای قفل سخت‌افزاری USB کافی نیست."</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"قفل سخت‌افزاری USB آماده نیست، لطفاً آن را وصل کنید و دوباره امتحان کنید."</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"خطای داخلی."</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"نسخه سفت‌افزار در دسترس نیست."</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"رمزگشایی انجام نشد."</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"سفت‌افزار نامعتبر است."</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"سفت‌افزاری برای به‌روزرسانی در دسترس نیست."</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"سفت‌افزار جدید بررسی نشد."</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"سفت‌افزار از شبکه بارگیری نشد."</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"قفل سخت‌افزاری USB مشکلی دارد."</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"روشن/خاموش"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"قبل از فعال‌سازی نوشتار دیجیتالی، زیرنویس باید بسته شود. برای ادامه دادن موافق هستید؟"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"بله"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"نه"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"می‌خواهید آن را به سرویس EWS تغییر وضعیت دهید؟"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"می‌خواهید به سرویس ویژه بروید؟"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"در راه است، می‌خواهید به آن بروید؟"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"می‌خواهید برنامه Ginga را متوقف کنید و زیرنویس ناشنوایان را باز کنید؟"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"مسدود کردن"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"‫گروه"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"صفحه"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"قسمت بالا ندارد"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"فهرست صفحه دلخواه"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"بدون رده‌بندی"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"شبکه CI Plus تغییر کرد. می‌توانید شبکه به‌روزرسانی‌شده را جستجو کنید!"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"شبکه CI Plus در دسترس نیست. باید شبکه به‌روزرسانی‌شده را جستجو کنید!"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"شبکه CI Plus مقداردهی نشده است. باید شبکه به‌روزرسانی‌شده را جستجو کنید!"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"زمان برنامه‌ریزی‌شده برای جستجوی شبکه CI Plus رسیده است. می‌توانید شبکه به‌روزرسانی‌شده را جستجو کنید!"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"لطفاً کشورتان را انتخاب کنید:"</string>
+    <string name="setup_country" msgid="629173256579318536">"کشور"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"لطفاً اطلاعات کابل را پیکربندی کنید."</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"منطقه زمانی"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"حالت اسکن"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"فرکانس (کیلوهرتز)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"تلفیق"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"نرخ نماد (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"شناسه شبکه"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"کدپستی"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"گذرواژه جدید"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"تأیید گذرواژه"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"انتخاب اپراتور"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"نوع ماهواره"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"لطفاً نوع ماهواره را انتخاب کنید."</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"انتخاب اپراتور"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"فقط یک اپراتور را می‌توانید از فهرست زیر انتخاب کنید."</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"لطفاً اطلاعات کابل را پیکربندی کنید."</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"لطفاً اطلاات اسکن را پیکربندی کنید."</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"لطفاً برای اسکن کردن یا ویرایش کردن ماهواره انتخاب‌شده، ماهواره‌ها را انتخاب کنید."</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"لطفاً پیکربندی نوع آنتن را تنظیم کنید."</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"تنظیم آنتن"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"لطفاً پارامترهای ماهواره را تنظیم کنید."</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"لطفاً پارامترهای پاسخگر خودکار را تنظیم کنید."</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"تنظیم"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"بارگیری بی‌سیم"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"اسکن کردن"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"نرم‌افزار جدید درحالت بی‌سیم پیدا نشد."</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"برنامه‌نویسی"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"درحال بارگیری"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"ممکن است این فرآیند حداکثر ۲۵ دقیقه طول بکشد"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"نرم‌افزار بارگیری شد. می‌خواهید فلش کردن را شروع کنید؟"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"تنظیم برنامه ناموفق بود. دوباره امتحان می‌کنید؟\n\nلطفاً با مرکز خدمات تماس بگیرید."</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"نرم‌افزار بارگیری شد! اکنون تلویزیون بازراه‌اندازی شود؟"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"اخطار: درطول این فرآیند، لطفاً سیم برق تلویزیون را جدا نکنید زیرا ممکن است باعث خراب شدن تلویزیون شود."</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"به‌روزرسانی نرم‌افزار. به‌روزرسانی توصیه‌شده جدیدی برای نرم‌افزار در دسترس است. ممکن است به‌روزرسانی کمی طول بکشد و صفحه‌نمایش خاموش شود. درطول به‌روزرسانی، تلویزیون را خاموش نکنید. می‌خواهید هم‌اکنون به‌روزرسانی کنید؟"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"بارگیری نرم‌افزار امکان‌پذیر نیست. می‌خواهید دوباره امتحان کنید؟"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"به‌روزرسانی نرم‌افزار. به‌روزرسانی توصیه‌شده جدیدی برای نرم‌افزار در دسترس است. ممکن است به‌روزرسانی کمی طول بکشد و صفحه‌نمایش خاموش شود. درطول به‌روزرسانی، تلویزیون را خاموش نکنید. می‌خواهید اکنون به‌روزرسانی کنید؟ به‌روزرسانی<xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> ثانیه دیگر به‌طور خودکار شروع می‌شود"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"به‌روزرسانی نرم‌افزار. نرم‌افزار توصیه‌شده جدیدی در <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g> در دسترس قرار خواهد گرفت. ممکن است به‌روزرسانی کمی طول بکشد و صفحه‌نمایش خاموش شود. درطول به‌روزرسانی، گیرنده را خاموش نکنید. درصورت پذیرش به‌روزرسانی، لطفاً تلویزیون را در زمان برنامه‌ریزی‌شده روشن نگه دارید یا درحالت آماده‌به‌کار قرار دهید. می‌خواهید این به‌روزرسانی را بپذیرید؟"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"به‌روزرسانی نرم‌افزار. به‌روزرسانی نرم‌افزار توصیه‌شده جدید در کانال دیگری دردسترس است. اگر موافقت کنید بارگیری شود، ممکن است به‌طور خودکار به کانال تغییر کند. می‌خواهید همین الان این کار را انجام دهید؟ به‌طور خودکار <xliff:g id="AUTOMATICALLY">%s</xliff:g> ثانیه دیگر شروع خواهد شد"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"نرم‌افزار جدید شناسایی شد!\n موافق هستید وقتی تلویزیون درحالت آماده‌به‌کار است، بارگیری به‌طور خودکار انجام شود؟"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"برنامه‌نویسی"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"اتریش"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"بلژیک"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"سوئیس"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"جمهوری چک"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"آلمان"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"دانمارک"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"اسپانیا"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"فنلاند"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"فرانسه"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"بریتانیا"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"ایتالیا"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"لوکزامبورگ"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"هلند"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"نروژ"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"سوئد"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"بلغارستان"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"کرواسی"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"یونان"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"مجارستان"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"ایرلند"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"لهستان"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"پرتغال"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"رومانی"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"روسیه"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"صربستان"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"اسلواکی"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"اسلوونی"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"ترکیه"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"استونی"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"استرالیا"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"نیوزیلند"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"اندونزی"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"لطفاً منطقه زمانی‌تان را انتخاب کنید:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"لطفاً گذرواژه تنظیم کنید. ۰۰۰۰ گذرواژه معتبری نیست."</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"لطفاً کد پستی را وارد کنید."</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"گذرواژه تنظیم شد!"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"برخی کانال‌ها به‌دلیل تغییر شبکه غیرفعال می‌شوند. می‌خواهید اکنون آن‌ها را بردارید؟"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"کانال‌های تلویزیونی تغییر کردند، برای اسکن به‌روزرسانی روی «تأیید» فشار دهید."</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"تنظیم آنتن"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"ماهواره"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"نام ماهواره"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"موقعیت مدار"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"کنترل حرکت"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"غیرفعال‌سازی محدودیت‌ها"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"محدود کردن حرکت به شرق"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"محدود کردن حرکت به غرب"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"موقعیت فروشگاه"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"موقعیت Goto"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"رفتن به مرجع"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"اندازه قدم"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"درنگ"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"انتقال به شرق"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"Move West"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"توقف حرکت"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"غیرفعال کردن"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"تن ۲۲ کیلوهرتز"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"خاموش"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"روشن"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"خودکار"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"پاسخگر خودکار"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"فرکانس"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"نرخ نماد (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"قطبی‌شدگی"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"نامشخص"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"افقی"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"عمودی"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"چپ"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"چپ"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"افزودن ماهواره‌های جدید"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"افزودن پاسخگرهای خودکار جدید"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"تنظیم ماهواره"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"نوع اسکن"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"نوع فروشگاه"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"حالت اسکن"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"جستجوی شبکه"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"جستجو"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"خودکار"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"پیش‌تنظیم"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"کانال‌های رمزگذاری‌شده قدیمی"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"فقط کانال‌های رایگان"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"همه"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"فقط کانال‌های دیجیتالی"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"فقط کانال‌های رادیویی"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(ماهواره وجود ندارد.)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"تنظیم دستی ماهواره"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(پاسخگر خودکار وجود ندارد.)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"نام ماهواره وارد نشده است.\nلطفاً آن را وارد کنید!"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"اسکن مجدد ماهواره"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"افزودن ماهواره"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"به‌روزرسانی ماهواره"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"وضعیت ماهواره"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"شبکه"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"پر"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"ماهواره‌ها"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"موقعیت"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"روشن/خاموش LNB"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"نوع آنتن"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"جهانی"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"کابل تکی"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"تنظیم‌کننده"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"تنظیم‌کننده فرعی"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"گروه کاربر <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"فرکانس گروه"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"تعیین‌شده توسط کاربر"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"موقعیت"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"کابل"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"ماهواره ترجیحی"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"ماهواره عمومی"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"جهانی"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"انفجار تن"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"غیرفعال کردن"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"مولد تن A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"انفجار تن B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"روشن"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"خاموش"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"منبع با منبع <xliff:g id="CONFLICTS">%s</xliff:g> مغایرت دارد!"</string>
+    <string name="ews_status" msgid="451574410866097453">"وضعیت <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"تنظیم منبع"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"ترتیب کانال خودکار"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"درحال سفارش کانال‌های تلویزیونی پولی"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(عنوان برنامه وجود ندارد.)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"ورودی از اسکن خودکار پشتیبانی نمی‌کند."</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"اسکن خودکار «<xliff:g id="TV_INPUT">%s</xliff:g>» شروع نمی‌شود"</string>
+    <string name="str" msgid="4738306056683483195">"موارد دلخواه<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"همه"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"رادیو"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"خواب: خاموش"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"خواب: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> دقیقه"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"بزرگ‌نمایی × ۱"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"بزرگ‌نمایی × ۲"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"بزرگ نمایی × ۱/۲"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"ثابت کردن: روشن"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"ثابت کردن: خاموش"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"بدون دسته"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"فیلم/درام"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"اخبار/امور جاری"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"نمایش/نمایش بازی‌محور"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"ورزش"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"ورزش (عمومی)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"برنامه‌های کودکان/جوانان"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"موسیقی/باله/رقص"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"هنری/فرهنگی (بدون موسیقی)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"اجتماعی/مشکلات سیاسی/اقتصادی"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"موضوع‌های واقعی/علمی/آموزشی"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"سرگرمی‌های اوقات فراغت"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"شخصیت‌های ویژه"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"کودکان"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"شهوانی"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"موارد دیگر"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"سرگرمی"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"مسائل روز"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"سرگرمی آموزشی"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"کمدی"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"درام"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"مستند"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"اخبار و واقعیت"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"ورزش"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"سبک زندگی"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"اخبار و علمی"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"پشتیبانی نمی‌شود"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"مجموعه"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"گونه"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"اطلاعات"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"خنده‌دار"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"عاشقانه"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"سنتی/کلاسیک/مذهبی/فیلم تاریخی/درام"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"موسیقی سنتی/موسیقی کلاسیک"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"فیلم مناسب بزرگ‌سالان/درام"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"اخبار/امور جاری (عمومی)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"اخبار/گزارش وضعیت هوا"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"مجله‌های جدید"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"مستند"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"گفتگو/مصاحبه/بحث"</string>
+    <string name="nav_News" msgid="3663290212801352195">"اخبار"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"نمایش/نمایش بازی‌محور (عمومی)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"نمایش بازی‌محور/آزمونک/رقابت"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"برنامه رنگارنگ"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"نمایش گفتگومحور"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"مجلات ورزشی"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"فوتبال آمریکایی/فوتبال"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"تنیس/اسکواش"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"ورزش‌های تیمی (به‌غیر از فوتبال)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"دو و میدانی"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"ورزش‌های موتوری"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"ورزش آبی"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"ورزش‌های زمستانی"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"پرش با اسب"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"ورزش‌های رزمی"</string>
+    <string name="nav_Children" msgid="873820541320552860">"برنامه‌های کودکان/جوانان"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"برنامه‌های کودکان پیش‌دبستانی"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"برنامه‌های سرگرمی برای سنین ۶ تا ۱۴ سال"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"برنامه‌های سرگرمی سنین ۱۰ تا ۱۶ سال"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"برنامه‌های درسی/آموزنده/آموزشی"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"کارتون/عروسک"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"موسیقی/باله/رقص (عمومی)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"راک و پاپ"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"موسیقی سنتی/فولکلور"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"جاز"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"موسیقیایی/اپرا"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"باله"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"هنری/فرهنگی (بدون موسیقی)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"هنرهای نمایشی"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"هنرهای زیبا"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"مذهب"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"فرهنگ عامه/هنرهای سنتی"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"ادبیات"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"فیلم/سینما"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"فیلم/ویدیوی آزمایشی"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"همه‌فرستی/مطبوعات"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"پخش مستقیم"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"رسانه‌های جدید"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"مجله‌های هنری"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"مد"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"رد کردن"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"اجتماعی/مسائل سیاسی/اقتصادی (عمومی)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"مجله/گزارش/مستند"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"مشاوره اجتماعی/اقتصادی"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"افراد مهم"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"موضوع‌های آموزشی/علمی/واقعی (عمومی)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"طبیعت/حیوانات/محیط‌‌زیست"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"فناوری/علوم طبیعی"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"دارو/فیزیولوژی/روان‌شناسی"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"کشورهای خارجی/اکتشافات خارجی"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"علوم روحانی/اجتماعی"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"تحصیلات عالی"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"زبان‌ها"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"فیلم"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"سرگرمی‌های اوقات فراغت (کلی)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"گردشگری/سفر"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"صنایع دستی"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"ماشین‌سواری"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"تناسب اندام و سلامت"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"آگهی/خرید"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"باغبانی"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"زبان اصلی"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"سیاه و سفید"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"منتشرنشده"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"مسطح/برجسته‌نمایی"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"محلی یا منطقه‌ای"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"نامشخص"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"مونو"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"استریو"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"دوگانه ۱"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"دوگانه ۲"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam مونو"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"استریو Nicam"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam دوگانه ۱"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam دوگانه ۲"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM مونو"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"استریو FM"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"منوی دوگانه"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"۲ کانال فراگیر"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"فراگیر"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"کانال‌های <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g>"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"یکشنبه"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"دوشنبه"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"سه‌شنبه"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"چهارشنبه"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"پنج‌شنبه"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"جمعه"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"شنبه"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"لغو"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"پذیرفتن"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"بعداً به من یادآوری شود"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"بدون سیگنال!"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"لطفاً کانال‌ها را اسکن کنید!"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"درحال بازیابی داده"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"متعلق به کودکان"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"کانال قفل است!"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"برنامه قفل است!"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"ورودی قفل است!"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(عنوان برنامه وجود ندارد.)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"کانال پنهان!"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"برنامه خودکار"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"صدا و تصویر ندارد"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(جزئیات برنامه وجود ندارد.)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(جزئیات کانال وجود ندارد.)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"جریان صدا وجود دارد"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"جریان ویدیویی وجود ندارد"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"لطفاً صبر کنید..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"ویدیو پشتیبانی نمی‌شود"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"پشتیبانی نمی‌شود"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"غیرهمه‌فرستی"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"بدون کانال"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"ارائه‌دهنده خدمات شما این محتوا را مسدود کرده است."</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"درهم"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"درحال انتقال موقعیت‌یاب…"</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"سرویس اجرا نمی‌شود"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"غیرفعال کردن"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"بدون توقف"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"مرحله"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"درنگ"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"بزرگ‌نمایی"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> کانال اضافه شد"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> کانال اضافه شد"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"هیچ کانالی اضافه نشد"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"دستگاه USB متصل شد"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"کانال <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"اخبار، گزارش"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"معمولی، کلی"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"گزارش هواشناسی"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"برنامه ویژه، مستند"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"سیاست، مجلس شورای ملی"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"اقتصادی، گزارش بازار"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"خارجی، گزارش بین‌المللی"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"تجزیه‌وتحلیل اخبار"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"گفتگو، کنفرانس"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"گزارش ویژه"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"برنامه محلی"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"گزارش ترافیک"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"سایر برنامه‌ها"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"ورزشی"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"اخبار ورزشی"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"بیس‌بال"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"فوتبال"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"گلف"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"دیگر بازی‌های توپی"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"سامو، ورزش مبارزه‌ای"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"المپیک، مسابقه بین‌المللی"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"ماراتون، ورزش پهلوانی، شنا"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"مسابقات موتورسواری"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"ورزش دریایی، ورزش زمستانی"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"مسابقه اسب‌سواری، مسابقه عمومی"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"نمایش تلویزیون اطلاع‌رسانی/اخبار حاشیه"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"نمایش تلویزیون شایعات/اخبار حاشیه"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"مد"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"زندگی، خانه"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"سلامتی، درمان پزشکی"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"خرید، کسب‌وکار سفارش پستی"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"خوراک‌شناسی، آشپزی"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"رویدادها"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"راهنمای برنامه، اطلاعات"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"درام"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"درام ژاپنی"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"درام خارجی"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"درام تاریخی"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"موسیقی"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"راک ژاپنی، موسیقی پاپ"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"راک خارجی، موسیقی پاپ"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"کلاسیک، اپرا"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"جاز، فیوژن"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"آهنگ‌های محبوب، آهنگ‌های محبوب ژاپنی (آهنگ انکا)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"کنسرت زنده"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"رده‌بندی، درخواست موسیقی"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"کارائوکه، رقابت‌های خوانندگی غیرحرفه ای"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"موسیقی سنتی ژاپنی، تصنیف ژاپنی"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"آهنگ کودکان"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"موسیقی فولکلور، موسیقی جهان"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"برنامه رنگارنگ"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"آزمون"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"بازی"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"گفتگومحور رنگارنگ"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"برنامه کمدی"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"تنوع موسیقی"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"تنوع گشت‌وگذار"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"تنوع آشپزی"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"فیلم"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"فیلم خارجی"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"فیلم ژاپنی"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"پویانمایی"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"فیلم‌های جلوه ویژه/پویانمایی"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"پویانمایی ژاپنی"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"پویانمایی خارجی"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"جلوه‌های ویژه"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"مستند/فرهنگ"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"رویداد کنونی، اجتماعی"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"تاریخچه، سابقه سفر"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"طبیعت، حیوانات، محیط‌زیست"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"فضا، علمی، علم پزشکی"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"فرهنگ، فرهنگ سنتی"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"ادبیات، هنر ادبی"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"ورزشی"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"مستند کامل"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"مصاحبه، گفتگو"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"تئاتر/اجرای عمومی"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"درام مدرن، درام سبک وسترن"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"موزیکال"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"رقص، باله"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"داستان مصور، سرگرمی"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"کابوکی، درام کلاسیک"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"سرگرمی/آموزش"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"سفر، ماهیگیری، سرگرمی فضای باز"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"باغبانی، حیوان خانگی، صنایع دستی"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"موسیقی، هنر، هنر صنعتی"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"شطرنج ژاپنی (شوگی) و «go»"</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"ماه جونگ، بازی پین‌بال"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"خودرو، موتورسیکلت"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"رایانه، بازی تلویزیونی"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"مکالمه، زبان"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"خردسال، کودک دانش‌آموز"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"دانش‌آموزان مقطع راهنمایی و دبیرستان"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"دانشجو، آزمون"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"آموزش مداوم، صلاحیت"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"مشکل آموزشی"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"رفاه"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"افراد مسن"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"افراد معلول"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"رفاه اجتماعی"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"داوطلب"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"زبان اشاره"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"نوشتار (زیرنویس)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"توضیحات مربوط به همه‌فرستی چندگانه صدا"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"رزروشده"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"رزروشده"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"برای افزونه"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"اطلاعات ضمیمه برنامه همه‌فرستی دیجیتال زمینی/BS"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"افزونه همه‌فرستی دیجیتال CS پهنای باند"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"افزونه همه‌فرستی صدای ماهواره دیجیتال"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"اطلاعات ضمیمه برای برنامه نوع سرور"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"سایر برنامه‌ها"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"قبلی"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"صفحه اصلی Android TV"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"هیچ‌کدام"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"رده‌بندی این برنامه <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g> است"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"ورودی قفل است"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"منبع ورودی قفل شده است زیرا قفل منبع ورودی را تعریف کرده‌اید. می‌توانید آن را ازطریق منوی تلویزیون تغییر دهید. برای باز کردن قفل صفحه‌نمایش، ENTER را فشار دهید."</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"ورودی خارجی را بررسی کنید یا ورودی دیگری را بااستفاده از دکمه «ورودی» انتخاب کنید."</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"هیچ کانالی نصب نشده است. لطفاً کانال‌ها را ازطریق منوی تلویزیون اسکن کنید."</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"محتوا به‌زودی ارائه می‌شود. لطفاً کمی منتظر بمانید."</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"درحال‌حاضر کانال دردسترس نیست. برای اطلاعات بیشتر، لطفاً با ارائه‌دهنده سرویس تماس بگیرید."</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"کانال فقط حاوی برنامه صوتی است."</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"کانال محتوای صوتی و ویدیویی ندارد."</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"درحال بارگیری"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"داده‌های کانال درحال بارگیری هستند. لطفاً کمی منتظر بمانید."</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"از قالب ویدیو در تلویزیون پشتیبانی نمی‌شود."</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"ارائه‌دهنده خدمات شما این محتوا را متوقف کرده است."</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"هیچ کانالی در فهرست کانال فعلی وجود ندارد."</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"ارائه‌دهنده خدمات شما این محتوا را مسدود کرده است."</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"درحال جابه‌جایی موقعیت‌یاب"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"موقعیت‌یاب می‌چرخد تا ماهواره مکان‌یابی شود. لطفاً کمی منتظر بمانید."</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"هیچ سرویس کانال فعالی وجود ندارد."</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"برنامه قفل است"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"لطفاً کانال‌ها را اسکن کنید"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"محتوا به‌زودی ارائه می‌شود. لطفاً کمی منتظر بمانید."</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"کانال‌های IP"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"سبک زندگی/سرگرمی اوقات فراغت"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"روش مرتب‌سازی کانال را انتخاب کنید. مرتب‌سازی خودکار کانال روش پیش‌فرض است.\n        مرتب‌سازی Pay TV به کاربر امکان می‌دهد شماره کانال‌ها را به شکلی راحت ویژه مشتریان Pay TV ارائه دهد.\n        درصورتی‌که نصب کانال‌ها با مرتب‌سازی Pay TV انجام نشد، از مرتب‌سازی خودکار کانال استفاده کنید."</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> مگاهرتز"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> کیلوسمبل بر ثانیه"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"بستن"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"درست است!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"چند نوع نامعتبر!"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"نباید خالی باشد!"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"سرویس پاک کردن صفحه راه‌اندازی شده است، وضعیت صفحه‌نمایش <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> دقیقه دیگر قابل مشاهده خواهد بود."</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"سرویس پاک کردن صفحه متوقف شده است."</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"مطمئنید باید اسکن کنید؟ همه کانال‌های نصب‌شده حذف خواهند شد."</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"مالایی: باهاسا"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"محلی"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"اصلی"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"زبان دیگر"</string>
+</resources>

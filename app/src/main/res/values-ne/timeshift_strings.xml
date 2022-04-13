@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"डिस्क तयार छैन!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR सुरु गर्न सकिएन। डिस्क तयार छैन!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"फाइल सफलतापूर्वक सिर्जना गरियो"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR सुरु गर्न सकिएन। सर्वप्रथम PIP बाट बाहिर निस्कनुहोस्!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR सुरु गर्न सकिएन। सर्वप्रथम यसलाई परिवर्तन गरी डिजिटल टिभी स्रोत बनाउनुहोस्!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR सुरु गर्न सकिएन। कुनै पनि सिग्नल फेला परेन!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR सुरु गर्न सकिएन। टाइमसिफ्ट चलिरहेको छ!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV स्ट्रिम उपलब्ध छैन!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"स्ट्रिम गर्ने अनुमति छैन!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"इनपुट लक गरिएको छ!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"भिडियोको रिजोल्युसनसम्बन्धी त्रुटि!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"आन्तरिक त्रुटि!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"\'टाइमसिफ्ट\' सुविधा उपलब्ध छैन। सर्वप्रथम PVR बाट बाहिरिनुहोस्!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"कुनै पनि यन्त्र छैन वा उपलब्ध छैन। पछि प्रयास गर्नुहोस्!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR बन्द गर्नुहोस् र त्यसपछि रेकर्ड सुरक्षित गर्नुहोस्।"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"डिस्क विच्छेद भयो"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ध्यान दिनुहोस्: यन्त्र अनप्लग नगर्नुहोस्, अन्यथा अज्ञात त्रुटिहरू देखा पर्न सक्छन्!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"पर्याप्त खाली ठाउँ छैन। डिस्कमा कम्तीमा १ जि.बि. खाली ठाउँ हुनु पर्छ।"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"यो सुविधा प्रयोग गर्न मिल्दैन।"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"अगाडि गइरहन सकिँदैन।"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"यो फाइल प्ले गर्न सकिँदैन।"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"फर्म्याट गर्नुले सबै डेटा मेटाउने छ"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"तपाईं साँच्चिकै यसो गर्न चाहनुहुन्छ?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"यो फाइल मेटाइने छ।"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"गतिको परीक्षण हुँदै छ"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"यन्त्र अनप्लग नगर्नुहोस्"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"डिस्क फर्म्याट गर्ने कार्य सम्पन्न भयो"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"डिस्क फर्म्याट गर्न सकिएन"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"गतिको परीक्षण सम्पन्न भयो"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"अधिकतम गति यो हो "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"रेकर्ड गर्दै!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR प्लेब्याक"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"टाइमसिफ्ट"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"रेकर्ड गर्न थाल्नुहोस्"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"रेकर्ड गर्न रोक्नुहोस्"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR चलिरहेको छ!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"तपाईं रेकर्ड प्रक्रिया रोक्न \n र EPG प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न \n र EPG प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"तपाईं रेकर्डको प्रक्रिया रोक्न \n र च्यानल बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"तपाईं रेकर्डको प्रक्रिया रोक्न \n र स्रोत बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न \n र च्यानल बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न\n र स्रोत बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"तपाईं रेकर्ड प्रक्रिया बन्द गरी \n PIP/POP प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न\n र PIP/POP प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"तपाईं PVR प्लेब्याक रोक्न \n र PIP/POP प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न \n र रेकर्डको सूची प्रविष्ट गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"तपाईं PIP/POP प्रविष्टि गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"एउटा कार्यतालिकासहितको रेकर्ड उपलब्ध छ"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"तपाईं रेकर्ड गर्न थाल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"खोलिएको च्यानल अवरुद्ध हुन सक्छ, जारी राख्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"चेतावनी"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"यन्त्रको जानकारीसम्बन्धी सेटिङ"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"फर्म्याटिङ गर्नुले सबै डेटा मेटाउने छ, गर्ने नै हो?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"टाइमसिफ्ट रेकर्ड गर्दै छ!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR चलिरहेको छ!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR प्लेब्याक सञ्चालन हुँदैछ!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"\'टाइमसिफ्ट\' सुविधा उपलब्ध छैन"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"भण्डारणको रिड र राइट गर्ने गतिको जाँच गर्ने कार्यक्रम सञ्चालन भइरहेको छ।"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"एम.बि./सेकेन्ड"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"[<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] रेकर्ड गर्ने समयतालिका तय गरिएको छ, तपाईं रेकर्ड गर्न थाल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"नाम:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"समय निर्धारण गरिएको एउटा रिमाइन्डर छ।"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"तपाईं उक्त च्यानल हेर्न चाहनुहुन्छ?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] रेकर्ड गर्ने प्रयास असफल भयो"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] रेकर्ड गर्ने क्रममा <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> सेकेन्ड रेकर्ड भएन"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"रेकर्डिङको केही भाग सुरक्षित गरियो। रेकर्ड गर्ने क्रममा टेलिभिजन बन्द भयो।"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"कार्यक्रमको मोडेल"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"प्रोग्रामिङको समय निर्धारण गर्ने"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"सिग्नलको सहायताले गरिने रेकर्डिङ"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'सिग्नलको सहायताले गरिएको रेकर्डिङ\' सम्पादन गर्न सकिएन"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"\'टाइमसिफ्ट सुविधा बन्द गरियो।"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"रेकर्ड हुँदै छ! गति परीक्षण गर्न सकिएन!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"टाइमसिफ्ट चलिरहेको छ! गति परीक्षण गर्न सकिएन!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"पहुँच अनुमति अस्वीकार गरियो। गति परीक्षण गर्न सकिएन!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"डिस्कमा पर्याप्त खाली ठाउँ छैन! गति परीक्षण गर्न सकिएन!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"गति परीक्षण गर्न सकिएन!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"फास्ट फर्वार्ड तथा रिवाइन्ड गर्न मिल्दैन"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"वस्तु मेटाउने क्रममा कुनै त्रुटि भयो, च्यानल रेकर्ड भइरहेको छ"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR चलिरहेको छ वा PVR फाइल प्ले भइरहेको छ।\nकृपया PVR बन्द गर्नुहोस् अनि फेरि प्रयास गर्नुहोस्!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"टाइमसिफ्ट चलिरहेको छ।\nकृपया टाइमसिफ्ट बन्द गर्नुहोस् अनि फेरि प्रयास गर्नुहोस्!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"हालको च्यानल अवैध छ।"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"फर्वार्ड गरिँदै छ! कृपया पछि फेरि प्रयास गर्नुहोस्।"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"रिवाइन्ड गरिँदै छ! कृपया पछि फेरि प्रयास गर्नुहोस्।"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"टाइमसिफ्टमार्फत रेकर्ड गरिएको सामग्री सुरक्षित गर्नका लागि USB मा खाली ठाउँ छैन। अब सामग्री स्वतः प्ले हुने छ।"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"अघिल्लो च्यानलमा जान सकिँदैन! \n र टाइमसिफ्ट ले अझैसम्म रेकर्ड गरिरहेको छ।"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"रेकर्ड गर्न सकिएन वा पूरा रेकर्ड भएन"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"अधूरो रेकर्डिङ, सिग्नल नभएका कारण पूरा रेकर्ड गर्न सकिएन!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"अधूरो रेकर्डिङ, EIT नभएका कारण पूरा रेकर्ड गर्न सकिएन!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"अधूरो रेकर्डिङ, EIT तथा सिग्नल नभएका कारण पूरा रेकर्ड गर्न सकिएन!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"सुरु हुने समय गलत छ। अहिले देखाइएको समय हालको समयभन्दा पहिलेको समय हो!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"फाइलको लम्बाइ तोकिएभन्दा कम छ!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"प्रयोगकर्ताले थप्न पाइने अधिकतम समयतालिकाभन्दा बढी समयतालिका थपिदिन अनुरोध गर्नुभएको छ!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"तपाईं रेकर्डको प्रक्रिया रोक्न \n र च्यानलको प्रकार बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"तपाईं \'टाइमसिफ्ट\' सुविधा बन्द गर्न \n र च्यानलको प्रकार बदल्न चाहनुहुन्छ?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"च्यानल रेकर्ड गर्ने तयारी गर्दै गर्दा च्यानल बदल्न पाइँदैन।"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"फर्म्याट गरिँदै छ"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"डिस्क फर्म्याट गर्न सकिएन। रेकर्ड गरिँदै छ!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"डिस्क फर्म्याट गर्न सकिएन। टाइमसिफ्ट चलिरहेको छ!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"गति अवैध छ!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"फर्म्याट गरिँदै छ! कृपया पर्खनुहोस्..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"द्रुत गतिमा फर्वार्ड गर्न मिल्दैन"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"रिवाइन्ड गर्न मिल्दैन"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"डिस्कको गति सुस्त भएकाले डेटा हटाउनुहोस्"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"रेकर्डिङ गर्ने समय तोकिएका केही कार्यक्रम रेकर्ड हुन सकेनन् वा पूरा रेकर्ड भएनन्!"</string>
+</resources>

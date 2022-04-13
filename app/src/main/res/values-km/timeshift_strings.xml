@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"មិនទាន់​អាចប្រើថាសបានទេ!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"មិនអាច​ចាប់ផ្ដើម PVR បានទេ។ មិនទាន់​អាចប្រើថាសបានទេ!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"បានបង្កើតឯកសារ​ដោយជោគជ័យហើយ"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"មិនអាច​ចាប់ផ្ដើម PVR បានទេ។ សូមចាកចេញ​ពី PIP ជាមុនសិន!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"មិនអាច​ចាប់ផ្ដើម PVR បានទេ។ សូមប្ដូរទៅប្រភព​ទូរទស្សន៍ឌីជីថល​ជាមុនសិន!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"មិនអាច​ចាប់ផ្ដើម PVR បានទេ។ រកមិនឃើញ​រលកសញ្ញាទេ!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"មិនអាច​ចាប់ផ្ដើម PVR បានទេ។ ការថតទុកមើល​ពេលក្រោយកំពុង​ដំណើរការ!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"មិនអាចប្រើ​ការផ្សាយ AV បានទេ!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"មិនបាន​ផ្ដល់សិទ្ធិ​សម្រាប់​ការផ្សាយទេ!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"បានចាក់សោ​ប្រភពបញ្ចូល!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"កម្រិតច្បាស់នៃ​វីដេអូមានបញ្ហា!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"មានបញ្ហា​ផ្នែក​ខាងក្នុង!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"មិនអាចប្រើ​ការថតទុកមើលពេលក្រោយ​បានទេ។ សូមចាកចេញពី PVR ជាមុនសិន!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"មិនមានឧបករណ៍ ឬឧបករណ៍មិនអាចប្រើ​បានទេ។ សូមព្យាយាម​នៅ​ពេល​ក្រោយ!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"បញ្ឈប់ PVR បន្ទាប់មក​រក្សាទុក​ការថត។"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"បានផ្ដាច់​ថាស"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"ប្រុងប្រយ័ត្ន៖ កុំដកឧបករណ៍ចេញ បើមិនដូច្នោះទេ​អាចនឹងបង្កឱ្យមានបញ្ហាដែលមិន​អាចកំណត់បាន!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"មិនមាន​ទំហំផ្ទុកគ្រប់គ្រាន់ទេ។ ថាសគួរតែមាន​ទំហំផ្ទុកទំនេរយ៉ាងតិច 1 GB។"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"មិនស្គាល់មុខងារនេះទេ។"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"មិនអាច​បន្តស្វែងរក​បានទេ។"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"មិនស្គាល់​ឯកសារនេះទេ។"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ការសម្អាតនឹង​លុបទិន្នន័យទាំងអស់"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"តើ​អ្នក​ប្រាកដ​ដែរទេ?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"នឹងលុប​ឯកសារនេះ។"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"ការធ្វើតេស្ដល្បឿន​កំពុងដំណើរការ"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"កុំដក​ឧបករណ៍ចេញ"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"ការសម្អាតថាស​បានបញ្ចប់ហើយ"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"មិនអាចសម្អាត​ថាសបានទេ"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"ការធ្វើតេស្ដល្បឿន​បានបញ្ចប់ហើយ"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"ល្បឿន​អតិបរមា​គឺ "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"កំពុងថត!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"ការចាក់ PVR"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"ការថតទុកមើលពេលក្រោយ"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"ចាប់ផ្តើមថត"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"បញ្ឈប់​ការថត"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR កំពុងដំណើរការ!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"តើអ្នកចង់​បញ្ឈប់​ដំណើរការថត\n និងចូល EPG ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងចូល EPG ដែរទេ?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"តើអ្នកចង់​បញ្ឈប់​ដំណើរការថត \n និងប្ដូរប៉ុស្តិ៍​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"តើអ្នកចង់​បញ្ឈប់​ដំណើរការ​ថត\n និងប្ដូរប្រភព​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងប្ដូរប៉ុស្តិ៍​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងប្ដូរប្រភពដែរទេ?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"តើអ្នកចង់​បញ្ឈប់​ដំណើរការ​នៃការថត\n និងចូល PIP/POP ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងចូល PIP/POP ដែរទេ?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"តើអ្នកចង់​បញ្ឈប់​ការចាក់ PVR\n និងចូល PIP/POP ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងចូល​បញ្ជី​ថត​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"តើអ្នក​ចង់ចូល PIP/POP ដែរទេ?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"មានការថត​ដែលបាន​កំណត់កាលវិភាគ"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"តើអ្នកចង់ចាប់ផ្ដើម​ថតដែរទេ?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"ប៉ុស្ដិ៍​ដែលបានរៀបចំ​អាចមាន​ការរំខាន តើអ្នកចង់​បន្តដែរទេ?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"ការ​ព្រមាន"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"ការកំណត់​ព័ត៌មាន​ឧបករណ៍"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ការសម្អាត​នឹងលុបទិន្នន័យ​ទាំងអស់ តើអ្នកប្រាកដ​ដែរទេ?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"ការថតទុក​មើល​ពេលក្រោយកំពុងថត!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR កំពុងដំណើរការ!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"ការចាក់ PVR កំពុង​ដំណើរការ!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"មិនអាចប្រើ​ការថតទុក​មើល​ពេលក្រោយ​បានទេ"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"កម្មវិធី​សម្រាប់​ធ្វើតេស្ដ​ល្បឿន​អាន និងសរសេរ​របស់ទំហំផ្ទុក​កំពុងដំណើរការ។"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"មានការថត​ដែលបាន​កំណត់កាលវិភាគ [<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] តើអ្នកចង់​ចាប់ផ្ដើមថត​ដែរទេ?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"ឈ្មោះ៖"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"មានការរំលឹក​ដែលបានកំណត់កាលវិភាគ។"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"តើអ្នកចង់មើល​ប៉ុស្ដិ៍នោះ​ដែរទេ?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"ការព្យាយាម​ការថត [<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] មិនបានសម្រេចទេ"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"ការថត [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] មិនបានបញ្ចប់​រយៈពេល <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> វិនាទី"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"ផ្នែកនៃការថត​ត្រូវបានរក្សាទុក។ ថាមពល​ត្រូវបានបិទ អំឡុងពេលថត។"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"ម៉ូដែល​ព្រឹត្តិការណ៍"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"ការសរសេរកម្មវិធី​កំណត់ពេល"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"ការថតដែលស្គាល់រលកសញ្ញា"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"មិនអាចកែ \'ការថតដែលស្គាល់រលកសញ្ញា\' បានទេ"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"បានបញ្ឈប់​ការថតទុក​មើលពេលក្រោយ។"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"កំពុងថត! ការធ្វើតេស្ត​ល្បឿន​មិនបានសម្រេចទេ!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"ការ​ថតទុក​មើល​ពេលក្រោយកំពុងដំណើរការ! ការធ្វើតេស្ត​ល្បឿន​មិនបានសម្រេចទេ!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"សិទ្ធិចូលប្រើត្រូវ​បានបដិសេធ។ ការធ្វើតេស្ត​ល្បឿន​មិនបានសម្រេចទេ!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"ទំហំផ្ទុក​ថាសមិនគ្រប់គ្រាន់ទេ! ការធ្វើតេស្ត​ល្បឿន​មិនបានសម្រេចទេ!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"ការធ្វើតេស្ត​ល្បឿន​មិនបានសម្រេចទេ!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"ខាទៅមុខ និងខាថយក្រោយមិន​អាចប្រើបានទេ"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"មានបញ្ហាបាន​កើតឡើង អំឡុងពេល​លុបធាតុ ប៉ុស្តិ៍កំពុងថត"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR កំពុង​ដំណើរការ ឬឯកសារ PVR កំពុងចាក់។\nសូមបញ្ឈប់វា រួចព្យាយាមម្ដងទៀត!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"ការថតទុកមើល​ពេលក្រោយកំពុង​ដំណើរការ។\nសូមបញ្ឈប់វា រួចព្យាយាម​ម្ដងទៀត!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"ប៉ុស្ដិ៍បច្ចុប្បន្ន​មិនត្រឹមត្រូវទេ។"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"កំពុង​បញ្ជូន​បន្ត! សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"កំពុងខាថយក្រោយ! សូមព្យាយាមម្ដងទៀតនៅពេលក្រោយ។"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"ការថត​ការថតទុកមើល​ពេលក្រោយពេញ​ហើយ និងចាក់​ដោយស្វ័យប្រវត្តិ។"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"ប៉ុស្តិ៍ជាមុនមិន​អាចប្ដូរបានទេ! \n ហើយការថតទុក​មើលពេលក្រោយ​កំពុងថតនៅឡើយ។"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"ការថតមិនបានសម្រេច ឬមិនពេញលេញទេ"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"ការថតដោយផ្នែក ការថតដោយផ្នែក ដោយសារបាត់បង់​រលកសញ្ញា!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"ការថតដោយផ្នែក ការថតដោយផ្នែក ដោយសារគ្មាន EIT!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"ការថតដោយផ្នែក ការថតដោយផ្នែក ដោយសារគ្មាន EIT និងការបាត់បង់រលកសញ្ញា!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"ពេលចាប់​ផ្ដើមមានបញ្ហា ឥឡូវនេះ​រយៈពេលស្ថិតនៅមុនរយៈពេលបច្ចុប្បន្ន!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"ប្រវែងឯកសារ​មិនគ្រប់គ្រាន់!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"ការបញ្ចូលកាលវិភាគ​ដែលបានស្នើសុំ​លើសចំនួនអតិបរមា​ដែលបានអនុញ្ញាត!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"តើអ្នកចង់​បញ្ឈប់​ដំណើរការថត\n និងប្ដូរប្រភេទប៉ុស្តិ៍​ដែរទេ?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"តើអ្នកចង់​បញ្ឈប់ការ​ថតទុក​មើល​ពេលក្រោយ\n និងប្ដូរប្រភេទប៉ុស្តិ៍​ដែរទេ?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"ការប្ដូរប៉ុស្តិ៍មិន​ត្រូវបានអនុញ្ញាតទេ ខណៈពេលកំពុងរៀបចំថត។"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"កំពុងសម្អាត"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"មិនអាចសម្អាត​ថាសបានទេ។ កំពុងថត!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"មិនអាចសម្អាត​ថាសបានទេ។ ការថតទុកមើល​ពេលក្រោយកំពុង​ដំណើរការ!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"ល្បឿនមិនត្រឹមត្រូវ!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"កំពុងសម្អាត! សូមរង់ចាំ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"មិនអាចខាទៅមុខបានទេ"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"មិនអាចខាថយក្រោយបានទេ"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"ល្បឿនថាសយឺត និងលុបទិន្នន័យចោល"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"ការថតកាលវិភាគ​មួយចំនួន​មិនបានសម្រេច ឬមិនបានបញ្ចប់!"</string>
+</resources>

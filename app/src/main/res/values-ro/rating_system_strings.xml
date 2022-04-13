@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Recomandat de la <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> ani în sus."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Adecvat pentru toate segmentele de public. Programele pot conține un grad redus de violență, limbaj vulgar și situații de natură sexuală."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Adecvat de la 13 ani în sus. Programele pot conține limbaj vulgar moderat, un grad redus de violență, precum și referiri de natură sexuală."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Adecvat de la 16 ani în sus. Programele pot conține violență mai intensă și limbaj grosolan, nuditate parțială și referiri de natură sexuală moderate."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Neadecvat pentru minori. Programele conțin violență intensă, limbaj vulgar și referiri de natură sexuală explicită."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Droguri"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Sex"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Violență"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Materialele clasificate P sunt destinate preșcolarilor."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Materialele clasificate C sunt destinate copiilor (trecuți de vârsta preșcolară) cu vârsta sub 14 ani."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Materialele clasificate G nu sunt neapărat destinate copiilor, dar trebuie să aibă un impact foarte mic și să nu includă conținut neadecvat pentru vizionarea de către copii nesupravegheați."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Materialele clasificate PG pot să conțină subiecte sau concepte pentru adulți, dar trebuie să aibă un impact mic și să fie adecvate pentru vizionarea de către copii supravegheați."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Materialele clasificate M sunt destinate unui public matur. Acestea sunt recomandate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Materialele clasificate MA sunt adecvate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani, din cauza intensității și/sau a frecvenței scenelor violente, a descrierilor de natură sexuală sau a limbajului vulgar, a subiectelor pentru adulți sau a consumului de droguri. Impactul poate fi puternic."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Materialele clasificate AV sunt adecvate numai pentru vizionarea de către persoane cu vârsta de cel puțin 15 ani. Nu sunt adecvate pentru clasificarea MA din cauza intensității și/sau a frecvenței scenelor violente sau din cauză că tema respectivă se bazează pe violență. Din alte puncte de vedere, cerințele clasificării sunt identice cu cele ale clasificării MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Materialele clasificate R sunt destinate exclusiv adulților. Unele materiale clasificate R pot fi considerate ofensatoare de anumite segmente ale comunității persoanelor adulte."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Public general"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Nerecomandat persoanelor sub <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> ani."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Droguri"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Sex"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Violență"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Programele exceptate includ: știri, sport, documentare și alte programe de informare; talk show-uri, videoclipuri muzicale și programe de varietăți."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Acest program este destinat copiilor cu vârsta sub 8 ani."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Acest program este destinat copiilor cu vârsta de peste 8 ani. În cazul copiilor cu vârsta sub 8 ani, se sugerează ca aceștia să urmărească programele cu această clasificare împreună cu un părinte/tutore."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Acest program este destinat tuturor grupelor de vârstă și poate fi urmărit de întreaga familie."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Acest program, deși este destinat publicului larg, poate să nu fie potrivit pentru copiii mai mici (sub 8 ani). Părinții/tutorii ar trebui să fie conștienți de faptul că ar putea exista elemente de conținut pe care unii ar putea să le considere inadecvate pentru vizionarea nesupravegheată de către copiii cu vârste între 8 și 13 ani."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Programele cu această clasificare conțin teme sau elemente de conținut care ar putea să nu fie potrivite pentru telespectatorii cu vârsta sub 14 ani. Părinților li se recomandă ferm să ia decizii în ceea ce privește permiterea vizionării de către adolescenți și preadolescenți fără supravegherea părintelui/tutorelui, deoarece programele cu această clasificare ar putea aborda teme specifice adulților și probleme sociale într-un mod realist."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Acest program este destinat telespectatorilor de la 18 ani în sus."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Programe excluse din clasificare."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Programul este adecvat pentru vizionarea de către persoane de toate vârstele. Programele din categoria G i-ar putea afecta pe copiii cu vârsta sub 8 ani."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Programul este adecvat pentru publicul general, dar ar putea conține violență moderată sau ocazională care îi poate tulbura pe copiii mici. Așadar, pentru copiii mici (cu vârsta de până la 8 ani) este recomandată vizionarea cu supraveghere din partea adulților."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 13 ani. Copiii de vârstă mai mică pot să vizioneze numai în prezența unui adult."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 16 ani. Programele cu acest rating prezintă teme, situații sau comportamente deranjante și adoptă un punct de vedere mai direct asupra lucrurilor."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Programul este adecvat pentru vizionarea de către persoane cu vârsta de cel puțin 18 ani. Programele destinate adulților presupun cel mai adesea reprezentarea unor activități sexuale explicite. În plus, pot să fie extrem de violente și să prezinte scene realiste de cruzime, cu tortură și groază."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Recomandat pentru toate vârstele."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Recomandat pentru copii."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Recomandat pentru adulți."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Programele nu conțin materiale inadecvate pentru vreo vârstă; prin urmare, sunt recomandate pentru orice vârstă."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Programele pot conține materiale inadecvate pentru copiii sub 7 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Programele pot conține materiale inadecvate pentru copiii sub 12 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Programele pot conține materiale neadecvate pentru persoanele sub 15 ani, motiv pentru care se recomandă supravegherea parentală."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Programele pot conține materiale neadecvate pentru persoanele sub 19 ani, motiv pentru care nu sunt recomandate tinerilor care nu au împlinit 19 ani."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Adecvat pentru toate vârstele."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Adecvat pentru toți, însă cei mici trebuie să aibă acordul parental."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Adecvat pentru persoane de la 13 ani în sus, iar pentru copiii sub 13 ani se recomandă acordul parental."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Adecvat pentru persoane care au vârsta de cel puțin 16 ani."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Adecvat pentru persoane de la 18 ani în sus."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Adecvat pentru adulți, de la 21 de ani în sus."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Adecvat pentru copii cu vârstele între 3 și 6 ani."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Adecvat pentru copii cu vârstele între 6 și 12 ani."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Adecvat pentru public general."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Adecvat pentru persoane care au vârsta de cel puțin 13 ani."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Adecvat pentru persoane de la 18 ani în sus. În cazul copiilor cu vârsta sub 18 ani, este necesar avizul părinților."</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Adecvat pentru adulți"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dialog sugestiv sexual"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Limbaj vulgar"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Conținut sexual"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Violență"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Violență ficțională"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Acest program a fost creat pentru a fi adecvat pentru toți copiii."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Acest program a fost creat pentru copiii de peste 7 ani."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Majoritatea părinților ar considera acest program adecvat pentru toate vârstele."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Acest program include conținut pe care mulți părinți l-ar considera nepotrivit pentru copiii mici. Mulți părinți pot dori să urmărească acest program împreună cu copiii mai mici."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Acest program conține anumite materiale pe care mulți părinți le pot considera neadecvate pentru copiii sub 14 ani."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Acest program este creat în mod special pentru a fi vizionat de adulți. Din acest motiv, poate fi neadecvat pentru persoanele sub 17 ani."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Public general. Fără conținut pe care părinții l-ar putea considera neadecvat pentru copii."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Se recomandă acordul parental. Poate conține anumite materiale pe care părinții le-ar putea considera neadecvate pentru copiii mai mici."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Atenționare vehementă pentru părinți. Anumite materiale pot fi neadecvate pentru preadolescenți."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Acces limitat. Conține anumite materiale pentru adulți. Părinții sunt îndemnați să afle mai multe despre film înainte de a-l viziona alături de copiii mai mici."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Interzis persoanelor sub 17 ani. Numai pentru adulți. Interzis copiilor."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Adecvat pentru adulți"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 10 ani."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Adecvat pentru toate vârstele."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Copiii cu vârsta sub 10 ani pot viziona acest program/film, dar trebuie să se afle în prezența unui adult."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Copiii cu vârsta sub 13 ani pot viziona acest program/film, dar trebuie să se afle în prezența unui adult."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 13 ani."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 16 ani."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Este interzisă vizionarea acestui program/film de către copiii cu vârsta sub 18 ani."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"Această opțiune este rezervată pentru filmele de natură sexuală extremă (pornografie)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Dezactivat"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Blocați"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Ani"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Evaluări în funcție de vârstă"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Evaluări de conținut"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Nu s-a definit"</string>
+</resources>

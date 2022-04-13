@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/translucent_background" >
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:background="#f237474f"
+        android:layout_weight="3">
+        <TextView
+	        android:id="@+id/epg_channel_number"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_vertical"
+	        android:singleLine="true"
+	        android:textColor="@drawable/epg_channel_font"
+	        android:fontFamily="sans-serif-light"
+	        android:textSize="@dimen/epg_channel_number_ts"
+	        android:paddingTop="@dimen/epg_list_item_padding_top"
+	        android:paddingBottom="@dimen/epg_list_item_padding_top"/>
+        
+        <TextView
+	        android:id="@+id/epg_channel_name"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:ellipsize="marquee"
+	        android:marqueeRepeatLimit="1"
+	        android:textColor="@drawable/epg_channel_font"
+	        android:fontFamily="sans-serif-condensed"
+	        android:textSize="@dimen/epg_program_ts"
+	        android:paddingTop="@dimen/epg_list_item_padding_top"
+	        android:paddingBottom="@dimen/epg_list_item_padding_top"/>
+    </LinearLayout>
+    
+    <com.mediatek.wwtv.tvcenter.epg.cn.EPGLinearLayout
+        android:id="@+id/epg_program_forecast_linearlayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        android:layout_weight="1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical" />
+
+</LinearLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"ဒစ်ခ် အဆင်သင့်မဖြစ်ပါ။"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR စတင်၍ မရပါ။ ဒစ်ခ် အဆင်သင့်မဖြစ်ပါ။"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ဖိုင်ကို အောင်မြင်စွာ ပြုလုပ်ပြီးပါပြီ"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR စတင်၍ မရပါ။ ဦးစွာ PIP မှထွက်ပါ။"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR စတင်၍ မရပါ။ ဒစ်ဂျစ်တယ် တီဗီရင်းမြစ်သို့ ဦးစွာ ပြောင်းပါ။"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR စတင်၍ မရပါ။ လိုင်းမမိပါ။"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR စတင်၍ မရပါ။ \'အချိန်ပြောင်း အချိန်ရွှေ့\' ဖွင့်ထားသည်။"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV တိုက်ရိုက်လွှင့်မှု မရနိုင်ပါ။"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"တိုက်ရိုက်လွှင့်ရန် ခွင့်ပြုမထားပါ။"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"ထည့်သွင်းမှုကို လော့ခ်ချထားသည်။"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"ဗီဒီယို ပုံရိပ်ပြတ်သားကိန်း အမှား။"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"စက်အတွင်းပိုင်း အမှားအယွင်း။"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' မရနိုင်ပါ။ ဦးစွာ PVR မှထွက်ပါ။"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"ကိရိယာ မရှိပါ သို့မဟုတ် ကိရိယာများ မရနိုင်ပါ။ နောက်မှ စမ်းကြည့်ပါ။"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR ရပ်ပြီး မှတ်တမ်းကို သိမ်းပါ။"</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"ဒစ်ခ် ချိတ်ဆက်မှုပြတ်တောက်သည်"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"သတိပြုရန်− ကိရိယာကို ပလပ်မဖြုတ်ပါနှင့်၊ ၎င်းက အမျိုးအမည် သတ်မှတ်မထားသော အမှားအယွင်း ဖြစ်နိုင်သည်။"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"နေရာလွတ် မလုံလောက်ပါ။ ဒစ်ခ်တွင် အနည်းဆုံး 1 GB နေရာလွတ် ရှိရမည်။"</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"ဝန်ဆောင်မှုကို ပံ့ပိုးမထားပါ။"</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"ဆက်လက်ရှာဖွေခြင်းကို ပံ့ပိုးမထားပါ။"</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ဖိုင်ကို ပံ့ပိုးမထားပါ။"</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ဖော်မက်ပြုလုပ်ခြင်းက ဒေတာများကို ဖျက်ပါမည်"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"သေချာပါသလား။"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"ဤဖိုင်ကို ဖျက်ပါမည်။"</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"မြန်နှုန်း စမ်းသပ်မှု လုပ်ဆောင်နေသည်"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"ကိရိယာကို ပလပ်မဖြုတ်ပါနှင့်"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"ဒစ်ခ် ဖော်မက်ပြုလုပ်ခြင်း ပြီးပြီ"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"ဒစ်ခ်ဖော်မက်ပြုလုပ်၍ မရပါ"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"မြန်နှုန်း စမ်းသပ်မှု ပြီးပြီ"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"အမြန်ဆုံး နှုန်းမှာ "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"မှတ်တမ်းတင်နေသည်။"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR ဖွင့်ခြင်း"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"\'အချိန်ပြောင်း အချိန်ရွှေ့\'"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"စတင် မှတ်တမ်းတင်ရန်"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"မှတ်တမ်းတင်ခြင်းကို ရပ်ရန်"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR ဖွင့်ထားသည်။"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"ရုပ်သံဖမ်းခြင်း လုပ်ဆောင်ချက်ကို ရပ်ပြီး \n EPG ကို ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"သင်သည် \'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်ပြီး\n EPG ကို ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"ရုပ်သံဖမ်း လုပ်ဆောင်ချက်ကို ပိတ်ပြီး \n ချန်နယ် ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"သင်သည် အသံဖမ်း လုပ်ဆောင်ချက်ကို ပိတ်ပြီး \n အရင်းအမြစ် ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်ပြီး\n ချန်နယ် ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"သင်သည် \'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်ပြီး\n အရင်းအမြစ် ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"သင်သည် အသံဖမ်းခြင်း လုပ်ဆောင်ချက်ကို ပိတ်ပြီး \n PIP/POP ကို ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်ပြီး\n PIP/POP ကို ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"PVR ဖွင့်ခြင်းကို ပိတ်ပြီး \n PIP/POP ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"သင်သည် \'အချိန်ပြောင်း အချိန်ရွှေ့\'ကို ပိတ်ပြီး\n ရုပ်သံဖမ်း စာရင်းကို ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"PIP/POP ကို သင် ရိုက်ထည့်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"ကူးယူရန် အစီအစဉ်ချမထားပါ။"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"ရုပ်သံဖမ်းခြင်း စတင်လိုသလား။"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"ရှင်းလင်းထားသည့် ချန်နယ်သည် ကြားဝင်နှောင့်ယှက်နိုင်ပါသည်၊ ရှေ့ဆက်လိုပါသလား။"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"သတိပေးချက်"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"စက်ပစ္စည်း အချက်အလက် ဆက်တင်"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ဖော်မက်ချခြင်းသည် ဒေတာအားလုံးကို ဖျက်လိုက်ပါမည်၊ သင် သေချာပါသလား။"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' သည် ရုပ်သံဖမ်းနေပါသည်။"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR ဖွင့်ထားသည်။"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR ဖွင့်ခြင်း လုပ်နေသည်။"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' မရနိုင်ပါ"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"သိုလှောင်ခန်း၏ မြန်နှုန်းနှင့် ရေးနှုန်းကို စမ်းသပ်သည့် ပရိုဂရမ် လုပ်ဆောင်နေပါသည်။"</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"[<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] ဖမ်းယူမှု အစီအစဉ်ချထားသည်၊ ရုပ်သံဖမ်းခြင်း စတင်လိုပါသလား။"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"အမည်-"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"အစီအစဉ်ချထားသော သတိပေးချက်ရှိသည်။"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"ထိုချန်နယ်ကို ကြည့်လိုသလား။"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] ကို ရုပ်သံဖမ်းယူ၍ မရပါ"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"<xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> စက္ကန့်စာ [<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] ရုပ်သံဖမ်းယူမှု မပြီးစီးပါ"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"ရုပ်သံဖမ်းယူမှု တစ်စိတ်တစ်ဒေသကို သိမ်းထားသည်။ ဖမ်းယူနေစဉ် ပါဝါပိတ်သွားသည်။"</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"အစီအစဉ် နမူနာ"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"အချိန်ကိုက် အစီအစဉ်ရေးဆွဲထားခြင်း"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"ရုပ်သံဖမ်းယူခြင်း ပံ့ပိုးပေးသော အချက်ပြစနစ်"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'ရုပ်သံဖမ်းယူခြင်း ပံ့ပိုးပေးသော အချက်ပြစနစ်\' ကို တည်းဖြတ်၍ မရပါ"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ရပ်သွားသည်။"</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"ရုပ်သံဖမ်းယူနေသည်။ မြန်နှုန်း စမ်းသပ်မှု မအောင်မြင်ပါ။"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ဖွင့်ထားသည်။ မြန်နှုန်း စမ်းသပ်မှု မအောင်မြင်ပါ။"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"အသုံးပြုခွင့် မရပါ။ မြန်နှုန်း စမ်းသပ်မှု မအောင်မြင်ပါ။"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"ဒစ်ခ်နေရာ မလုံလောက်ပါ။ မြန်နှုန်း စမ်းသပ်မှု မအောင်မြင်ပါ။"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"မြန်နှုန်း စမ်းသပ်မှု မအောင်မြင်ပါ။"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"ရှေ့သို့ရစ်ခြင်းနှင့် နောက်ပြန်ရစ်ခြင်းတို့ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"အကြောင်းအရာကို ဖျက်နေစဉ် အမှားအယွင်း ဖြစ်ပေါ်သွားသည်။ ချန်နယ်ကို ရုပ်သံဖမ်းနေသည်"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR ဖွင့်ထားသည် သို့မဟုတ် PVR ဖိုင်ကို ဖွင့်ထားသည်။\nရပ်ပါ။ ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ဖွင့်ထားသည်။\nရပ်ပါ။ ထို့နောက် ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"လက်ရှိချန်နယ်သည် မမှန်ကန်ပါ။"</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"ဗီဒီယိုကို ထပ်ဆင့်ပို့နေသည်။ နောက်မှ ထပ်စမ်းပါ။"</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"နောက်ပြန်ရစ်နေသည်။ နောက်မှ ထပ်စမ်းပါ။"</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"\'အချိန်ပြောင်း အချိန်ရွှေ့\'မှတ်တမ်း ပြည့်နေပြီး အလိုအလျောက် ဖွင့်သည်။"</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"ယခင်ချန်နယ်ကို ပြောင်း၍မရပါ။ \n \'အချိန်ပြောင်း အချိန်ရွှေ့\'သည် ရုပ်သံဖမ်းနေဆဲ ဖြစ်သည်။"</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"မအောင်မြင်သော သို့မဟုတ် မပြီးဆုံးသေးသော ရုပ်သံဖိုင်များ"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်၊ လိုင်းမမိခြင်းကြောင့် တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်။"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်၊ EIT မရှိ၍ တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်။"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်၊ EIT မရှိခြင်းနှင့် လိုင်းမမိခြင်းတို့ကြောင့် တစ်စိတ်တစ်ပိုင်း ရုပ်သံဖမ်းနေသည်။"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"စတင်ချိန် မှားနေသည်၊ ယခု ရိုက်ထည့်ထားသည့် အချိန်သည် လက်ရှိအချိန်မတိုင်မီ ဖြစ်သည်။"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"ဖိုင်အရွယ်အစား ချို့ယွင်းနေသည်။"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"တောင်းဆိုထားသော ထည့်သွင်းမှုသည် အချိန်ဇယား၏ အများဆုံး ခွင့်ပြုထားသည်ထက် ကျော်နေသည်။"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"ရုပ်သံဖမ်း လုပ်ဆောင်ချက်ကို ပိတ်ပြီး \n ချန်နယ် အမျိုးအစား ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"\'အချိန်ပြောင်း အချိန်ရွှေ့\' ကို ပိတ်ပြီး\n ချန်နယ် ပြောင်းလိုပါသလား။"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"ရုပ်သံဖမ်းရန် ပြင်ဆင်နေစဉ် ချန်နယ်များပြောင်းခြင်းကို ခွင့်မပြုပါ။"</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"ဖော်မက်ပြုလုပ်နေသည်"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"ဒစ်ခ်ဖော်မက်ပြုလုပ်၍ မရပါ။ မှတ်တမ်းတင်နေသည်။"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"ဒစ်ခ်ဖော်မက်ပြုလုပ်၍ မရပါ။ ‘အချိန်ပြောင်း အချိန်ရွှေ့’ ဖွင့်ထားသည်။"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"မြန်နှုန်း မမှန်ပါ။"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"ဖော်မက်ပြုလုပ်နေသည်။ ခဏစောင့်ပါ..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"ရှေ့သို့ရစ်ခြင်းကို ပံ့ပိုးမထားပါ"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"နောက်ပြန်ရစ်ခြင်းကို ပံ့ပိုးမထားပါ"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"ဒစ်ခ်မြန်နှုန်းနှေးနေပြီး ဒေတာဖယ်ထားသည်"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"စီစဉ်ထားသောဖမ်းယူမှုအချို့ မအောင်မြင်ပါ (သို့) မပြည့်စုံပါ။"</string>
+</resources>

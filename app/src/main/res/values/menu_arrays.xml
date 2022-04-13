@@ -1,0 +1,3349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Video DTV00581215-->
+    <string-array name="menu_video_gamma_array">
+        <item>@string/menu_arrays_Dark</item>
+        <item>@string/menu_arrays_Middle</item>
+        <item>@string/menu_arrays_Bright</item>
+    </string-array>
+    <string-array name="menu_video_color_temperature2_array">
+        <item>@string/menu_arrays_User</item>
+        <item>@string/menu_arrays_Cool</item>
+        <item>@string/menu_arrays_Standard</item>
+        <item>@string/menu_arrays_Warm</item>
+    </string-array>
+    <string-array name="menu_video_dnr_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_Strong</item>
+        <item>@string/menu_arrays_Auto</item>
+    </string-array>
+    <!-- mpeg nr -->
+    <string-array name="menu_video_mpeg_nr_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_Strong</item>
+    </string-array>
+    <string-array name="menu_video_luma_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_Strong</item>
+    </string-array>
+    <string-array name="menu_video_local_contrast_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_High</item>
+    </string-array>
+    <string-array name="menu_video_flesh_tone_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_video_flesh_tone_us_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_High</item>
+    </string-array>
+    <string-array name="menu_video_black_bar_detection_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_video_super_resolution_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- di film mode -->
+    <string-array name="menu_video_di_film_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Auto</item>
+    </string-array>
+    <string-array name="menu_video_di_film_mode_array_cn">
+		<item>@string/common_off</item>
+		<item>@string/menu_arrays_SLOW_PIC</item>
+		<item>@string/menu_arrays_ACTION_PIC</item>
+	</string-array>
+    <string-array name="menu_video_blue_stretch_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_video_game_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_video_hdr_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Auto</item>
+    </string-array>
+
+    <string-array name="menu_video_pq_split_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- mjc effect -->
+    <string-array name="menu_video_mjc_effect_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Middle</item>
+        <item>@string/menu_arrays_High</item>
+    </string-array>
+    <!-- mjc demo partition -->
+    <string-array name="menu_video_mjc_demo_partition_array">
+        <item>@string/nav_channel_All</item>
+        <item>@string/menu_arrays_Right</item>
+        <item>@string/menu_arrays_Left</item>
+    </string-array>
+    <!-- mjc mode -->
+    <string-array name="menu_video_mjc_mode">
+        <item>@string/menu_arrays_normal</item>
+        <item>@string/menu_arrays_Film_Only</item>
+        <item>@string/menu_arrays_Deblur_Only</item>
+    </string-array>
+    <!-- vga mode -->
+    <string-array name="menu_video_vga_mode_array">
+        <item>@string/menu_arrays_Graphic</item>
+        <item>@string/menu_tab_video</item>
+    </string-array>
+    <string-array name="menu_video_vga_mode_array_cn">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_RGB</item>
+		<item>@string/menu_arrays_YCbCr</item>
+    </string-array>
+    <!-- hdmi mode -->
+    <string-array name="menu_video_hdmi_mode_array">
+        <item>@string/menu_arrays_Auto</item>
+        <item>@string/menu_arrays_Graphic</item>
+        <item>@string/menu_tab_video</item>
+    </string-array>
+    <!-- 3d mode -->
+    <string-array name="menu_video_3d_mode_array">
+        <item>@string/menu_arrays_OFF</item>
+        <item>@string/menu_arrays_Auto_Mode</item>
+        <item>@string/menu_arrays_2D_to_3D</item>
+        <item>@string/menu_arrays_Frame_Order</item>
+        <item>@string/menu_arrays_Side_by_Side</item>
+        <item>@string/menu_arrays_Top_and_Bottom</item>
+        <item>@string/menu_arrays_REALD_MODE</item>
+        <item>@string/menu_arrays_SENSIO</item>
+        <item>@string/menu_arrays_Line_Interlace</item>
+        <item>@string/menu_arrays_DOT_ALT_MODE</item>
+        <item>@string/menu_arrays_CHK_BOARD</item>
+    </string-array>
+      <string-array name="menu_video_3d_mode_array_for_1">
+        <item>@string/menu_arrays_OFF</item>
+        <item>@string/menu_arrays_2D_to_3D</item>
+    </string-array>
+     <string-array name="menu_video_3d_mode_array_for_0">
+        <item>@string/menu_arrays_OFF</item>
+        <item>@string/menu_arrays_2D_to_3D</item>
+        <item>@string/menu_arrays_Side_by_Side</item>
+        <item>@string/menu_arrays_Top_and_Bottom</item>
+        <item>@string/menu_arrays_Line_Interlace</item>
+    </string-array>
+
+
+    <!-- 3d_navigation -->
+    <string-array name="menu_video_3d_nav_array">
+        <item>@string/menu_arrays_Manual</item>
+        <item>@string/menu_arrays_Semi_Auto</item>
+        <item>@string/menu_arrays_Auto</item>
+    </string-array>
+
+    <!-- 3d_image_safety -->
+    <string-array name="menu_video_3d_image_safety_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Middle</item>
+        <item>@string/menu_arrays_High</item>
+    </string-array>
+
+    <!-- left and right exchange switch -->
+    <string-array name="menu_video_3d_lrswitch_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- 3d to 2d switch -->
+    <string-array name="menu_video_3d_3t2switch_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- Audio -->
+    <string-array name="menu_audio_srs_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_audio_equalizer_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Rock</item>
+        <item>@string/menu_arrays_Pop</item>
+        <item>@string/menu_arrays_Live</item>
+        <item>@string/menu_arrays_Dance</item>
+        <item>@string/menu_arrays_Techno</item>
+        <item>@string/menu_arrays_Classic</item>
+        <item>@string/menu_arrays_Soft</item>
+    </string-array>
+    <string-array name="menu_audio_equalizer_array_us">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Rock</item>
+        <item>@string/menu_arrays_Pop</item>
+        <item>@string/menu_arrays_Live</item>
+        <item>@string/menu_arrays_Dance</item>
+        <item>@string/menu_arrays_Techno</item>
+        <item>@string/menu_arrays_Classic</item>
+        <item>@string/menu_arrays_Soft</item>
+        <item>@string/menu_arrays_Custom1</item>
+        <item>@string/menu_arrays_Custom2</item>
+        <item>@string/menu_arrays_custom3</item>
+    </string-array>
+    <string-array name="menu_audio_speaker_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_audio_spdif_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_PCM_RAW</item>
+        <item>@string/menu_arrays_PCM_16</item>
+        <item>@string/menu_arrays_PCM_24</item>
+    </string-array>
+    <!-- DTV00580924 -->
+    <string-array name="menu_audio_spdif_mode_us_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Dolby_Digital</item>
+        <item>@string/menu_arrays_PCM</item>
+        <item>@string/menu_arrays_Dolby_Digital_Plus</item>
+    </string-array>
+    <string-array name="menu_audio_avc_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- type -->
+    <string-array name="menu_audio_type_array">
+        <item>@string/menu_arrays_normal</item>
+        <item>@string/menu_arrays_Hearing_Impaired</item>
+        <item>@string/menu_arrays_Visually_Impaired</item>
+    </string-array>
+    <!-- fader control -->
+    <string-array name="menu_audio_visually_fader_array">
+    	<item>@string/menu_arrays_fader_main_max</item>
+    	<item>@string/menu_arrays_fader_main_sub</item>
+    	<item>@string/menu_arrays_fader_equal</item>
+		<item>@string/menu_arrays_fader_ad_sub</item>
+		<item>@string/menu_arrays_fader_ad_max</item>
+    </string-array>
+    <!-- speaker -->
+    <string-array name="menu_audio_visually_speaker_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- headphone -->
+    <string-array name="menu_audio_visually_headphone_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <string-array name="menu_audio_downmixmode_array">
+        <item>@string/menu_arrays_Stereo</item>
+        <item>@string/menu_arrays_Auto_Stereo</item>
+        <item>@string/menu_arrays_Surround</item>
+    </string-array>
+     <string-array name="menu_audio_downmixmode_eu_array">
+        <item>@string/menu_arrays_Surround</item>
+        <item>@string/menu_arrays_Stereo</item>
+        <item>@string/menu_arrays_Auto_Stereo</item>
+    </string-array>
+    <!-- TV -->
+    <string-array name="menu_tv_audio_language_array_PA">
+        <item>@string/menu_arrays_Undefined</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_second_audio</item>
+        <item>@string/menu_arrays_third_audio</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_PA_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_PA_NZL">
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_Chinese_Mandarin</item>
+        <item>@string/menu_arrays_Chinese_Cantonese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_PA_NZL_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+    </string-array>
+    <string-array name="menu_tv_tuner_mode_array">
+        <item>@string/menu_arrays_Antenna</item>
+        <item>@string/menu_arrays_Cable</item>
+    </string-array>
+    <string-array name="menu_tv_audio_channel_array">
+        <item>@string/menu_arrays_Mono</item>
+        <item>@string/menu_arrays_Stereo</item>
+        <item>@string/menu_arrays_Dual1</item>
+        <item>@string/menu_arrays_Dual2</item>
+    </string-array>
+    <string-array name="menu_tv_audio_channel_mts_array">
+        <item>@string/menu_arrays_Mono</item>
+        <item>@string/menu_arrays_Stereo</item>
+        <item>@string/menu_arrays_SAP</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_SA">
+        <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Catalan</item>
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <item>@string/menu_arrays_Danish</item>
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Icelandic</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        <item>@string/menu_arrays_Romanian</item>
+        <item>@string/menu_arrays_Russian</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <item>@string/menu_arrays_Slovenian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        <item>@string/menu_arrays_Welsh </item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Fijian</item>
+        <item>@string/menu_arrays_Khmer</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Sinhala</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Nepali</item>
+        <item>@string/menu_arrays_Dhivehi</item>
+        <item>@string/menu_arrays_Lao</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Pidgeon</item>
+        <item>@string/menu_arrays_Hebrew</item>
+        <item>@string/menu_arrays_Mongolian</item>
+        <item>@string/menu_arrays_Turkmen</item>
+        <item>@string/menu_arrays_Armenian</item>
+        <item>@string/menu_arrays_Kazakh</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Kurdish</item>
+        <item>@string/menu_arrays_Azeri</item>
+        <item>@string/menu_arrays_Uzbek</item>
+        <item>@string/menu_arrays_Ukrainian</item>
+        <item>@string/menu_arrays_Tajik</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Georgian</item>
+        <item>@string/menu_arrays_Urdu</item>
+        <item>@string/menu_arrays_Macedonian</item>
+        <item>@string/menu_arrays_Somali</item>
+        <item>@string/menu_arrays_Amharic</item>
+        <item>@string/menu_arrays_Kinyarwanda</item>
+        <item>@string/menu_arrays_Kiswahili</item>
+        <item>@string/menu_arrays_Simplified_Chinese</item>
+        <item>@string/menu_arrays_Traditional_Chinese</item>
+        <item>@string/menu_arrays_Malayalam</item>
+        <item>@string/menu_arrays_Ga</item>
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_SA_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+        <item>"tgl"</item>
+    </string-array>
+    <!-- fix DTV00581226 -->
+    <string-array name="menu_tv_audio_language_array">
+        <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Catalan</item>
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <item>@string/menu_arrays_Danish</item>
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Icelandic</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        <item>@string/menu_arrays_Romanian</item>
+        <item>@string/menu_arrays_Russian</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <item>@string/menu_arrays_Slovenian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        <item>@string/menu_arrays_Welsh </item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Fijian</item>
+        <item>@string/menu_arrays_Khmer</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Sinhala</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Nepali</item>
+        <item>@string/menu_arrays_Dhivehi</item>
+        <item>@string/menu_arrays_Lao</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Pidgeon</item>
+        <item>@string/menu_arrays_Hebrew</item>
+        <item>@string/menu_arrays_Mongolian</item>
+        <item>@string/menu_arrays_Turkmen</item>
+        <item>@string/menu_arrays_Armenian</item>
+        <item>@string/menu_arrays_Kazakh</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Kurdish</item>
+        <item>@string/menu_arrays_Azeri</item>
+        <item>@string/menu_arrays_Uzbek</item>
+        <item>@string/menu_arrays_Ukrainian</item>
+        <item>@string/menu_arrays_Tajik</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Georgian</item>
+        <item>@string/menu_arrays_Urdu</item>
+        <item>@string/menu_arrays_Macedonian</item>
+        <item>@string/menu_arrays_Somali</item>
+        <item>@string/menu_arrays_Amharic</item>
+        <item>@string/menu_arrays_Kinyarwanda</item>
+        <item>@string/menu_arrays_Kiswahili</item>
+        <item>@string/menu_arrays_Simplified_Chinese</item>
+        <item>@string/menu_arrays_Traditional_Chinese</item>
+        <item>@string/menu_arrays_Malayalam</item>
+        <item>@string/menu_arrays_Ga</item>
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+    </string-array>
+
+    <string-array name="menu_tv_audio_language_array_US_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+    </string-array>
+
+    <string-array name="menu_tv_audio_language_array_CN">
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Polish</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_array_CN_value">
+        <item>"eng"</item>
+        <item>"chi"</item>
+        <item>"ger"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"pol"</item>
+    </string-array>
+     <string-array name="menu_tv_subtitle_language_eu_array">
+        <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Cantonese</item>
+        <item>@string/menu_arrays_Catalan</item>
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <item>@string/menu_arrays_Danish</item>
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Icelandic</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        <item>@string/menu_arrays_Romanian</item>
+        <item>@string/menu_arrays_Russian</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <item>@string/menu_arrays_Slovenian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        <item>@string/menu_arrays_Welsh </item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Fijian</item>
+        <item>@string/menu_arrays_Khmer</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Sinhala</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Nepali</item>
+        <item>@string/menu_arrays_Divehi</item>
+        <item>@string/menu_arrays_Lao</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Pidgeon</item>
+        <item>@string/menu_arrays_Hebrew</item>
+        <item>@string/menu_arrays_Mongolian</item>
+        <item>@string/menu_arrays_Turkmen</item>
+        <item>@string/menu_arrays_Armenian</item>
+        <item>@string/menu_arrays_Kazakh</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Kurdish</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Uzbek</item>
+        <item>@string/menu_arrays_Ukrainian</item>
+        <item>@string/menu_arrays_Tajik</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Georgian</item>
+        <item>@string/menu_arrays_Urdu</item>
+        <item>@string/menu_arrays_Macedonian</item>
+        <item>@string/menu_arrays_Somali</item>
+        <item>@string/menu_arrays_Amharic</item>
+        <item>@string/menu_arrays_Kinyarwanda</item>
+        <item>@string/menu_arrays_Kiswahili</item>
+        <item>@string/menu_arrays_Simplified_Chinese</item>
+        <item>@string/menu_arrays_Traditional_Chinese</item>
+        <item>@string/menu_arrays_Malayalam</item>
+        <item>@string/menu_arrays_Ga</item>
+        <item>@string/menu_arrays_Multiple_Languages</item>
+        <item>@string/menu_arrays_Mandarin</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Original_Version</item>
+        <item>@string/menu_arrays_Narrative</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Albania</item>
+        <item>@string/menu_arrays_Lithuania</item>
+        <item>@string/menu_arrays_Latvian</item>
+        <item>@string/menu_arrays_Valencian</item>
+        <item>@string/menu_array_eus</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+
+    <string-array name="menu_tv_subtitle_language_unnormal_before_change_value">
+        <item>"alb"</item>
+        <item>"baq"</item>
+        <item>"ice"</item>
+        <item>"per"</item>
+        <item>"tib"</item>
+        <item>"ger"</item>
+        <item>"fre"</item>
+        <item>"chi"</item>
+        <item>"dut"</item>
+        <item>"cze"</item>
+        <item>"rum"</item>
+        <item>"may"</item>
+        <item>"mac"</item>
+        <item>"mao"</item>
+        <item>"bur"</item>
+        <item>"geo"</item>
+        <item>"slo"</item>
+        <item>"wel"</item>
+        <item>"gre"</item>
+        <item>"arm"</item>
+    </string-array>
+
+    <string-array name="menu_tv_subtitle_language_unnormal_after_change_value">
+        <item>"sqi"</item>
+        <item>"eus"</item>
+        <item>"isl"</item>
+        <item>"fas"</item>
+        <item>"bod"</item>
+        <item>"deu"</item>
+        <item>"fra"</item>
+        <item>"zho"</item>
+        <item>"nld"</item>
+        <item>"ces"</item>
+        <item>"ron"</item>
+        <item>"msa"</item>
+        <item>"mkd"</item>
+        <item>"mri"</item>
+        <item>"mya"</item>
+        <item>"kat"</item>
+        <item>"slk"</item>
+        <item>"cym"</item>
+        <item>"ell"</item>
+        <item>"hye"</item>
+    </string-array>
+
+
+    <string-array name="menu_tv_subtitle_language_eu_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_sa_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"tgl"</item>
+    </string-array>
+
+    <string-array name="menu_tv_subtitle_audio_language_unnormal_array">
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Narrative</item>
+        <item>@string/menu_arrays_Chinese_Mandarin</item>
+        <item>@string/menu_arrays_Valencian</item>
+        <item>@string/menu_arrays_Undefined</item>
+        <item>@string/dvbs_tp_pol_0_unknown</item>
+        <item>@string/menu_arrays_second_audio</item>
+        <item>@string/menu_arrays_third_audio</item>
+        <item>@string/menu_arrays_narrator</item>
+        <item>@string/menu_arrays_other</item>
+    </string-array>
+
+    <string-array name="menu_tv_subtitle_audio_language_unnormal_array_value">
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"cmn"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"emp"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+        <item>"qad"</item>
+        <item>"oth"</item>
+    </string-array>
+
+    <!-- Indonesia||Malaysia||Australia||Vietnam -->
+     <string-array name="menu_tv_subtitle_language_in_mys_aus_tha_vnm_array">
+        <item>@string/menu_arrays_Afrikaans</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+         <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <!-- Indonesia||Malaysia||Australia||Vietnam -->
+    <string-array name="menu_tv_subtitle_language_in_mys_aus_tha_vnm_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_sgp_array">
+        <item>@string/menu_arrays_Afrikaans</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+         <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Multiple_Languages</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_sgp_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_nzl_array">
+        <item>@string/menu_arrays_Afrikaans</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_Chinese_Mandarin</item>
+        <item>@string/menu_arrays_Chinese_Cantonese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+         <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_nzl_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_pa_array">
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Chinese</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/dvbs_tp_pol_0_unknown</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <string-array name="menu_tv_subtitle_language_pa_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_array">
+        <item>@string/menu_arrays_AZUAY</item>
+        <item>@string/menu_arrays_BOLIVAR</item>
+        <item>@string/menu_arrays_CANAR</item>
+        <item>@string/menu_arrays_CARCHI</item>
+        <item>@string/menu_arrays_CHIMBORAZO</item>
+        <item>@string/menu_arrays_COTOPAXI</item>
+        <item>@string/menu_arrays_EL_ORO</item>
+        <item>@string/menu_arrays_ESMERALDAS</item>
+        <item>@string/menu_arrays_GALAPAGOS</item>
+        <item>@string/menu_arrays_GUAYAS</item>
+         <item>@string/menu_arrays_IMBABURA</item>
+        <item>@string/menu_arrays_PICHINCHA</item>
+        <item>@string/menu_arrays_LOJA</item>
+        <item>@string/menu_arrays_LOS_RIOS</item>
+        <item>@string/menu_arrays_MANABI</item>
+        <item>@string/menu_arrays_MORONA_SANTIAGO</item>
+        <item>@string/menu_arrays_NACIONAL</item>
+        <item>@string/menu_arrays_NAPO</item>
+        <item>@string/menu_arrays_ORELLANA</item>
+        <item>@string/menu_arrays_PASTAZA</item>
+        <item>@string/menu_arrays_SANTA_ELENA</item>
+        <item>@string/menu_arrays_SANTO_DOMINGO_DE_LOS_TSACHILAS</item>
+        <item>@string/menu_arrays_SUCUMBIOS</item>
+        <item>@string/menu_arrays_TUNGURAHUA</item>
+        <item>@string/menu_arrays_ZAMORA_CHINCHIPE</item>
+        <item>@string/menu_arrays_ZONA_DELIMITADA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_azuay_array">
+        <item>@string/menu_arrays_CAMILO_PONCE_ENRIQUEZ</item>
+        <item>@string/menu_arrays_CHORDELEG</item>
+        <item>@string/menu_arrays_CUENCA</item>
+        <item>@string/menu_arrays_EL_PAN</item>
+        <item>@string/menu_arrays_GIRON</item>
+        <item>@string/menu_arrays_GUACHAPALA</item>
+        <item>@string/menu_arrays_GUALACEO</item>
+        <item>@string/menu_arrays_NABON</item>
+        <item>@string/menu_arrays_ONA</item>
+        <item>@string/menu_arrays_PAUTE</item>
+        <item>@string/menu_arrays_PUCARA</item>
+        <item>@string/menu_arrays_SAN_FERNANDO</item>
+        <item>@string/menu_arrays_SANTA_ISABEL</item>
+        <item>@string/menu_arrays_SEVILLA_DE_ORO</item>
+        <item>@string/menu_arrays_SIGSIG</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_bolivar_array">
+        <item>@string/menu_arrays_CALUMA</item>
+        <item>@string/menu_arrays_CHILLANES</item>
+        <item>@string/menu_arrays_CHIMBO</item>
+        <item>@string/menu_arrays_ECHEANDIA</item>
+        <item>@string/menu_arrays_GUARANDA</item>
+        <item>@string/menu_arrays_LAS_NAVES</item>
+        <item>@string/menu_arrays_SAN_MIGUEL</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_canar_array">
+        <item>@string/menu_arrays_AZOGUES</item>
+        <item>@string/menu_arrays_BIBLIAN</item>
+        <item>@string/menu_arrays_CANAR</item>
+        <item>@string/menu_arrays_DELEG</item>
+        <item>@string/menu_arrays_EL_TAMBO</item>
+        <item>@string/menu_arrays_LA_TRONCAL</item>
+        <item>@string/menu_arrays_SUSCAL</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_carchi_array">
+        <item>@string/menu_arrays_BOLIVAR</item>
+        <item>@string/menu_arrays_ESPEJO</item>
+        <item>@string/menu_arrays_MIRA</item>
+        <item>@string/menu_arrays_MONTUFAR</item>
+        <item>@string/menu_arrays_SAN_PEDRO_DE_HUACA</item>
+        <item>@string/menu_arrays_TULCAN</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_chimborazo_array">
+        <item>@string/menu_arrays_ALAUSI</item>
+        <item>@string/menu_arrays_CHAMBO</item>
+        <item>@string/menu_arrays_CHUNCHI</item>
+        <item>@string/menu_arrays_COLTA</item>
+        <item>@string/menu_arrays_CUMANDA</item>
+        <item>@string/menu_arrays_GUAMOTE</item>
+        <item>@string/menu_arrays_GUANO</item>
+        <item>@string/menu_arrays_PALLATANGA</item>
+        <item>@string/menu_arrays_PENIPE</item>
+        <item>@string/menu_arrays_RIOBAMBA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_cotopaxi_array">
+        <item>@string/menu_arrays_LA_MANA</item>
+        <item>@string/menu_arrays_LATACUNGA</item>
+        <item>@string/menu_arrays_PANGUA</item>
+        <item>@string/menu_arrays_PUJILI</item>
+        <item>@string/menu_arrays_SALCEDO</item>
+        <item>@string/menu_arrays_SAQUISILI</item>
+        <item>@string/menu_arrays_SIGCHOS</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_elo_array">
+        <item>@string/menu_arrays_ARENILLAS</item>
+        <item>@string/menu_arrays_ATAHUALPA</item>
+        <item>@string/menu_arrays_BALSAS</item>
+        <item>@string/menu_arrays_CHILLA</item>
+        <item>@string/menu_arrays_EL_GUABO</item>
+        <item>@string/menu_arrays_HUAQUILLAS</item>
+        <item>@string/menu_arrays_LAS_LAJAS</item>
+        <item>@string/menu_arrays_MACHALA</item>
+        <item>@string/menu_arrays_MARCABELI</item>
+        <item>@string/menu_arrays_PASAJE</item>
+        <item>@string/menu_arrays_PINAS</item>
+        <item>@string/menu_arrays_PORTOVELO</item>
+        <item>@string/menu_arrays_SANTA_ROSA</item>
+        <item>@string/menu_arrays_ZARUMA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_esm_array">
+        <item>@string/menu_arrays_ATACAMES</item>
+        <item>@string/menu_arrays_ELOY_ALFARO</item>
+        <item>@string/menu_arrays_ESMERALDAS</item>
+        <item>@string/menu_arrays_LA_CONCORDIA</item>
+        <item>@string/menu_arrays_MUISNE</item>
+        <item>@string/menu_arrays_QUININDE</item>
+        <item>@string/menu_arrays_RIOVERDE</item>
+        <item>@string/menu_arrays_SAN_LORENZO</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_gal_array">
+        <item>@string/menu_arrays_ISABELA</item>
+        <item>@string/menu_arrays_SAN_CRISTOBAL</item>
+        <item>@string/menu_arrays_SANTA_CRUZ</item>
+    </string-array>
+     <string-array name="menu_setup_region_setting_ecuador_pro_gua_array">
+        <item>@string/menu_arrays_ALFREDO_BAQUERIZO_MORENO</item>
+        <item>@string/menu_arrays_BALAO</item>
+        <item>@string/menu_arrays_BALZAR</item>
+        <item>@string/menu_arrays_COLIMES</item>
+        <item>@string/menu_arrays_CRNEL_MARCELINO_MARIDUENA</item>
+        <item>@string/menu_arrays_DAULE</item>
+        <item>@string/menu_arrays_DURAN</item>
+        <item>@string/menu_arrays_EL_TRIUNFO</item>
+        <item>@string/menu_arrays_EMPALME</item>
+        <item>@string/menu_arrays_GNRAL_ANTONIO_ELIZALDE</item>
+        <item>@string/menu_arrays_GUAYAQUIL</item>
+        <item>@string/menu_arrays_ISIDRO_AYORA</item>
+        <item>@string/menu_arrays_LOMAS_DE_SARGENTILLO</item>
+        <item>@string/menu_arrays_MILAGRO</item>
+        <item>@string/menu_arrays_NARANJAL</item>
+        <item>@string/menu_arrays_NARANJITO</item>
+        <item>@string/menu_arrays_NOBOL</item>
+        <item>@string/menu_arrays_PALESTINA</item>
+        <item>@string/menu_arrays_PEDRO_CARBO</item>
+        <item>@string/menu_arrays_PLAYAS</item>
+        <item>@string/menu_arrays_SALITRE</item>
+        <item>@string/menu_arrays_SAMBORONDON</item>
+        <item>@string/menu_arrays_SAN_JACINTO_DE_YAGUACHI</item>
+        <item>@string/menu_arrays_SANTA_LUCIA</item>
+        <item>@string/menu_arrays_SIMON_BOLIVAR</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_imb_array">
+        <item>@string/menu_arrays_ANTONIO_ANTE</item>
+        <item>@string/menu_arrays_COTACACHI</item>
+        <item>@string/menu_arrays_IBARRA</item>
+        <item>@string/menu_arrays_OTAVALO</item>
+        <item>@string/menu_arrays_PIMAMPIRO</item>
+        <item>@string/menu_arrays_SAN_MIGUEL_DE_URCUQUI</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_pic_array">
+        <item>@string/menu_arrays_CAYAMBE</item>
+        <item>@string/menu_arrays_MEJIA</item>
+        <item>@string/menu_arrays_PEDRO_MONCAYO</item>
+        <item>@string/menu_arrays_PEDRO_VICENTE_MALDONADO</item>
+        <item>@string/menu_arrays_PUERTO_QUITO</item>
+        <item>@string/menu_arrays_QUITO</item>
+        <item>@string/menu_arrays_RUMINAHUI</item>
+        <item>@string/menu_arrays_SAN_MIGUEL_DE_LOS_BANCOS</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_loj_array">
+        <item>@string/menu_arrays_CALVAS</item>
+        <item>@string/menu_arrays_CATAMAYO</item>
+        <item>@string/menu_arrays_CELICA</item>
+        <item>@string/menu_arrays_CHAGUARPAMBA</item>
+        <item>@string/menu_arrays_ESPINDOLA</item>
+        <item>@string/menu_arrays_GONZANAMA</item>
+        <item>@string/menu_arrays_LOJA</item>
+        <item>@string/menu_arrays_MACARA</item>
+        <item>@string/menu_arrays_OLMEDO</item>
+        <item>@string/menu_arrays_PALTAS</item>
+        <item>@string/menu_arrays_PINDAL</item>
+        <item>@string/menu_arrays_PUYANGO</item>
+        <item>@string/menu_arrays_QUILANGA</item>
+        <item>@string/menu_arrays_SARAGURO</item>
+        <item>@string/menu_arrays_SOZORANGA</item>
+        <item>@string/menu_arrays_ZAPOTILLO</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_los_array">
+        <item>@string/menu_arrays_BABA</item>
+        <item>@string/menu_arrays_BABAHOYO</item>
+        <item>@string/menu_arrays_BUENA_FE</item>
+        <item>@string/menu_arrays_MOCACHE</item>
+        <item>@string/menu_arrays_MONTALVO</item>
+        <item>@string/menu_arrays_PALENQUE</item>
+        <item>@string/menu_arrays_PUEBLOVIEJO</item>
+        <item>@string/menu_arrays_QUEVEDO</item>
+        <item>@string/menu_arrays_QUINSALOMA</item>
+        <item>@string/menu_arrays_URDANETA</item>
+        <item>@string/menu_arrays_VALENCIA</item>
+        <item>@string/menu_arrays_VENTANAS</item>
+        <item>@string/menu_arrays_VINCES</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_man_array">
+        <item>@string/menu_arrays_24_DE_MAYO</item>
+        <item>@string/menu_arrays_BOLIVAR</item>
+        <item>@string/menu_arrays_CHONE</item>
+        <item>@string/menu_arrays_EL_CARMEN</item>
+        <item>@string/menu_arrays_FLAVIO_ALFARO</item>
+        <item>@string/menu_arrays_JAMA</item>
+        <item>@string/menu_arrays_JARAMIJO</item>
+        <item>@string/menu_arrays_JIPIJAPA</item>
+        <item>@string/menu_arrays_JUNIN</item>
+        <item>@string/menu_arrays_MANTA</item>
+        <item>@string/menu_arrays_MONTECRISTI</item>
+        <item>@string/menu_arrays_OLMEDO</item>
+        <item>@string/menu_arrays_PAJAN</item>
+        <item>@string/menu_arrays_PEDERNALES</item>
+        <item>@string/menu_arrays_PICHINCHA</item>
+        <item>@string/menu_arrays_PORTOVIEJO</item>
+        <item>@string/menu_arrays_PUERTO_LOPEZ</item>
+        <item>@string/menu_arrays_ROCAFUERTE</item>
+        <item>@string/menu_arrays_SAN_VICENTE</item>
+        <item>@string/menu_arrays_SANTA_ANA</item>
+        <item>@string/menu_arrays_SUCRE</item>
+        <item>@string/menu_arrays_TOSAGUA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_mor_array">
+        <item>@string/menu_arrays_GUALAQUIZA</item>
+        <item>@string/menu_arrays_HUAMBOYA</item>
+        <item>@string/menu_arrays_LIMON_INDANZA</item>
+        <item>@string/menu_arrays_LOGRONO</item>
+        <item>@string/menu_arrays_MORONA</item>
+        <item>@string/menu_arrays_PABLO_SEXTO</item>
+        <item>@string/menu_arrays_PALORA</item>
+        <item>@string/menu_arrays_SAN_JUAN_BOSCO</item>
+        <item>@string/menu_arrays_SANTIAGO</item>
+        <item>@string/menu_arrays_SUCUA</item>
+        <item>@string/menu_arrays_TAISHA</item>
+        <item>@string/menu_arrays_TIWINTZA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_nac_array">
+        <item>@string/menu_arrays_NACIONAL</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_nap_array">
+        <item>@string/menu_arrays_ARCHIDONA</item>
+        <item>@string/menu_arrays_CARLOS_JULIO_AROSEMENA_TOLA</item>
+        <item>@string/menu_arrays_EL_CHACO</item>
+        <item>@string/menu_arrays_QUIJOS</item>
+        <item>@string/menu_arrays_TENA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_ore_array">
+        <item>@string/menu_arrays_AGUARICO</item>
+        <item>@string/menu_arrays_LA_JOYA_DE_LOS_SACHAS</item>
+        <item>@string/menu_arrays_LORETO</item>
+        <item>@string/menu_arrays_ORELLANA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_pas_array">
+        <item>@string/menu_arrays_ARAJUNO</item>
+        <item>@string/menu_arrays_MERA</item>
+        <item>@string/menu_arrays_PASTAZA</item>
+        <item>@string/menu_arrays_SANTA_CLARA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_san_array">
+        <item>@string/menu_arrays_LA_LIBERTAD</item>
+        <item>@string/menu_arrays_SALINAS</item>
+        <item>@string/menu_arrays_SANTA_ELENA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_sdd_array">
+        <item>@string/menu_arrays_SANTO_DOMINGO</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_suc_array">
+        <item>@string/menu_arrays_CASCALES</item>
+        <item>@string/menu_arrays_CUYABENO</item>
+        <item>@string/menu_arrays_GONZALO_PIZARRO</item>
+        <item>@string/menu_arrays_LAGO_AGRIO</item>
+        <item>@string/menu_arrays_PUTUMAYO</item>
+        <item>@string/menu_arrays_SHUSHUFINDI</item>
+        <item>@string/menu_arrays_SUCUMBIOS</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_tun_array">
+        <item>@string/menu_arrays_AMBATO</item>
+        <item>@string/menu_arrays_BANOS_DE_AGUA_SANTA</item>
+        <item>@string/menu_arrays_CEVALLOS</item>
+        <item>@string/menu_arrays_MOCHA</item>
+        <item>@string/menu_arrays_PATATE</item>
+        <item>@string/menu_arrays_QUERO</item>
+        <item>@string/menu_arrays_SAN_PEDRO_DE_PELILEO</item>
+        <item>@string/menu_arrays_SANTIAGO_DE_PILLARO</item>
+        <item>@string/menu_arrays_TISALEO</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_zam_array">
+       <item>@string/menu_arrays_CENTINELA_DEL_CONDOR</item>
+       <item>@string/menu_arrays_CHINCHIPE</item>
+      <item>@string/menu_arrays_EL_PANGUI</item>
+       <item>@string/menu_arrays_NANGARITZA</item>
+       <item>@string/menu_arrays_PALANDA</item>
+       <item>@string/menu_arrays_PAQUISHA</item>
+       <item>@string/menu_arrays_YACUAMBI</item>
+       <item>@string/menu_arrays_YANTZAZA</item>
+       <item>@string/menu_arrays_ZAMORA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_ecuador_pro_zon_array">
+       <item>@string/menu_arrays_EL_PIEDRERO</item>
+       <item>@string/menu_arrays_LAS_GOLONDRINAS</item>
+       <item>@string/menu_arrays_MANGA_DEL_CURA</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_luzon_array">
+       <item>@string/menu_arrays_NCR</item>
+        <item>@string/menu_arrays_Cordilera_Administrative_Region</item>
+        <item>@string/menu_arrays_Ilocos_Region</item>
+        <item>@string/menu_arrays_Cagayan_Valley</item>
+        <item>@string/menu_arrays_Central_Luzon</item>
+        <item>@string/menu_arrays_CALABARZON</item>
+        <item>@string/menu_arrays_MIMAROPA</item>
+        <item>@string/menu_arrays_Bicol_Region</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_visayas_array">
+        <item>@string/menu_arrays_Western_Visayas</item>
+        <item>@string/menu_arrays_Central_Visayas</item>
+        <item>@string/menu_arrays_Eastern_Visayas</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_mindanao_array">
+        <item>@string/menu_arrays_Zamboanga_Peninsula</item>
+        <item>@string/menu_arrays_Northern_Mindanao</item>
+        <item>@string/menu_arrays_Davao_Region</item>
+        <item>@string/menu_arrays_SOCCSKSARGEN</item>
+        <item>@string/menu_arrays_CARAGA</item>
+        <item>@string/menu_arrays_Autonomous_Region_in_Muslim_Mindanao</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_ncr_array">
+        <item>@string/menu_arrays_Caloocan</item>
+        <item>@string/menu_arrays_Las_Pinas</item>
+        <item>@string/menu_arrays_Makati</item>
+        <item>@string/menu_arrays_Malabon</item>
+        <item>@string/menu_arrays_Mandaluyong</item>
+        <item>@string/menu_arrays_Manila</item>
+        <item>@string/menu_arrays_Marikina</item>
+        <item>@string/menu_arrays_Muntinlupa</item>
+        <item>@string/menu_arrays_Navotas</item>
+        <item>@string/menu_arrays_Paranaque</item>
+        <item>@string/menu_arrays_Pasay</item>
+        <item>@string/menu_arrays_Pasig</item>
+        <item>@string/menu_arrays_Pateros</item>
+        <item>@string/menu_arrays_Quezon_City</item>
+        <item>@string/menu_arrays_San_Juan</item>
+        <item>@string/menu_arrays_Taguig</item>
+        <item>@string/menu_arrays_Valenzuela</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_car_array">
+        <item>@string/menu_arrays_Abra</item>
+        <item>@string/menu_arrays_Apayao</item>
+        <item>@string/menu_arrays_Baguio</item>
+        <item>@string/menu_arrays_Benguet</item>
+        <item>@string/menu_arrays_Ifugao</item>
+        <item>@string/menu_arrays_Kalinga</item>
+        <item>@string/menu_arrays_Mt_Province</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg1_array">
+        <item>@string/menu_arrays_Ilocos_Norte</item>
+        <item>@string/menu_arrays_Ilocos_Sur</item>
+        <item>@string/menu_arrays_La_Union</item>
+        <item>@string/menu_arrays_Pangasinan</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg2_array">
+        <item>@string/menu_arrays_Batanes</item>
+        <item>@string/menu_arrays_Cagayan</item>
+        <item>@string/menu_arrays_Isabela</item>
+        <item>@string/menu_arrays_Nueva_Vizcaya</item>
+        <item>@string/menu_arrays_Quirino</item>
+        <item>@string/menu_arrays_Santiago</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg3_array">
+        <item>@string/menu_arrays_Angeles</item>
+         <item>@string/menu_arrays_Aurora</item>
+        <item>@string/menu_arrays_Bataan</item>
+        <item>@string/menu_arrays_Bulacan</item>
+        <item>@string/menu_arrays_Nueva_Ecija</item>
+         <item>@string/menu_arrays_Olongapo</item>
+        <item>@string/menu_arrays_Pampanga</item>
+        <item>@string/menu_arrays_Tarlac</item>
+        <item>@string/menu_arrays_Zambales</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg4a_array">
+        <item>@string/menu_arrays_Batangas</item>
+        <item>@string/menu_arrays_Cavite</item>
+        <item>@string/menu_arrays_Laguna</item>
+        <item>@string/menu_arrays_Lucena</item>
+        <item>@string/menu_arrays_Quezon</item>
+        <item>@string/menu_arrays_Rizal</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg4b_array">
+        <item>@string/menu_arrays_Marinduque</item>
+        <item>@string/menu_arrays_Occidental_Mindoro</item>
+        <item>@string/menu_arrays_Oriental_Mindoro</item>
+        <item>@string/menu_arrays_Palawan</item>
+        <item>@string/menu_arrays_Puerto_Princesa</item>
+        <item>@string/menu_arrays_Romblon</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg5_array">
+        <item>@string/menu_arrays_Albay</item>
+        <item>@string/menu_arrays_Camarines_Sur</item>
+        <item>@string/menu_arrays_Camarines_Norte</item>
+        <item>@string/menu_arrays_Catanduanes</item>
+        <item>@string/menu_arrays_Masbata</item>
+        <item>@string/menu_arrays_Naga</item>
+        <item>@string/menu_arrays_Sorsogon</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg6_array">
+        <item>@string/menu_arrays_Aklan</item>
+        <item>@string/menu_arrays_Antique</item>
+        <item>@string/menu_arrays_Bacolod</item>
+        <item>@string/menu_arrays_Capiz</item>
+        <item>@string/menu_arrays_Guimaras</item>
+        <item>@string/menu_arrays_Iloilo</item>
+        <item>@string/menu_arrays_Iloilo_City</item>
+        <item>@string/menu_arrays_Negros_Occidental</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg7_array">
+        <item>@string/menu_arrays_Bohol</item>
+        <item>@string/menu_arrays_Cebu</item>
+        <item>@string/menu_arrays_Cebu_City</item>
+        <item>@string/menu_arrays_Lapu_Lapu</item>
+        <item>@string/menu_arrays_Negros_Oriental</item>
+        <item>@string/menu_arrays_Siquijor</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg8_array">
+        <item>@string/menu_arrays_Biliran</item>
+        <item>@string/menu_arrays_Eastern_Samar</item>
+        <item>@string/menu_arrays_Leyte</item>
+        <item>@string/menu_arrays_Northern_Samar</item>
+        <item>@string/menu_arrays_Ormoc</item>
+        <item>@string/menu_arrays_Samar</item>
+        <item>@string/menu_arrays_Southern_Leyte</item>
+        <item>@string/menu_arrays_Tacloban</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg9_array">
+        <item>@string/menu_arrays_Isabela_City</item>
+        <item>@string/menu_arrays_Zamboanga_City</item>
+        <item>@string/menu_arrays_Zamboange_del_Norte</item>
+        <item>@string/menu_arrays_Zamboange_del_Sur</item>
+        <item>@string/menu_arrays_Zamboange_Sibugay</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg10_array">
+        <item>@string/menu_arrays_Bukidnon</item>
+         <item>@string/menu_arrays_Cagayan_de_Oro</item>
+        <item>@string/menu_arrays_Camiguin</item>
+         <item>@string/menu_arrays_Iligan</item>
+        <item>@string/menu_arrays_Lanao_del_Norte</item>
+         <item>@string/menu_arrays_Misamis_Occidental</item>
+        <item>@string/menu_arrays_Misamis_Oriental</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg11_array">
+        <item>@string/menu_arrays_Compostela_Valley</item>
+        <item>@string/menu_arrays_Davao_City</item>
+        <item>@string/menu_arrays_Davao_del_Norte</item>
+        <item>@string/menu_arrays_Davao_del_Sur</item>
+        <item>@string/menu_arrays_Davao_Oriental</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg12_array">
+        <item>@string/menu_arrays_Cotabato</item>
+        <item>@string/menu_arrays_Cotabato_City</item>
+        <item>@string/menu_arrays_General_Santos</item>
+        <item>@string/menu_arrays_Saranggani</item>
+        <item>@string/menu_arrays_South_Cotabato</item>
+        <item>@string/menu_arrays_Sultan_Kudarata</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_reg13_array">
+        <item>@string/menu_arrays_Augusan_del_Norte</item>
+        <item>@string/menu_arrays_Augusan_del_Sur</item>
+        <item>@string/menu_arrays_Butuan</item>
+        <item>@string/menu_arrays_Dinagat_Islands</item>
+        <item>@string/menu_arrays_Surigao_del_Notre</item>
+        <item>@string/menu_arrays_Surigao_del_Sur</item>
+    </string-array>
+    <string-array name="menu_setup_region_setting_phi_pro_armm_array">
+        <item>@string/menu_arrays_Basilan</item>
+        <item>@string/menu_arrays_Lanao_del_Sur</item>
+        <item>@string/menu_arrays_Maguindanao</item>
+        <item>@string/menu_arrays_Sulu</item>
+        <item>@string/menu_arrays_Tawi_Tawi</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_eu_array">
+        <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Catalan</item>
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <item>@string/menu_arrays_Danish</item>
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Icelandic</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        <item>@string/menu_arrays_Romanian</item>
+        <item>@string/menu_arrays_Russian</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <item>@string/menu_arrays_Slovenian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        <item>@string/menu_arrays_Welsh </item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Fijian</item>
+        <item>@string/menu_arrays_Khmer</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Sinhala</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Nepali</item>
+        <item>@string/menu_arrays_Dhivehi</item>
+        <item>@string/menu_arrays_Lao</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Pidgeon</item>
+        <item>@string/menu_arrays_Hebrew</item>
+        <item>@string/menu_arrays_Mongolian</item>
+        <item>@string/menu_arrays_Turkmen</item>
+        <item>@string/menu_arrays_Armenian</item>
+        <item>@string/menu_arrays_Kazakh</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Kurdish</item>
+        <item>@string/menu_arrays_Azeri</item>
+        <item>@string/menu_arrays_Uzbek</item>
+        <item>@string/menu_arrays_Ukrainian</item>
+        <item>@string/menu_arrays_Tajik</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Georgian</item>
+        <item>@string/menu_arrays_Urdu</item>
+        <item>@string/menu_arrays_Macedonian</item>
+        <item>@string/menu_arrays_Somali</item>
+        <item>@string/menu_arrays_Amharic</item>
+        <item>@string/menu_arrays_Kinyarwanda</item>
+        <item>@string/menu_arrays_Kiswahili</item>
+        <item>@string/menu_arrays_Simplified_Chinese</item>
+        <item>@string/menu_arrays_Traditional_Chinese</item>
+        <item>@string/menu_arrays_Malayalam</item>
+        <item>@string/menu_arrays_Ga</item>
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Valencian</item>
+        <item>@string/menu_array_eus</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <string-array name="menu_tv_audio_language_eu_array_value">
+        <item>"eus"</item>
+        <item>"bul"</item>
+        <item>"yue"</item>
+        <item>"cat"</item>
+        <item>"ces"</item>
+        <item>"dan"</item>
+        <item>"nld"</item>
+        <item>"eng"</item>
+        <item>"est"</item>
+        <item>"fin"</item>
+        <item>"fra"</item>
+        <item>"gla"</item>
+        <item>"gle"</item>
+        <item>"glg"</item>
+        <item>"deu"</item>
+        <item>"ell"</item>
+        <item>"hin"</item>
+        <item>"hun"</item>
+        <item>"ita"</item>
+        <item>"isl"</item>
+        <item>"jpn"</item>
+        <item>"kor"</item>
+        <item>"nor"</item>
+        <item>"pol"</item>
+        <item>"por"</item>
+        <item>"ron"</item>
+        <item>"rus"</item>
+        <item>"srp"</item>
+        <item>"slk"</item>
+        <item>"slv"</item>
+        <item>"spa"</item>
+        <item>"swe"</item>
+        <item>"tur"</item>
+        <item>"cym"</item>
+        <item>"ind"</item>
+        <item>"tha"</item>
+        <item>"msa"</item>
+        <item>"vie"</item>
+        <item>"fij"</item>
+        <item>"khm"</item>
+        <item>"mya"</item>
+        <item>"sin"</item>
+        <item>"tam"</item>
+        <item>"nep"</item>
+        <item>"div"</item>
+        <item>"lao"</item>
+        <item>"mri"</item>
+        <item>"tpi"</item>
+        <item>"mon"</item>
+        <item>"tuk"</item>
+        <item>"hye"</item>
+        <item>"kaz"</item>
+        <item>"ara"</item>
+        <item>"kur"</item>
+        <item>"aze"</item>
+        <item>"uzb"</item>
+        <item>"ukr"</item>
+        <item>"tgk"</item>
+        <item>"fas"</item>
+        <item>"kat"</item>
+        <item>"urd"</item>
+        <item>"mkd"</item>
+        <item>"som"</item>
+        <item>"amh"</item>
+        <item>"kin"</item>
+        <item>"zho"</item>
+        <item>"mal"</item>
+        <item>"gaa"</item>
+        <item>"mul"</item>
+        <item>"cmn"</item>
+        <item>"sme"</item>
+        <item>"qaa"</item>
+        <item>"nar"</item>
+        <item>"ltz"</item>
+        <item>"sqi"</item>
+        <item>"lit"</item>
+        <item>"lav"</item>
+        <item>"val"</item>
+        <item>"und"</item>
+        <item>"ben"</item>
+        <item>"swa"</item>
+        <item>"emp"</item>
+        <item>"hrv"</item>
+        <item>"heb"</item>
+        <item>"afr"</item>
+        <item>"qab"</item>
+        <item>"qac"</item>
+    </string-array>
+    <string-array name="menu_tv_rf_signal_quality">
+        <item>@string/menu_arrays_Good</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_Poor</item>
+    </string-array>
+    <string-array name="menu_tv_tv_system_array">
+        <item>@string/menu_arrays_Auto</item>
+        <item>@string/menu_arrays_BG</item>
+        <item>@string/menu_arrays_A2_BG</item>
+        <item>@string/menu_arrays_I</item>
+        <item>@string/menu_arrays_DK</item>
+        <item>@string/menu_arrays_A2_DK</item>
+        <item>@string/menu_arrays_A2_DK1</item>
+        <item>@string/menu_arrays_A2_DK2</item>
+        <item>@string/menu_arrays_M</item>
+    </string-array>
+    <string-array name="menu_tv_sound_system_array">
+        <item>@string/menu_arrays_BG</item>
+        <item>@string/menu_arrays_A2_BG</item>
+        <item>@string/menu_arrays_L</item>
+		<item>@string/menu_arrays_L1</item>
+        <item>@string/menu_arrays_I</item>
+        <item>@string/menu_arrays_DK</item>
+        <item>@string/menu_arrays_A2_DK</item>
+        <item>@string/menu_arrays_A2_DK1</item>
+        <item>@string/menu_arrays_A2_DK2</item>
+		<item>@string/menu_arrays_M</item>
+    </string-array>
+    <string-array name="menu_tv_color_system_array">
+        <item>@string/menu_arrays_Auto</item>
+        <item>@string/menu_arrays_PAL</item>
+        <item>@string/menu_arrays_SECAM</item>
+        <item>@string/menu_arrays_NTSC</item>
+    </string-array>
+    <string-array name="menu_tv_color_system_array_eu_edit">
+        <item>@string/menu_arrays_Auto</item>
+        <item>@string/menu_arrays_NTSC</item>
+        <item>@string/menu_arrays_PAL</item>
+        <item>@string/menu_arrays_SECAM</item>
+    </string-array>
+    <string-array name="menu_tv_scan_mode_array">
+        <item>@string/menu_arrays_Auto</item>
+        <item>@string/menu_arrays_16QAM</item>
+        <item>@string/menu_arrays_32QAM</item>
+        <item>@string/menu_arrays_64QAM</item>
+        <item>@string/menu_arrays_128QAM</item>
+        <item>@string/menu_arrays_256QAM</item>
+    </string-array>
+    <string-array name="menu_tv_mdu_type_array">
+        <item>@string/menu_arrays_Universal</item>
+        <item>@string/menu_arrays_MDU1</item>
+        <item>@string/menu_arrays_MDU2</item>
+        <item>@string/menu_arrays_MDU3</item>
+        <item>@string/menu_arrays_MDU4</item>
+        <item>@string/menu_arrays_MDU5</item>
+    </string-array>
+    <string-array name="menu_tv_scan_frequency_plan_array">
+        <item>@string/menu_arrays_STD</item>
+        <item>@string/menu_arrays_IRC</item>
+        <item>@string/menu_arrays_HRC</item>
+    </string-array>
+    <string-array name="menu_tv_scan_modulation_array">
+        <item>@string/menu_arrays_QAM64</item>
+        <item>@string/menu_arrays_QAM256</item>
+    </string-array>
+    <string-array name="menu_tv_us_scan_mode_array">
+        <item>@string/menu_arrays_Analog_Digital</item>
+        <item>@string/menu_arrays_Analog</item>
+        <item>@string/menu_arrays_Digital</item>
+    </string-array>
+    <string-array name="menu_tv_channeledit_array">
+        <item>@string/menu_arrays_Channel_Info</item>
+        <item>@string/menu_tv_insert</item>
+        <item>@string/menu_tv_delete</item>
+        <item>@string/menu_arrays_Swap</item>
+    </string-array>
+    <string-array name="menu_tv_freeze_channel_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_tv_fa_dataservice_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_tv_fine_tune_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_tv_skip_ch_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- setup -->
+    <string-array name="menu_setup_language_array">
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_simpleChinise</item>
+    </string-array>
+    <string-array name="menu_setup_dpms_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_ginga_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_blue_mute_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_fast_boot_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_msi_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_poweron_music_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_tv_single_signal_quality">
+        <item>@string/menu_arrays_poor</item>
+        <item>@string/menu_arrays_normal</item>
+        <item>@string/menu_arrays_good</item>
+    </string-array>
+    <string-array name="menu_setup_capturelogo_array">
+        <item>@string/menu_ci_user_preference_item_default</item>
+        <item>@string/menu_arrays_0</item>
+        <item>@string/menu_arrays_1</item>
+        <item>@string/menu_arrays_None</item>
+    </string-array>
+
+    <string-array name="menu_setup_analog_subtitle_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+        <item>@string/menu_arrays_Mute</item>
+    </string-array>
+    <string-array name="menu_setup_subtitle_type_array">
+        <item>@string/menu_arrays_normal</item>
+        <item>@string/menu_arrays_Hearing_Impaired</item>
+    </string-array>
+
+    <string-array name="screen_mode_array_sa">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Zoom</item>
+	</string-array>
+	 <string-array name="screen_mode_array_vga">
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Zoom</item>
+	</string-array>
+     <string-array name="screen_mode_array_sa_analog">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Panorama</item>
+		<item>@string/menu_arrays_Zoom</item>
+		<item>@string/menu_arrays_Dot_by_Dot</item>
+	</string-array>
+     <string-array name="screen_mode_array_us_dtv">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Panorama</item>
+		<item>@string/menu_arrays_Zoom</item>
+		<item>@string/menu_arrays_Dot_by_Dot</item>
+	</string-array>
+	<string-array name="screen_mode_array_us_pip_main_analog">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Zoom</item>
+		<item>@string/menu_arrays_Dot_by_Dot</item>
+	</string-array>
+	 <string-array name="screen_mode_array_eu_analog">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Panorama</item>
+	</string-array>
+	<string-array name="screen_mode_array_sa_pop">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+		<item>@string/menu_arrays_Zoom</item>
+	</string-array>
+	<string-array name="screen_mode_array_us_pip_sub">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+	</string-array>
+	 <string-array name="screen_mode_array_us_pop">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Zoom</item>
+	</string-array>
+	 <string-array name="screen_mode_array_sa_pip">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+		<item>@string/menu_arrays_Letterbox</item>
+	</string-array>
+	 <string-array name="screen_mode_array_us_pip">
+		<item>@string/menu_arrays_Auto</item>
+		<item>@string/menu_arrays_normal</item>
+	</string-array>
+    <!--DTV00580325  -->
+    <string-array name="menu_setup_enable_caption_array">
+        <item>@string/menu_setup_button_yes</item>
+        <item>@string/menu_setup_button_no</item>
+        <item>@string/menu_arrays_On_mute</item>
+    </string-array>
+    <string-array name="menu_setup_analog_caption_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_CC1</item>
+        <item>@string/menu_arrays_CC2</item>
+        <item>@string/menu_arrays_CC3</item>
+        <item>@string/menu_arrays_CC4</item>
+        <item>@string/menu_arrays_TEXT1</item>
+        <item>@string/menu_arrays_TEXT2</item>
+        <item>@string/menu_arrays_TEXT3</item>
+        <item>@string/menu_arrays_TEXT4</item>
+    </string-array>
+    <string-array name="menu_setup_digital_caption_array">
+        <item>@string/common_off</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+    </string-array>
+     <string-array name="menu_setup_digital_caption_sa_array">
+        <item>@string/common_off</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+    </string-array>
+    <string-array name="menu_setup_superimpose_setup_array">
+        <item>@string/common_off</item>
+        <item>"1"</item>
+        <item>"2"</item>
+    </string-array>
+    <string-array name="menu_setup_caption_style_array">
+        <item>@string/menu_arrays_As_Broadcaster</item>
+        <item>@string/option_rating_custom</item>
+    </string-array>
+    <string-array name="menu_setup_font_size_array">
+        <item>@string/menu_arrays_Small</item>
+        <item>@string/menu_arrays_Medium</item>
+        <item>@string/menu_arrays_Large</item>
+    </string-array>
+    <string-array name="menu_setup_font_style_array">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+
+    </string-array>
+    <string-array name="menu_setup_font_color_array">
+        <item>@string/menu_arrays_Black</item>
+        <item>@string/menu_arrays_White</item>
+        <item>@string/menu_arrays_Green</item>
+        <item>@string/menu_arrays_Blue</item>
+        <item>@string/menu_arrays_Red</item>
+        <item>@string/menu_arrays_Cyan</item>
+        <item>@string/menu_arrays_Yellow</item>
+        <item>@string/menu_arrays_Magenta</item>
+
+    </string-array>
+    <string-array name="menu_setup_font_opacity_array">
+        <item>@string/menu_arrays_Solid</item>
+        <item>@string/menu_arrays_Translucent</item>
+        <item>@string/menu_arrays_Transparent</item>
+    </string-array>
+    <string-array name="menu_setup_background_color_array">
+        <item>@string/menu_arrays_Black</item>
+        <item>@string/menu_arrays_White</item>
+        <item>@string/menu_arrays_Green</item>
+        <item>@string/menu_arrays_Blue</item>
+        <item>@string/menu_arrays_Red</item>
+        <item>@string/menu_arrays_Cyan</item>
+        <item>@string/menu_arrays_Yellow</item>
+        <item>@string/menu_arrays_Magenta</item>
+
+    </string-array>
+    <string-array name="menu_setup_background_opacity_array">
+        <item>@string/menu_arrays_Solid</item>
+        <item>@string/menu_arrays_Translucent</item>
+        <item>@string/menu_arrays_Transparent</item>
+    </string-array>
+    <string-array name="menu_setup_window_color_array">
+        <item>@string/menu_arrays_Black</item>
+        <item>@string/menu_arrays_White</item>
+        <item>@string/menu_arrays_Green</item>
+        <item>@string/menu_arrays_Blue</item>
+        <item>@string/menu_arrays_Red</item>
+        <item>@string/menu_arrays_Cyan</item>
+        <item>@string/menu_arrays_Yellow</item>
+        <item>@string/menu_arrays_Magenta</item>
+
+    </string-array>
+    <string-array name="menu_setup_window_opacity_array">
+        <item>@string/menu_arrays_Solid</item>
+        <item>@string/menu_arrays_Translucent</item>
+        <item>@string/menu_arrays_Transparent</item>
+    </string-array>
+    <string-array name="menu_setup_atv_record_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_time_shifting_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_setup_record_quality_array">
+        <item>@string/menu_arrays_Low</item>
+        <item>@string/menu_arrays_Middle</item>
+        <item>@string/menu_arrays_High</item>
+    </string-array>
+    <!-- <string-array name="menu_parental_age_ratings_array">
+        <item>@string/menu_arrays_None</item>
+        <item>@string/menu_arrays_Below10</item>
+        <item>@string/menu_arrays_Below12</item>
+        <item>@string/menu_arrays_Below14</item>
+        <item>@string/menu_arrays_Below16</item>
+        <item>@string/menu_arrays_Below18</item>
+    </string-array>-->
+    <string-array name="menu_parental_age_ratings_array_eu">
+        <item>@string/menu_arrays_None</item>
+        <item>@string/menu_arrays_3</item>
+        <item>@string/menu_arrays_4</item>
+        <item>@string/menu_arrays_5</item>
+        <item>@string/menu_arrays_6</item>
+        <item>@string/menu_arrays_7</item>
+        <item>@string/menu_arrays_8</item>
+        <item>@string/menu_arrays_9</item>
+        <item>@string/menu_arrays_10</item>
+        <item>@string/menu_arrays_11</item>
+        <item>@string/menu_arrays_12</item>
+        <item>@string/menu_arrays_13</item>
+        <item>@string/menu_arrays_14</item>
+        <item>@string/menu_arrays_15</item>
+        <item>@string/menu_arrays_16</item>
+        <item>@string/menu_arrays_17</item>
+        <item>@string/menu_arrays_18</item>
+    </string-array>
+        <string-array name="menu_parental_age_ratings_array_eu_sgp">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_General</item>
+        <item>@string/menu_arrays_Parental_Guidance</item>
+        <item>@string/menu_arrays_Parental_Guidance13</item>
+        <item>@string/menu_arrays_No_Children_Under16</item>
+        <item>@string/menu_arrays_Mature18</item>
+        <item>@string/menu_arrays_Restricted21</item>
+    </string-array>
+    <string-array name="menu_parental_age_ratings_array_eu_thl">
+        <item>@string/menu_arrays_OFF</item>
+        <item>@string/menu_arrays_Kid_3_5_years</item>
+        <item>@string/menu_arrays_Kid_6_12_years</item>
+        <item>@string/menu_arrays_General</item>
+        <item>@string/menu_arrays_PG13</item>
+        <item>@string/menu_arrays_PG18</item>
+        <item>@string/menu_arrays_Adult</item>
+    </string-array>
+    <string-array name="menu_parental_age_ratings_array_eu_zaf">
+        <item>@string/menu_arrays_PG_10</item>
+        <item>@string/menu_arrays_10</item>
+        <item>@string/menu_arrays_PG_13</item>
+        <item>@string/menu_arrays_13</item>
+        <item>@string/menu_arrays_16</item>
+        <item>@string/menu_arrays_18</item>
+        <item>@string/menu_arrays_R_18</item>
+    </string-array>
+    <string-array name="menu_parental_age_ratings_array_eu_ocean_aus">
+        <item>@string/menu_arrays_No_Block</item>
+        <item>@string/menu_arrays_Block_R_and_above</item>
+        <item>@string/menu_arrays_Block_AV_and_above</item>
+        <item>@string/menu_arrays_Block_MA_and_above</item>
+        <item>@string/menu_arrays_Block_M_and_above</item>
+        <item>@string/menu_arrays_Block_PG_and_above</item>
+        <item>@string/menu_arrays_Block_G_and_above</item>
+        <item>@string/option_channels_lock_all</item>
+    </string-array>
+     <!-- fix CR DTV580531 -->
+    <string-array name="menu_parental_content_ratings_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_Drugs</item>
+        <item>@string/menu_arrays_Violence</item>
+        <item>@string/menu_arrays_Sex</item>
+        <item>@string/menu_arrays_Violence_Drugs</item>
+        <item>@string/menu_arrays_Sex_Drugs</item>
+        <item>@string/menu_arrays_Violence_Sex</item>
+        <item>@string/menu_arrays_Violence_Sex_Drugs</item>
+
+    </string-array>
+
+    <string-array name="menu_factory_high_deviation_mode_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_factory_carrier_shift_function_array">
+        <item>@string/common_off</item>
+         <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_factory_fm_saturation_mute_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <string-array name="menu_parental_open_vchip_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_parental_block_unrated_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_parental_rating_enable_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_parental_block_channel_schedule_operation_array">
+        <item>@string/menu_arrays_None</item>
+        <item>@string/menu_arrays_Daily</item>
+        <item>@string/menu_arrays_Once</item>
+    </string-array>
+    <string-array name="menu_setup_digital_teletext_language_array">
+	    <item>@string/menu_arrays_Basque</item>
+        <item>@string/menu_arrays_Bulgarian</item>
+        <item>@string/menu_arrays_Cantonese</item>
+        <item>@string/menu_arrays_Catalan</item>
+        <item>@string/menu_arrays_Croatian</item>
+        <item>@string/menu_arrays_Czech</item>
+        <item>@string/menu_arrays_Danish</item>
+        <item>@string/menu_arrays_Dutch</item>
+        <item>@string/menu_arrays_English</item>
+        <item>@string/menu_arrays_Estonian</item>
+        <item>@string/menu_arrays_Finnish</item>
+        <item>@string/menu_arrays_French</item>
+        <item>@string/menu_arrays_Gaelic</item>
+        <item>@string/menu_arrays_Irish</item>
+        <item>@string/menu_arrays_Galician</item>
+        <item>@string/menu_arrays_German</item>
+        <item>@string/menu_arrays_Greek</item>
+        <item>@string/menu_arrays_Hindi</item>
+        <item>@string/menu_arrays_Hungarian</item>
+        <item>@string/menu_arrays_Italian</item>
+        <item>@string/menu_arrays_Icelandic</item>
+        <item>@string/menu_arrays_Japanese</item>
+        <item>@string/menu_arrays_Korean</item>
+        <item>@string/menu_arrays_Mandarin</item>
+        <item>@string/menu_arrays_Norwegian</item>
+        <item>@string/menu_arrays_Polish</item>
+        <item>@string/menu_arrays_Portuguese</item>
+        <item>@string/menu_arrays_Romanian</item>
+        <item>@string/menu_arrays_Russian</item>
+        <item>@string/menu_arrays_Sami</item>
+        <item>@string/menu_arrays_Serbian</item>
+        <item>@string/menu_arrays_Slovak</item>
+        <item>@string/menu_arrays_Slovenian</item>
+        <item>@string/menu_arrays_Spanish</item>
+        <item>@string/menu_arrays_Swedish</item>
+        <item>@string/menu_arrays_Turkish</item>
+        <item>@string/menu_arrays_Welsh </item>
+        <item>@string/menu_arrays_Indonesian</item>
+        <item>@string/menu_arrays_Thai</item>
+        <item>@string/menu_arrays_Bahasa_Melayu</item>
+        <item>@string/menu_arrays_Vietnamese</item>
+        <item>@string/menu_arrays_Fijian</item>
+        <item>@string/menu_arrays_Khmer</item>
+        <item>@string/menu_arrays_Burmese</item>
+        <item>@string/menu_arrays_Bengali</item>
+        <item>@string/menu_arrays_Sinhala</item>
+        <item>@string/menu_arrays_Tamil</item>
+        <item>@string/menu_arrays_Nepali</item>
+        <item>@string/menu_arrays_Divehi</item>
+        <item>@string/menu_arrays_Lao</item>
+        <item>@string/menu_arrays_Maori</item>
+        <item>@string/menu_arrays_Pidgeon</item>
+        <item>@string/menu_arrays_Hebrew</item>
+        <item>@string/menu_arrays_Mongolian</item>
+        <item>@string/menu_arrays_Turkmen</item>
+        <item>@string/menu_arrays_Armenian</item>
+        <item>@string/menu_arrays_Kazakh</item>
+        <item>@string/menu_arrays_Arabic</item>
+        <item>@string/menu_arrays_Kurdish</item>
+        <item>@string/menu_arrays_Azerbaijani</item>
+        <item>@string/menu_arrays_Uzbek</item>
+        <item>@string/menu_arrays_Ukrainian</item>
+        <item>@string/menu_arrays_Tajik</item>
+        <item>@string/menu_arrays_Persian</item>
+        <item>@string/menu_arrays_Georgian</item>
+        <item>@string/menu_arrays_Urdu</item>
+        <item>@string/menu_arrays_Macedonian</item>
+        <item>@string/menu_arrays_Somali</item>
+        <item>@string/menu_arrays_Amharic</item>
+        <item>@string/menu_arrays_Rwanda</item>
+        <item>@string/menu_arrays_Swahili</item>
+        <item>@string/menu_arrays_Original_Audio</item>
+        <item>@string/menu_arrays_Luxembourg</item>
+        <item>@string/menu_arrays_Narrative</item>
+        <item>@string/menu_arrays_Undefined</item>
+    </string-array>
+    <string-array name="menu_setup_digital_teletext_language_array_cn">
+		<item>@string/menu_arrays_ENGLISH</item>
+		<item>@string/menu_arrays_ESTONIAN</item>
+		<item>@string/menu_arrays_FINNISH</item>
+		<item>@string/menu_arrays_FRENCH</item>
+		<item>@string/menu_arrays_GAELIC</item>
+		<item>@string/menu_arrays_IRISH</item>
+		<item>@string/menu_arrays_GALICIAN</item>
+		<item>@string/menu_arrays_GERMAN</item>
+		<item>@string/menu_arrays_GREEK</item>
+		<item>@string/menu_arrays_HINDI</item>
+		<item>@string/menu_arrays_HUNGARIAN</item>
+		<item>@string/menu_arrays_ITALIAN</item>
+		<item>@string/menu_arrays_ICELANDIC</item>
+		<item>@string/menu_arrays_JAPANESE</item>
+		<item>@string/menu_arrays_KOREAN</item>
+		<item>@string/menu_arrays_MANDARIN</item>
+		<item>@string/menu_arrays_MAORI</item>
+		<item>@string/menu_arrays_NORWEGIAN</item>
+		<item>@string/menu_arrays_POLISH</item>
+		<item>@string/menu_arrays_PORTUGUESE</item>
+		<item>@string/menu_arrays_ROMANIAN</item>
+		<item>@string/menu_arrays_RUSSIAN</item>
+		<item>@string/menu_arrays_SAMI</item>
+		<item>@string/menu_arrays_SERBIAN</item>
+		<item>@string/menu_arrays_SLOVAK</item>
+		<item>@string/menu_arrays_SLOVENIAN</item>
+		<item>@string/menu_arrays_SPANISH</item>
+		<item>@string/menu_arrays_SWEDISH</item>
+		<item>@string/menu_arrays_TURKISH</item>
+		<item>@string/menu_arrays_WELSH</item>
+		<item>@string/menu_arrays_ORIGINALAUDIO</item>
+		<item>@string/menu_arrays_NARRATIVE</item>
+		<item>@string/menu_arrays_UNDEFINED</item>
+		<item>@string/menu_arrays_BASQUE</item>
+		<item>@string/menu_arrays_BULGARIAN</item>
+		<item>@string/menu_arrays_CANTONESE</item>
+		<item>@string/menu_arrays_CATALAN</item>
+		<item>@string/menu_arrays_CROATIAN</item>
+		<item>@string/menu_arrays_CZECH</item>
+		<item>@string/menu_arrays_DANISH</item>
+		<item>@string/menu_arrays_DUTCH</item>
+	</string-array>
+    <string-array name="menu_setup_decoding_page_language_array">
+		<item>@string/menu_arrays_WEST_EUR</item>
+		<item>@string/menu_arrays_EAST_EUR</item>
+		<item>@string/menu_arrays_RUSSIA</item>
+		<item>@string/menu_arrays_RUSSIA_2</item>
+		<item>@string/menu_arrays_GREEK</item>
+		<item>@string/menu_arrays_Turkey</item>
+		<item>@string/menu_arrays_Arab_Hbrw</item>
+		<item>@string/menu_arrays_Farsian</item>
+		<item>@string/menu_arrays_Arab</item>
+		<item>@string/menu_arrays_BYELORUSSIAN</item>
+    </string-array>
+    <string-array name="menu_setup_decoding_page_language_array_cn">
+		<item>@string/menu_arrays_WESTEUROPE</item>
+		<item>@string/menu_arrays_EASTEUROPE</item>
+		<item>@string/menu_arrays_RUSSIA</item>
+		<item>@string/menu_arrays_RUSSIA_2</item>
+		<item>@string/menu_arrays_GREEK</item>
+		<item>@string/menu_arrays_TURKEY</item>
+		<item>@string/menu_arrays_ARAB_HBRW</item>
+		<item>@string/menu_arrays_FARSIAN</item>
+		<item>@string/menu_arrays_ARAB</item>
+		<item>@string/menu_arrays_BYELORUSSIAN</item>
+    </string-array>
+    <string-array name="menu_setup_ttx_presentation_level_array">
+        <item>@string/menu_arrays_Level1.5</item>
+        <!-- <item>@string/menu_arrays_Level2.5</item> -->
+    </string-array>
+    <string-array name="menu_setup_us_timezone_array">
+        <item>@string/menu_arrays_Eastern_Time</item>
+        <item>@string/menu_arrays_Hawaii</item>
+        <item>@string/menu_arrays_Alaska</item>
+        <item>@string/menu_arrays_Pacific_Time</item>
+        <item>@string/menu_arrays_Arizona</item>
+        <item>@string/menu_arrays_Mountain_Time</item>
+        <item>@string/menu_arrays_Central_Time</item>
+        <item>@string/menu_arrays_Indiana</item>
+    </string-array>
+    <string-array name="menu_setup_us_timezone_str">
+        <item>@string/menu_arrays_America_New_York</item>
+        <item>@string/menu_arrays_Pacific_Honolulu</item>
+        <item>@string/menu_arrays_America_Anchorage</item>
+        <item>@string/menu_arrays_America_Los_Angeles</item>
+        <item>@string/menu_arrays_America_Phoenix</item>
+        <item>@string/menu_arrays_America_Denver</item>
+        <item>@string/menu_arrays_America_Chicago</item>
+        <item>@string/menu_arrays_America_New_York</item>
+    </string-array>
+
+    <integer-array name="menu_setup_us_timezone_values">
+        <item>@string/menu_arrays_5_1</item>
+        <item>@string/menu_arrays_10_1</item>
+        <item>@string/menu_arrays_9_1</item>
+        <item>@string/menu_arrays_8_1</item>
+        <item>@string/menu_arrays_7_1</item>
+        <item>@string/menu_arrays_7_1</item>
+        <item>@string/menu_arrays_6_1</item>
+        <item>@string/menu_arrays_5_1</item>
+    </integer-array>
+
+    <string-array name="menu_setup_timezone_array">
+        <item>@string/menu_arrays_GMT_12_00</item>
+        <item>@string/menu_arrays_GMT_11_00</item>
+        <item>@string/menu_arrays_GMT_10_00</item>
+        <item>@string/menu_arrays_GMT_9_00</item>
+        <item>@string/menu_arrays_GMT_8_00</item>
+        <item>@string/menu_arrays_GMT_7_00</item>
+        <item>@string/menu_arrays_GMT_6_00</item>
+        <item>@string/menu_arrays_GMT_5_00</item>
+        <item>@string/menu_arrays_GMT_4_00</item>
+        <item>@string/menu_arrays_GMT_3_30</item>
+        <item>@string/menu_arrays_GMT_3_00</item>
+        <item>@string/menu_arrays_GMT_2_00</item>
+        <item>@string/menu_arrays_GMT_1_00</item>
+        <item>@string/menu_arrays_As_Broadcast</item>
+        <item>@string/menu_arrays_GMT0_00</item>
+        <item>@string/menu_arrays_GMT1_00</item>
+        <item>@string/menu_arrays_GMT2_00</item>
+        <item>@string/menu_arrays_GMT3_00</item>
+        <item>@string/menu_arrays_GMT3_30</item>
+        <item>@string/menu_arrays_GMT4_00</item>
+        <item>@string/menu_arrays_GMT4_30</item>
+        <item>@string/menu_arrays_GMT5_00</item>
+        <item>@string/menu_arrays_GMT5_30</item>
+        <item>@string/menu_arrays_GMT5_45</item>
+        <item>@string/menu_arrays_GMT6_00</item>
+        <item>@string/menu_arrays_GMT6_30</item>
+        <item>@string/menu_arrays_GMT7_00</item>
+        <item>@string/menu_arrays_GMT8_00</item>
+        <item>@string/menu_arrays_GMT9_00</item>
+        <item>@string/menu_arrays_GMT9_30</item>
+        <item>@string/menu_arrays_GMT10_00</item>
+        <item>@string/menu_arrays_GMT11_00</item>
+        <item>@string/menu_arrays_GMT12_00</item>
+        <item>@string/menu_arrays_GMT12_45</item>
+        <item>@string/menu_arrays_GMT13_00</item>
+    </string-array>
+    <string-array name="menu_setup_timezone_array_cn">
+		<item>@string/menu_arrays_Midway_Island_GMT_11</item>
+		<item>@string/menu_arrays_Hawaii_GMT_10</item>
+		<item>@string/menu_arrays_Alaska_GMT_8</item>
+		<item>@string/menu_arrays_Pacific_Time_GMT_7</item>
+		<item>@string/menu_arrays_Tijuana_GMT_7</item>
+		<item>@string/menu_arrays_Arizona_GMT_7</item>
+		<item>@string/menu_arrays_Chihuahua_GMT_6</item>
+		<item>@string/menu_arrays_Mountain_Time_GMT_6</item>
+		<item>@string/menu_arrays_Central_America_GMT_6</item>
+		<item>@string/menu_arrays_Saskatchewan_GMT_6</item>
+		<item>@string/menu_arrays_Central_Time_GMT_5</item>
+		<item>@string/menu_arrays_Mexico_City_GMT_5</item>
+		<item>@string/menu_arrays_Bogota_GMT_5</item>
+		<item>@string/menu_arrays_Venezuela_GMT_430</item>
+		<item>@string/menu_arrays_Eastern_Time_GMT_4</item>
+		<item>@string/menu_arrays_Atlantic_Time_GMT_4</item>
+		<item>@string/menu_arrays_Manaus_GMT_4</item>
+		<item>@string/menu_arrays_Santiago_GMT_4</item>
+		<item>@string/menu_arrays_Brasilia_GMT_3</item>
+		<item>@string/menu_arrays_Buenos_Aires_GMT_3</item>
+		<item>@string/menu_arrays_Montevideo_GMT_3</item>
+		<item>@string/menu_arrays_Newfoundland_GMT_230</item>
+		<item>@string/menu_arrays_Greenland_GMT_2</item>
+		<item>@string/menu_arrays_Mid_Atlantic_GMT_2</item>
+		<item>@string/menu_arrays_Cape_Verde_Islands_GMT_1</item>
+		<item>@string/menu_arrays_As_Broadcast</item>
+		<item>@string/menu_arrays_Azores_GMT0</item>
+		<item>@string/menu_arrays_Casablanca_GMT0</item>
+		<item>@string/menu_arrays_London_Dublin_GMT1</item>
+		<item>@string/menu_arrays_Windhoek_GMT1</item>
+		<item>@string/menu_arrays_W_Africa_Time_GMT1</item>
+		<item>@string/menu_arrays_Amsterdam_Berlin_GMT2</item>
+		<item>@string/menu_arrays_Belgrade_GMT2</item>
+		<item>@string/menu_arrays_Brussels_GMT2</item>
+		<item>@string/menu_arrays_Sarajevo_GMT2</item>
+		<item>@string/menu_arrays_Harare_GMT2</item>
+		<item>@string/menu_arrays_Amman_Jordan_GMT3</item>
+		<item>@string/menu_arrays_Athens_Istanbul_GMT3</item>
+		<item>@string/menu_arrays_Beirut_Lebanon_GMT3</item>
+		<item>@string/menu_arrays_Cairo_GMT3</item>
+		<item>@string/menu_arrays_Helsinki_GMT3</item>
+		<item>@string/menu_arrays_Jerusalem_GMT3</item>
+		<item>@string/menu_arrays_Minsk_GMT3</item>
+		<item>@string/menu_arrays_Kuwait_GMT3</item>
+		<item>@string/menu_arrays_Baghdad_GMT3</item>
+		<item>@string/menu_arrays_Nairobi_GMT3</item>
+		<item>@string/menu_arrays_Moscow_GMT4</item>
+		<item>@string/menu_arrays_Tbilisi_GMT4</item>
+		<item>@string/menu_arrays_Dubai_GMT4</item>
+		<item>@string/menu_arrays_Kabul_GMT430</item>
+		<item>@string/menu_arrays_Tehran_GMT430</item>
+		<item>@string/menu_arrays_Baku_GMT5</item>
+		<item>@string/menu_arrays_Yerevan_GMT5</item>
+		<item>@string/menu_arrays_Uralsk_GMT5</item>
+		<item>@string/menu_arrays_Kolkata_GMT530</item>
+		<item>@string/menu_arrays_Sri_Lanka_GMT530</item>
+		<item>@string/menu_arrays_Kathmandu_GMT545</item>
+		<item>@string/menu_arrays_Islamabad_Karachi_GMT6</item>
+		<item>@string/menu_arrays_Yekaterinburg_GMT6</item>
+		<item>@string/menu_arrays_Astana_GMT6</item>
+		<item>@string/menu_arrays_Yangon_GMT630</item>
+		<item>@string/menu_arrays_Bangkok_GMT7</item>
+		<item>@string/menu_arrays_Krasnoyarsk_GMT8</item>
+		<item>@string/menu_arrays_Beijing_GMT8</item>
+		<item>@string/menu_arrays_Hong_Kong_GMT8</item>
+		<item>@string/menu_arrays_Kuala_Lumpur_GMT8</item>
+		<item>@string/menu_arrays_Perth_GMT8</item>
+		<item>@string/menu_arrays_Taipei_GMT8</item>
+		<item>@string/menu_arrays_Seoul_GMT9</item>
+		<item>@string/menu_arrays_Irkutsk_GMT9</item>
+		<item>@string/menu_arrays_Tokyo_Osaka_GMT9</item>
+		<item>@string/menu_arrays_Adelaide_GMT930</item>
+		<item>@string/menu_arrays_Darwin_GMT930</item>
+		<item>@string/menu_arrays_Yakutsk_GMT10</item>
+		<item>@string/menu_arrays_Brisbane_GMT10</item>
+		<item>@string/menu_arrays_Hobart_GMT10</item>
+		<item>@string/menu_arrays_Sydney_Canberra_GMT10</item>
+		<item>@string/menu_arrays_Guam_GMT10</item>
+		<item>@string/menu_arrays_Vladivostok_GMT11</item>
+		<item>@string/menu_arrays_Marshall_Islands_GMT12</item>
+		<item>@string/menu_arrays_Magadan_GMT12</item>
+		<item>@string/menu_arrays_Auckland_GMT12</item>
+		<item>@string/menu_arrays_Fiji_GMT12</item>
+		<item>@string/menu_arrays_Tonga_GMT13</item>
+	</string-array>
+
+    <string-array name="menu_setup_sleep_timer_array">
+        <item>@string/common_off</item>
+        <item>"10"</item>
+        <item>"20"</item>
+        <item>"30"</item>
+        <item>"40"</item>
+        <item>"50"</item>
+        <item>"60"</item>
+        <item>"90"</item>
+        <item>"120"</item>
+    </string-array>
+    <string-array name="menu_setup_power_on_channel_mode_array">
+        <item>@string/menu_arrays_Select_Mode</item>
+        <item>@string/menu_arrays_Show_Channels</item>
+    </string-array>
+    <string-array name="menu_setup_power_on_channel_select_mode_array">
+        <item>@string/menu_arrays_Last_Status</item>
+        <item>@string/menu_arrays_User_Select</item>
+    </string-array>
+    <string-array name="menu_setup_null_array">
+        <item>@string/menu_arrays_</item>
+    </string-array>
+    <string-array name="menu_setup_signalformat_array">
+        <item>@string/menu_arrays_4k420</item>
+        <item>@string/menu_arrays_4k444422</item>
+    </string-array>
+    <string-array name="menu_setup_ploazation_array">
+        <item>@string/menu_arrays_Horizonal</item>
+        <item>@string/menu_arrays_Vertical</item>
+    </string-array>
+    <string-array name="menu_setup_ploazation_array_value">
+        <item>@string/menu_arrays_0</item>
+        <item>@string/menu_arrays_1</item>
+    </string-array>
+    <!-- factory -->
+    <string-array name="menu_factory_autovedio_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- factory_video_dima  fix CR 580473-->
+    <string-array name="menu_factory_auto_dima_array">
+        <item>@string/menu_arrays_Slow_Picture</item>
+        <item>@string/menu_arrays_Action_Picture</item>
+    </string-array>
+
+    <!-- factory_video_deedge -->
+    <string-array name="menu_factory_video_diedge_array">
+        <item>@string/menu_arrays_Weak</item>
+        <item>@string/menu_arrays_Strong</item>
+    </string-array>
+
+     <!-- factory_video_xvycc -->
+    <string-array name="menu_factory_video_xvycc_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- factory_video_wcg -->
+    <string-array name="menu_factory_video_wcg_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- factory_video_flip -->
+    <string-array name="menu_factory_video_flip_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- factory_video_mirror -->
+    <string-array name="menu_factory_video_mirror_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- factory_video_local -->
+    <string-array name="menu_factory_video_local_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- factory_video_color_temperature -->
+    <string-array name="menu_factory_video_colortemperature_array">
+        <item>@string/menu_arrays_User</item>
+        <item>@string/menu_arrays_Cool</item>
+        <item>@string/menu_arrays_Standard</item>
+        <item>@string/menu_arrays_Warm</item>
+    </string-array>
+
+    <!-- factory_audio_dolby_banner -->
+    <string-array name="menu_factory_audio_dolbybanner_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- factory_audio_compression -->
+    <string-array name="menu_factory_audio_compression_array">
+        <item>@string/menu_arrays_Line</item>
+        <item>@string/menu_arrays_RF</item>
+    </string-array>
+    <!-- factory_audio_compression_factor -->
+    <string-array name="menu_factory_audio_compressionfactor_array">
+        <item>@string/common_off</item>
+        <item>@string/menu_arrays_10</item>
+        <item>@string/menu_arrays_20</item>
+        <item>@string/menu_arrays_30</item>
+        <item>@string/menu_arrays_40</item>
+        <item>@string/menu_arrays_50</item>
+        <item>@string/menu_arrays_60</item>
+        <item>@string/menu_arrays_70</item>
+        <item>@string/menu_arrays_80</item>
+        <item>@string/menu_arrays_90</item>
+        <item>@string/menu_arrays_100</item>
+    </string-array>
+    <string-array name="menu_factory_audio_compressionfactor_array_cn">
+		<item>@string/common_off</item>
+		<item>@string/menu_arrays_7_8</item>
+		<item>@string/menu_arrays_3_4</item>
+		<item>@string/menu_arrays_5_8</item>
+		<item>@string/menu_arrays_1_2</item>
+		<item>@string/menu_arrays_3_8</item>
+		<item>@string/menu_arrays_1_4</item>
+		<item>@string/menu_arrays_1_8</item>
+		<item>@string/menu_arrays_Full</item>
+	</string-array>
+    <string-array name="menu_factory_setup_eventform">
+        <item>@string/menu_arrays_Both_Form</item>
+        <item>@string/menu_arrays_Long_Form</item>
+        <item>@string/menu_arrays_Short_Form</item>
+    </string-array>
+    <string-array name="menu_factory_setup_eventform_cn">
+		<item>@string/menu_arrays_Long_Form</item>
+		<item>@string/menu_arrays_Short_Form</item>
+		<item>@string/menu_arrays_Both_Form</item>
+    </string-array>
+    <string-array name="menu_factory_setup_burning_mode">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- DTV00580367 -->
+    <string-array name="menu_factory_setup_uart_mode">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+     <string-array name="menu_factory_setup_eu_uart_mode">
+          <item>@string/common_off</item>
+         <item>@string/common_on</item>
+    </string-array>
+    <!-- factory_audio_system_test -->
+    <string-array name="menu_factory_audio_system_test_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <!-- pvr & tshift -->
+    <string-array name="pvr_tshift_srctype">
+        <item>@string/menu_tab_tv</item>
+    </string-array>
+    <!--
+    <string-array name="pvr_tshift_channel_temp_list">
+        <item>@string/menu_arrays_CH41</item>
+        <item>@string/menu_arrays_CH42</item>
+        <item>@string/menu_arrays_CH43</item>
+        <item>@string/menu_arrays_CH44</item>
+    </string-array>
+    -->
+    <string-array name="pvr_tshift_schedule_type">
+        <item>@string/menu_arrays_Record</item>
+        <item>@string/menu_arrays_Reminder</item>
+    </string-array>
+    <string-array name="pvr_tshift_repeat_type">
+        <item>@string/menu_arrays_Once</item>
+        <item>@string/menu_arrays_Week</item>
+        <item>@string/menu_arrays_Daily</item>
+    </string-array>
+    <string-array name="menu_tv_tshift_config_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_cec_on_off">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+
+    <!-- Add for EU DVBC -->
+    <string-array name="menu_scan_mode">
+        <item>@string/menu_arrays_Advance</item>
+        <item>@string/menu_arrays_Quick</item>
+        <item>@string/menu_arrays_Full</item>
+    </string-array>
+    <string-array name="menu_scan_type">
+        <item>@string/menu_arrays_Only_Digital_Channels</item>
+        <item>@string/menu_arrays_All_channels</item>
+    </string-array>
+    <string-array name="menu_scan_mode_cn">
+        <item>@string/menu_arrays_Full</item>
+        <item>@string/menu_arrays_Quick</item>
+    </string-array>
+    <string-array name="menu_tv_tuner_mode_array_full_eu">
+        <item>@string/menu_arrays_Antenna</item>
+        <item>@string/menu_arrays_Cable</item>
+        <item>@string/dvbs_preferred_satellite</item>
+        <item>@string/dvbs_general_satellite</item>
+    </string-array>
+    <string-array name="menu_setup_oad_auto_download_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+    <string-array name="menu_tv_country_region_id_eu">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="menu_tv_oceania_country_region">
+        <item>@string/menu_arrays_NSW_ACT</item>
+        <item>@string/menu_arrays_VIC</item>
+        <item>@string/menu_arrays_QLD</item>
+        <item>@string/menu_arrays_SA</item>
+        <item>@string/menu_arrays_WA</item>
+        <item>@string/menu_arrays_TAS</item>
+        <item>@string/menu_arrays_NT</item>
+    </string-array>
+    <string-array name="menu_tv_channel_listtype">
+        <item>@string/menu_ci_user_preference_item_broadcast</item>
+        <item>@string/menu_arrays_CAM</item>
+    </string-array>
+     <string-array name="menu_tv_channel_bl_type">
+        <item>@string/menu_arrays_None</item>
+        <item>@string/menu_arrays_Everyday</item>
+        <item>@string/menu_arrays_Sunday</item>
+        <item>@string/menu_arrays_Monday</item>
+        <item>@string/menu_arrays_Tuesday</item>
+        <item>@string/menu_arrays_Wednesday</item>
+        <item>@string/menu_arrays_Thursday</item>
+        <item>@string/menu_arrays_Friday</item>
+        <item>@string/menu_arrays_Saturday</item>
+    </string-array>
+    <string-array name="menu_tv_tuner_mode_array_full_eu_sat_only">
+        <item>@string/menu_arrays_Antenna</item>
+        <item>@string/menu_arrays_Cable</item>
+        <item>@string/menu_arrays_Satellite</item>
+    </string-array>
+
+    <string-array name="sat_austrate_array">
+        <item>@string/osterreichliste</item>
+        <item>@string/bundeslandliste</item>
+    </string-array>
+
+    <!-- Genre list [CHAR LIMIT=20] -->
+    <string-array name="genre_labels" translatable="true">
+        <item>@string/menu_arrays_All_channels</item>
+        <item>@string/menu_arrays_Family_Kids</item>
+        <item>@string/menu_arrays_Sports</item>
+        <item>@string/menu_arrays_Shopping</item>
+        <item>@string/menu_arrays_Movies</item>
+        <item>@string/menu_arrays_Comedy</item>
+        <item>@string/menu_arrays_Travel</item>
+        <item>@string/menu_arrays_Drama</item>
+        <item>@string/menu_arrays_Education</item>
+        <item>@string/menu_arrays_Animal_Wildlife</item>
+        <item>@string/menu_arrays_News</item>
+        <item>@string/menu_arrays_Gaming</item>
+        <item>@string/menu_arrays_Arts</item>
+        <item>@string/menu_arrays_Entertainment</item>
+        <item>@string/menu_arrays_Lifestyle</item>
+        <item>@string/menu_arrays_Music</item>
+        <item>@string/menu_arrays_Premier</item>
+        <item>@string/menu_arrays_Tech_Science</item>
+    </string-array>
+    <string-array name="menu_tv_lcn">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+        <!--<item>@string/menu_ci_user_preference_item_default</item>--><!--DTV03069639-->
+    </string-array>
+    <string-array name="menu_tv_channel_scan_type">
+        <item>@string/nav_channel_All</item>
+        <item>@string/menu_arrays_Only_Encrypted_Channels</item>
+        <item>@string/menu_arrays_Only_Free_Channels</item>
+    </string-array>
+    <string-array name="menu_tv_channel_store_type">
+        <item>@string/nav_channel_All</item>
+        <item>@string/menu_arrays_Only_Digital_Channels</item>
+        <item>@string/menu_arrays_Only_Radio_Channels</item>
+    </string-array>
+	<string-array name="menu_setting_power_time">
+	    <item>@string/menu_arrays_power_never</item>
+        <item>"4"</item>
+        <item>"6"</item>
+        <item>"8"</item>
+	</string-array>
+	<string-array name="menu_hbbtv_do_not_track">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+        <item>@string/menu_ci_user_preference_item_default</item>
+    </string-array>
+    <string-array name="menu_hbbtv_cookie_setting">
+        <item>@string/option_channels_lock_all</item>
+        <item>@string/menu_string_block_3rd_new</item>
+        <item>@string/menu_ci_user_preference_item_default</item>
+    </string-array>
+
+    <string-array name="menu_setup_digital_subtitle_array">
+        <item>@string/common_off</item>
+        <item>@string/common_on</item>
+    </string-array>
+ <string-array name="pvr_schedule_event_array">
+        <item>@string/dvr_schedule_event_type_normal</item>
+        <item>@string/dvr_schedule_event_type_track</item>
+    </string-array>
+</resources>

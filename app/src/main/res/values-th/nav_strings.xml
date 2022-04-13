@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"กลับ"</string>
+    <string name="setup_select" msgid="1270661539800592611">"เลือก"</string>
+    <string name="setup_next" msgid="4079616525492116810">"ถัดไป"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"ออก"</string>
+    <string name="satellites" msgid="2437056584091944552">"ดาวเทียม"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"อินพุต"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"ย่อย"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"แหล่งที่มาของช่อง"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"โปรดสแกนช่อง"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"ไม่มีฟังก์ชัน"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"เลือกรายการ"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"เลือก \"เพิ่มเติม\""</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"เลือก"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"จัดเรียง"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"ค่าเริ่มต้น"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"เรียงตามชื่อโดยเริ่มจากตัวอักษรลำดับสุดท้าย"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"เรียงตามชื่อโดยเริ่มจากตัวอักษรลำดับแรก"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"เข้ารหัสแล้ว"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"ค้นหา"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"โปรดป้อนหมายเลขหรือชื่อช่อง"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"การเผยแพร่"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"หมวดหมู่"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"แพ็ก"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"ดิจิทัล"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"ประเภทนี้ไม่มีช่อง โปรดเลือกประเภทอื่น"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"วิทยุ"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"อุปมัย"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"ฟรี"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"เข้ารหัสแล้ว"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"เครือข่าย"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"เลือกประเภท"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"กำลังโหลด โปรดรอสักครู่..."</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"เลื่อนหน้าขึ้น"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"เลื่อนหน้าลง"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"เลื่อนขึ้น"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"เลื่อนลง"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"รายการโปรด"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"ลบ"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"รายการดาวเทียม"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"เลือกดาวเทียม"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"รายการช่อง"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"พบช่องใหม่และเพิ่มในรายการช่องแล้ว"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"หมวดหมู่ -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"แพ็ก -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"การเลือกรายการช่อง"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"การเลือกรายการโปรด"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"รายละเอียดช่อง"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"ระดับเสียงหลัก"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"ป้อนรหัสผ่าน"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"คุณป้อนรหัสผ่านผิด 3 ครั้งแล้ว\nโปรดรอประมาณ 15 นาที..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"รหัสผ่านไม่ถูกต้อง โปรดป้อนอีกครั้ง"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"เสาอากาศ"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(ไม่มีชื่อโปรแกรม)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(ไม่มีรายละเอียดโปรแกรม)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(ไม่มีรายละเอียดช่อง)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"ไม่มีสัญญาณ"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"ไม่มีการรองรับ"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"ช่องล็อกอยู่"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"อินพุตล็อกอยู่"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"โปรแกรมล็อกอยู่"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"ช่องที่ซ่อนไว้"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"เสียงมีสัญญาณรบกวน"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"วิดีโอมีสัญญาณรบกวน"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"สลีป:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"ปิด"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"นาที"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"ไม่มีวิดีโอ"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"กำลังดึงข้อมูล…"</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"เสียงที่ไม่รู้จัก"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"สเตอริโอที่ไม่รู้จัก"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"ไม่รู้จัก"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"ไม่มีเสียง"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"ประเภท"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"ประเภทย่อย"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"รายการที่จองไว้"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"รายการกิจกรรมที่จองไว้"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"จองโปรแกรมนี้ไหม"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"จองโปรแกรมนี้แล้ว ยกเลิกไหม"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"กำลังจะออกอากาศ เปลี่ยนไปช่องดังกล่าวไหม"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"ไม่ได้จัดประเภท"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(ไม่มีรายละเอียดโปรแกรม)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"(ไม่มีข้อมูลโปรแกรม)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(ไม่มีชื่อโปรแกรม)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(ไม่มีชื่อ)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"ปลดล็อก"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"ไม่มีกำหนดการ"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"กำหนดการ"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"ไม่ระบุประเภท"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"ไม่รองรับ"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"ตกลง"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"ยกเลิก"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"เต็มหน้าจอ"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"พื้นที่พิเศษ"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"ไม่"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"ปรับ"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"ต้องการจับภาพเต็มหน้าจอหรือส่วนที่สำคัญ"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"ต้องการจับภาพหน้าจอไหม"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"โปรดเลือกตำแหน่งที่จะบันทึกโลโก้"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"กำลังจับภาพ..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"จับภาพเรียบร้อยแล้ว"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"จับภาพไม่สำเร็จ โปรดลองอีกครั้ง"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"ยกเลิกการดำเนินการนี้แล้ว"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"ไม่มีสัญญาณ อุปกรณ์จะปิด"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n"โปรดกดปุ่มใดก็ได้เพื่อดำเนินการต่อ"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"วันก่อนหน้า"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"วันถัดไป"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"ดูรายละเอียด"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"ตัวกรองประเภท"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"เลื่อนหน้าขึ้น"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"เลื่อนหน้าลง"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"เข้า"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"ไม่ระบุประเภท"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"ไม่มี"</string>
+    <string name="epg_password" msgid="8012355648918471162">"รหัสผ่าน"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"รหัสผ่านไม่ถูกต้อง"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"กำลังดึงข้อมูล…"</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"มกราคม"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"กุมภาพันธ์"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"มีนาคม"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"เมษายน"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"พฤษภาคม"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"มิถุนายน"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"กรกฎาคม"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"สิงหาคม"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"กันยายน"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"ตุลาคม"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"พฤศจิกายน"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"ธันวาคม"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"วันอาทิตย์"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"วันจันทร์"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"วันอังคาร"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"วันพุธ"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"วันพฤหัสบดี"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"วันศุกร์"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"วันเสาร์"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"รายการแอปพลิเคชัน"</string>
+    <string name="nav_select" msgid="990203763701782141">"เลือก"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"ไม่มีแอปพลิเคชัน"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"แอปพลิเคชัน Ginga กำลังโหลด..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"ต้องการหยุดคำบรรยายและเริ่มแอปพลิเคชัน Ginga ใช่ไหม"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"กำลังอัปเดตวิซาร์ด"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"ข้อมูลเพิ่มเติม"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"ไฟล์ภาพของเฟิร์มแวร์ไม่ถูกต้อง"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"กำลังอัปเดต..."</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"โปรดอย่าถอดดองเกิล USB และปิดทีวีระหว่างที่อัปเดตเฟิร์มแวร์โดยเด็ดขาด"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"กำลังตรวจสอบเฟิร์มแวร์..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"คุณแน่ใจไหมว่าต้องการอัปเดตเฟิร์มแวร์"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"อัปเดตเฟิร์มแวร์เรียบร้อยแล้ว\nโปรดรีสตาร์ททีวีเพื่อเปิดใช้งานเฟิร์มแวร์ใหม่"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"อัปเดตไม่สำเร็จ\nโปรดรีสตาร์ททีวีเพื่อดาวน์โหลดเฟิร์มแวร์อีกครั้ง"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"อัปเดตไม่สำเร็จ\nต้องการลองอีกครั้งไหม"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"อัปเดตไม่สำเร็จ โปรดเสียบ USB\nต้องการลองอีกครั้งไหม"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"ดองเกิล USB มีพื้นที่ว่างไม่เพียงพอ"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"ดองเกิล USB ไม่พร้อมใช้งาน โปรดเสียบดองเกิลและลองอีกครั้ง"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"ข้อผิดพลาดภายใน"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"ไม่มีเวอร์ชันเฟิร์มแวร์ที่ใช้ได้"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"ถอดรหัสไม่สำเร็จ"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"เฟิร์มแวร์ไม่ถูกต้อง"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"ไม่มีเฟิร์มแวร์ที่จะอัปเดต"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"ตรวจหาเฟิร์มแวร์ใหม่ไม่สำเร็จ"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"ดาวน์โหลดเฟิร์มแวร์จากเครือข่ายไม่สำเร็จ"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"ดองเกิล USB มีปัญหา"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"เปิด/ปิด"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"ต้องปิดคำบรรยายก่อนที่จะเปิดใช้ข้อความดิจิทัล ยินยอมให้ดำเนินการต่อไหม"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"ใช่"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"ไม่"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"ต้องการเปลี่ยนไปใช้บริการ EWS ไหม"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"ต้องการเปลี่ยนไปใช้บริการพิเศษไหม"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"กำลังจะจัดขึ้น ต้องการเปลี่ยนเป็นกิจกรรมดังกล่าวไหม"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"ต้องการหยุดแอปพลิเคชัน Ginga และเปิดคำอธิบายภาพไหม"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"บล็อก"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"กลุ่ม"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"หน้า"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"ไม่มีด้านบน"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"รายการหน้าโปรด"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"ไม่ได้จัดประเภท"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"เครือข่าย CI Plus มีการเปลี่ยนแปลง คุณอาจต้องค้นหาเครือข่ายที่มีการอัปเดต"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"เครือข่าย CI Plus ไม่พร้อมใช้งาน คุณต้องค้นหาเครือข่ายที่มีการอัปเดต"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"เครือข่าย CI Plus ไม่เริ่มต้น คุณต้องค้นหาเครือข่ายที่มีการอัปเดต"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"ถึงเวลาที่กำหนดไว้สำหรับการค้นหาเครือข่าย CI Plus คุณอาจต้องค้นหาเครือข่ายที่มีการอัปเดต"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"โปรดเลือกประเทศของคุณ"</string>
+    <string name="setup_country" msgid="629173256579318536">"ประเทศ"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"โปรดกำหนดค่าข้อมูลเคเบิล"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"เขตเวลา"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"โหมดสแกน"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"ความถี่ (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"การกล้ำสัญญาณ"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"อัตราซิมโบล (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"รหัสเครือข่าย"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"รหัสไปรษณีย์"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"รหัสผ่านใหม่"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"ยืนยันรหัสผ่าน"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"เลือกผู้ให้บริการ"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"ประเภทดาวเทียม"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"โปรดเลือกประเภทดาวเทียม"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"เลือกผู้ให้บริการ"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"เลือกผู้บริการได้เพียง 1 รายการจากรายการต่อไปนี้"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"โปรดกำหนดค่าข้อมูลเคเบิล"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"โปรดกำหนดค่าข้อมูลการสแกน"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"โปรดเลือกดาวเทียมเพื่อสแกนหรือแก้ไขดาวเทียมที่เลือก"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"โปรดกำหนดค่าประเภทเสาอากาศ"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"การตั้งค่าเสาอากาศ"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"โปรดตั้งพารามิเตอร์ของดาวเทียม"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"โปรดตั้งค่าพารามิเตอร์ของช่องรับส่งผ่านสัญญาณ"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"ตั้งค่า"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"การดาวน์โหลดผ่านอากาศ"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"การสแกน"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"ค้นหาซอฟต์แวร์ใหม่ผ่านอากาศไม่สำเร็จ"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"การจัดโปรแกรม"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"กำลังดาวน์โหลด"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"การดำเนินการนี้อาจใช้เวลาสูงสุด 25 นาที"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ดาวน์โหลดซอฟต์แวร์เรียบร้อยแล้ว ต้องการให้เริ่มกะพริบไฟไหม"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"จัดโปรแกรมไม่สำเร็จ หากต้องการลองอีกครั้ง\n\nโปรดโทรไปที่ศูนย์บริการ"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ดาวน์โหลดซอฟต์แวร์เรียบร้อยแล้ว รีสตาร์ททีวีเลยไหม"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"คำเตือน: โปรดอย่าถอดปลั๊กทีวีในระหว่างขั้นตอนนี้เนื่องจากอาจทำให้ทีวีมีข้อบกพร่อง"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"การอัปเดตซอฟต์แวร์ มีการอัปเดตซอฟต์แวร์ใหม่ที่แนะนำพร้อมใช้งาน การอัปเดตอาจใช้เวลาสักครู่และหน้าจออาจจะดับไป อย่าปิดทีวีระหว่างที่อัปเดต ต้องการอัปเดตเลยไหม"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"ดาวน์โหลดซอฟต์แวร์ไม่ได้ ต้องการลองอีกครั้งไหม"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"การอัปเดตซอฟต์แวร์ มีการอัปเดตซอฟต์แวร์ใหม่ที่แนะนำพร้อมใช้งาน การอัปเดตอาจใช้เวลาสักครู่และหน้าจออาจจะดับไป อย่าปิดทีวีระหว่างที่อัปเดต ต้องการอัปเดตเลยไหม จะเริ่มโดยอัตโนมัติใน <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> วินาที"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"การอัปเดตซอฟต์แวร์ ซอฟต์แวร์ใหม่ที่แนะนำจะพร้อมใช้งานเวลา <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g> การอัปเดตอาจใช้เวลาสักครู่และหน้าจออาจจะดับไป อย่าปิดเครื่องรับระหว่างที่อัปเดต หากคุณยอมรับการอัปเดตนี้ โปรดเปิดทีวีไว้หรือเปิดโหมดสแตนด์บายเมื่อถึงเวลาที่กำหนด ต้องการยอมรับการอัปเดตนี้ไหม"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"การอัปเดตซอฟต์แวร์ การอัปเดตซอฟต์แวร์ใหม่ที่แนะนำอาจมีอยู่ในช่องอื่น หากคุณตกลงที่จะดาวน์โหลด อัปเดตอาจเปลี่ยนแปลงช่องนั้นโดยอัตโนมัติ ต้องการดาวน์โหลดเลยไหม จะเริ่มดาวน์โหลดโดยอัตโนมัติใน <xliff:g id="AUTOMATICALLY">%s</xliff:g> วินาที"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"พบซอฟต์แวร์ใหม่\nคุณยินยอมให้มีการดาวน์โหลดซอฟต์แวร์โดยอัตโนมัติเมื่อทีวีอยู่ในโหมดสแตนด์บายไหม"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"การจัดโปรแกรม"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"ออสเตรีย"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"เบลเยียม"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"สวิตเซอร์แลนด์"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"สาธารณรัฐเช็ก"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"เยอรมนี"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"เดนมาร์ก"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"สเปน"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"ฟินแลนด์"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"ฝรั่งเศส"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"สหราชอาณาจักร"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"อิตาลี"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"ลักเซมเบิร์ก"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"เนเธอร์แลนด์"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"นอร์เวย์"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"สวีเดน"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"บัลแกเรีย"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"โครเอเชีย"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"กรีซ"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"ฮังการี"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"ไอร์แลนด์"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"โปแลนด์"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"โปรตุเกส"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"โรมาเนีย"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"รัสเซีย"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"เซอร์เบีย"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"สโลวาเกีย"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"สโลวีเนีย"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"ตุรกี"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"เอสโตเนีย"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"ออสเตรเลีย"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"นิวซีแลนด์"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"อินโดนีเซีย"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"โปรดเลือกเขตเวลาของคุณ"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"โปรดตั้งรหัสผ่าน 0000 ไม่ใช่รหัสผ่านที่ใช้ได้"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"โปรดป้อนรหัสไปรษณีย์"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"ตั้งรหัสผ่านเรียบร้อย"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"ช่องบางช่องหยุดทำงานเนื่องจากเครือข่ายมีการเปลี่ยนแปลง ต้องการนำช่องเหล่านั้นออกเลยไหม"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"ช่องทีวีมีการเปลี่ยนแปลง กด \"ตกลง\" เพื่อสแกนหาอัปเดต"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"การตั้งค่าเสาอากาศ"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"ดาวเทียม"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"ชื่อดาวเทียม"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"ตำแหน่งโคจร"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"การควบคุมการเคลื่อนไหว"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"ปิดใช้ขีดจำกัด"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"ไม่เลื่อนไปทิศตะวันออก"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"ไม่เลื่อนไปทิศตะวันตก"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"ตำแหน่งที่จัดเก็บ"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"ตำแหน่ง Goto"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"การอ้างอิง Goto"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"ขนาดของขั้น"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"ระยะหมดเวลา"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"เลื่อนไปทิศตะวันออก"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"เลื่อนไปทิศตะวันตก"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"หยุดการเคลื่อนไหว"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"ปิดใช้"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"ระดับเสียง 22KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"ปิด"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"เปิด"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"อัตโนมัติ"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"ช่องรับส่งผ่านสัญญาณ"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"ความถี่"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"อัตราซิมโบล (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"โพลาไรเซชัน"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"ไม่ทราบ"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"แนวนอน"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"แนวตั้ง"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"ซ้าย"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"ขวา"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"เพิ่มดาวเทียมใหม่"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"เพิ่มช่องรับส่งผ่านสัญญาณใหม่"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"การปรับดาวเทียม"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"ประเภทการสแกน"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"ประเภท Store"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"โหมดสแกน"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"การค้นหาเครือข่าย"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"ค้นหา"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"อัตโนมัติ"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"ค่าที่กำหนดล่วงหน้า"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"เฉพาะช่องที่เข้ารหัสแล้ว"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"เฉพาะช่องฟรี"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"ทั้งหมด"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"เฉพาะช่องดิจิทัล"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"เฉพาะช่องวิทยุ"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(ไม่มีดาวเทียม)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"การปรับสัญญาณดาวเทียมด้วยตนเอง"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(ไม่มีช่องรับส่งผ่านสัญญาณ)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"ไม่มีชื่อดาวเทียม\nโปรดป้อนชื่อ"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"สแกนดาวเทียมอีกครั้ง"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"การเพิ่มดาวเทียม"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"อัปเดตดาวเทียม"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"สถานะดาวเทียม"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"เครือข่าย"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"เต็ม"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"ดาวเทียม"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"ตำแหน่ง"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"พลังงาน LNB"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"ประเภทเสาอากาศ"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"สากล"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"เคเบิลเดียว"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"ตัวรับสัญญาณ"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"ตัวรับสัญญาณย่อย"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"ย่านความถี่ของผู้ใช้ <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"ความถี่ของย่าน"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"กำหนดโดยผู้ใช้"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"ตำแหน่ง"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"เคเบิล"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"ดาวเทียมที่ต้องการใช้"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"ดาวเทียมทั่วไป"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"สากล"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"โทนเบิสต์"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"ปิดใช้"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"โทนเบิสต์ A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"โทนเบิสต์ B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"เปิด"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"ปิด"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"แหล่งที่มานี้ขัดแย้งกับแหล่งที่มาของ <xliff:g id="CONFLICTS">%s</xliff:g>"</string>
+    <string name="ews_status" msgid="451574410866097453">"สถานะ <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"การตั้งค่าแหล่งที่มา"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"การเรียงลำดับช่องอัตโนมัติ"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"การสั่งซื้อรายการทีวีแบบเสียค่าใช้จ่าย"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(ไม่มีชื่อโปรแกรม)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"อินพุตไม่รองรับการสแกนอัตโนมัติ"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"เริ่มสแกนหา \"<xliff:g id="TV_INPUT">%s</xliff:g>\" โดยอัตโนมัติไม่ได้"</string>
+    <string name="str" msgid="4738306056683483195">"รายการโปรด<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"ทั้งหมด"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"วิทยุ"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"สลีป: ปิดอยู่"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"สลีป: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> นาที"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"ซูม X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"ซูม X 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"ซูม X 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"หยุดชั่วคราว: เปิดอยู่"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"หยุดชั่วคราว: ปิดอยู่"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"ไม่มีหมวดหมู่"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"ภาพยนตร์/ดราม่า"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"ข่าว/เหตุการณ์ปัจจุบัน"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"โชว์/เกมโชว์"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"กีฬา"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"กีฬา (ทั่วไป)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"โปรแกรมสำหรับเด็ก/เยาวชน"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"ดนตรี/บัลเลต์/การเต้นรำ"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"ศิลปะ/วัฒนธรรม (ไม่มีดนตรี)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"สังคม/ประเด็นทางการเมือง/เศรษฐกิจ"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"การศึกษา/วิทยาศาสตร์/หัวข้อสาระ"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"งานอดิเรกยามว่าง"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"คุณลักษณะพิเศษ"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"เด็ก"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"อีโรติก"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"อื่นๆ"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"บันเทิง"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"เหตุการณ์ปัจจุบัน"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"สาระบันเทิง"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"ตลก"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"ดราม่า"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"สารคดี"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"ข่าวสารและข้อเท็จจริง"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"กีฬา"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"ไลฟ์สไตล์"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"ข่าวสารและข้อเท็จจริง"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"ไม่รองรับ"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"ซีรีส์"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"วาไรตี้"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"ข้อมูล"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"ตลก"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"โรแมนติก"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"หนังเนื้อหาหนัก/คลาสสิก/ศาสนา/ประวัติศาสตร์/ดราม่า"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"ดนตรีหนัก/ดนตรีคลาสสิก"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"ภาพยนตร์/ดราม่าสำหรับผู้ใหญ่"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"ข่าว/เหตุการณ์ปัจจุบัน (ทั่วไป)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"รายงานข่าว/สภาพอากาศ"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"นิตยสารข่าว"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"สารคดี"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"การสนทนา/สัมภาษณ์/การอภิปราย"</string>
+    <string name="nav_News" msgid="3663290212801352195">"ข่าว"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"โชว์/เกมโชว์ (ทั่วไป)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"เกมโชว์/คำถาม/การแข่งขัน"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"รายการวาไรตี้"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"ทอล์กโชว์"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"นิตยสารกีฬา"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"อเมริกันฟุตบอล/ฟุตบอล"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"เทนนิส/สควอช"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"กีฬาประเภททีม (ไม่รวมฟุตบอล)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"การกีฬา"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"มอเตอร์สปอร์ต"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"กีฬาทางน้ำ"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"กีฬาฤดูหนาว"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"การขี่ม้า"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"กีฬาการป้องกันตัว"</string>
+    <string name="nav_Children" msgid="873820541320552860">"โปรแกรมสำหรับเด็ก/เยาวชน"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"โปรแกรมสำหรับเด็กก่อนวัยเรียน"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"โปรแกรมบันเทิงสำหรับเด็กอายุ 6 ถึง 14 ปี"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"โปรแกรมบันเทิงสำหรับเด็กอายุ 10 ถึง 16 ปี"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"โปรแกรมให้ข้อมูล/ความรู้/การสอน"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"การ์ตูน/หุ่นกระบอก"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"ดนตรี/บัลเลต์/การเต้นรำ (ทั่วไป)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"ร็อก/ป๊อป"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"เพลงโฟล์ก/เพลงดั้งเดิม"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"แจ๊ส"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"ละครเพลง/โอเปร่า"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"บัลเลต์"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"ศิลปะ/วัฒนธรรม (ไม่มีดนตรี)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"ศิลปะการแสดง"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"วิจิตรศิลป์"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"ศาสนา"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"วัฒนธรรมสมัยนิยม/ศิลปะดั้งเดิม"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"วรรณกรรม"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"ภาพยนตร์"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"ภาพยนตร์/วิดีโอทดลอง"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"การแพร่สัญญาณ/ผู้สื่อข่าว"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"การถ่ายทอดสด"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"สื่อใหม่"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"นิตยสารศิลปะ"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"แฟชั่น"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"ปฏิเสธ"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"สังคม/ประเด็นทางการเมือง/เศรษฐกิจ (ทั่วไป)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"นิตยสาร/การรายงาน/สารคดี"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"ให้คำปรึกษาด้านเศรษฐกิจ/สังคม"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"บุคคลน่าทึ่ง"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"การศึกษา/วิทยาศาสตร์/หัวข้อสาระ (ทั่วไป)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"ธรรมชาติ/สัตว์/สิ่งแวดล้อม"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"เทคโนโลยี/วิทยาศาสตร์ธรรมชาติ"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"การแพทย์/สรีรวิทยา/จิตวิทยา"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"ต่างประเทศ/การสำรวจ"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"สังคมศาสตร์/ศาสตร์แห่งจิตวิญญาณ"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"อาชีวศึกษา"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"ภาษา"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"ภาพยนตร์"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"งานอดิเรกยามว่าง (ทั่วไป)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"การท่องเที่ยว/การเดินทาง"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"งานฝีมือ"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"การขับขี่ยานยนต์"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"การออกกำลังกายและสุขภาพ"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"โฆษณา/ช็อปปิ้ง"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"การทำสวน"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"ภาษาต้นฉบับ"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"ขาวดำ"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"ไม่เผยแพร่"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"สามมิติแนวระนาบ"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"ในพื้นที่หรือภูมิภาค"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"ไม่ทราบ"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"โมโน"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"สเตอริโอ"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam Mono"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"สเตอริโอ Nicam"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM โมโน"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM สเตอริโอ"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"Dual Mono"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"เซอร์ราวด์ 2 ช่อง"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"เซอร์ราวด์"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> ช่อง"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"วันอาทิตย์"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"วันจันทร์"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"วันอังคาร"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"วันพุธ"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"วันพฤหัสบดี"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"วันศุกร์"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"วันเสาร์"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"ยกเลิก"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"ยอมรับ"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"เตือนฉันภายหลัง"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"ไม่มีสัญญาณ"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"โปรดสแกนช่อง"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"กำลังดึงข้อมูล"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"สำหรับเด็ก"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"ช่องล็อกอยู่"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"โปรแกรมล็อกอยู่"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"อินพุตล็อกอยู่"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(ไม่มีชื่อโปรแกรม)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"ช่องที่ซ่อนไว้"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"โปรแกรมเสียง"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"ไม่มีเสียงและวิดีโอ"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(ไม่มีรายละเอียดโปรแกรม)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(ไม่มีรายละเอียดช่อง)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"ไม่มีสตรีมเสียง"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"ไม่มีสตรีมวิดีโอ"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"โปรดรอสักครู่..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"ไม่รองรับวิดีโอ"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"ไม่รองรับ"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"ไม่ใช่การออกอากาศ"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"ไม่มีช่อง"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"ผู้ให้บริการบล็อกเนื้อหานี้"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"มีสัญญาณรบกวน"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"กำลังย้ายตัวจัดตำแหน่ง..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"บริการไม่ทำงาน"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"ปิดใช้"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"ไม่หยุดพัก"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"ขั้น"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"ระยะหมดเวลา"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"ซูม"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"เพิ่มช่อง <xliff:g id="MSG_CHANNEL">%1$d</xliff:g> แล้ว"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"เพิ่ม <xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g> ช่องแล้ว"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"ไม่ได้เพิ่มช่อง"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"เชื่อมต่ออุปกรณ์ USB แล้ว"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"ช่อง <xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"ข่าว รายงานข่าว"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"ปกติ ทั่วไป"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"รายงานสภาพอากาศ"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"รายการพิเศษ สารคดี"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"การเมือง รัฐสภา"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"เศรษฐกิจ รายงานตลาด"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"รายงานต่างประเทศ ระหว่างประเทศ"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"การวิเคราะห์ข่าว"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"การหารือ การประชุม"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"รายงานพิเศษ"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"รายการในพื้นที่"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"รายงานสภาพการจราจร"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"อื่นๆ"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"กีฬา"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"ข่าวกีฬา"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"เบสบอล"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"ฟุตบอล"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"กอล์ฟ"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"กีฬาอื่นๆ ที่ใช้ลูกบอล"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"ซูโม่ กีฬาต่อสู้"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"โอลิมปิก การแข่งขันระหว่างประเทศ"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"การวิ่งมาราธอน กรีฑา การว่ายน้ำ"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"กีฬาแข่งรถ"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"กีฬาทางน้ำ กีฬาฤดูหนาว"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"การแข่งม้า การแข่งขันสาธารณะ"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"รายการเล่าข่าว/เกร็ดข่าว"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"รายการซุบซิบ/เกร็ดข่าว"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"แฟชั่น"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"การใช้ชีวิต บ้าน"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"สุขภาพ การรักษาทางการแพทย์"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"ช็อปปิ้ง ธุรกิจสั่งซื้อทางไปรษณีย์"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"นักชิม การทำอาหาร"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"กิจกรรม"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"คู่มือรายการทีวี ข้อมูลรายการ"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"ละคร"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"ละครญี่ปุ่น"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"ละครต่างประเทศ"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"ละครย้อนยุค"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"เพลง"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"เพลงร็อก เพลงป๊อปญี่ปุ่น"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"เพลงร็อก เพลงป๊อปต่างประเทศ"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"คลาสสิก โอเปร่า"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"แจ๊ส ฟิวชัน"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"เพลงยอดนิยม เพลงญี่ปุ่นยอดนิยม (เพลงเอ็งกะ)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"คอนเสิร์ตสด"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"การจัดอันดับ การขอเพลง"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"คาราโอเกะ การแข่งขันร้องเพลงสมัครเล่น"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"เพลงบัลลาดญี่ปุ่น เพลงญี่ปุ่นดั้งเดิม"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"เพลงสำหรับเด็ก"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"เพลงโฟล์ก เวิลด์มิวสิก"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"รายการวาไรตี้"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"แบบทดสอบ"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"เกม"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"รายการวาไรตี้ทอล์กโชว์"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"รายการตลก"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"รายการวาไรตี้เพลง"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"รายการวาไรตี้ท่องเที่ยว"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"รายการวาไรตี้ทำอาหาร"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"ภาพยนตร์"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"ภาพยนตร์ต่างประเทศ"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"ภาพยนตร์ญี่ปุ่น"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"แอนิเมชัน"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"แอนิเมชัน/ภาพยนตร์เทคนิคพิเศษ"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"แอนิเมชันญี่ปุ่น"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"แอนิเมชันต่างประเทศ"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"เทคนิคพิเศษ"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"สารคดี/วัฒนธรรม"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"สังคม เหตุการณ์ปัจจุบัน"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"ประวัติศาสตร์ บันทึกการเดินทาง"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"ธรรมชาติ สัตว์ สิ่งแวดล้อม"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"อวกาศ วิทยาศาสตร์ วิทยาศาสตร์การแพทย์"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"วัฒนธรรม วัฒนธรรมประเพณี"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"วรรณคดี ความสามารถทางการประพันธ์"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"กีฬา"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"สารคดีทั้งหมด"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"การสัมภาษณ์ การหารือ"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"ละครเวที/การแสดงสาธารณะ"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"ละครสมัยใหม่ ละครสไตล์ตะวันตก"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"ละครเพลง"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"การเต้น บัลเลต์"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"เรื่องตลก ความบันเทิง"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"คาบูกิ ละครคลาสสิก"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"งานอดิเรก/การศึกษา"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"การเดินทาง การตกปลา ความบันเทิงกลางแจ้ง"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"การจัดสวน สัตว์เลี้ยง งานฝีมือ"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"ดนตรี ศิลปะ อุตสาหกรรมศิลป์"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"หมากรุกญี่ปุ่น (โชงิ) และ \"หมากล้อม\""</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"เกมไพ่นกกระจอก พินบอล"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"รถยนต์ จักรยานยนต์"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"คอมพิวเตอร์ เกมทีวี"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"บทสนทนา ภาษา"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"เด็กเล็ก เด็กนักเรียน"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"นักเรียนมัธยมต้นและมัธยมปลาย"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"นักศึกษามหาวิทยาลัย การสอบ"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"การศึกษาตลอดชีวิต คุณสมบัติ"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"ปัญหาด้านการศึกษา"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"สวัสดิการ"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"ผู้สูงอายุ"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"ผู้พิการ"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"การสังคมสงเคราะห์"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"อาสาสมัคร"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"ภาษามือ"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"ข้อความ (คำบรรยาย)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"คำอธิบายเกี่ยวกับการออกอากาศเสียงแบบมัลติเพล็กซ์"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"สงวนไว้"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"สงวนไว้"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"สำหรับส่วนขยาย"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"ข้อมูลภาคผนวกรายการออกอากาศดิจิทัล BS/ภาคพื้นดิน"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"ส่วนขยายของการออกอากาศดิจิทัล CS ผ่านบรอดแบนด์"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"ส่วนขยายของการออกอากาศเสียงผ่านดาวเทียมดิจิทัล"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"ข้อมูลภาคผนวกของรายการประเภทเซิร์ฟเวอร์"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"อื่นๆ"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"ก่อนหน้า"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"หน้าแรกของ Android TV"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"ไม่มี"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"รายงานนี้จัดประเภทเป็น <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"อินพุตล็อกอยู่"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"แหล่งที่มาของอินพุตถูกล็อกเนื่องจากการล็อกแหล่งที่มาของอินพุตที่คุณกำหนดไว้ คุณเปลี่ยนการตั้งค่านี้ได้ในเมนูของทีวี กด Enter เพื่อปลดล็อกหน้าจอ"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"ตรวจสอบอินพุตภายนอกหรือเลือกอินพุตอื่นโดยใช้ปุ่ม \"อินพุต\""</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"ไม่ได้ติดตั้งช่องใดไว้เลย โปรดสแกนหาช่องผ่านเมนูของทีวี"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"เนื้อหาจะพร้อมให้บริการเร็วๆ นี้ โปรดรอสักครู่"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"ช่องนี้ไม่พร้อมให้บริการในขณะนี้ โปรดติดต่อผู้ให้บริการเพื่อสอบถามข้อมูลเพิ่มเติม"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"ช่องนี้มีเฉพาะรายการแบบเสียง"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"ช่องนี้ไม่มีเนื้อหาวิดีโอและเสียง"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"กำลังโหลด"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"กำลังโหลดข้อมูลช่อง โปรดรอสักครู่"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"ทีวีไม่รองรับวิดีโอรูปแบบนี้"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"ผู้ให้บริการหยุดเนื้อหานี้"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"ขณะนี้ไม่มีช่องใดอยู่ในรายการช่องเลย"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"ผู้ให้บริการบล็อกเนื้อหานี้"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"กำลังย้ายตัวจัดตำแหน่ง"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"ตัวจัดตำแหน่งกำลังหมุนหาดาวเทียม โปรดรอสักครู่"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"ไม่มีบริการช่องที่มีการใช้งาน"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"รายการล็อกอยู่"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"โปรดสแกนหาช่อง"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"เนื้อหาจะพร้อมให้บริการเร็วๆ นี้ โปรดรอสักครู่"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"ช่อง IP"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"ไลฟ์สไตล์/งานอดิเรกยามว่าง"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"เลือกวิธีการเรียงลำดับช่อง วิธีการเริ่มต้นคือการเรียงลำดับช่องอัตโนมัติ\n        การเรียงลำดับ Pay TV แสดงหมายเลขช่องให้ผู้ใช้เห็นในรูปแบบที่ใช้งานสะดวกสำหรับลูกค้า Pay TV โดยเฉพาะ\n        ใช้การเรียงลำดับช่องอัตโนมัติหากการเรียงลำดับ Pay TV ติดตั้งช่องไม่สำเร็จ"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/วินาที"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"ปิด"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"ถูกต้อง"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"พิมพ์ผิด"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"ต้องระบุ"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"บริการทำความสะอาดหน้าจอเริ่มทำงานแล้ว จะแสดงสถานะความสะอาดของหน้าจอใน <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> นาที"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"บริการทำความสะอาดหน้าจอหยุดทำงาน"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"คุณแน่ใจไหมว่าต้องการสแกน ช่องที่ติดตั้งไว้แล้วจะถูกนำออก"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Bahasa Melayu"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"ภาษาท้องถิ่น"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"ภาษาต้นฉบับ"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"ภาษาอื่นๆ"</string>
+</resources>

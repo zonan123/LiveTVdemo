@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/input_icon_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/input_label_background"
+    android:clickable="true"
+    android:minHeight="@dimen/input_preference_height" >
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="@dimen/input_icon_view_size"
+        android:layout_height="@dimen/input_icon_view_size"
+        android:layout_gravity="start|center"
+        android:layout_marginStart="@dimen/input_icon_margin_start"
+        android:background="@drawable/filled_circle_input_background_black"
+        android:importantForAccessibility="no"
+        android:padding="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|center"
+        android:layout_marginStart="@dimen/input_label_margin_start"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:fontFamily="@font/google_sans_medium"
+            android:singleLine="true"
+            android:textColor="@color/input_label_default_text_color"
+            android:textSize="@dimen/input_label_font_size" />
+
+        <TextView
+            android:id="@+id/summary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/input_parent_label_margin_top"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:fontFamily="@font/google_sans_medium"
+            android:singleLine="true"
+            android:textColor="@color/input_parent_label_default_text_color"
+            android:textSize="@dimen/input_parent_label_font_size" />
+    </LinearLayout>
+
+</FrameLayout>

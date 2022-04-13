@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"<xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> éves kortól ajánlott."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Minden közönségnek megfelelő. A műsorok enyhe erőszakot és nyelvezetet, illetve felnőtteknek szóló jeleneteket tartalmazhatnak."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"13 éven felüliek számára megfelelő. A műsorok enyhe vagy mérsékelt nyelvezetet, enyhe erőszakot és szexuális utalásokat tartalmazhatnak."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"16 éven felüliek számára megfelelő. A műsorok kifejezettebb erőszakot, durva nyelvezetet, részleges meztelenséget és erőteljesebb szexuális utalásokat tartalmazhatnak."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Kizárólag felnőtt közönség számára megfelelő. A műsorok nagyfokú erőszakot, durva nyelvezetet és kifejezett szexuális utalásokat tartalmazhatnak."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Kábítószerek"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Szex"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Erőszak"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"A P besorolású anyagok óvodáskorú gyermekeknek szólnak."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"A C besorolású anyagok 14 évesnél fiatalabb gyermekeknek szólnak (kivéve az óvodáskorú gyermekeket)."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"A G besorolású anyagokat nem feltétlenül gyermekeknek szánják, de az általuk okozott hatásnak nagyon enyhének kell lennie, valamint nem tartalmazhatnak olyan elemeket, amelyek megtekintése valószínűleg nem megfelelő felügyelet nélküli gyermekek számára."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"A PG besorolású anyagok tartalmazhatnak felnőtteknek szóló témákat vagy elgondolásokat, de hatásuk enyhe, ezért felügyelet mellett gyermekek számára is megfelelők."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Az M besorolású anyagok felnőtt közönségnek szólnak. Megtekintésük csak 15 évesnél idősebb személyek számára ajánlott."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Az MA besorolású anyagok csak 15 éves vagy idősebb személyek számára megfelelők az erőszakos cselekmények intenzitása és/vagy gyakorisága, a szexuális jellegű ábrázolások, a durva nyelvezet, a felnőtteknek szóló témák vagy a droghasználat miatt. A kiváltott hatás erős lehet."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Az AV besorolású anyagok csak 15 éves vagy idősebb személyek számára megfelelők. Az erőszakos cselekmények intenzitása és/vagy gyakorisága, vagy az erőszak központi szerepe miatt nem alkalmasak az MA besorolásra. A besorolási követelmények minden más tekintetben egyeznek az MA besorolás követelményeivel."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Az R besorolású anyagok a jogszabályok szerint csak felnőtteknek ajánlottak. Egyes R besorolású anyagok sértők lehetnek a felnőtt közösségek egyes csoportjai számára."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Általános közönség számára"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"<xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g> éven aluliak számára nem ajánlott."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Kábítószerek"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Szex"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Erőszak"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Mentességet élvező műsorok többek között: hírek, sportműsorok, dokumentumfilmek és egyéb ismeretterjesztő műsorok; beszélgetős műsorok, videoklipek és zenés, táncos műsorok."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Fiatalabb, 8 éven aluli gyermekeknek szánt műsor."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"A műsor 8 éven felüli gyermekeknek szól. 8 évnél fiatalabb gyermekek esetében ajánlott szülő vagy gondviselő jelenléte az ilyen besorolású műsor megtekintése közben."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Ez a műsor minden korcsoportnak szól, az egész család megtekintheti."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Noha ez a műsor általános közönségnek szól, mégis elképzelhető, hogy nem megfelelő fiatalabb (8 évesnél fiatalabb) gyermekek számára. A szülőknek és gondviselőknek figyelniük kell a következőre: a műsorban előfordulhatnak olyan tartalomelemek, amelyeket néhányan nem megfelelőnek tarthatnak ahhoz, hogy 8–13 éves kor közötti gyermekek felügyelet nélkül tekintsék meg őket."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Az ilyen besorolású műsorok olyan témákat és tartalomelemeket tartalmaznak, amelyek esetleg nem megfelelők 14 év alatti nézők számára. A szülő fordítson különös gondot arra, hogy engedélyezi-e a műsor szülői vagy gondviselői felügyelet nélküli megtekintését serdülők és fiatal tizenévesek számára, mivel az ilyen besorolású műsorok realisztikus módon foglalkozhatnak felnőtteknek való témákkal és társadalmi problémákkal."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"18 éven felüli nézőknek szánt műsor."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Besorolás alól mentesülő műsorok."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"A műsor minden korosztály számára megfelelő. A G besorolású műsor ártalmas lehet a nyolc éven aluli gyermekek érzékenységére nézve."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"A műsor megfelelő az általános közönség számára, de tartalmazhat kis mértékű vagy esetleges erőszakot, ami zavaró lehet a fiatal gyermekek számára. Fiatalabb gyermekek (8 év alattiak) esetében ezért szülői felügyelet ajánlott."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"A műsor 13 éven felüliek számára megfelelő. 13 évesnél fiatalabb gyermekek csak felnőtt társaságában nézhetik meg."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"A műsor 16 éven felüliek számára megfelelő. Az ilyen besorolású műsorokban előfordulhatnak zavaró témák, helyzetek vagy viselkedések, és gyakran közvetlenebb nézőpontot használnak."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"A műsor 18 éven felüliek számára megfelelő. A felnőttek számára fenntartott műsorokban gyakran elsődleges a kifejezetten szexuális jelenetek ábrázolása. Ezenkívül lehetnek kiemelkedően erőszakosak, illetve lehetnek bennük kifejezetten realisztikus ábrázolások, melyek kegyetlenséget, kínzást vagy más szörnyűséget mutatnak be."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Minden korosztály számára ajánlott."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Gyermekek számára ajánlott."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Felnőttek számára ajánlott."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"A műsorok nem tartalmaznak az egyes korcsoportok számára nem megfelelő tartalmat, ezért minden korcsoport számára megtekinthetők."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"A műsorok 7 éven aluli gyermekek számára nem megfelelő tartalommal rendelkezhetnek, ezért esetükben szülői mérlegelés szükséges."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"A műsorok 12 éven aluli gyermekek számára nem megfelelő tartalommal rendelkezhetnek, ezért esetükben szülői mérlegelés szükséges."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"A műsorok 15 éven aluliak számára nem megfelelő tartalommal bírhatnak, ezért esetükben szülői mérlegelés szükséges."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"A műsorok 19 éven aluliak számára nem megfelelő tartalommal bírhatnak, ezért nem alkalmasak megtekintésre a 19 évnél fiatalabbak számára."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Minden korosztály számára megfelelő."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Minden korosztály számára megfelelő, de szülői felügyelet szükséges."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"13 éven felüli személyek számára megfelelő, de a 13 évesnél fiatalabb gyermekek esetében szülői felügyelet javasolt."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"16 éven felüli személyek számára alkalmas."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"16 éven felüli személyek számára megfelelő."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"21 éves és annál idősebb felnőttek számára megfelelő."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"3 és 6 éves kor közötti gyermekeknek megfelelő."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"6 és 12 éves kor közötti gyermekeknek megfelelő."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Általános közönségnek megfelelő."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"13 éven felüli személyek számára megfelelő."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"18 éven felüli személyek számára megfelelő. 18 évesnél fiatalabb gyermekek esetében szülői felügyelet szükséges"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Felnőttek számára megfelelő"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Burkoltan szexuális jellegű párbeszéd"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Durva nyelvezet"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Szexuális tartalom"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Erőszak"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Kitalált erőszak-ábrázolás"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Ezt a műsort úgy készítették, hogy minden korosztály számára megfelelő legyen."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Ezt a műsort 7 éves vagy idősebb gyermekek számára készítették."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"A legtöbb szülő minden korosztály számára megfelelőnek tartaná ezt a műsort."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Ez a műsor olyan elemeket tartalmaz, amelyet a szülők fiatalabb gyermekek számára nem megfelelőnek találhatnak. Számos szülő valószínűleg szeretné felügyelni fiatal gyermekét a megtekintéskor."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"A műsorban olyan elemek találhatók, amelyeket a szülők nagy része 14 év alattiak számára nem megfelelőnek tarthat."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Ezt a műsort kifejezetten felnőtt nézők számára készítették, ezért lehetséges, hogy 17 éven aluli gyermekek számára nem megfelelő."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Általános közönség. Semmi olyan, amit a szülők kifogásolhatónak tarthatnak gyermekükre nézve."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Szülői felügyelet javasolt. Olyan tartalommal bírhat, amelyet a szülők kifogásolhatónak tarthatnak gyermekükre nézve."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"A szülő különös gonddal mérlegelje a film megtekintésének engedélyezését. A tartalom egy része kifogásolható lehet kiskamaszok és fiatalabbak számára."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Korhatáros, felnőtt tartalommal is bír. A szülőknek határozottan javasolt tájékozódni a filmről, mielőtt elvinnék kiskorú gyermeküket a filmre."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"17 év alattiak nem tekinthetik meg. Egyértelműen felnőtteknek szól. Kiskorúak nem tekinthetik meg."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Felnőttek számára megfelelő"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"A 10 évesnél fiatalabb gyermekek számára tilos ennek a műsornak vagy filmnek a megtekintése."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Minden korosztály számára megfelelő."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"10 évesnél fiatalabb gyermekek megnézhetik ezt a műsort vagy filmet, de csak felnőtt társaságában."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"13 évesnél fiatalabb gyermekek megnézhetik ezt a műsort vagy filmet, de csak felnőtt társaságában."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"A 13 évesnél fiatalabb gyermekek számára tilos ennek a műsornak vagy filmnek a megtekintése."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"A 16 évesnél fiatalabb gyermekek számára tilos ennek a műsornak vagy filmnek a megtekintése."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"A 18 évesnél fiatalabb gyermekek számára tilos ennek a műsornak vagy filmnek a megtekintése."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"Ez kifejezetten szexuális jellegű tartalmak (pornófilmek) számára van fenntartva."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Ki"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Letiltás"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Évek"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Életkor-besorolások"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Tartalombesorolások"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Nem azonosított"</string>
+</resources>

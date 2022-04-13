@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Screen mode -->
+    <string-array name="screen_mode_array">
+        <item>@string/nav_Unknown</item>
+        <item>@string/nav_Normal</item>
+        <item>@string/nav_Letterbox</item>
+        <item>@string/nav_Pan_Scan</item>
+        <item>@string/nav_User_Defined</item>
+        <item>@string/nav_Non_Linear</item>
+        <item>@string/nav_Dot_by_Dot</item>
+        <item>@string/nav_Auto</item>
+        <item>@string/nav_Custom_Def_1</item>
+        <item>@string/nav_Custom_Def_2</item>
+        <item>@string/nav_Custom_Def_3</item>
+        <item>@string/nav_Custom_Def_4</item>
+        <item>@string/nav_Custom_Def_5</item>
+        <item>@string/nav_Custom_Def_6</item>
+        <item>@string/nav_Custom_Def_7</item>
+        <item>@string/nav_NLZ_Custom_Def_0</item>
+        <item>@string/nav_NLZ_Custom_Def_1</item>
+        <item>@string/nav_NLZ_Custom_Def_2</item>
+        <item>@string/nav_NLZ_Custom_Def_3</item>
+    </string-array>
+    <string-array name="screen_mode_array_us">
+        <item>@string/nav_Unknown</item>
+        <item>@string/nav_Normal</item>
+        <item>@string/nav_Letterbox</item>
+        <item>@string/nav_Zoom</item>
+        <item>@string/nav_User_Defined</item>
+        <item>@string/nav_Panorama</item>
+        <item>@string/nav_Dot_by_Dot</item>
+        <item>@string/nav_Auto</item>
+        <item>@string/nav_Custom_Def_1</item>
+        <item>@string/nav_Custom_Def_2</item>
+        <item>@string/nav_Custom_Def_3</item>
+        <item>@string/nav_Custom_Def_4</item>
+        <item>@string/nav_Custom_Def_5</item>
+        <item>@string/nav_Custom_Def_6</item>
+        <item>@string/nav_Custom_Def_7</item>
+        <item>@string/nav_NLZ_Custom_Def_0</item>
+        <item>@string/nav_NLZ_Custom_Def_1</item>
+        <item>@string/nav_NLZ_Custom_Def_2</item>
+        <item>@string/nav_NLZ_Custom_Def_3</item>
+    </string-array>
+
+	<!--Dovi effect-->
+	<string-array name="dolby_vision_effect_array">
+		<item>@string/nav_Bright</item>
+		<item>@string/nav_Dark</item>
+		<item>@string/nav_Movies</item>
+	</string-array>
+
+	<string-array name="dolby_vision_restore">
+		<item>@string/nav_reset</item>
+	</string-array>
+
+	<string-array name="dolby_vision_notification">
+		<item>@string/nav_Off</item>
+		<item>@string/nav_On</item>
+	</string-array>
+    <!-- Picture effect -->
+    <string-array name="picture_effect_array">
+        <item>@string/nav_User</item>
+        <item>@string/nav_Cinema</item>
+        <item>@string/nav_Sport</item>
+        <item>@string/nav_Vivid</item>
+        <item>@string/nav_Hi_Bright</item>
+    </string-array>
+    <string-array name="picture_effect_array_dovi">
+        <item>@string/nav_Dolby_Vision_Bright</item>
+        <item>@string/nav_Dolby_Vision_Dark</item>
+    </string-array>
+    <string-array name="picture_effect_array_us">
+        <item>@string/nav_User</item>
+        <item>@string/nav_Cinema</item>
+        <item>@string/nav_Sport</item>
+        <item>@string/nav_Vivid</item>
+        <item>@string/nav_Hi_Bright</item>
+        <item>@string/nav_Custom1</item>
+        <item>@string/nav_Custom2</item>
+        <item>@string/nav_Custom3</item>
+    </string-array>
+    <string-array name="setup_us_timezone_region">
+        <item>@string/nav_Eastern_Time</item>
+        <item>@string/nav_Indiana</item>
+        <item>@string/nav_Central_Time</item>
+        <item>@string/nav_Mountain_Time</item>
+        <item>@string/nav_Arizona</item>
+        <item>@string/nav_Pacific_Time</item>
+        <item>@string/nav_Alaska</item>
+        <item>@string/nav_Hawaii</item>
+    </string-array>
+    <string-array name="setup_us_timezone_str">
+        <item>@string/nav_America_New_York</item>
+        <item>@string/nav_America_New_York</item>
+        <item>@string/nav_America_Chicago</item>
+        <item>@string/nav_America_Denver</item>
+        <item>@string/nav_America_Phoenix</item>
+        <item>@string/nav_America_Los_Angeles</item>
+        <item>@string/nav_America_Anchorage</item>
+        <item>@string/nav_Pacific_Honolulu</item>
+    </string-array>
+
+    <integer-array name="setup_us_timezone_values">
+        <item>-5</item>
+        <item>-5</item>
+        <item>-6</item>
+        <item>-7</item>
+        <item>-7</item>
+        <item>-8</item>
+        <item>-9</item>
+        <item>-10</item>
+    </integer-array>
+
+    <string-array name="dvbc_operators_eu">
+        <item>@string/menu_c_channelscan_oth</item>
+        <item>@string/dvbc_operator_upc</item>
+        <item>@string/dvbc_operator_comhem</item>
+        <item>@string/dvbc_operator_canal_digital</item>
+        <item>@string/dvbc_operator_tele2</item>
+        <item>@string/dvbc_operator_stofa</item>
+        <item>@string/dvbc_operator_yousee</item>
+        <item>@string/dvbc_operator_ziggo</item>
+        <item>@string/dvbc_operator_unitymedia</item>
+        <item>@string/dvbc_operator_numericable</item>
+        <item>@string/dvbc_operator_volia</item>
+        <item>@string/dvbc_operator_telemach</item>
+        <item>@string/dvbc_operator_onlime</item>
+        <item>@string/dvbc_operator_akado</item>
+        <item>@string/dvbc_operator_tkt</item>
+        <item>@string/dvbc_operator_divan_tv</item>
+        <item>@string/dvbc_operator_net1</item>
+        <item>@string/dvbc_operator_kdg</item>
+        <item>@string/dvbc_operator_kbw</item>
+        <item>@string/dvbc_operator_blizoo</item>
+        <item>@string/dvbc_operator_telent_eu</item>
+        <item>@string/dvbc_operator_glenten</item>
+        <item>@string/dvbc_operator_tele_columbus</item>
+        <item>@string/dvbc_operator_digi</item>
+        <item>@string/dvbc_operator_voo</item>
+        <item>@string/dvbc_operator_kdg_hd</item>
+        <item>@string/dvbc_operator_krs</item>
+        <item>@string/dvbc_operator_teleing</item>
+        <item>@string/dvbc_operator_mts</item>
+        <item>@string/dvbc_operator_tvoe_stp</item>
+        <item>@string/dvbc_operator_tvoe_eka</item>
+        <item>@string/dvbc_operator_telekom</item>
+        <item>@string/dvbc_operator_dsmart</item>
+    </string-array>
+    <string-array name="dvbs_operators">
+        <item>@string/dvbs_operator_others</item>
+        <item>@string/dvbs_operator_astra_hd_plus</item>
+        <item>@string/dvbs_operator_sky_deutschland</item>
+        <item>@string/dvbs_operator_austriasat</item>
+        <item>@string/dvbs_operator_cannaldigitaal</item>
+        <item>@string/dvbs_operator_cannaldigitaal_sd</item>
+        <item>@string/dvbs_operator_tv_vlaanderen</item>
+        <item>@string/dvbs_operator_tv_vlaanderen_sd</item>
+        <item>@string/dvbs_operator_seznam_kanalu_pro_cesko</item>
+        <item>@string/dvbs_operator_seznam_kanalu_pro_slovensko</item>
+        <item>@string/dvbs_operator_ors</item>
+        <item>@string/dvbs_operator_telesat</item>
+        <item>@string/dvbs_operator_telesat_luxembourg</item>
+        <item>@string/dvbs_operator_cannal_digital</item>
+        <item>@string/dvbs_operator_n_na_karte</item>
+        <item>@string/dvbs_operator_digiturk_turksat</item>
+        <item>@string/dvbs_operator_digiturk_eutelsat</item>
+        <item>@string/dvbs_operator_fransat</item>
+        <item>@string/dvbs_operator_cyfraplus</item>
+        <item>@string/dvbs_operator_cyfrowy_polsat</item>
+        <item>@string/dvbs_operator_dsmart</item>
+        <item>@string/dvbs_operator_ntvplus</item>
+        <item>@string/dvbs_operator_astra_international_lcn</item>
+        <item>@string/dvbs_operator_name_smart_hd_plus</item>
+        <item>@string/dvbs_operator_name_nc_plus</item>
+        <item>@string/dvbs_operator_name_tivusat</item>
+        <item>@string/dvbs_operator_name_turksat_hello</item>
+        <item>@string/dvbs_operator_name_tkgs</item>
+        <item>@string/dvbs_operator_name_freeview</item>
+        <item>@string/dvbs_operator_name_digi</item>
+        <item>@string/dvbs_operator_name_diveo</item>
+        <item>@string/dvbs_operator_name_tivibu</item>
+    </string-array>
+
+</resources>

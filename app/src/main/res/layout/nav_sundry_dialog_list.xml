@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_sundry_mode_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nav_sundry_mode_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.88"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textSize="@dimen/nav_textsize_large"
+        android:background="@color/nav_ch_list_title_back" />
+
+    <com.mediatek.wwtv.tvcenter.commonview.CustListView
+        android:id="@+id/nav_sundry_mode_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.12"
+        android:choiceMode="singleChoice"
+        android:divider="@drawable/translucent_background"
+        android:listSelector="@drawable/nav_ch_list_selector"
+        android:background="@color/nav_ch_list_view_back" >
+
+        <requestFocus />
+    </com.mediatek.wwtv.tvcenter.commonview.CustListView>
+
+</LinearLayout>

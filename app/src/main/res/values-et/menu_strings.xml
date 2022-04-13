@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"Sees"</string>
+    <string name="common_off" msgid="7117815518726170364">"Väljas"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"Menüü"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"Video"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"Heli"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"TV"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"Seadistamine"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"Lapsevanematele"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"Täpsemad valikud"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"CI-kaart"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"OAD käsitsi allalaadimine"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"Inaktiivsed kanalid"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Sisesta"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"Välju"</string>
+    <string name="menu_back" msgid="5914226981357187525">"Tagasi"</string>
+    <string name="menu_set" msgid="4003160032715199809">"Määra"</string>
+    <string name="menu_ok" msgid="549595307019821477">"OK"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"Tühista"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"Filmimuusika"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"Tuuneri režiim"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"Kanalite loendi tüüp"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"Riigi/piirkonna ID"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"Riik/piirkond"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"Helikanal"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"Heli keel"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"Heli 2. keel"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"Kanalid"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"Kanalite skannimine"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"Telerisüsteem"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"Värvisüsteem"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"Värskenda skannimist"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"Analoogkanalite käsitsi skannimine"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"Ühe raadiokanali skannimine"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"Kanali muutmine"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"Kanali vahelejätmine"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"Kanali seadistus"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"Tühjenda kanalite loend"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"Külmuta kanal"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"Olek"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"Skannimine"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"Analoogkanalid"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"Digitaalsed kanalid"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"Algsagedus (MHz)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"Lõppsagedus (MHz)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"Skannimissagedus (MHz)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"QAM-i laad"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"Modulatsioonikiirus"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"Sagedusplaan"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"Modulatsioon"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"Skannimisrežiim"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"Indeksist"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"Indeksini"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"Loend on ajakohane.\n Kas soovite alla laadida?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"Sisesta"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"Kustuta"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"Kanaleid võidakse kustutada ilma ekraanil hoiatust kuvamata. Kas olete kindel?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"Funktsiooni ei toetata, kuna kanali number on väiksem kui 4001."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"Sisestage kanali number, mis on suurem kui 4000."</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"Nr"</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"Tüüp"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"Sagedus"</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"Süsteem"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"Nimi"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"Jäta vahele"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"Kõigi kanalite skannimine."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Kaksiktuuner"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"Kas soovite alustada LNB otsingut? \n Kui jätate selle toimingu vahele, kasutatakse vaikeseadeid."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"Raadiokanal"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"Signaali tase"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"Signaali kvaliteet"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"TS-i nimi:"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"Kanali number:"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"Kanali nimi:"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"Võrgu nimi:"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"Sagedus:"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"Kanalit ei leitud."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"Helisüsteem"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"Peenhäälestamine"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"Pood"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"Kas olete kindel?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"Sortimine. Oodake …"</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"Teisaldamine. Oodake …"</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"Korduvad kanalinumbrid."</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"Analoogkanali peenhäälestamine"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"Kas soovite selle kanali kindlasti eemaldada?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"Kas soovite kindlasti kõik kanalid eemaldada?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"Ekraani režiim"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"Sinine vaigistus"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"DMR-i funktsioon"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"Interaktsioonikanal"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"MHEG-i PIN-koodiga kaitsmine"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"HBBTV seaded"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"HBBTV tugi"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"Ära jälgi"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"Küpsisefailide seaded"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"Püsiv salvestusruum"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"Blokeeri jälgimissaidid"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"Seadme ID"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"Lähtesta seadme ID"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"Kas soovite kindlasti seadme ID lähtestada?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Ginga seadistus"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"DivX(R)-i registreerimine"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"Subtiitrite seadistamine"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"Algusmuusika"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"Muusika peatamine"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"Ajaseadistus"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"Teletekst"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"Subtiitrid"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"Analoogsubtiitrid"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"Digitaalsete subtiitrite keel"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"2. digitaalsete subtiitrite keel"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"Subtiitrite tüüp"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"Võrk"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"Versiooniteave"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"Tehaseseadetele lähtestamine"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"Laadi püsivara alla"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"Üldliides"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"Salvestamisseaded"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"Kanali värskendamine"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"EWBS-i regioon"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"TKGS-i seaded"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"TKGS-i lokaatori loend"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"TKGS-i peidetud asukohad"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"Lähtesta tabeli versioon"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"Eelistatud loend"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"Sihtnumber"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"Seadme teave"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"Ajanihke režiim"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"Kanalite automaatne värskendamine"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"Kanali värskendamise teade"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"Horisontaalne"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"Vertikaalne"</string>
+    <string name="ci_title" msgid="372414068198664695">"Cami teave"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Cami kaart puudub."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Cami menüü"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Cami PIN-kood"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"Kasutaja eelistus"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"Vaikimisi"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"Ülekanne"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Cami skannimine"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"Sisestage Cami PIN-kood"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"Vale. Sisestage uuesti."</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"Oodake …"</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"Võrgu värskendus"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Luba Ginga"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"Rakenduse automaatkäivitamine"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"Luba subtiitrid"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"Analoogsubtiitrid"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"Digitaalsed subtiitrid"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"Digitaalsete subtiitrite laad"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"Ülekatte seadistus"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"Subtiitrite stiil"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"Fondi suurus"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"Fondi laad"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"Fondi värv"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"Fondi läbipaistvus"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"Taustavärv"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"Tausta läbipaistvus"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"Akna värv"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"Akna läbipaistvus"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"Digitaalse teleteksti keel"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"Lehe dekodeerimise keel"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"TTX-i esituse tase"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"Automaatne sünkroonimine"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"Automaatse sisselülitumise aeg"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"Taimer"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"Vaikekanal"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"Automaatse väljalülitamise aeg"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"Juhtmeta ühenduse seaded"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"Teave"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"Vali režiim"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"Kuva kanalid"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"Alustage serverist uue püsivara allalaadimist."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"Viisardi värskendamine"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"Uue püsivara otsimine nurjus."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"Kas olete kindel?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"Analoogkanalite otsimine"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"Digikanalite otsimine"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"Skannitakse üht raadiosageduskanalit. (Ainult digitaalne)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"Kanalivahemiku alusel skannimine"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"Olek: skannimine tühistatud"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"Olek: skannimine"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"Satelliidi nimi:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"Analoogkanalid:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"Digitaalsed kanalid:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"Kas soovite kindlasti muudatused salvestada?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"Kas soovite kindlasti kõik seaded lähtestada?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"Olek: skannimine tühistatud"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"Olek: skannimise viga"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"Olek: skannimine jõudis lõpule"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"Olek: asendiregulaator liigub"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"Võrgu värskendamine …"</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"Raadiovõrgu seaded"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"Seadmega ei ole ühendatud ühtki juhtmeta seadet."</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"Jah"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"Ei"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"Mudeli nimi"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"Versioon"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"Seerianumber"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"Registreerige seade, et esitada DivX®-i kaitsega videoid.\nRegistreerimiskood: BX9ASIKQEI\n Registreerige seade aadressil http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"Registreerimise tühistamise kood:\n Registreerimise saab tühistada aadressil http://vod.divx.com\n Kas soovite registreerimist jätkata?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"BISS-i võti"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"Klõpsake BISS-i võtme lisamiseks"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"Lisa BISS-i võti"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"Sagedus"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"Polarisatsioon"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"Programmi ID"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"CW võti"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"HDMI 2.0 seaded"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"Signaali vorming"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"Parool"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"Blokeeritud kanal"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"Blokeeritud programm"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"Kanali blokeerimise ajastamine"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"Töörežiim"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"Sisend on blokeeritud"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"Parooli muutmine"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"Kustuta kõik"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"Vale parool.\nSisesta parool uuesti."</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"Sisestage parool"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"Uus parool"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"Kinnitage parool"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"Parool on vale.\nSisestage see uuesti."</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"Alguskuupäev"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"Algusaeg"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"Lõppkuupäev"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"Lõppaeg"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"Lubatud reiting"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"Blokeeritud reiting"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"USA telesaadete reitingud"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"USA filmireitingud"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"Kanada ingliskeelse sisu reitingud"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"Kanada prantsuskeelse sisu reitingud"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"Vanusepiirang"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"Juurdepääsu piiramine"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"Sisureiting"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"Blokeeri reitinguta programmid"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"Reitingu lubamine"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"Teletekst puudub"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"TOP puudub"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"Allika tüüp"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"Kanali teave"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"Ajakava tüüp"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"Korduse tüüp"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"Alguskuupäev"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"Algusaeg"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"Peatamisaeg"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"Ajanihke režiim"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"Loendi ajastamine"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"Litsentsiteave"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"Süsteemiteave"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"Automaatne allalaadimine"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"Lemmikvõrgu valimine"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"Kanalite sortimine"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"Kanali teisaldamine"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"Analoogkanali peenhäälestamine"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"Muud"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"Skanni üles"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"Skanni alla"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"Kanalite skannimisel eemaldatakse senised kanalid."</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"Võrgu ID"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"Skanni"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"Sagedus (KHz)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"Sagedus (MHz)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"Modulatsioonikiirus (Ksym/s)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"Satelliidi uuesti skannimine"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"Lisa satelliit"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"Satelliidi värskendamine"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"Satelliidi käsitsi häälestamine"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"Lemmikvõrgu valimine"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"Kanalite dekodeerimine"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"Kanal"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"Teenuse ID"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"Teenuse tüüp"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"Valige oma lemmikvõrk."</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"Kas soovite otsingutulemused salvestada?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"Midagi pole määratud"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"Konfliktse grupi register:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"Konfliktse kanali number:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"Kasuta kõigi jaoks vaikeseadet"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"Alustamine"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"Taaskäivita"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"Edenemine:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"Olek:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"Kinnitamine …"</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"Püsivara on valmis. Kas soovite kohe süsteemi taaskäivitada?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"Püsivara allalaadimiseks vajutage nuppu Alusta."</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"Allalaadimine algas"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"Allalaadimine"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"Allalaadimine on lõppenud"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"Tühista allalaadimine"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"Väljuge allalaadimisest. Allalaaditav fail puudub."</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"Kontrollimine jõudis lõpule"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"Väljuge allalaadimisest. Võrgu viga."</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"Väljuge allalaadimisest. Valideerimisel ilmnes viga."</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"Väljuge allalaadimisest. Allalaadimine nurjus."</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"Süsteemi püsivara värskendamine õnnestus."</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"Süsteemi püsivara värskendamine nurjus."</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"Digisatelliidi häälestamine"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"Kanaliloendi valimine"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"Valige kanaliloend:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"Piirkonna valimine"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"Vali regioon <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"Valige skannimisrežiim"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"TV-valikud"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"Allikas"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"Subtiitrid"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"Kuvarežiim"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"Lisa lemmikutesse"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"Minu lemmikud"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"Muuda"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"Hangi rohkem kanaleid"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"Seaded"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"Kõlarid"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"Pildirežiim"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"Saadaval on uued kanalid"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"Saatekava"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"Kanal üles"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"Kanal alla"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"Kanalid"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"Ava <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"Blokeeritud sisendid"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"Blokeeritud kanalid"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"Blokeeri kõik"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"Deblokeeri kõik"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"Jäta kõik vahele"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"Tühista kõigi vahelejätmine"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"Peidetud kanalid"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"Programmi piirangud"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"RRT5 seade"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"RRT5 seade"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"RRT5 Dim"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"RRT5 tase"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"RRT5 lähtestamine"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"PIN-koodi muutmine"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"Reitingusüsteemid"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"Reitingud"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"Kuva kõik reitingusüsteemid"</string>
+    <string name="other_countries" msgid="4596971851245610516">"Muud riigid"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"Puudub"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"Hindamata"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"Blokeeri reitinguta programmid"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"Suured piirangud"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"Keskmise taseme piirangud"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"Madala taseme piirangud"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"Ülekandena"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"Kohandatud"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"Sisu sobib lastele"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"Vanematele lastele sobiv sisu"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"Teismelistele sobiv sisu"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"Käsitsi määratud piirangud"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"Reitingute kirjelduste allikad"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> ja alamreitingud"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"Alamreitingud"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"Kanali vaatamiseks sisestage PIN-kood"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"Programmi vaatamiseks sisestage PIN-kood"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"Selle saate reiting on <xliff:g id="RATING">%1$s</xliff:g>. Saate vaatamiseks sisestage PIN-kood"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"Seda programmi ei ole hinnatud. Programmi vaatamiseks sisestage oma PIN-kood."</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"Sisestage PIN-kood"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"Vanemliku järelevalve määramiseks looge PIN-kood"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"Sisestage uus PIN"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"Kinnitage PIN-kood"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"Sisestage praegune PIN-kood"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="other">Sisestasite viis korda vale PIN-koodi.\nProovige uuesti <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> sekundi pärast.</item>
+      <item quantity="one">Sisestasite viis korda vale PIN-koodi.\nProovige uuesti <xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> sekundi pärast.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"PIN-kood on vale. Proovige uuesti."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"Proovige uuesti, PIN-kood ei ühti"</string>
+    <string name="no_program_information" msgid="2620718003929766549">"Programmiteavet pole"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"Avatud lähtekoodi litsentsid"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"Kanal"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"Kanali allikad"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"Kohanda kanaliloendit"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"Kanalite valimine saatekava jaoks"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"Kanalite installimise režiim"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"Vanemlik järelevalve"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"Multiaudio"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"Versioon"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"Valmis"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"<xliff:g id="SEASON_NUMBER">%1$s</xliff:g>. hooaeg: <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>. jagu"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>. jagu"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"<xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>. jagu – <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> – <xliff:g id="SEASONNUMBER">%2$s</xliff:g>. hooaeg, <xliff:g id="EPISODENUMBER">%3$s</xliff:g>. jagu"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"Allikate seadistamine"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"LiveTV kombineerib traditsioonilised telekanalid ja rakendustes saadaolevad voogesituskanalid. \n\nAlustamiseks seadistage juba installitud kanaliallikad. Võite ka sirvida veebipoodi, et hankida rakendusi, mis pakuvad reaalajakanaleid."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"Uus"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"Allikad"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> kanalit</item>
+      <item quantity="one"><xliff:g id="ONE">%1$d</xliff:g> kanal</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"Ühtki kanalit pole saadaval"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"Uus"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"Pole seadistatud"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"Kanalite skannimise tüüp"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"Kanali talletamise tüüp"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"Kuulmispuudega"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"Stereo"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"Automaatne stereo"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"Ruumiline heli"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"Määramata"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"Antenn"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"Kaabel"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"Mono"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"Algne heli"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"Algversioon"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"Hea"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"Kehv"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"Analoog/digitaal"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"Analoog"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"Digitaalne"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"Kanali teave"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"Vaheta"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"kehv"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"hea"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"Puudub"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"Vaigista"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"Automaatne"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"Tavaline"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"Suum"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"Vaigistatud"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"Teenus<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"Keel<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"Ülekandja vaikeseade"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"Keskmine"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"Väike"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"Suur"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"Stiil<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"Must"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"Valge"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"Roheline"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"Sinine"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"Punane"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"Tsüaan"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"Kollane"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"Magenta"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"Läbipaistmatu"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"Läbikumav"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"Läbipaistev"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"Alla <xliff:g id="BELOW_XX">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"Üldine"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"Vanemlik järelevalve"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"PG13"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"Ei ole mõeldud alla 16-aastastele lastele"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"Täiskasvanud alates 18. eluaastast"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"Alates 21. eluaastast"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"3–5 aastased lapsed"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"6–12-aastased lapsed"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"Täiskasvanu"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"Blokeering puudub"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"Blokeeri alates reitingust R"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"Blokeeri alates reitingust AV"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"Blokeeri alates reitingust MA"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"Blokeeri alates reitingust M"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"Blokeeri alates reitingust PG"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"Blokeeri alates reitingust G"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"Uimastid"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"Vägivald"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"Seks"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"Vägivald ja uimastid"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"Seks ja uimastid"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"Vägivald ja seks"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"Vägivald, seks ja uimastid"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"Iga päev"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"Üks kord"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"Tase 1,5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"Tase 2,5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> minutit"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"Vali režiim"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"Kuva kanalid"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"Viimane olek"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"Kasutaja valik"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"Horisontaalne"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"Vertikaalne"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"Salvesta"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"Meeldetuletus"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"Nädal"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"Täielik"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"Täpsem"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"Kiire"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"Riigi/piirkonna ID: <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"Iga päev"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"pühapäev"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"esmaspäev"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"teisipäev"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"kolmapäev"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"neljapäev"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"reede"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"laupäev"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"Satelliit"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"Kõik kanalid"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"Pere/lapsed"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"Sport"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"Ostlemine"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"Filmid"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"Huumor"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"Reisimine"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"Draama"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"Haridus"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"Loomad/loodus"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"Uudised"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"Mängud"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"Kunst"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"Meelelahutus"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"Elustiil"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"Muusika"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"Esilinastus"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"Tehnika/teadus"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"Ainult krüpteeritud kanalid"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"Ainult tasuta kanalid"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"Ainult digitaalsed kanalid"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"Ainult raadiokanalid"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"Mitte kunagi"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> tundi"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"Automaatne unerežiim"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"Unerežiimi nõuanded"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"Teleri unerežiim aktiveerub viie minuti pärast. Kas soovite unerežiimi lubada?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"Skannimine on taustal pooleli, proovige hiljem uuesti"</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"cwkey ei saa olla väiksem kui 16"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"Ei saa olla tühi."</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"Kehtetu sisend."</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"Tekst puudub"</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"0000 on kehtetu parool"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"FreeviewPlay seaded"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"Nõuded ja tingimused"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"Teenuse käsitsi värskendamine"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"Heli laad"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"Heli"</string>
+    <string name="device_picture" msgid="1347473641807661535">"Pilt"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"Salvesta võti"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"Värskenda võtit"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"Kustuta võti"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"Konfliktne DiSEqC tüüp, kontrollige DiSEqC seadeid."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"Määrake kindlasti satelliidi nimi ja lõpetage DiSEqC seadistamine."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"Eelseadete loendi laadimiseks on vaja, et vähemalt üks alltoodud satelliitidest oleks valitud:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n Seega ei saanud eelseadete loendit laadida!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"Kanaleid salvestatakse, oodake …"</string>
+</resources>

@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tif_timeshift"
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    android:background="@drawable/info_banner_background">
+
+    <LinearLayout
+        android:id="@+id/tshfit_root1"
+        android:layout_width="wrap_content"
+        android:layout_height="52dp"
+        android:layout_marginStart="10dip"
+        android:orientation="vertical"
+        android:paddingBottom="15dp" >
+
+        <TextView
+            android:id="@+id/program_start_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/pvr_tshift_offset_time"
+            android:textColor="@color/white"
+            android:textSize="@dimen/nav_textsize_normal" />
+    <LinearLayout
+        android:id="@+id/tshfit_fast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dip"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp" 
+        android:background="@drawable/info_banner_background">
+        <ImageView
+            android:id="@+id/tshift_plcontorl_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="@dimen/padding_medium"
+            android:src="@drawable/timshift_pasuse" />
+         <ImageView
+            android:id="@+id/tshift_plcontorl_btn_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="invisible"
+            android:padding="@dimen/padding_medium"
+            android:src="@drawable/timeshift_f_one" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/tshfit_root2"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_alignBaseline="@+id/tshfit_root1"
+        android:layout_alignBottom="@+id/tshfit_root1"
+        android:layout_alignTop="@+id/tshfit_root1"
+        android:layout_toEndOf="@+id/tshfit_root1"
+        android:layout_marginEnd="20dip" >
+
+        <TextView
+            android:id="@+id/tf_playing_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/pvr_tshift_13_00"
+            android:textColor="@color/white"
+            android:textSize="@dimen/nav_textsize_normal" />
+
+        <TextView
+            android:id="@+id/program_end_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/pvr_tshift_13_30"
+            android:textColor="@color/white"
+            android:textSize="@dimen/nav_textsize_normal" />
+
+          <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="3dp"
+            android:layout_below="@+id/tf_playing_time">
+
+            <ImageView
+                android:id="@+id/timeline_bg_start"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:src="@color/play_controls_progress_bar_background" />
+            <ImageView
+                android:id="@+id/watched"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/timeline_bg_start"
+                android:src="@color/play_controls_progress_bar_watched" />
+            <ImageView
+                android:id="@+id/buffered"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/watched"
+                android:src="@color/play_controls_progress_bar_buffered" />
+            <ImageView
+                android:id="@+id/timeline_bg_end"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_toEndOf="@id/buffered"
+                android:src="@color/play_controls_progress_bar_background" />
+
+        </RelativeLayout>
+         <ImageView
+	        android:id="@+id/time_indicator"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@+id/tf_playing_time"
+	        android:background="@drawable/play_controls_time_indicator"
+	        android:visibility="visible"
+	        android:elevation="1dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_ll_favoriteList_model"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/nav_ll_favoriteList_layout"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+         <LinearLayout
+            android:id="@+id/nav_channel_list_title_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_channel_list_title_height"
+            android:background="@color/nav_ch_list_title_back"
+            android:orientation="horizontal">
+            
+            <TextView android:id="@+id/nav_favorite_list_title"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="@string/nav_channel_list" 
+                android:paddingStart="@dimen/nav_channel_details_channel_info_padding"
+                android:paddingTop="@dimen/nav_channel_title_padding_top"
+                android:textColor="@color/white"
+                android:textSize="@dimen/nav_channel_list_textsize_large" 
+                android:textStyle="bold"/>
+             <ImageView
+                android:id="@+id/nav_fav_type"
+                android:layout_width="19dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/nav_channel_list_function_layout_padding"
+                android:layout_marginTop="52dp"
+                android:src="@drawable/tv_favtype"
+                android:visibility="visible" />
+        </LinearLayout>
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <ListView
+                android:id="@+id/nav_favorite_listview"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:background="@color/nav_ch_list_view_back"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/translucent_background"
+                android:ellipsize="end"
+                android:listSelector="@drawable/nav_ch_list_selector"
+                android:scrollbars="none" >
+
+                <requestFocus />
+            </ListView>
+
+            <ListView
+                android:id="@+id/nav_favourite_typeview"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="right"
+                android:background="@color/nav_ch_list_view_back"
+                android:choiceMode="singleChoice"
+                android:divider="@drawable/translucent_background"
+                android:ellipsize="end"
+                android:listSelector="@drawable/nav_ch_list_selector"
+                android:scrollbars="none"
+                android:visibility="gone" >
+
+                <requestFocus />
+            </ListView>
+        </FrameLayout>
+        <TableLayout
+            android:id="@+id/nav_favourite_list_tip"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_channel_list_title_height"
+            android:background="@color/nav_ch_list_view_back"
+            android:gravity="bottom|center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/nav_channel_list_item_padding"
+            android:paddingLeft="@dimen/nav_channel_list_function_layout_padding"
+            android:paddingRight="@dimen/nav_channel_list_function_layout_padding" >
+
+            <TableRow
+                android:id="@+id/nav_fav_page_up_down"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:visibility="invisible" >
+
+                    <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"                    
+                    android:src="@drawable/tk_cm_color_key_red" 
+                    />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_up"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/nav_page_up"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+                 <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/tk_cm_color_key_green" />
+
+                <TextView
+                    android:id="@+id/channel_nav_page_down"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/nav_page_down"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/nav_fav_page_function"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+                <ImageView
+                    android:id="@+id/channel_nav_select_list_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/tk_cm_color_key_yellow" />
+
+                <TextView
+                    android:id="@+id/channel_nav_select_list"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/nav_fav_list_move"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+
+                <ImageView
+                    android:id="@+id/channel_nav_exit_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:src="@drawable/tk_cm_color_key_blue" />
+
+                <TextView
+                    android:id="@+id/channel_nav_exit"
+                    android:layout_width="0px"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/nav_favorite_list_marLeft"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/nav_delete"
+                    android:textColor="@color/nav_channel_list_color_txt"
+                    android:textSize="@dimen/nav_channel_list_textsize_timeduration" />
+            </TableRow>
+        </TableLayout>
+        
+    </LinearLayout>
+
+</LinearLayout>

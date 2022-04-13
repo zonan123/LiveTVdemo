@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"تفعيل"</string>
+    <string name="common_off" msgid="7117815518726170364">"إيقاف"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"القائمة"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"الفيديو"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"الصوت"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"تلفزيون"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"الإعداد"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"الرقابة الأبوية"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"الخيارات المتقدمة"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"بطاقة CI"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"تنزيل OAD اليدوي"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"القنوات المتوقفة"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"إدخال"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"خروج"</string>
+    <string name="menu_back" msgid="5914226981357187525">"رجوع"</string>
+    <string name="menu_set" msgid="4003160032715199809">"ضبط"</string>
+    <string name="menu_ok" msgid="549595307019821477">"حسنًا"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"إلغاء"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"موسيقى تصويرية"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"وضع الموالف"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"نوع قائمة القنوات"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"رقم تعريف منطقة البلد"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"منطقة البلد"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"القناة الصوتية"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"اللغة الصوتية"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"اللغة الصوتية الثانية"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"القنوات"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"البحث عن القنوات"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"نظام التلفزيون"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"نظام الألوان"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"تحديث البحث"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"البحث اليدوي التناظري"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"البحث عن تردد لاسلكي واحد"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"تعديل القناة"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"تخطي القناة"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"إعداد القناة"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"محو قائمة القنوات"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"تجميد القناة"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"الحالة"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"جارٍ البحث"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"القنوات التناظرية"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"القنوات الرقمية"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"تردد البدء (ميغاهرتز)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"تردد النهاية (ميغاهرتز)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"تردد البحث (ميغاهرتز)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"نمط QAM"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"معدّل الترميز"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"مخطط التردد"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"تعديل"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"وضع البحث"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"من الفهرس"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"إلى الفهرس"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"سبق تحديث قائمة القنوات.\n هل تريد استكمال التنزيل؟"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"إدراج"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"حذف"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"قد يتم حذف القنوات بدون عرض تحذير على الشاشة. هل أنت متأكد؟"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"هذه الميزة غير متاحة لأن عدد القنوات يقل عن 4001."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"يُرجى إدخال عدد قنوات أكبر من 4000."</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"الرقم"</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"النوع"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"التردد"</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"النظام"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"الاسم"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"التخطّي"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"البحث عن جميع القنوات"</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"الموالف الثنائي"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"هل تريد بدء بحث LNB الآن؟ \n عند تجاوز هذه الخطوة، يتم استخدام الإعدادات التلقائية."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"قناة التردد اللاسلكي"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"مستوى الإشارة"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"جودة الإشارة"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"اسم TS :"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"رقم القناة :"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"اسم القناة :"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"اسم الشبكة :"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"التردّد :"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"لم يتم العثور على القناة."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"نظام الصوت"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"توليف دقيق"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"حفظ"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"هل أنت متأكد؟"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"جارٍ الترتيب. يُرجى الانتظار..."</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"جارٍ النقل. يُرجى الانتظار..."</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"نسخ أرقام القنوات"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"التوليف الدقيق للقنوات التناظرية"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"هل تريد إزالة هذه القناة؟"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"هل تريد فعلاً إزالة جميع القنوات؟"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"وضع الشاشة"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"الشاشة الزرقاء"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"وظائف DMR"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"قناة التفاعل"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"حماية رقم التعريف الشخصي وفق MHEG"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"إعدادات HBBTV"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"دعم HBBTV"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"عدم التعقب"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"إعدادات ملف تعريف الارتباط"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"التخزين الثابت"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"حظر مواقع التتبع الإلكترونية"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"مُعرِّف الجهاز"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"إعادة ضبط معرّف الجهاز"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"هل تريد فعلاً إعادة ضبط معرّف الجهاز؟"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"إعداد Ginga"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"تسجيل DivX(R)"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"إعداد الشرح"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"الموسيقى الناشئة"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"إيقاف الموسيقى"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"ضبط الوقت"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"نصوص المعلومات"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"الترجمة"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"الترجمة التناظرية"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"لغة الترجمة الرقمية"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"لغة الترجمة الرقمية الثانية"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"نوع الترجمة"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"شبكة"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"معلومات الإصدار"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"إعادة الضبط على الإعدادات الأصلية"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"تنزيل البرامج الثابتة"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"الواجهة المشتركة"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"إعدادات التسجيل"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"تحديث القناة"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"منطقة EWBS"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"إعدادات TKGS"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"قائمة محدِّد مواقع TKGS"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"مواقع TKGS المخفيّة"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"إعادة ضبط إصدار الجدول"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"القائمة المُفضّلة"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"الرمز البريدي"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"معلومات الجهاز"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"وضع الانتقال الزمني"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"تحديث القنوات تلقائيًا"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"رسالة تحديث القناة"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"أفقي"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"رأسي"</string>
+    <string name="ci_title" msgid="372414068198664695">"معلومات Cam"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"ليس هناك شريحة Cam."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"قائمة Cam"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"رمز رقم التعريف الشخصي لجهاز Cam"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"الإعدادات المفضلة للمستخدم"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"تلقائية"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"البث"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"البحث عن Cam"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"يُرجى إدخال رمز رقم التعريف الشخصي لجهاز cam."</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"رمز غير صحيح. يُرجى إعادة الإدخال مرة أخرى."</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"يُرجى الانتظار..."</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"ترقية الشبكة"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"تفعيل Ginga"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"التشغيل التلقائي للتطبيق"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"تفعيل الترجمة والشرح"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"مقاطع الترجمة والشرح التناظرية"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"مقاطع الترجمة والشرح الرقمية"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"نمط الشرح الرقمي"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"إعداد التراكب"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"نمط الترجمة والشرح"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"حجم الخط"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"نمط الخط"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"لون الخط"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"تعتيم الخط"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"لون الخلفية"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"تعتيم الخلفية"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"لون النافذة"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"تعتيم النافذة"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"لغة نصوص المعلومات الرقمية"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"فك ترميز لغة الصفحة"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"مستوى عرض TTX"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"المزامنة التلقائية"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"وقت التشغيل التلقائي"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"الموقّت"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"القناة التلقائية"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"زمن الإيقاف التلقائي"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"الإعدادات اللاسلكية"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"معلومات"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"اختيار الوضع"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"عرض القنوات"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"ابدأ بتنزيل البرامج الثابتة الجديدة من الخادم."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"جارٍ تحديث المعالج"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"تعذَّر التحقق من وجود برامج ثابتة جديدة."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"هل أنت متأكد؟"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"البحث عن القنوات التناظرية"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"البحث عن القنوات الرقمية"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"يمكنك البحث عن القنوات ذات الترددات اللاسلكية الأحادية. (الرقمية فقط)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"البحث في نطاق من القنوات"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"الحالة: تم إلغاء البحث"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"الحالة: جارٍ البحث عن القنوات"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"اسم القمر الصناعي:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"القنوات التناظرية:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"القنوات الرقمية:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"هل تريد فعلاً حفظ البيانات؟"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"هل تريد فعلاً إعادة ضبط جميع الإعدادات؟"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"الحالة: تم إلغاء البحث"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"الحالة: خطأ بالبحث"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"الحالة: اكتمل البحث عن القنوات"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"الحالة: جارٍ تحريك ضابط الموضع"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"جارٍ ترقية الشبكة..."</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"إعدادات الجهاز اللاسلكي"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"لا يوجد جهاز لاسلكي متصل بالتلفزيون."</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"نعم"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"لا"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"اسم الطراز"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"الإصدار"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"الرقم التسلسلي"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"يجب أن تسجِّل جهازك لتشغيل فيديوهات DivX®‎ المحمية.\nرمز التسجيل:BX9ASIKQEI\n يُرجى التسجيل على http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"رمز إلغاء التسجيل:\n يمكنك إلغاء التسجيل على http://vod.divx.com\n هل تريد مواصلة التسجيل؟"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"مفتاح BISS"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"انقر لإضافة مفتاح BISS."</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"إضافة مفتاح BISS"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"التردّد الصوتي"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"الاستقطاب"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"معرِّف البرنامج"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"مفتاح CW"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"ضبط HDMI 2.0"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"تنسيق الإشارة"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"كلمة المرور"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"حظر القناة"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"حظر البرنامج"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"حظر جدول القناة"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"وضع التشغيل"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"حظر المدخلات"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"تغيير كلمة المرور"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"محو الكل"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"كلمة المرور غير صحيحة.\nيُرجى إدخالها مرةً أخرى."</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"يُرجى إدخال كلمة المرور."</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"كلمة المرور الجديدة"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"تأكيد كلمة المرور"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"كلمة المرور غير متطابقة.\nيُرجى إدخالها مرةً أخرى."</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"تاريخ البدء"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"وقت البدء"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"تاريخ الانتهاء"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"وقت الانتهاء"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"التقييم المسموح به"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"التقييم المحظور"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"تقييمات التليفزيون الأمريكي"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"تقييمات الأفلام الأمريكية"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"التقييمات الإنجليزية الكندية"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"التقييمات الفرنسية الكندية"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"التقييم حسب العمر"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"تقييد الوصول"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"تقييم المحتوى"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"حظر البرامج غير المقيَّمة"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"تفعيل إعدادات التقييم"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"بدون نصوص المعلومات"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"عدم ظهور نصوص المعلومات بالجزء العلوي"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"نوع المصدر"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"معلومات القناة"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"نوع الجدول الزمني"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"نوع التكرار"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"تاريخ البدء"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"وقت البدء"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"وقت الإيقاف"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"وضع التحكم بالبث"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"قائمة جداول التسجيلات"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"معلومات الترخيص"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"معلومات النظام"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"التنزيل تلقائيًا"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"اختيار الشبكة المفضَّلة"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"ترتيب القنوات"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"نقل القناة"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"الضبط الدقيق للقنوات التناظرية"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"أخرى"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"البحث صعودًا"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"البحث نزولاً"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"سيؤدي البحث عن القنوات إلى إزالة القنوات السابقة."</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"معرّف الشبكة"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"البحث عن القنوات"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"التردّد الصوتي (كيلوهرتز)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"التردد الصوتي (ميغاهرتز)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"معدّل الترميز (ألف رمز/ثانية)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"إعادة البحث عن القمر الصناعي"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"إضافة القمر الصناعي"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"تعديل القمر الصناعي"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"ضبط القمر الصناعي يدويًا"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"اختيار الشبكة المفضَّلة"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"فك ترميز القناة"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"القناة"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"معرّف الخدمة"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"نوع الخدمة"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"يُرجى اختيار الشبكة المفضَّلة:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"هل تريد حفظ نتائج البحث؟"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"لم يتم تحديد أي عنصر"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"مؤشر المجموعة المتضارب:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"رقم القناة المتضارب:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"استخدام الإعداد التلقائي لكل الخيارات"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"البدء"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"إعادة التشغيل"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"التقدم:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"الحالة:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"جارٍ التحقق..."</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"البرامج الثابتة جاهزة. هل تريد فعلاً إعادة تشغيل النظام الآن؟"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"يُرجى الضغط على الزر \"بدء\" لتنزيل البرامج الثابتة."</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"بدأ التنزيل"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"جارٍ التنزيل"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"اكتمل التنزيل"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"إلغاء التنزيل"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"ملف التنزيل غير موجود، لذا يُرجى إلغاء عملية التنزيل."</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"اكتمل التحقق."</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"حدث خطأ في الشبكة، لذا يُرجى إلغاء عملية التنزيل."</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"حدث خطأ أثناء مرحلة التحقّق، لذا يُرجى إلغاء عملية التنزيل."</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"تعذَّر التنزيل بسبب خطأ غير معروف، لذا يُرجى إلغاء عملية التنزيل."</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"تمت ترقية البرامج الثابتة في النظام بنجاح."</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"تعذَّر على النظام ترقية البرامج الثابتة."</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"ضبط إشارات القمر الصناعي الرقمية"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"اختيار قائمة القنوات"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"يُرجى اختيار قائمة القنوات:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"اختيار منطقة"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"اختيار المنطقة لـ <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"يُرجى اختيار وضع البحث."</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"خيارات التلفزيون"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"المصدر"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"مقاطع الترجمة والشرح"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"وضع العرض"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"الإضافة إلى \"المحتوى المفضّل\""</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"المحتوى المفضّل"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"تعديل"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"جلب قنوات أخرى"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"الإعدادات"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"مكبِّرات صوت"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"وضع الصورة"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"تتوفَّر قنوات جديدة."</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"دليل البرامج"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"تبديل القناة صعودًا"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"تبديل القناة نزولاً"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"القنوات"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"فتح <xliff:g id="APP_NAME">%1$s</xliff:g>"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"تم حظر المدخلات"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"القنوات المحظورة"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"حظر الكل"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"إلغاء حظر الكل"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"تخطّي الكل"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"إلغاء تخطّي الكل"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"القنوات المخفية"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"قيود البرنامج"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"ضبط RRT5"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"ضبط RRT5"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"تعتيم RRT5"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"مستوى RRT5"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"إعادة ضبط RRT5"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"تغيير رقم التعريف الشخصي"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"أنظمة التقييم"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"التقييمات"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"الاطّلاع على جميع أنظمة التقييم"</string>
+    <string name="other_countries" msgid="4596971851245610516">"بلدان أخرى"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"بدون قنوات مؤمَّنة"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"غير مقيَّم"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"حظر البرامج غير المقيَّمة"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"قيود كبيرة"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"قيود متوسطة"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"قيود ضئيلة"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"مثل البثّ"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"مخصّص"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"محتوى مناسب للأطفال"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"محتوى مناسب للأطفال الأكبر سنًا"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"محتوى مناسب للمراهقين"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"قيود يدوية"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"مصادر أوصاف التقييم"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> والتقييمات الفرعية"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"التقييمات الفرعية"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"أدخِل رقم التعريف الشخصي لمشاهدة هذه القناة."</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"يجب إدخال رقم التعريف الشخصي لمشاهدة هذا البرنامج"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"هذا البرنامج يحمل التقييم <xliff:g id="RATING">%1$s</xliff:g>. يُرجى إدخال رقم التعريف الشخصي لمشاهدة هذا البرنامج."</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"لم يتم تقييم هذا البرنامج. يُرجى إدخال رقم التعريف الشخصي لمشاهدة هذا البرنامج."</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"إدخال رقم التعريف الشخصي"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"لتحديد أدوات الرقابة الأبوية، عليك إنشاء رقم تعريف شخصي."</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"إدخال رقم تعريف شخصي جديد"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"تأكيد رقم التعريف الشخصي"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"إدخال رقم التعريف الشخصي الحالي"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="zero">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> ثانية.</item>
+      <item quantity="two">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد ثانيتين (<xliff:g id="COUNTDOWN_XX">%1$d</xliff:g>).</item>
+      <item quantity="few">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> ثوانٍ.</item>
+      <item quantity="many">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> ثانية.</item>
+      <item quantity="other">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> ثانية.</item>
+      <item quantity="one">لقد أدخلت رقم التعريف الشخصي بشكل خاطئ 5 مرات.\nيُرجى إعادة المحاولة بعد <xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> ثانية.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"رقم التعريف الشخصي هذا خاطئ. أعِد المحاولة."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"يُرجى إعادة المحاولة لأنّ رقم التعريف الشخصي غير مطابق."</string>
+    <string name="no_program_information" msgid="2620718003929766549">"لا تتوفّر معلومات عن البرنامج"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"التراخيص المفتوحة المصدر"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"القناة"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"مصادر القنوات"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"تخصيص قائمة قنوات"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"اختَر القنوات التي تريد إدراجها في دليل البرامج الخاص بك."</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"وضع تثبيت القنوات"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"أدوات الرقابة الأبوية"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"إعدادات صوتية متعددة"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"الإصدار"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"تم"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"الموسم <xliff:g id="SEASON_NUMBER">%1$s</xliff:g>: الحلقة <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"الحلقة <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"الحلقة <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g> <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> في الموسم <xliff:g id="SEASONNUMBER">%2$s</xliff:g>: الحلقة <xliff:g id="EPISODENUMBER">%3$s</xliff:g>"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"إعداد مصادرك"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"يجمع LiveTV بين تجربة قنوات التلفزيون التقليدية وقنوات البث التي توفِّرها التطبيقات. \n\nيمكنك البدء من خلال إعداد مصادر القنوات المثبَّتة حاليًا، أو تصفُّح المتجر على الإنترنت للحصول على المزيد من التطبيقات التي توفِّر خدمات البث المباشر."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"الجديدة"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"المصادر"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="zero"><xliff:g id="OTHER">%1$d</xliff:g> قناة</item>
+      <item quantity="two">قناتان (<xliff:g id="OTHER">%1$d</xliff:g>)</item>
+      <item quantity="few"><xliff:g id="OTHER">%1$d</xliff:g> قنوات</item>
+      <item quantity="many"><xliff:g id="OTHER">%1$d</xliff:g> قناة</item>
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> قناة</item>
+      <item quantity="one">قناة واحدة (<xliff:g id="ONE">%1$d</xliff:g>)</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"لا تتوفر أي قناة."</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"جديدة"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"لم يتم الإعداد."</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"نوع البحث عن القنوات"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"نوع تخزين القنوات"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"الأشخاص الذين يعانون من مشاكل في السمع"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"استريو"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"استريو تلقائي"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"صوت مجسّم"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"غير محدَّد"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"الهوائي"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"الكابل"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"أحادي"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"الصوت الأصلي"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"الإصدار الأصلي"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"جيدة"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"ضعيفة"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"تناظري/رقمي"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"تناظري"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"رقمي"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"معلومات القناة"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"تبديل"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"ضعيفة"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"جيد"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"بدون تقييم"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"كتم الصوت"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"تلقائي"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"عادي"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"تكبير/تصغير"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"الصوت مكتوم"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"الخدمة<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"اللغة<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"تمامًا كالحجم من جهة البث"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"متوسط"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"صغيرة"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"كبيرة"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"النمط<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"أسود"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"أبيض"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"أخضر"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"أزرق"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"أحمر"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"سماوي"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"أصفر"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"أرجواني"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"جامد"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"شبه شفاف"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"شفاف"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"أقلّ من <xliff:g id="BELOW_XX">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"الجمهور العام"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"يُنصح بالإرشاد الأبوي"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"يُنصح بالإرشاد الأبوي للأطفال دون 13 عامًا"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"غير مناسب للأطفال دون 16 عامًا"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"مناسب للبالغين في سن 18 عامًا وما فوق"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"مقيَّد لسن 21 عامًا وما فوق"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"مناسب للأطفال بين 3 و5 أعوام"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"مناسب للأطفال بين 6 و12 عامًا"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"للأشخاص البالغين"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"بدون حظر"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"حظر المحتوى الحاصل على تقييم R وما فوق"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"حظر المحتوى الحاصل على تقييم AV وما فوق"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"حظر المحتوى الحاصل على تقييم MA وما فوق"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"حظر المحتوى الحاصل على تقييم M وما فوق"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"حظر المحتوى الحاصل على تقييم PG وما فوق"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"حظر المحتوى الحاصل على تقييم G وما فوق"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"مخدرات"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"عنف"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"جنس"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"عنف ومخدرات"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"جنس ومخدرات"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"عنف وجنس"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"عنف وجنس ومخدرات"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"يوميًا"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"مرة واحدة"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"المستوى 1.5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"المستوى 2.5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> دقيقة"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"اختيار الوضع"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"عرض القنوات"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"الحالة الأخيرة"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"اختيار المستخدم"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"أفقي"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"عمودي"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"تسجيل"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"تذكير"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"أسبوع"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"كامل"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"بحث متقدم"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"سريع"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"رقم تعريف منطقة البلد <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"كل يوم"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"الأحد"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"الاثنين"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"الثلاثاء"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"الأربعاء"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"الخميس"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"الجمعة"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"السبت"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"قمر صناعي"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"كل القنوات"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"العائلة/الأطفال"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"رياضة"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"تسوُّق"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"أفلام"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"كوميديا"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"سفر"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"دراما"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"تعليم"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"حيوانات/حياة برية"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"أخبار"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"ألعاب"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"فنون"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"ترفيه"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"نمط حياة"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"موسيقى"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"العرض الأول"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"تكنولوجيا/علوم"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"القنوات المشفّرة فقط"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"القنوات المجانية فقط"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"القنوات الرقمية فقط"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"قنوات الراديو فقط"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"مطلقًا"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> ساعة"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"السكون التلقائي"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"نصائح وضع السكون"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"سيدخل التلفزيون في وضع السكون خلال 5 دقائق. هل ترغب في إبقائه على هذه الحالة؟"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"عملية البحث جارية في الخلفية، يُرجى إعادة المحاولة لاحقًا."</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"يجب ألا يقل عدد أحرف مفتاح cwkey عن 16 حرفًا."</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"يجب إدخال قيمة."</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"الإدخال غير صحيح."</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"لا يوجد نص"</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"\"0000\" كلمة مرور غير صحيحة."</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"إعدادات Freeview Play"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"الأحكام والشروط"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"التعديل اليدوي للخدمة"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"نمط الصوت"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"الصوت"</string>
+    <string name="device_picture" msgid="1347473641807661535">"الصورة"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"مفتاح الحفظ"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"مفتاح التعديل"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"مفتاح الحذف"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"حدَث تعارض في نوع DiSEqC، لذا يُرجى التحقق من إعدادات DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"يُرجى التأكد من اختيار اسم القمر الصناعي وإعدادات DiSEqC."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"يتطلب تحميل قائمة المحطات المُفضّلة اختيار واحد على الأقل من الأقمار الصناعية التالية:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n لذلك، تعذّر تحميل قائمة المحطات المُفضّلة."</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"جارٍ تخزين القنوات الآن، يُرجى الانتظار..."</string>
+</resources>

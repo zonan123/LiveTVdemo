@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="description_age_num" msgid="2310840604629413136">"Disyorkan untuk peringkat umur <xliff:g id="DESCRIPTION_AGE_NUM_ID">%d</xliff:g> ke atas."</string>
+    <string name="description_ar_tv_atp" msgid="275280778758600669">"Sesuai untuk semua khalayak. Rancangan mungkin mengandungi keganasan, bahasa dan situasi matang yang sederhana."</string>
+    <string name="description_ar_tv_sam_13" msgid="395458137803720902">"Sesuai untuk peringkat umur 13 tahun ke atas. Rancangan mungkin mengandungi bahasa yang sederhana dan keganasan ringan dan rujukan seksual."</string>
+    <string name="description_ar_tv_sam_16" msgid="5461932730891880296">"Sesuai untuk peringkat umur 16 tahun ke atas. Rancangan mungkin mengandungi keganasan yang lebih intensif dan bahasa kasar, kebogelan separa dan rujukan seksual yang sederhana."</string>
+    <string name="description_ar_tv_sam_18" msgid="967289005476938628">"Sesuai untuk khalayak matang sahaja. Rancangan mengandungi keganasan yang berlebihan, bahasa kasar dan rujukan seksual yang eksplisit."</string>
+    <string name="description_ar_tv_d" msgid="5687319465704756897">"Dadah"</string>
+    <string name="description_ar_tv_s" msgid="3649269859977270733">"Seks"</string>
+    <string name="description_ar_tv_v" msgid="4115089510428057167">"Keganasan"</string>
+    <string name="description_au_tv_p" msgid="8443265431119407386">"Bahan yang dikelaskan sebagai P adalah khusus untuk kanak-kanak prasekolah."</string>
+    <string name="description_au_tv_c" msgid="8211009928919927197">"Bahan yang dikelaskan sebagai C adalah khusus untuk kanak-kanak (selain kanak-kanak prasekolah) yang belum berumur 14 tahun."</string>
+    <string name="description_au_tv_g" msgid="3648769415275928051">"Bahan yang dikelaskan sebagai G tidak semestinya khusus untuk kanak-kanak, tetapi kandungannya mestilah sangat ringan dari segi impak dan tidak mengandungi sebarang perkara yang mungkin tidak sesuai untuk ditonton oleh kanak-kanak tanpa pengawasan."</string>
+    <string name="description_au_tv_pg" msgid="2474110069879436425">"Bahan yang dikelaskan sebagai PG mungkin mengandungi tema atau konsep dewasa tetapi memberikan kesan yang ringan dan tetap sesuai ditonton oleh kanak-kanak dengan pengawasan."</string>
+    <string name="description_au_tv_m" msgid="3758823660530867895">"Bahan yang dikelaskan sebagai M adalah untuk pembaca dewasa. Disyorkan untuk ditonton oleh mereka yang berumur 15 tahun ke atas sahaja."</string>
+    <string name="description_au_tv_ma" msgid="1560774867226204453">"Bahan yang dikelaskan sebagai MA sesuai untuk tontonan oleh individu berusia 15 tahun ke atas sahaja kerana keamatan dan/atau kekerapan keganasan, gambaran seksual, bahasa kesat, tema dewasa atau penggunaan dadah. Kesannya mungkin keterlaluan."</string>
+    <string name="description_au_tv_av" msgid="9052849694835114072">"Bahan yang dikelaskan sebagai AV sesuai untuk tontonan oleh individu berusia 15 tahun ke atas sahaja. Bahan ini tidak sesuai dikelaskan sebagai MA kerana keamatan dan/atau kekerapan keganasan atau kerana keganasan adalah pusat kepada tema. Dalam aspek lain, keperluan pengelasan tersebut adalah sama dengan pengelasan MA."</string>
+    <string name="description_au_tv_r" msgid="5658589437756696378">"Bahan yang dikelaskan sebagai R dihadkan dari segi undang-undang kepada orang dewasa. Sesetengah bahan yang dikelaskan sebagai R mungkin menyinggung perasaan sebahagian golongan dewasa."</string>
+    <string name="description_br_tv_l" msgid="3659480129004604299">"Khalayak umum"</string>
+    <string name="description_br_tv_num" msgid="8592393496388213855">"Tidak disyorkan untuk peringkat umur di bawah <xliff:g id="DESCRIPTION_BR_TV_NUM_ID">%d</xliff:g>."</string>
+    <string name="description_br_tv_d" msgid="531580256923909164">"Dadah"</string>
+    <string name="description_br_tv_s" msgid="6296128386089692428">"Seks"</string>
+    <string name="description_br_tv_v" msgid="4791910148551562553">"Keganasan"</string>
+    <string name="description_ca_tv_en_exempt" msgid="4594700374681841325">"Rancangan yang dikecualikan termasuk: berita, sukan, dokumentari dan rancangan informasi lain; rancangan bual bicara, video muzik dan rancangan aneka ragam."</string>
+    <string name="description_ca_tv_en_c" msgid="4239130347733600747">"Rancangan ini khusus untuk kanak-kanak di bawah umur 8 tahun."</string>
+    <string name="description_ca_tv_en_c8" msgid="157653961756834847">"Rancangan ini khusus untuk golongan muda 8 tahun ke atas. Ibu bapa/penjaga dicadangkan supaya menonton rancangan yang diberikan pengelasan ini bersama-sama dengan kanak-kanak di bawah umur 8 tahun."</string>
+    <string name="description_ca_tv_en_g" msgid="9011387267323394838">"Rancangan ini khusus untuk semua peringkat umur dan sesuai ditonton seisi keluarga."</string>
+    <string name="description_ca_tv_en_pg" msgid="1281647966041358531">"Rancangan khusus untuk khalayak umum ini mungkin tidak sesuai untuk kanak-kanak (di bawah umur 8 tahun). Ibu bapa/penjaga perlu tahu bahawa mungkin terdapat sesetengah unsur kandungan yang boleh dianggap tidak sesuai untuk tontonan oleh kanak-kanak dalam lingkungan umur 8-13 tahun tanpa pengawasan."</string>
+    <string name="description_ca_tv_en_14" msgid="5215879895927351742">"Rancangan dengan pengelasan ini mengandungi tema atau unsur kandungan yang mungkin tidak sesuai untuk penonton peringkat umur bawah 14 tahun. Ibu bapa digesa untuk menggunakan budi bicara dalam membenarkan praremaja dan remaja awal usia menonton tanpa pengawasan ibu bapa/penjaga kerana rancangan dengan pengelasan ini mungkin mengandungi tema matang dan isu kemasyarakatan dengan cara yang realistik."</string>
+    <string name="description_ca_tv_en_18" msgid="728062003854446182">"Rancangan ini khusus untuk penonton 18 tahun ke atas."</string>
+    <string name="description_ca_tv_fr_e" msgid="6181168031949930593">"Rancangan terkecuali daripada pengelasan."</string>
+    <string name="description_ca_tv_fr_g" msgid="812712328730700550">"Rancangan ini sesuai ditonton oleh individu daripada semua peringkat umur. Rancangan dengan penarafan G mungkin boleh menyinggung perasaan sentitif kanak-kanak di bawah umur lapan tahun."</string>
+    <string name="description_ca_tv_fr_8" msgid="4710290620628915788">"Rancangan ini sesuai untuk orang ramai tetapi mungkin mengandungi keganasan ringan atau sekali-sekala yang boleh mengganggu kanak-kanak. Tontonan dengan pengawasan orang dewasa adalah disyorkan untuk kanak-kanak (berumur 8 tahun ke bawah)."</string>
+    <string name="description_ca_tv_fr_13" msgid="3733179399640639129">"Rancangan ini sesuai ditonton oleh mereka yang berumur 13 tahun ke atas. Kanak-kanak bawah 13 tahun hanya boleh dibenarkan masuk jika diiringi oleh orang dewasa."</string>
+    <string name="description_ca_tv_fr_16" msgid="1724956882971714521">"Rancangan ini sesuai untuk tontonan mereka yang berumur 16 tahun ke atas. Rancangan dengan penarafan ini menampilkan tema, situasi atau gelagat yang mengganggu dan menerima pandangan yang lebih langsung tentang perkara."</string>
+    <string name="description_ca_tv_fr_18" msgid="7351531806464525403">"Rancangan ini sesuai ditonton oleh mereka yang berumur 18 tahun ke atas. Rancangan dikhaskan untuk individu dewasa yang paling kerap menonton terutamanya kisah yang menggambarkan hubungan seksual yang jelas. Rancangan ini mungkin juga teramat ganas, menayangkan adegan kekejaman, penyiksaan dan seram yang hiperealistik."</string>
+    <string name="description_es_dvb_all" msgid="7613329223897343137">"Disyorkan untuk semua peringkat umur."</string>
+    <string name="description_es_dvb_c" msgid="980267721855879361">"Disyorkan untuk kanak-kanak."</string>
+    <string name="description_es_dvb_x" msgid="6397110507731134043">"Disyorkan untuk orang dewasa."</string>
+    <string name="description_kr_tv_all" msgid="2880536060037059992">"Rancangan tidak mengandungi bahan yang tidak sesuai untuk semua peringkat umur, maka rancangan itu sesuai untuk semua."</string>
+    <string name="description_kr_tv_7" msgid="6294578566249258989">"Rancangan mungkin mengandungi bahan yang tidak sesuai untuk kanak-kanak di bawah umur 7 tahun, maka budi bicara ibu bapa perlu digunakan."</string>
+    <string name="description_kr_tv_12" msgid="505880672388477268">"Rancangan mungkin mengandungi bahan yang tidak sesuai untuk kanak-kanak di bawah umur 12 tahun, maka budi bicara ibu bapa perlu digunakan."</string>
+    <string name="description_kr_tv_15" msgid="1424825062188417293">"Rancangan mungkin mengandungi bahan yang tidak sesuai untuk khalayak di bawah umur 15 tahun, maka budi bicara ibu bapa perlu digunakan."</string>
+    <string name="description_kr_tv_19" msgid="8141648682052815394">"Rancangan mungkin mengandungi bahan yang tidak sesuai untuk khalayak di bawah umur 19 tahun, maka rancangan itu tidak sesuai untuk golongan muda ini."</string>
+    <string name="description_sg_tv_g" msgid="9207245510001823663">"Sesuai untuk semua peringkat umur."</string>
+    <string name="description_sg_tv_pg" msgid="8807413147853484668">"Sesuai untuk semua tetapi ibu bapa perlu membimbing anak mereka yang masih kecil."</string>
+    <string name="description_sg_tv_pg13" msgid="1187187083836621720">"Sesuai untuk mereka yang berumur 13 tahun ke atas tetapi bimbingan ibu bapa disarankan untuk kanak-kanak di bawah 13 tahun."</string>
+    <string name="description_sg_tv_nc16" msgid="4655362789601793713">"Sesuai untuk mereka yang berumur 16 tahun ke atas."</string>
+    <string name="description_sg_tv_m18" msgid="4495688622482686386">"Sesuai untuk mereka yang berumur 18 tahun ke atas."</string>
+    <string name="description_sg_tv_r21" msgid="8469412927671691778">"Sesuai untuk orang dewasa yang berumur 21 tahun ke atas."</string>
+    <string name="description_th_tv_p" msgid="573604443870633316">"Sesuai untuk kanak-kanak berumur 3 hingga 6 tahun."</string>
+    <string name="description_th_tv_c" msgid="380126567363659012">"Sesuai untuk kanak-kanak berumur 6 hingga 12 tahun."</string>
+    <string name="description_th_tv_g" msgid="8696507527665670160">"Sesuai untuk khalayak umum."</string>
+    <string name="description_th_tv_pg13" msgid="1695934461809229216">"Sesuai untuk mereka yang berumur 13 tahun ke atas."</string>
+    <string name="description_th_tv_pg18" msgid="597070833139949945">"Sesuai untuk mereka yang berumur 18 tahun ke atas dan bimbingan ibu bapa disarankan untuk kanak-kanak bawah 18 tahun"</string>
+    <string name="description_th_tv_x" msgid="8921473820857112565">"Sesuai untuk dewasa"</string>
+    <string name="description_us_tv_d" msgid="7417126048971563355">"Dialog tidak senonoh"</string>
+    <string name="description_us_tv_l" msgid="2276830531676175553">"Bahasa kasar"</string>
+    <string name="description_us_tv_s" msgid="4966533437570326272">"Kandungan seks"</string>
+    <string name="description_us_tv_v" msgid="4340768360627689297">"Keganasan"</string>
+    <string name="description_us_tv_fv" msgid="5087038597184709325">"Keganasan fantasi"</string>
+    <string name="description_us_tv_y" msgid="7153666670476947891">"Rancangan ini direka agar sesuai untuk semua kanak-kanak."</string>
+    <string name="description_us_tv_y7" msgid="4388896445294252013">"Rancangan ini direka untuk kanak-kanak berumur 7 tahun ke atas."</string>
+    <string name="description_us_tv_g" msgid="5919925009580010961">"Kebanyakan ibu bapa akan mendapati rancangan ini sesuai untuk semua peringkat umur."</string>
+    <string name="description_us_tv_pg" msgid="7696801642081644497">"Rancangan ini mengandungi bahan yang mungkin dianggap tidak sesuai untuk kanak-kanak oleh ibu bapa. Ramai ibu bapa yang mungkin mahu menontonnya bersama-sama anak kecil mereka."</string>
+    <string name="description_us_tv_14" msgid="1945274614246329605">"Rancangan ini mengandungi bahan yang mungkin dianggap tidak sesuai untuk kanak-kanak di bawah umur 14 tahun oleh kebanyakan ibu bapa."</string>
+    <string name="description_us_tv_ma" msgid="7118695706408907620">"Rancangan ini direka khusus untuk tontonan orang dewasa dan disebabkan hal ini, rancangan tersebut mungkin tidak sesuai untuk kanak-kanak di bawah umur 17 tahun."</string>
+    <string name="description_us_mv_g" msgid="299794744638684056">"Khalayak umum. Tiada sebarang kandungan yang menyinggung perasaan ibu bapa untuk ditonton oleh kanak-kanak."</string>
+    <string name="description_us_mv_pg" msgid="81027516479177975">"Bimbingan ibu bapa disyorkan. Mungkin mengandungi bahan yang dianggap tidak sesuai oleh ibu bapa untuk anak kecil mereka."</string>
+    <string name="description_us_mv_pg13" msgid="2094119267970306011">"Amaran kepada ibu bapa. Sesetengah bahan mungkin tidak sesuai untuk praremaja."</string>
+    <string name="description_us_mv_r" msgid="2248384382323431666">"Terhad. Mengandungi bahan dewasa. Ibu bapa digesa supaya mengetahui lebih lanjut tentang filem sebelum membawa anak kecil bersama mereka."</string>
+    <string name="description_us_mv_nc17" msgid="8734654245083149008">"Usia 17 tahun ke bawah tidak dibenarkan. Kandungan dewasa. Kanak-kanak tidak dibenarkan."</string>
+    <string name="description_us_mv_x" msgid="2203823258178769659">"Sesuai untuk dewasa"</string>
+    <string name="description_sa_tv_10" msgid="7534715057755212480">"Kanak-kanak di bawah umur 10 tahun dilarang daripada menonton rancangan/filem ini."</string>
+    <string name="description_sa_tv_none" msgid="2839067796739398528">"Sesuai untuk semua peringkat umur."</string>
+    <string name="description_sa_tv_pg10" msgid="5232468306982287272">"Kanak-kanak bawah 10 tahun boleh menonton rancangan/filem ini, tetapi mesti ditemani oleh orang dewasa."</string>
+    <string name="description_sa_tv_pg13" msgid="2826427571649837624">"Kanak-kanak yang berumur 13 tahun ke bawah boleh menonton rancangan/filem ini, tetapi mesti ditemani oleh orang dewasa."</string>
+    <string name="description_sa_tv_13" msgid="6849007243977700328">"Kanak-kanak di bawah umur 13 tahun dilarang daripada menonton rancangan/filem ini."</string>
+    <string name="description_sa_tv_16" msgid="6934567274078402600">"Kanak-kanak di bawah umur 16 tahun dilarang daripada menonton rancangan/filem ini."</string>
+    <string name="description_sa_tv_18" msgid="6814431681831259975">"Kanak-kanak di bawah umur 18 tahun dilarang daripada menonton rancangan/filem ini."</string>
+    <string name="description_sa_tv_r18" msgid="8966466636870535072">"penarafan ini dikhaskan untuk filem seks melampau yang sebenar (pornografi)."</string>
+    <string name="rating_schedule_off" msgid="90379047922234847">"Mati"</string>
+    <string name="rating_schedule_block" msgid="8052768659911065234">"Sekat"</string>
+    <string name="rating_years" msgid="2286124473198629391">"Tahun"</string>
+    <string name="option_ratings_age" msgid="4730040709343309680">"Rating Umur"</string>
+    <string name="option_ratings_content" msgid="2743117466268053677">"Rating Kandungan"</string>
+    <string name="rating_not_defined" msgid="3930030730202531332">"Tidak ditakrif"</string>
+</resources>

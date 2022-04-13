@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:importantForAccessibility="no"
+    android:background="@drawable/epg_channel_bg_icon"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/common_text_itemname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:clickable="false"
+        android:enabled="false"
+        android:focusable="false"
+        android:gravity="center_horizontal"
+        android:textColor="@drawable/epg_channel_font"
+        android:textSize="@dimen/epg_list_item_textsize"/>
+
+    <TextView
+        android:id="@+id/common_text_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:clickable="false"
+        android:gravity="left|center_vertical"
+        android:textColor="@drawable/epg_channel_font"
+        android:textSize="@dimen/epg_list_item_textsize"/>
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:importantForAccessibility="no"
+        android:layout_weight="5">
+        <ImageView
+            android:importantForAccessibility="no"
+	        android:id="@+id/program_lock_imageview"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/nav_banner_lock_icon"
+	        android:layout_marginRight="@dimen/epg_us_lockicon_margin_rigtn"/>
+        
+	     <ImageView
+	         android:importantForAccessibility="no"
+	        android:id="@+id/program_imageview"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/nav_cc_icon"/>
+	    
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+        <com.mediatek.wwtv.tvcenter.commonview.TvSurfaceView
+            android:id="@+id/nav_tv_base_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <com.mediatek.wwtv.tvcenter.commonview.TvSurfaceView
+            android:id="@+id/nav_pip_base_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/nav_tv_app_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.mediatek.wwtv.tvcenter.commonview.TvBlockView
+            android:id="@+id/block_screen_for_tune"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black" />
+<!-- turnkey UI start -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_glview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparent_background" >
+	<com.mediatek.wwtv.tvcenter.nav.view.FocusLabel
+        android:id="@+id/nav_pip_focus_picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+	<com.mediatek.wwtv.tvcenter.nav.view.ZoomTipView
+        android:id="@+id/nav_zoomview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone" />
+	<LinearLayout
+        android:id="@+id/nav_misc_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/nav_aspect_mar"
+        android:gravity="center|bottom">
+		<com.mediatek.wwtv.tvcenter.nav.view.MiscView
+	        android:id="@+id/nav_misc_textview"
+	        android:layout_width="200dp"
+	        android:layout_height="36dp"
+	        android:layout_alignParentBottom="true"
+	        android:background="@drawable/nav_sundry_bg"
+	        android:gravity="center"
+	        android:textColor="@color/sundry_show_txt_color"
+	        android:textSize="@dimen/nav_textsize_normal"
+	        android:visibility="gone"/>
+	</LinearLayout>
+	<com.mediatek.wwtv.tvcenter.tiftimeshift.TifTimeshiftView
+	                    android:id="@+id/nav_tiftimeshift"
+	                    android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="bottom"
+	                    android:visibility="gone"
+	                    />
+ 	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    >
+	    <LinearLayout
+	        android:id="@+id/turnkey_main"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center_horizontal"
+	        android:orientation="vertical" >
+        <!-- channel information -->
+	        <RelativeLayout
+                android:id="@+id/nav_banner_info_bar_all"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                >
+            </RelativeLayout>
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:layout_weight="2" >
+            <!-- text view in left_bottom(SLEEP, TIMER...) -->
+            	<LinearLayout
+	                android:id="@+id/nav_sundry_layout"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:layout_marginBottom="@dimen/nav_aspect_mar"
+	                android:gravity="center|bottom"
+	                android:visibility="gone" >
+	                <com.mediatek.wwtv.tvcenter.nav.view.SundryShowTextView
+	                    android:id="@+id/nav_tv_shortTip_textview"
+	                    android:layout_width="200dp"
+	                    android:layout_height="36dp"
+	                    android:layout_alignParentBottom="true"
+	                    android:background="@drawable/nav_sundry_bg"
+	                    android:gravity="center"
+	                    android:textColor="@color/sundry_show_txt_color"
+	                    android:textSize="@dimen/nav_tv_pwd_ts" />
+            	</LinearLayout>
+			</LinearLayout>
+		</LinearLayout>
+    	<!-- zoom layout -->
+	</LinearLayout>
+	<ProgressBar
+        android:id="@+id/fbm_mode_progressbar"
+	    style="@style/custom_progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerInParent="true" />
+</RelativeLayout>
+    <include layout="@layout/option_container" />
+<!-- turnkey UI end -->
+    <include layout="@layout/menu" />
+</FrameLayout>

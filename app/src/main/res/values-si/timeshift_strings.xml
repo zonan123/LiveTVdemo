@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pro_time_shift_disk_not_ready" msgid="8744947546295367404">"තැටිය සූදානම් නැත!"</string>
+    <string name="disk_not_ready" msgid="3501780706543760865">"PVR ආරම්භ කිරීම අසාර්ථක විය. තැටිය සූදානම් නැත!"</string>
+    <string name="create_tshift_file_success" msgid="2989800886940563168">"ගොනුව සාර්ථකව නිර්මාණ කළා"</string>
+    <string name="pro_pip_running" msgid="7362200187733688632">"PVR ආරම්භ කිරීම අසාර්ථක විය. පළමුව PIP වෙතින් පිටවන්න!"</string>
+    <string name="pro_none_tv_source" msgid="1640001084557796517">"PVR ආරම්භ කිරීම අසාර්ථක විය. පළමුව ඩිජිටල් රූපවාහිනී මූලාශ්‍රය මාරු කරන්න!"</string>
+    <string name="pro_signal_loss" msgid="317426771654592603">"PVR ආරම්භ කිරීම අසාර්ථක විය. සංඥාවක් හමු නොවිය!"</string>
+    <string name="pro_tshift_running" msgid="299292333603331577">"PVR ආරම්භ කිරීම අසාර්ථක විය. TimeShift ධාවනය වෙමින් පවතියි!"</string>
+    <string name="pro_stream_not_available" msgid="6945804649462258510">"AV ප්‍රවාහය නොලැබේ!"</string>
+    <string name="pro_stream_not_authorized" msgid="1518360166410122547">"ප්‍රවාහයට අනුමැතිය නැත!"</string>
+    <string name="pro_input_lock" msgid="6329568671163429699">"ආදානය අගුලු වැටී ඇත!"</string>
+    <string name="pro_video_resolution_error" msgid="8338964372355276797">"වීඩියෝ විභේදන දෝෂයයි!"</string>
+    <string name="pro_internal_error" msgid="8983754404763649181">"අභ්‍යන්තර දෝෂයකි!"</string>
+    <string name="pro_pvr_running" msgid="6520366875348857107">"TimeShift ලබා ගත නොහැකිය. පළමුව PVR වෙතින් පිටවන්න!"</string>
+    <string name="pro_disk_remove" msgid="6467202054236523688">"උපාංග නැත, හෝ උපාංග නොලැබේ. පසුව උත්සාහ කරන්න!"</string>
+    <string name="pvr_save_record" msgid="2572035665912933037">"PVR නවතා, පසුව පටිගත කිරීම සුරකින්න."</string>
+    <string name="disk_disconnect" msgid="7020850762067790261">"තැටිය විසන්ධි කළා"</string>
+    <string name="attention_unplug_device" msgid="6340508038331619946">"අවධානය: උපාංගය පේනුවෙන් ඉවත් නොකරන්න, නැති නම් එය නිශ්චිත නොකළ දෝෂ ඇති කළ හැක!"</string>
+    <string name="not_enough_space" msgid="2564706635374985520">"ප්‍රමාණවත් ඉඩ නැත. තැටියේ අවම වශයෙන් 1 GBක නිදහස් ඉඩක් තිබිය යුතුය."</string>
+    <string name="feature_not_support" msgid="3826438517111496497">"විශේෂාංගයට සහය නොදැක්වේ."</string>
+    <string name="continue_to_seek_not_support" msgid="3378580688716744962">"අන්වේෂණයට ඉදිරියට යාමට සහය නොදැක්වේ."</string>
+    <string name="file_notsupport" msgid="2046907877432770190">"ගොනුවට සහය නොදැක්වේ."</string>
+    <string name="format_confirm_dialog_line1" msgid="6901492378026442073">"ආකෘතිකරණය සියලුම දත්ත මකයි"</string>
+    <string name="format_confirm_dialog_line2" msgid="8219710721924911870">"ඔබට තහවුරුද?"</string>
+    <string name="delete_pvr_file_dialog_confirm1" msgid="8938889174571141231">"මෙම ගොනුව මකයි."</string>
+    <string name="disk_setting_speedtesting" msgid="511301017211685858">"වේග පරීක්‍ෂාව කෙරෙමින් පවතියි"</string>
+    <string name="disk_setting_unplugdevice_warnning" msgid="4543196640273344427">"උපාංගය පේනුවෙන් ඉවත් නොකරන්න"</string>
+    <string name="disk_setting_format_done" msgid="444496377616975879">"තැටි ආකෘතිකරණ කළා"</string>
+    <string name="disk_setting_format_fail" msgid="3777611744782439571">"තැටි ආකෘතිකරණය අසාර්ථක විය"</string>
+    <string name="disk_setting_speedtest_done" msgid="1603733236399606911">"වේග පරීක්‍ෂාව කළා"</string>
+    <string name="disk_setting_speedtest_maxspeed" msgid="9023581692808320928">"උපරිම වේගය වන්නේ "</string>
+    <string name="state_pvr_recording" msgid="5466156974132732806">"පටිගත කෙරේ!"</string>
+    <string name="state_file_pvr_playback" msgid="5322063480296424872">"PVR පසුධාවනය"</string>
+    <string name="title_timeshift" msgid="5180683124416001276">"Timeshift"</string>
+    <string name="title_pvr_start" msgid="6826940873590467793">"පටිගත කිරීම අරඹන්න"</string>
+    <string name="title_pvr_stop" msgid="1710294865725868218">"පටිගත කිරීම නවත්වන්න"</string>
+    <string name="title_pvr_running" msgid="4997081216642996473">"PVR ධාවන වෙමින් පවතියි!"</string>
+    <string name="dvr_dialog_message_record_epg" msgid="45392879517475466">"ඔබට පටිගත කිරීමේ ක්‍රියාවලිය නවත්වා,\n EPG ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_epg" msgid="6401245722652707495">"ඔබට TimeShift නැවැත්වීමට සහ,\n EPG ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_record_channel" msgid="7326803297218411233">"ඔබට පටිගත කිරීමේ ක්‍රියාවලිය නැවැත්වීමට සහ, \n නාලිකාව මාරු කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_record_source" msgid="4498121837579811401">"ඔබට පටිගත කිරීමේ ක්‍රියාවලිය නවත්වා,\n මූලාශ්‍රය මාරු කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_channel" msgid="2687376893468785064">"ඔබට TimeShift නැවැත්වීමට සහ,\n නාලිකාව මාරු කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_source" msgid="2747832318245383768">"ඔබට TimeShift නැවැත්වීමට සහ,\n මූලාශ්‍රය වෙනස් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_record_pip" msgid="3926706775392648872">"ඔබට පටිගත කිරීමේ ක්‍රියාවලිය නවත්වා,\n PIP/POP ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_pip" msgid="4026877154963099921">"ඔබට TimeShift නැවැත්වීමට සහ,\n PIP/POP ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_playback_pip" msgid="8528375250371620271">"ඔබට PVR පසුධාවනය නවත්වා,\n PIP/POP ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_record" msgid="7504548204570690417">"ඔබට TimeShift නැවැත්වීමට සහ,\n පටිගත කිරීම් ලැයිස්තුව ඇතුළත් කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_pip" msgid="2872115340693460333">"ඔබට PIP/POP ‌වෙත ඇතුළත් වීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_shcedule_before" msgid="1454735178842495094">"කාල සටහන් කළ පටිගත කිරීමක් තිබේ"</string>
+    <string name="dvr_dialog_message_schedule_record" msgid="4708146321028406075">"ඔබට පටිගත කිරීම ආරම්භ කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_schedule_timeshift" msgid="4418553876378578935">"ඔබට TimeShift නැවැත්වීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_desramble" msgid="3498310333268513772">"අමාරු ගමන ඉවත් කළ නාලිකාව බාධා කළ හැක, ඔබට දිගටම යා යුතුද?"</string>
+    <string name="dvr_dialog_message_schedule_title" msgid="76319744670730127">"අවවාදයයි"</string>
+    <string name="dvr_device_info_title" msgid="5629036414782412313">"උපාංග තොරතුරු සැකසීම"</string>
+    <string name="dvr_device_formate_title" msgid="2122762489369759402">"ආකෘති කිරීම සියලුම දත්ත මකයි, ඔබට තහවුරුද?"</string>
+    <string name="warning_time_shifting_recording" msgid="127366201055769457">"TimeShift පටිගත කරමින්!"</string>
+    <string name="warning_pvr_runnning" msgid="7457371451448496820">"PVR ධාවන වෙමින් පවතියි!"</string>
+    <string name="warning_pvr_playback_runnning" msgid="7526408112684327934">"PVR පසුධාවනය ධාවන වේ!"</string>
+    <string name="timeshift_not_available" msgid="3296602156291996691">"TimeShift ලබා ගත නොහැකිය"</string>
+    <string name="disk_setting_speeding" msgid="5191386885992163401">"ආචයනයේ කියවීමේ සහ ලිවීමේ වේගය පරීක්‍ෂා කිරීම සඳහා වන වැඩසටහන ධාවන වෙමින් පවතියි."</string>
+    <string name="disk_setting_speedtest_maxspeed_mb" msgid="4159500008692147138">"MB/S"</string>
+    <string name="dvr_dialog_message_schedule_pvr" msgid="8516324929831781272">"[<xliff:g id="DVR_DIALOG_MESSAGE_SCHED">%1$s</xliff:g>] පටිගත කිරීමට කාලසටහනක් ඇත, ඔබට පටිගත කිරීම ආරම්භ කළ යුතුද?"</string>
+    <string name="dvr_playback_name" msgid="4216962952591911215">"නම:"</string>
+    <string name="dvr_schedule_watch_content" msgid="1939668473819679446">"කාල සටහන් කළ මතක් කිරීමක් තිබේ"</string>
+    <string name="dvr_schedule_watch_after" msgid="8078152277135454645">"ඔබට එම නාලිකාව බැලීමට අවශ්‍යද?"</string>
+    <string name="bgm_fail_record_before" msgid="213992569753158855">"[<xliff:g id="BGM_FAIL_RECORD_BE">%1$s</xliff:g>] සඳහා පටිගත කිරීමේ ප්‍රයත්නය අසමත් විය"</string>
+    <string name="bgm_loss_time_pvr" msgid="6661331936971542266">"[<xliff:g id="CHANNEL_INFO_0">%1$s</xliff:g>] හි පටිගත කිරීම තත්පර <xliff:g id="CHANNEL_INFO_TIME">%2$s</xliff:g> ට අසම්පූර්ණ විය"</string>
+    <string name="pvr_file_list_specia_toast" msgid="3971729435570427497">"පටිගත කිරීමේ කොටසක් සුරැකිණි. පටිගත කිරීමේදී බලය අක්‍රිය විය."</string>
+    <string name="dvr_schedule_event_type_name" msgid="238593508388029913">"සිදුවීම් මාදිලිය"</string>
+    <string name="dvr_schedule_event_type_normal" msgid="8918968976378102585">"කාල නියම ක්‍රමලේඛනය"</string>
+    <string name="dvr_schedule_event_type_track" msgid="8289362504238612522">"සංඥා සහය දැක්වෙන පටිගත කිරීම"</string>
+    <string name="dvr_schedule_event_toast" msgid="8151755810271812155">"\'සංඥා සහය දැක්වෙන පටිගත කිරීම\' සංස්කරණ කළ නොහැකි විය"</string>
+    <string name="timeshift_stopped" msgid="2943130436776634575">"TimeShift නවත්වන ලදි."</string>
+    <string name="disksetting_recording_speed_fail" msgid="4336995221918770222">"පටිගත කෙරේ! වේග පරීක්‍ෂාව අසමත් විය!"</string>
+    <string name="disksetting_timeshift_speed_fail" msgid="783220768925022499">"TimeShift ධාවනය වේ! වේග පරීක්ෂාව අසාර්ථක විය!"</string>
+    <string name="disksetting_ntfs_speed_fail" msgid="4811641872047486965">"ප්‍රවේශය ප්‍රතික්ෂේප කරන ලදි. වේග පරීක්ෂාව අසාර්ථක විය!"</string>
+    <string name="disksetting_no_enough_speed_fail" msgid="8108387760481208547">"අප්‍රමාණවත් තැටි ඉඩ! වේග පරීක්‍ෂාව අසමත් විය!"</string>
+    <string name="disksetting_speed_fail" msgid="4918605528929173678">"වේග පරීක්‍ෂාව අසමත් විය!"</string>
+    <string name="not_support_ff_fb" msgid="2945606375091157535">"වේගයෙන් ඉදිරියට යාම සහ පසුඑතුම සහාය නොදක්වයි"</string>
+    <string name="delet_recording_fail" msgid="1147638785994808407">"අයිතමයක් මකන අතරතුර දෝෂයක් සිදු විය, නාලිකාව පටිගත කරමින් සිටී"</string>
+    <string name="pvr_running_warning_msg" msgid="2667946459618756921">"PVR ධාවනය වෙමින් හෝ PVR ගොනුවක් වාදනය වෙමින්.\nකරුණාකර එය නවත්වන්න, ඉන්පසු එය නැවත උත්සාහ කරන්න!"</string>
+    <string name="timeshift_running_warning_msg" msgid="1088177882921640598">"Timeshift ධාවනය වෙමින්.\nකරුණාකර එය නවත්වන්න, අනතුරුව නැවත එය උත්සාහ කරන්න!"</string>
+    <string name="current_channel_invalid_msg" msgid="8320404648551406234">"වත්මන් නාලිකාව වලංගු නැත."</string>
+    <string name="timeshfit_forwarding" msgid="877460059955531605">"ඉදිරියට යමින්! කරුණාකර පසුව නැවත උත්සාහ කරන්න."</string>
+    <string name="timeshfit_rewinding" msgid="7880993052133075678">"පසුඔතමින්! කරුණාකර පසුව නැවත උත්සාහ කරන්න."</string>
+    <string name="timeshfit_record_full" msgid="1588447156983705802">"Timeshift පටිගත කිරීම පිරී ඇත, සහ ස්වයං වාදනය."</string>
+    <string name="timeshfit_no_pre_channel" msgid="910280232790608628">"පූරව නාලිකා කිසිවක් මාරු කළ නොහැකිය! \n සහ Timeshift තවම පටිගත කරමින්."</string>
+    <string name="dvr_stop_reason_fail" msgid="1167274067666724348">"අසාර්ථක වූ හෝ අසම්පූර්ණ පටිගත කිරීම්"</string>
+    <string name="pvr_file_list_singal_loss" msgid="3168384973802632224">"අර්ධ පටිගත කිරීම, සංඥා අහිමි වීම නිසා අර්ධ පටිගත කිරීම!"</string>
+    <string name="pvr_file_list_no_eit" msgid="286512503027071771">"අර්ධ පටිගත කිරීම, EIT නැති නිසා අර්ධ පටිගත කිරීම!"</string>
+    <string name="pvr_file_list_no_eit_singal_loss" msgid="5063609682989327692">"අර්ධ පටිගත කිරීම, EIT නැති නිසා සහ සංඥා අහිමි වීම නිසා අර්ධ පටිගත කිරීම!"</string>
+    <string name="pvr_schedule_time_error" msgid="6133534846130873072">"ආරම්භක වේලාවේ දෝෂය, දැන් වේලාව වත්මන් වේලාවට පෙරය!"</string>
+    <string name="pvrplay_file_deficiency" msgid="2905842702207528862">"ගොනු දිග ප්‍රමාණවත් නැත!"</string>
+    <string name="pvr_schedule_max_schedule_error" msgid="2077309687182548451">"ඉල්ලන ලද එක් කිරීම හෝ කාල සටහන ඉඩ දෙන උපරිමය ඉක්මවයි!"</string>
+    <string name="dvr_dialog_message_record_type" msgid="1689154925747366258">"ඔබට පටිගත කිරීමේ ක්‍රියාවලිය නැවැත්වීමට සහ, \n නාලිකා වර්ගය මාරු කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_dialog_message_timeshift_type" msgid="5274533061439991720">"ඔබට TimeShift නැවැත්වීමට සහ,\n නාලිකාව මාරු කිරීමට අවශ්‍යද?"</string>
+    <string name="dvr_starting_not_switch_channel" msgid="2720694528780337887">"පටිගත කිරීමට සූදානම් වන අතරතුර නාලිකා මාරු කිරීමට ඉඩ නොදේ."</string>
+    <string name="pvr_dialog_formatting" msgid="3411787444556554562">"හැඩගන්වමින්"</string>
+    <string name="recording_formate_msg" msgid="6436447919555650534">"තැටි හැඩගැන්වීම අසාර්ථක විය. පටිගත කරමින්!"</string>
+    <string name="timeshif_formate_msg" msgid="5593578809018652699">"තැටි හැඩගැන්වීම අසාර්ථක විය. TimeShift ධාවනය වෙමින් පවතියි!"</string>
+    <string name="dvr_play_speed_invalied" msgid="7878420357993411563">"වේගය වලංගු නැත!"</string>
+    <string name="disk_formating_wait" msgid="6643274573175153036">"හැඩ ගන්වමින්! කරුණාකර රැඳී සිටින්න..."</string>
+    <string name="not_support_ff" msgid="4915685677306383736">"වේගයෙන් ඉදිරියට ධාවනය සහාය නොදක්වයි"</string>
+    <string name="not_support_fb" msgid="4949105063973409628">"පසුඑතුම සහාය නොදක්වයි"</string>
+    <string name="dvr_msg_disk_speed_slow" msgid="1612091177824337611">"තැටියේ වේගය මන්දගාමී වන අතර දත්ත ඉවත ලන්න"</string>
+    <string name="msg_delet_schedule_item" msgid="8259822376614850146">"සමහර කාලසටහන්ගත පටිගත කිරීම් අසාර්ථක හෝ අසම්පූර්ණයි!"</string>
+</resources>

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="common_on" msgid="1719893568304311442">"ჩართულია"</string>
+    <string name="common_off" msgid="7117815518726170364">"გამორთულია"</string>
+    <string name="menu_interface_name" msgid="6258255290936085690">"მენიუ"</string>
+    <string name="menu_tab_video" msgid="4331109997413003863">"ვიდეო"</string>
+    <string name="menu_tab_audio" msgid="8708057766635951249">"აუდიო"</string>
+    <string name="menu_tab_tv" msgid="3742429458000810169">"ტელევიზია"</string>
+    <string name="menu_tab_setup" msgid="7109847756230324037">"დაყენება"</string>
+    <string name="menu_tab_parent" msgid="2437139766892902869">"მშობლის"</string>
+    <string name="menu_advanced_options" msgid="6087419409021029702">"გაფართოებული პარამეტრები"</string>
+    <string name="menu_advanced_ci" msgid="8627341690980667363">"CI ბარათი"</string>
+    <string name="menu_advanced_oad" msgid="4684187535340097577">"OAD ხელით ჩამოტვირთვა"</string>
+    <string name="menu_tab_inactive_channels" msgid="7246686894971088412">"არააქტიური არხები"</string>
+    <string name="menu_enter" msgid="5339894688140615789">"Enter"</string>
+    <string name="menu_exit" msgid="5916797899906131306">"გასვლა"</string>
+    <string name="menu_back" msgid="5914226981357187525">"უკან"</string>
+    <string name="menu_set" msgid="4003160032715199809">"დაყენება"</string>
+    <string name="menu_ok" msgid="549595307019821477">"კარგი"</string>
+    <string name="menu_cancel" msgid="2096723547222310575">"გაუქმება"</string>
+    <string name="menu_audio_sound_tracks" msgid="5977833251658879047">"საუნდტრეკები"</string>
+    <string name="menu_tv_tuner_mode" msgid="4534577012277218806">"ტუნერის რეჟიმი"</string>
+    <string name="menu_tv_channel_list_type" msgid="5985398262786058250">"არხების სიის ტიპი"</string>
+    <string name="menu_tv_country_region_id" msgid="184277561339631204">"ქვეყნის რეგიონის ID"</string>
+    <string name="menu_tv_oceania_country_region" msgid="40103874127321459">"ქვეყნის რეგიონი"</string>
+    <string name="menu_tv_mts" msgid="256769042292806112">"აუდიოარხი"</string>
+    <string name="menu_tv_audio_language" msgid="6779595551399926489">"აუდიო ენა"</string>
+    <string name="menu_tv_audio_language2nd" msgid="3882877571377539936">"მე-2 აუდიოს ენა"</string>
+    <string name="menu_tv_channels" msgid="7222930204275471898">"არხები"</string>
+    <string name="menu_tv_channel_scan" msgid="8114676020485306916">"არხების სკანირება"</string>
+    <string name="menu_tv_tv_system" msgid="7347482638955677242">"ტელევიზორის სისტემა"</string>
+    <string name="menu_tv_color_system" msgid="2134749435885210203">"ფერთა სისტემა"</string>
+    <string name="menu_tv_update_scan" msgid="17835394959085982">"განახლების სკანირება"</string>
+    <string name="menu_tv_analog_manual_scan" msgid="5873694513744888407">"ანალოგური ხელით სკანირება"</string>
+    <string name="menu_tv_single_rf_scan" msgid="8917066043207412602">"ერთრადიოსიხშირიანი სკანირება"</string>
+    <string name="menu_tv_channel_edit" msgid="4220014947121388564">"არხის რედაქტირება"</string>
+    <string name="menu_tv_channel_skip" msgid="7390004344012497423">"არხების გამოტოვება"</string>
+    <string name="menu_tv_channel_setup" msgid="2281034408241451410">"არხის დაყენება"</string>
+    <string name="menu_tv_clear_channel_list" msgid="5696948603488738154">"არხების სიის გასუფთავება"</string>
+    <string name="menu_tv_freeze_channel" msgid="6021649320973642221">"არხის გაყინვა"</string>
+    <string name="menu_tv_status" msgid="126959169937779632">"სტატუსი"</string>
+    <string name="menu_tv_status_value" msgid="8528401689277276496">"მიმდინარეობს სკანირება"</string>
+    <string name="menu_tv_analog_channels" msgid="6782223608461116398">"ანალოგური არხები"</string>
+    <string name="menu_tv_digital_channels" msgid="571325254394265803">"ციფრული არხები"</string>
+    <string name="menu_tv_start_frequency" msgid="9061427598128187616">"საწყისი სიხშირე (მჰც)"</string>
+    <string name="menu_tv_end_frequency" msgid="1288459543538148961">"საბოლოო სიხშირე (კჰც)"</string>
+    <string name="menu_tv_rf_scan_frequency" msgid="1796042308306874502">"სიხშირის სკანირება (მჰც)"</string>
+    <string name="menu_tv_rf_scan_mode" msgid="3370179992000118544">"QAM სტილი"</string>
+    <string name="menu_tv_rf_sym_rate" msgid="6308736417074941026">"სიმბოლოთა სიჩქარე"</string>
+    <string name="menu_tv_sigle_frequency_plan" msgid="5986186956365767139">"სიხშირის გეგმა"</string>
+    <string name="menu_tv_sigle_modulation" msgid="8466442069650929933">"მოდულაცია"</string>
+    <string name="menu_tv_sigle_scan_mode" msgid="6790730560440038639">"სკანირების რეჟიმი"</string>
+    <string name="menu_tv_sigle_from_channel" msgid="7773224697874334577">"საწყისი ინდექსი"</string>
+    <string name="menu_tv_sigle_to_channcel" msgid="3097529181862261069">"საბოლოო ინდექსი"</string>
+    <string name="scan_trd_turkey_tkgs_update_scan" msgid="7414490297579669812">"არხების სია უკვე განახლებულია.\n გსურთ ჩამოტვირთვა?"</string>
+    <string name="menu_tv_insert" msgid="1358321819225060000">"ჩასმა"</string>
+    <string name="menu_tv_delete" msgid="8619464517901908860">"წაშლა"</string>
+    <string name="menu_tv_delete_message" msgid="5525068056883731934">"არხები შეიძლება წაიშალოს გამაფრთხილებელი ეკრანული მენიუს გარეშე. დარწმუნებული ხართ?"</string>
+    <string name="menu_tv_delete_not_forM7Number" msgid="2193262484180007326">"ეს ფუნქცია მხარდაჭერილი არ არის, რადგან არხის ნომერი 4001-ზე ნაკლებია."</string>
+    <string name="menu_tv_edit_M7_num_more4000" msgid="8836617212317116080">"გთხოვთ, შეიყვანოთ არხის 4000-ზე მაღალი ნომერი"</string>
+    <string name="menu_tv_number" msgid="7616075285030351284">"ნომ."</string>
+    <string name="menu_tv_type" msgid="5559784090794274350">"ტიპი"</string>
+    <string name="menu_tv_frequency" msgid="6571318152971176638">"სიხშ."</string>
+    <string name="menu_tv_system" msgid="2906413096735599257">"სისტემა"</string>
+    <string name="menu_tv_name" msgid="7227721405917128844">"სახელი"</string>
+    <string name="menu_tv_skip" msgid="1248357537058558355">"გამოტოვება"</string>
+    <string name="menu_tv_scann_allchannels" msgid="6560723639956889117">"ყველა არხის სკანირება."</string>
+    <string name="menu_tv_dual_tuner" msgid="5580627258710695873">"Dual ტუნერი"</string>
+    <string name="menu_tv_m7_scan_confirm" msgid="8058358981133927877">"დაიწყოს LNB ძიება ახლავე? \n თუ ამ საფეხურს გამოტოვებთ, გამოყენებული იქნება ნაგულისხმევები."</string>
+    <string name="menu_tv_single_rf_channel" msgid="551119918966787868">"RF არხი"</string>
+    <string name="menu_tv_single_signal_level" msgid="6749915054386007806">"სიგნალის დონე"</string>
+    <string name="menu_tv_single_signal_quality" msgid="5426229316907070059">"სიგნალის ხარისხი"</string>
+    <string name="menu_tv_channel_tsname" msgid="4383566614098451792">"TS-ის სახელი:"</string>
+    <string name="menu_tv_channel_no" msgid="8812504182847087421">"არხის ნომერი:"</string>
+    <string name="menu_tv_channel_name" msgid="5666152567700519485">"არხის სახელი:"</string>
+    <string name="menu_tv_network_name" msgid="1671388845426299891">"ქსელის სახელი:"</string>
+    <string name="menu_tv_freq" msgid="7386267125400334008">"სიხშირე:"</string>
+    <string name="menu_tv_freq_scan_no_channel" msgid="6453522331200699877">"არხი ვერ მოიძებნა."</string>
+    <string name="menu_tv_sound_system" msgid="6046361573130329018">"ხმის სისტემა"</string>
+    <string name="menu_tv_finetune" msgid="2704466796908770615">"ზუსტი აწყობა"</string>
+    <string name="menu_tv_store" msgid="5870426199870476614">"მაღაზია"</string>
+    <string name="menu_tv_clear_channel_info" msgid="2579995964359144257">"დარწმუნებული ხართ?"</string>
+    <string name="menu_tv_sort_loading" msgid="4269723226624021325">"მიმდინარეობს დალაგება. გთხოვთ, მოითმინოთ…"</string>
+    <string name="menu_tv_move_loading" msgid="8489824467735386755">"მიმდინარეობს გადატანა. გთხოვთ, მოითმინოთ…"</string>
+    <string name="menu_dialog_numrepeat" msgid="940569276553637894">"გაიმეორეთ არხების ნომრები!"</string>
+    <string name="menu_tv_channelfine_tune" msgid="4671898427743017872">"ანალოგური არხის ზუსტი აწყობა"</string>
+    <string name="menu_tv_remove_inactive_channel" msgid="4037172677462149166">"დარწმუნებული ხართ, რომ გსურთ ამ არხის წაშლა?"</string>
+    <string name="menu_tv_remove_all_inactive_channels" msgid="8801789215514635871">"ნამდვილად გსურთ, ამოშალოთ ყველა არხი?"</string>
+    <string name="menu_setup_screenmode" msgid="1980108423170746383">"ეკრანის რეჟიმი"</string>
+    <string name="menu_setup_bluemute" msgid="3507814533347681742">"ლურჯი დადუმება"</string>
+    <string name="menu_setup_modes_dmr_control" msgid="1839888825103443088">"DMR ფუნქცია"</string>
+    <string name="menu_setup_interaction_channel" msgid="4630365409947205646">"ინტერაქციის არხი"</string>
+    <string name="menu_setup_MHEG_PIN_Protection" msgid="9013322575297645333">"MHEG PIN კოდის დაცვა"</string>
+    <string name="menu_setup_HBBTV_settings" msgid="425628542732834431">"HBBTV პარამეტრები"</string>
+    <string name="menu_setup_HBBTV_Support" msgid="3884334439195257889">"HBBTV მხარდაჭერა"</string>
+    <string name="menu_setup_HBBTV_not_track" msgid="1290321132030841986">"არ ადევნო თვალი"</string>
+    <string name="menu_setup_HBBTV_cookie_settings" msgid="7047780262945384208">"ქუქი-ჩანაწერების პარამეტრები"</string>
+    <string name="menu_setup_HBBTV_persistent_storage" msgid="5270967485634552113">"მუდმივი მეხსიერება"</string>
+    <string name="menu_setup_HBBTV_track_sites" msgid="8030054744169205932">"საიტებზე თვალის დევნების დაბლოკვა"</string>
+    <string name="menu_setup_HBBTV_deviceid" msgid="744961147888622795">"მოწყობილობის ID"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid" msgid="4896116549707782493">"მოწყობილობის ID-ის გადაყენება"</string>
+    <string name="menu_setup_HBBTV_reset_deviceid_message" msgid="2255284996722827595">"ნამდვილად გსურთ, გადააყენოთ მოწყობილობის ID?"</string>
+    <string name="menu_setup_ginga_setup" msgid="6584004260595154530">"Ginga-ს დაყენება"</string>
+    <string name="menu_setup_divx_reg_setup" msgid="3134377856178382070">"DivX(R) რეგისტრაცია"</string>
+    <string name="menu_setup_caption_setup" msgid="8962718484127042364">"სუბტიტრების დაყენება"</string>
+    <string name="menu_setup_poweron_music" msgid="9196505526630859181">"დაწყების მუსიკა"</string>
+    <string name="menu_setup_poweroff_music" msgid="6376833337222407361">"გათიშვის მუსიკა"</string>
+    <string name="menu_setup_time_setup" msgid="3758184248573228819">"დროის დაყენება"</string>
+    <string name="menu_setup_teletext" msgid="2721981902427685784">"ტელეტექსტი"</string>
+    <string name="menu_setup_subtitle" msgid="4440344959181499609">"სუბტიტრი"</string>
+    <string name="menu_setup_analog_subtitle" msgid="5130643060755546036">"ანალოგური სუბტიტრები"</string>
+    <string name="menu_setup_digital_subtitle_lang" msgid="8584442274273067902">"ციფრული სუბტიტრების ენა"</string>
+    <string name="menu_setup_digital_subtitle_lang_2nd" msgid="5633803120810655815">"მე-2 ციფრული სუბტიტრების ენა"</string>
+    <string name="menu_setup_subtitle_type" msgid="3422400611429742301">"სუბტიტრის ტიპი"</string>
+    <string name="menu_setup_network" msgid="7885202064630994111">"ქსელი"</string>
+    <string name="menu_setup_version_info" msgid="8473165394531457450">"ვერსიის ინფორმაცია"</string>
+    <string name="menu_setup_reset_default" msgid="5394108608331615342">"ქარხნული პარამეტრების დაბრუნება"</string>
+    <string name="menu_setup_download_firmware" msgid="6189576467095870271">"ჩაშენებული პროგრამული უზრუნველყოფის ჩამოტვირთვა"</string>
+    <string name="menu_setup_common_interface" msgid="1895934295290944977">"საერთო ინტერფეისი"</string>
+    <string name="menu_setup_record_setting" msgid="3735181891975276255">"ჩაწერის პარამეტრები"</string>
+    <string name="menu_setup_channel_update" msgid="2527134179338036692">"არხის განახლება"</string>
+    <string name="menu_setup_region_setting" msgid="248617517946500738">"EWBS რეგიონი"</string>
+    <string name="menu_setup_TKGS_setting" msgid="6717317359786252162">"TKGS პარამეტრი"</string>
+    <string name="menu_setup_TKGS_locate_list" msgid="6239011973619252782">"TKGS ლოკატორის სია"</string>
+    <string name="menu_setup_TKGS_hidden_locations" msgid="8369273652687922192">"TKGS დამალული მდებარეობები"</string>
+    <string name="TKGS_reset_table_version" msgid="3498655065440357780">"ცხრილის ვერსიის გადაყენება"</string>
+    <string name="TKGS_preferred_list" msgid="5589947719764807067">"სასურველი სია"</string>
+    <string name="menu_setup_postal_code_setting" msgid="6161218000501401501">"საფოსტო ინდექსი"</string>
+    <string name="menu_setup_device_info" msgid="8499914504929052590">"მოწყობილობის ინფორმაცია"</string>
+    <string name="menu_setup_time_shifting_mode" msgid="1673392370191940227">"დროის წანაცვლების რეჟიმი"</string>
+    <string name="menu_setup_auto_channel_update" msgid="8749345286614488535">"არხების ავტომატური განახლება"</string>
+    <string name="menu_setup_channel_update_msg" msgid="6065600598875680983">"არხის განახლების შეტყობინება"</string>
+    <string name="menu_setup_biss_key_horizonal" msgid="3025566519316825016">"ჰორიზონტალური"</string>
+    <string name="menu_setup_biss_key_vertical" msgid="4933737876683018945">"ვერტიკალური"</string>
+    <string name="ci_title" msgid="372414068198664695">"Cam-ის ინფორმაცია"</string>
+    <string name="menu_setup_ci_no_card" msgid="7764806669482503026">"Cam ბარათი არ არის."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="7752969960527081420">"Cam-ის მენიუ"</string>
+    <string name="menu_setup_ci_pin_code" msgid="6804982608273473218">"Cam-ის Pin-კოდი"</string>
+    <string name="menu_ci_user_preference" msgid="5000700797059162381">"მომხმარებლისთვის სასურველი"</string>
+    <string name="menu_ci_user_preference_item_default" msgid="4209458683747214463">"ნაგულისხმევი"</string>
+    <string name="menu_ci_user_preference_item_broadcast" msgid="9182964994599355185">"ტრანსლაცია"</string>
+    <string name="menu_ci_cam_scan" msgid="3317168911929978611">"Cam-ის სკანირება"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="3326787881056337207">"გთხოვთ, შეიყვანოთ cam-ის pin კოდი"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="2243160300655248439">"არასწორია. შეიყვანეთ ხელახლა!"</string>
+    <string name="menu_setup_ci_10s_answer_tip" msgid="7499549794650029556">"გთხოვთ, მოითმინოთ…"</string>
+    <string name="menu_setup_auto_network_upgrade" msgid="554655984033409887">"ქსელის ვერსიის განახლება"</string>
+    <string name="menu_setup_ginga_enable" msgid="2417958483244058708">"Ginga-ს ჩართვა"</string>
+    <string name="menu_setup_ginga_auto_start_app" msgid="1790004477593697582">"აპლიკაციის ავტომატური დაწყება"</string>
+    <string name="menu_setup_caption_enable" msgid="8322539698238533246">"სუბტიტრების ჩართვა"</string>
+    <string name="menu_setup_analog_closed_caption" msgid="4796051211945790617">"ანალოგური დახურული სუბტიტრები"</string>
+    <string name="menu_setup_digital_caption" msgid="7752290991660565843">"ციფრული დახურული სუბტიტრები"</string>
+    <string name="menu_setup_digital_style" msgid="1817076601837960094">"ციფრული სუბტიტრების სტილი"</string>
+    <string name="menu_setup_superimpose_setup" msgid="5727231442927827407">"ზემოდან გადაწერის დაყენება"</string>
+    <string name="menu_setup_caption_style" msgid="2961061197730048776">"სუბტიტრების სტილი"</string>
+    <string name="menu_setup_font_size" msgid="1648009250200871183">"შრიფტის ზომა"</string>
+    <string name="menu_setup_font_style" msgid="754747015410559718">"შრიფტის სტილი"</string>
+    <string name="menu_setup_font_color" msgid="1179707257557128411">"შრიფტის ფერი"</string>
+    <string name="menu_setup_font_opacity" msgid="7083632641371332767">"შრიფტის გაუმჭვირვალობა"</string>
+    <string name="menu_setup_background_color" msgid="8613742900179692970">"ფონის ფერი"</string>
+    <string name="menu_setup_background_opacity" msgid="2867502947414945383">"ფონის გაუმჭვირვალობა"</string>
+    <string name="menu_setup_window_color" msgid="724136219399454577">"ფანჯრის ფერი"</string>
+    <string name="menu_setup_window_opacity" msgid="4647626132198382426">"ფანჯრის გაუმჭვირვალობა"</string>
+    <string name="menu_setup_digital_teletext_language" msgid="891930341886844341">"ციფრული ტელეტექსტის ენა"</string>
+    <string name="menu_setup_decoding_page_language" msgid="3849734594378853028">"გვერდის დეკოდირების ენა"</string>
+    <string name="menu_setup_ttx_presentation_level" msgid="4780183199961225027">"TTX-ის პრეზენტაციის დონე"</string>
+    <string name="menu_setup_auto_synchronization" msgid="759687874059635844">"ავტოსინქრონიზაცია"</string>
+    <string name="menu_setup_power_on_timer" msgid="8213142792432806791">"ავტომატური ჩართვის დრო"</string>
+    <string name="menu_setup_timer" msgid="3817173332451714750">"ტაიმერი"</string>
+    <string name="menu_setup_power_on_channel" msgid="3304493181284351914">"ნაგულისხმევი არხი"</string>
+    <string name="menu_setup_power_off_timer" msgid="7365397437405062965">"ავტომატური გამორთვის დრო"</string>
+    <string name="menu_setup_wireless_setting" msgid="8863057864727370068">"უსადენო პარამეტრი"</string>
+    <string name="menu_setup_information" msgid="3212334206785779338">"ინფორმაცია"</string>
+    <string name="menu_setup_power_on_channel_mode" msgid="3982599806537535251">"რეჟიმის არჩევა"</string>
+    <string name="menu_setup_power_on_show_channels" msgid="6273815747191069139">"არხების ჩვენება"</string>
+    <string name="menu_setup_upgrade_info1" msgid="5395481546668942228">"დაიწყეთ ახალი ჩაშენებული პროგრამული უზრუნველყოფის ჩამოტვირთვა სერვერიდან."</string>
+    <string name="menu_setup_upgrade_info2_title" msgid="8691864032506489497">"მიმდინარეობს ოსტატის განახლება"</string>
+    <string name="menu_setup_upgrade_info2" msgid="27929881756666210">"ახალი ჩაშენებული პროგრამული უზრუნველყოფის შემოწმება ვერ მოხერხდა."</string>
+    <string name="menu_setup_reset_info1" msgid="2604438744325405839">"დარწმუნებული ხართ?"</string>
+    <string name="menu_tv_analog_manual_scan_init" msgid="5059349028560346222">"ანალოგური არხების ძიება"</string>
+    <string name="menu_tv_scan_digital_channel_init" msgid="5772702059253361594">"ციფრული არხების ძიება"</string>
+    <string name="menu_tv_single_rf_scan_init" msgid="1496999582183630210">"ერთრადიოსიხშირიანი არხის სკანირება. (მხოლოდ ციფრული)"</string>
+    <string name="menu_tv_us_range_scan" msgid="8106372407195238776">"სკანირება არხების დიაპაზონით"</string>
+    <string name="menu_tv_analog_manual_scan_cancel" msgid="4554600010019688554">"სტატუსი: სკანირება გაუქმებულია"</string>
+    <string name="menu_setup_channel_scan" msgid="2473477203683812249">"სტატუსი: მიმდინარეობს სკანირება"</string>
+    <string name="menu_setup_satellite_name" msgid="4733344701470024023">"სატელიტის სახელი:"</string>
+    <string name="menu_setup_channel_scan_ana" msgid="5931927842967932526">"ანალოგური არხები:"</string>
+    <string name="menu_setup_channel_scan_dig" msgid="323883741930144178">"ციფრული არხები:"</string>
+    <string name="menu_tv_store_data" msgid="6069293662781579793">"ნამდვილად გსურთ მონაცემების შენახვა?"</string>
+    <string name="menu_tv_reset_all" msgid="325888876117294389">"ნამდვილად გსურთ, გადააყენოთ ყველა პარამეტრი?"</string>
+    <string name="menu_setup_channel_scan_cancel" msgid="392557174041827451">"სტატუსი: სკანირება გაუქმებულია"</string>
+    <string name="menu_setup_channel_scan_error" msgid="1033963070035499350">"სტატუსი: სკანირების შეცდომა"</string>
+    <string name="menu_setup_channel_scan_done" msgid="1165298550342951653">"სტატუსი: სკანირება დასრულებულია"</string>
+    <string name="menu_setup_channel_scan_positioner_moving" msgid="6637458773533512380">"სტატუსი: პოზიციონერი გადაადგილდება"</string>
+    <string name="menu_setup_network_upgrade" msgid="6904467374965461541">"ქსელი გადადის ახალ ვერსიაზე…"</string>
+    <string name="menu_setup_network_wireless" msgid="3798727644774125311">"უსადენო კავშირის პარამეტრები"</string>
+    <string name="menu_setup_network_no_net" msgid="8873285800776457027">"ტელევიზორთან უსადენო მოწყობილობა არ არის დაკავშირებული!"</string>
+    <string name="menu_setup_button_yes" msgid="5030166851411264581">"დიახ"</string>
+    <string name="menu_setup_button_no" msgid="4719936931569572435">"არა"</string>
+    <string name="menu_versioninfo_name" msgid="6872910755941077113">"მოდელის სახელი"</string>
+    <string name="menu_versioninfo_version" msgid="5598308716341968435">"ვერსია"</string>
+    <string name="menu_versioninfo_number" msgid="4181667293912833576">"სერიული ნომერი"</string>
+    <string name="menu_setup_divxreg" msgid="3215046319317947249">"DivX®-ით დაცული ვიდეოების დასაკრავად მოწყობილობა უნდა დაარეგისტრიროთ.\nრეგისტრაციის კოდი:BX9ASIKQEI\n დარეგისტრირდით აქ: http://vod.divx.com"</string>
+    <string name="menu_setup_divxdea" msgid="1455485346175283490">"დერეგისტრაციის კოდი:\n გააუქმეთ რეგისტრაცია http://vod.divx.com-ზე\n განაგრძობთ რეგისტრაციას?"</string>
+    <string name="menu_setup_biss_key" msgid="4743414048883762640">"BISS გასაღები"</string>
+    <string name="menu_setup_biss_key_add_item" msgid="6638397470781538366">"დააწკაპუნეთ BISS კლავიშის დასამატებლად"</string>
+    <string name="menu_setup_biss_key_add_key" msgid="1420141670124972197">"BISS კლავიშის დამატება"</string>
+    <string name="menu_setup_biss_key_freqency" msgid="4922467304547321006">"სიხშირე"</string>
+    <string name="menu_setup_biss_key_polazation" msgid="5179872075186805913">"პოლარიზაცია"</string>
+    <string name="menu_setup_biss_key_prog_id" msgid="5573105310385768872">"პროგრამის ID"</string>
+    <string name="menu_setup_biss_key_cw_key" msgid="3155790790689603575">"CW კლავიში"</string>
+    <string name="menu_setup_hdmi_2_0_setting" msgid="7614647649314796771">"HDMI 2.0 პარამეტრი"</string>
+    <string name="menu_setup_hdmi_signalformat" msgid="5050066137876562783">"სიგნალის ფორმატი"</string>
+    <string name="menu_parental_password" msgid="4576879579547866045">"პაროლი"</string>
+    <string name="menu_parental_channel_block" msgid="7003428954204171196">"არხი დაბლოკილია"</string>
+    <string name="menu_parental_program_block" msgid="3017893895583981306">"პროგრამა დაბლოკილია"</string>
+    <string name="menu_parental_channel_schedule_block" msgid="3727018689983113284">"არხების განრიგის დაბლოკვა"</string>
+    <string name="menu_parental_channel_schedule_block_operation_mode" msgid="3378946292723662496">"ოპერაციის რეჟიმი"</string>
+    <string name="menu_parental_input_block" msgid="4737097429483474525">"შენატანი დაბლოკილია"</string>
+    <string name="menu_parental_change_password" msgid="1410237592394733548">"პაროლის შეცვლა"</string>
+    <string name="menu_parental_clean_all" msgid="4257280620467440277">"ყველაფრის გასუფთავება"</string>
+    <string name="menu_parental_password_incorrect" msgid="3411313245296435031">"პაროლი არასწორია.\nგთხოვთ, შეიყვანოთ ხელახლა!"</string>
+    <string name="menu_parental_password_enter" msgid="3506796281997230270">"გთხოვთ, შეიყვანოთ პაროლი"</string>
+    <string name="menu_parental_password_new" msgid="8309978901021454441">"ახალი პაროლი"</string>
+    <string name="menu_parental_password_new_re" msgid="4377338006931748859">"დაადასტურეთ პაროლი"</string>
+    <string name="menu_parental_password_matchinfo" msgid="4526902774665782344">"პაროლი არ ემთხვევა.\nგთხოვთ, ხელახლა შეიყვანოთ!"</string>
+    <string name="menu_parental_channel_schedule_start_date" msgid="3342250424179084140">"დაწყების თარიღი"</string>
+    <string name="menu_parental_channel_schedule_start_time" msgid="1010861759252974627">"დასაწყისი"</string>
+    <string name="menu_parental_channel_schedule_end_date" msgid="6825571214422092711">"დასრულების თარიღი"</string>
+    <string name="menu_parental_channel_schedule_end_time" msgid="6705925703363265697">"დასასრული"</string>
+    <string name="menu_allowed_rating" msgid="2513172428085896841">"დაშვებული რეიტინგი"</string>
+    <string name="menu_blocked_rating" msgid="1260923144167079695">"დაბლოკილთა რეიტინგი"</string>
+    <string name="menu_us_tv_ratings" msgid="3755104139396309977">"აშშ-ის სატელევიზიო რეიტინგები"</string>
+    <string name="menu_us_movie_ratings" msgid="8116488007741874603">"აშშ-ის ფილმების რეიტინგები"</string>
+    <string name="menu_canadian_english_ratings" msgid="2928633248904936695">"კანადური ინგლისურის რეიტინგები"</string>
+    <string name="menu_canadian_french_ratings" msgid="2471635396093309696">"კანადური ფრანგულის რეიტინგები"</string>
+    <string name="menu_age_ratings" msgid="1533025008287767607">"ასაკობრივი რეიტინგი"</string>
+    <string name="menu_oceania_aus_ratings" msgid="5238174741692232278">"წვდომის შეზღუდვა"</string>
+    <string name="menu_content_ratings" msgid="235468670940168173">"კონტენტის რეიტინგი"</string>
+    <string name="menu_block_unrated" msgid="1801906907555044876">"შეუფასებლების დაბლოკვა"</string>
+    <string name="menu_rating_enable" msgid="3440392780424732761">"რეიტინგის ჩართვა"</string>
+    <string name="menu_teletext_notsupport_tip" msgid="3112153343567716372">"ტელეტექსტი არ არის"</string>
+    <string name="menu_teletext_no_top_tip" msgid="4353539071531837451">"ზედა ნაწილი არ არის"</string>
+    <string name="schedule_pvr_srctype" msgid="7227298346850974232">"წყაროს ტიპი"</string>
+    <string name="schedule_pvr_channel_num" msgid="7033470766507631908">"არხის ინფორმაცია"</string>
+    <string name="schedule_pvr_reminder_type" msgid="2405300786656196134">"განრიგის ტიპი"</string>
+    <string name="schedule_pvr_repeat_type" msgid="769903071861617735">"გამეორების ტიპი"</string>
+    <string name="schedule_pvr_start_date" msgid="5682115056414411309">"დაწყების თარიღი"</string>
+    <string name="schedule_pvr_start_time" msgid="5399050783975179444">"დასაწყისი"</string>
+    <string name="schedule_pvr_stop_time" msgid="2057408639553834766">"შეწყვეტის დრო"</string>
+    <string name="menu_tv_tshift_config" msgid="1983044089621021765">"დროის წანაცვლების რეჟიმი"</string>
+    <string name="menu_setup_schedule_list" msgid="5737465981898547696">"განრიგების სია"</string>
+    <string name="menu_setup_license_info" msgid="463873547645757115">"ლიცენზიის ინფორმაცია"</string>
+    <string name="menu_setup_system_info" msgid="5689257233500612565">"სისტემის ინფორმაცია"</string>
+    <string name="menu_setup_oad_set_auto_dl" msgid="6308706999803471830">"ავტომატური ჩამოტვირთვა"</string>
+    <string name="menu_c_favorite_net" msgid="5910290796430986311">"ფავორიტი ქსელის არჩევა"</string>
+    <string name="menu_c_chanel_sor" msgid="927992480379525339">"არხების დალაგება"</string>
+    <string name="menu_c_chanel_Move" msgid="2246890877020986294">"არხის გადატანა"</string>
+    <string name="menu_c_analog_tune" msgid="2306081694127448305">"ანალოგური არხის ზუსტი აწყობა"</string>
+    <string name="menu_c_channelscan_oth" msgid="4197159836237043495">"სხვები"</string>
+    <string name="menu_c_analogscan_scanup" msgid="5915910429110056976">"სკანირება ზემოთ"</string>
+    <string name="menu_c_analogscan_scandown" msgid="6616915979489704399">"სკანირება ქვემოთ"</string>
+    <string name="menu_c_scan_clear_channel" msgid="8979396675252722869">"არხების სკანირება წინა არხებს ამოშლის!"</string>
+    <string name="menu_c_net" msgid="1556844292658590881">"ქსელის ID"</string>
+    <string name="menu_c_scan" msgid="4426044028697789748">"სკანირება"</string>
+    <string name="menu_c_rfscan_frequency" msgid="3785625249318213028">"სიხშირე (კჰც)"</string>
+    <string name="menu_c_rfscan_frequency_cn" msgid="3582109260440911431">"სიხშირე (მგჰც)"</string>
+    <string name="menu_c_rfscan_symbol_rate" msgid="5717582981249177051">"სიმბოლოთა სიჩქარე (კსიმ/წმ)"</string>
+    <string name="menu_s_sate_rescan" msgid="385551134194359571">"სატელიტის ხელახალი სკანირება"</string>
+    <string name="menu_s_sate_add" msgid="4676645206696055795">"სატელიტის დამატება"</string>
+    <string name="menu_s_sate_update" msgid="8295522446305537505">"სატელიტის განახლება"</string>
+    <string name="menu_s_sate_tuning" msgid="6641088672339130577">"სატელიტის ხელით აწყობა"</string>
+    <string name="menu_s_favorite_network" msgid="4204530918013827303">"ფავორიტი ქსელის არჩევა"</string>
+    <string name="menu_s_channel_decode" msgid="4755397422752027961">"არხის დეკოდირება"</string>
+    <string name="menu_system_info_channel" msgid="2890078060935000199">"არხი"</string>
+    <string name="menu_system_info_service_id" msgid="6242392172548735366">"სერვისის ID"</string>
+    <string name="menu_system_info_symbol_svctype" msgid="8080844306048103018">"მომსახურების ტიპი"</string>
+    <string name="scan_trd_fav_network" msgid="4432949124051604385">"გთხოვთ, აირჩიოთ თქვენი ფავორიტი ქსელი:"</string>
+    <string name="scan_trd_pt_save_channel" msgid="7007913898492887551">"გსურთ ძიების შედეგების შენახვა?"</string>
+    <string name="scan_trd_uk_reg_reg_nodefine" msgid="7057836872283539861">"არცერთი არ არის მითითებული"</string>
+    <string name="scan_trd_lcn_CONFLICT_INDEX" msgid="2886988137950355383">"ჯგუფის წინააღმდეგობრივი ინდექსი:"</string>
+    <string name="scan_trd_lcn_CONFLICT_CHANL_NUM" msgid="8248507858900319578">"არხის წინააღმდეგობრივი ნომერი:"</string>
+    <string name="scan_trd_lcn_CONFLICT_USE_DEFAULT" msgid="5499850751634484897">"ნაგულისხმევი პარამეტრის გამოყენება ყველასთვის"</string>
+    <string name="download_firmware_start_button_text" msgid="6186600724359406693">"დაწყება"</string>
+    <string name="download_firmware_reboot_button_text" msgid="1433346694752099465">"გადატვირთვა"</string>
+    <string name="download_firmware_progress_textview_text" msgid="55797026286728957">"პროგრესი:"</string>
+    <string name="download_firmware_status_textview_text" msgid="8644139064217773221">"სტატუსი:"</string>
+    <string name="download_firmware_toast_textview_validating_text" msgid="8785529636944055113">"მიმდინარეობს დადასტურება…"</string>
+    <string name="download_firmware_toast_textview_upgrade_text" msgid="8456190132216922491">"ჩაშენებული პროგრამული უზრუნველყოფა მზადაა. ნამდვილად გსურთ სისტემის ახლა გადატვირთვა?"</string>
+    <string name="download_firmware_toast_textview_to_start_text" msgid="5026601491883723923">"ჩაშენებული პროგრამული უზრუნველყოფის ჩამოსატვირთად, გთხოვთ, დააჭიროთ ღილაკს „დაწყება“!"</string>
+    <string name="download_firmware_status_value_start" msgid="8839366151705837548">"ჩამოტვირთვა დაიწყო"</string>
+    <string name="download_firmware_status_value_downloading" msgid="6859186634668850800">"მიმდინარეობს ჩამოტვირთვა"</string>
+    <string name="download_firmware_status_value_complete" msgid="647678136629697974">"ჩამოტვირთვა დასრულდა"</string>
+    <string name="download_firmware_status_value_cancel_down" msgid="6026239865587351590">"ჩამოტვირთვის გაუქმება"</string>
+    <string name="download_firmware_toast_textview_download_exit_none" msgid="2317579984559465646">"გადით ჩამოტვირთვიდან! ჩამოსატვირთი ფაილი არ არსებობს!"</string>
+    <string name="download_firmware_toast_textview_validate_complete" msgid="7644949143448739457">"დადასტურება დასრულებულია"</string>
+    <string name="download_firmware_toast_textview_download_exit_network_error" msgid="4044079832519768043">"გადით ჩამოტვირთვიდან! ქსელში შეცდომაა!"</string>
+    <string name="download_firmware_toast_textview_download_exit_validate_error" msgid="9093460341791920709">"გადით ჩამოტვირთვიდან! შეცდომა დადასტურებისას!"</string>
+    <string name="download_firmware_toast_textview_download_exit_fail" msgid="3232164838989608671">"გადით ჩამოტვირთვიდან! ჩამოტვირთვა ვერ მოხერხდა!"</string>
+    <string name="download_firmware_upgrade_successfully" msgid="2394430484481002527">"ეს სისტემა წარმატებით გადავიდა ჩაშენებული პროგრამული უზრუნველყოფის ახალ ვერსიაზე!"</string>
+    <string name="download_firmware_upgrade_unsuccessfully" msgid="7068385964836530550">"სისტემამ ვერ შეძლო ჩაშენებული პროგრამული უზრუნველყოფის ახალ ვერსიაზე გადაყვანა!"</string>
+    <string name="digital_sat_tuning_title" msgid="4138595103405578192">"ციფრული სატელიტის აწყობა"</string>
+    <string name="select_channel_title" msgid="6982631071764474437">"აირჩიეთ არხების სია"</string>
+    <string name="scan_trd_lcnv2_title" msgid="6777686697506190937">"გთხოვთ, აირჩიოთ არხების სია:"</string>
+    <string name="select_region_title" msgid="6909113383906775952">"აირჩიეთ რეგიონი"</string>
+    <string name="select_region_detail_title" msgid="8452853862535028462">"რეგიონის არჩევა შემდეგისთვის: <xliff:g id="SELECT_REGION_DETAIL">%1$s</xliff:g>"</string>
+    <string name="scan_way" msgid="2002648253057830525">"გთხოვთ, აირჩიოთ სკანირების რეჟიმი"</string>
+    <string name="menu_title_options" msgid="7217170962187655180">"TV პარამეტრები"</string>
+    <string name="option_item_source" msgid="4556667077460286621">"წყარო"</string>
+    <string name="options_item_closed_caption" msgid="5853195639158707605">"დახურული სუბტიტრები"</string>
+    <string name="options_item_display_mode" msgid="7841703877115700888">"ჩვენების რეჟიმი"</string>
+    <string name="options_item_add_to_favorite_normal" msgid="1676835230755231708">"ჩემს რჩეულებში დამატება"</string>
+    <string name="options_item_add_to_favorite_selected" msgid="1544428407279964983">"ჩემი რჩეულები"</string>
+    <string name="options_item_my_fav_edit" msgid="1114519104794016159">"რედაქტირება"</string>
+    <string name="options_item_more_channels" msgid="8072740194649321532">"მეტი არხის მიღება"</string>
+    <string name="options_item_settings" msgid="1453090179989181072">"პარამეტრები"</string>
+    <string name="options_item_speakers" msgid="713533890590523853">"დინამიკები"</string>
+    <string name="options_item_picture_style" msgid="5810386866875884047">"სურათის რეჟიმი"</string>
+    <string name="channels_item_setup" msgid="4398500479423430803">"ხელმისაწვდომია ახალი არხები"</string>
+    <string name="channels_item_program_guide" msgid="897725734324467870">"პროგრამის სახელმძღვანელო"</string>
+    <string name="channels_item_up" msgid="788422281726191758">"ერთი არხით ზემოთ"</string>
+    <string name="channels_item_down" msgid="9103178860749908818">"შემდეგი არხი ქვემოთ"</string>
+    <string name="menu_title_channels" msgid="3390192267994167470">"არხები"</string>
+    <string name="channels_item_app_link_app_launcher" msgid="2857846823041690857">"<xliff:g id="APP_NAME">%1$s</xliff:g>-ის გახსნა"</string>
+    <string name="option_inputs_locked" msgid="5018552805474427630">"შენატანები დაბლოკილია"</string>
+    <string name="option_channels_locked" msgid="4278553646650920903">"დაბლოკილი არხები"</string>
+    <string name="option_channels_lock_all" msgid="1308860815117282408">"ყველას დაბლოკვა"</string>
+    <string name="option_channels_unlock_all" msgid="8863189264168651216">"ყველას განბლოკვა"</string>
+    <string name="option_channels_skip_all" msgid="8525566190972924859">"ყველას გამოტოვება"</string>
+    <string name="option_channels_unskip_all" msgid="2008840585521526440">"არცერთის გამოტოვება"</string>
+    <string name="option_channels_subheader_hidden" msgid="7577132153514645863">"დამალული არხები"</string>
+    <string name="option_program_restrictions" msgid="4040225166560427264">"პროგრამის შეზღუდვები"</string>
+    <string name="option_program_open_vchip" msgid="2858973210829446465">"RRT5 პარამეტრი"</string>
+    <string name="parental_open_vchip_region" msgid="1033206366441155458">"RRT5 პარამეტრი"</string>
+    <string name="parental_open_vchip_dim" msgid="7370943383274566757">"RRT5 Dim"</string>
+    <string name="parental_open_vchip_level" msgid="2714124932028883408">"RRT5 დონე"</string>
+    <string name="parental_rrt5_reset" msgid="1524137500002115214">"RRT5-ის გადაყენება"</string>
+    <string name="option_change_pin" msgid="1933418586775188460">"PIN-კოდის შეცვლა"</string>
+    <string name="option_country_rating_systems" msgid="1392413757942636834">"რეიტინგის სისტემები"</string>
+    <string name="option_ratings" msgid="2660806052790302617">"რეიტინგები"</string>
+    <string name="option_see_all_rating_systems" msgid="6201049705170695880">"შეფასების ყველა სისტემის ნახვა"</string>
+    <string name="other_countries" msgid="4596971851245610516">"სხვა ქვეყნები"</string>
+    <string name="option_no_locked_channel" msgid="893654855305492748">"არცერთი"</string>
+    <string name="unrated_rating_name" msgid="8066683266117656826">"შეუფასებელი"</string>
+    <string name="option_block_unrated_programs" msgid="919063147302651327">"შეუფასებელ პროგრამათა დაბლოკვა"</string>
+    <string name="option_rating_high" msgid="4823561495527911126">"მაღალი შეზღუდვები"</string>
+    <string name="option_rating_medium" msgid="1315066690064706951">"საშუალო შეზღუდვები"</string>
+    <string name="option_rating_low" msgid="6799595596891724805">"დაბალი შეზღუდვები"</string>
+    <string name="menu_arrays_As_Broadcast" msgid="6749516296190568227">"ტრანსლაციის მსგავსად"</string>
+    <string name="option_rating_custom" msgid="7979151968299060057">"მორგებული"</string>
+    <string name="option_rating_high_description" msgid="2263330370930290830">"კონტენტი დასაშვებია ბავშვებისთვის"</string>
+    <string name="option_rating_medium_description" msgid="5208544963533615943">"უფროსი ასაკის ბავშვებისთვის შესაფერისი კონტენტი"</string>
+    <string name="option_rating_low_description" msgid="6998332910682382011">"კონტენტი განკუთვნილია მოზარდებისთვის"</string>
+    <string name="option_rating_custom_description" msgid="5626098292379342615">"მექანიკური შეზღუდვები"</string>
+    <string name="option_attribution" msgid="5859306912976445887">"რეიტინგის აღწერათა წყაროები"</string>
+    <string name="option_subrating_title" msgid="8895683546288375781">"<xliff:g id="OPTION_SUBRATING">%1$s</xliff:g> და ქვერეიტინგები"</string>
+    <string name="option_subrating_header" msgid="8076550601405699796">"ქვერეიტინგები"</string>
+    <string name="pin_enter_unlock_channel" msgid="3985838512650380181">"ამ არხის საყურებლად შეიყვანეთ თქვენი PIN-კოდი"</string>
+    <string name="pin_enter_unlock_program" msgid="4241029038098662965">"ამ პროგრამის საყურებლად შეიყვანეთ თქვენი PIN-კოდი"</string>
+    <string name="pin_enter_unlock_dvr" msgid="5027150578792028257">"ამ პროგრამის ასაკობრივი შეზღუდვაა: <xliff:g id="RATING">%1$s</xliff:g>. მის საყურებლად, შეიყვანეთ PIN-კოდი"</string>
+    <string name="pin_enter_unlock_dvr_unrated" msgid="1457727956598351054">"ეს პროგრამა შეუფასებელია. ამ პროგრამის სანახავად, შეიყვანეთ თქვენი PIN-კოდი"</string>
+    <string name="pin_enter_pin" msgid="3413604816599667866">"შეიყვანეთ PIN-კოდი"</string>
+    <string name="pin_enter_create_pin" msgid="6301919043650037174">"მშობელთა კონტროლის დასაყენებლად შექმენით PIN-კოდი"</string>
+    <string name="pin_enter_new_pin" msgid="4029016259168851554">"შეიყვანეთ ახალი PIN-კოდი"</string>
+    <string name="pin_enter_again" msgid="5659508326927657540">"დაადასტურეთ PIN-კოდი"</string>
+    <string name="pin_enter_old_pin" msgid="616711077575827250">"შეიყვანეთ თქვენი ამჟამინდელი PIN-კოდი"</string>
+    <plurals name="pin_enter_countdown" formatted="false" msgid="273148666195694222">
+      <item quantity="other">თქვენ 5-ჯერ შეიყვანეთ არასწორი PIN-კოდი.\nცადეთ ხელახლა <xliff:g id="COUNTDOWN_XX">%1$d</xliff:g> წამში.</item>
+      <item quantity="one">თქვენ 5-ჯერ შეიყვანეთ არასწორი PIN-კოდი.\nცადეთ ხელახლა <xliff:g id="COUNTDOWN_X_0">%1$d</xliff:g> წამში.</item>
+    </plurals>
+    <string name="pin_toast_wrong" msgid="7295547708747589572">"PIN-კოდი არასწორი იყო. ხელახლა ცადეთ."</string>
+    <string name="pin_toast_not_match" msgid="2549043675305454893">"ცადეთ ხელახლა, PIN-კოდი არ ემთხვევა"</string>
+    <string name="no_program_information" msgid="2620718003929766549">"პროგრამის ინფორმაცია არ არის"</string>
+    <string name="settings_menu_licenses" msgid="3192336140991154148">"ღია კოდის ლიცენზიები"</string>
+    <string name="menu_channel" msgid="7628333882345060865">"არხი"</string>
+    <string name="menu_channel_channel_sources" msgid="4438235370530709088">"არხების წყაროები"</string>
+    <string name="menu_channel_customize_channel_list" msgid="9083666960081625903">"არხების სიის პარამეტრების დაყენება"</string>
+    <string name="menu_channel_customize_channel_list_summary" msgid="1881145392080367595">"აირჩიეთ არხები პროგრამის სახელმძღვანელოსთვის"</string>
+    <string name="menu_channel_channel_installation_mode" msgid="8241064516725478588">"არხების ინსტალაციის რეჟიმი"</string>
+    <string name="menu_channel_parental_controls" msgid="5517855524451929591">"მშობლის მიერ კონტროლი"</string>
+    <string name="menu_channel_multi_audio" msgid="168032913015984240">"მულტი-აუდიო"</string>
+    <string name="menu_channel_version" msgid="8003712676262175836">"ვერსია"</string>
+    <string name="action_text_done" msgid="2445867222494847702">"მზადაა"</string>
+    <string name="display_episode_number_format" msgid="1377378184906101820">"სეზ. <xliff:g id="SEASON_NUMBER">%1$s</xliff:g>: ეპ. <xliff:g id="EPISODE_NUMBER">%2$s</xliff:g>"</string>
+    <string name="display_episode_number_format_no_season_number" msgid="6917613965080930331">"ეპ. <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g>"</string>
+    <string name="display_episode_title_format_no_season_number" msgid="3912670160529339468">"ეპ. <xliff:g id="EPISODE_NUMBER">%1$s</xliff:g> — <xliff:g id="EPISODE_TITLE">%2$s</xliff:g>"</string>
+    <string name="program_title_with_episode_number" msgid="4637995776353107319">"<xliff:g id="PROGRAMNAME">%1$s</xliff:g> სეზ. <xliff:g id="SEASONNUMBER">%2$s</xliff:g>: ეპ. <xliff:g id="EPISODENUMBER">%3$s</xliff:g>"</string>
+    <string name="setup_sources_text" msgid="1716850046551772892">"დააყენეთ თქვენი წყაროები"</string>
+    <string name="setup_sources_description" msgid="3493578292062301829">"LiveTV ტრადიციულ სატელევიზიო არხებსა და აპების მიერ მოწოდებულ სტრიმინგის არხებს აერთიანებს. \n\nდასაწყებად, დააყენეთ არხების უკვე დაინსტალირებული წყაროები, ან დაათვალიერეთ ონლაინ მაღაზიები და აღმოაჩინეთ მეტი აპი, რომლებიც პირდაპირ არხებს გთავაზობთ."</string>
+    <string name="setup_category_new" msgid="6994855730807922321">"ახალი"</string>
+    <string name="setup_category_done" msgid="5890077326704095589">"წყაროები"</string>
+    <plurals name="setup_input_channels" formatted="false" msgid="7467087757043399175">
+      <item quantity="other"><xliff:g id="OTHER">%1$d</xliff:g> არხი</item>
+      <item quantity="one"><xliff:g id="ONE">%1$d</xliff:g> არხი</item>
+    </plurals>
+    <string name="setup_input_no_channels" msgid="6259265010188436855">"ხელმისაწვდომი არხები არ არის"</string>
+    <string name="setup_input_new" msgid="6042999728027852143">"ახალი"</string>
+    <string name="setup_input_setup_now" msgid="6101285296981157962">"არ არის დაყენებული"</string>
+    <string name="menu_channel_scan_type" msgid="4360471719008301149">"არხების სკანირების ტიპი"</string>
+    <string name="menu_channel_store_type" msgid="6273001423492188772">"არხების საცავის ტიპი"</string>
+    <string name="menu_arrays_Hearing_Impaired" msgid="8311117292032115988">"სმენადაქვეითებულთათვის"</string>
+    <string name="menu_arrays_Stereo" msgid="4783706065008964795">"სტერეო"</string>
+    <string name="menu_arrays_Auto_Stereo" msgid="6974199440945968182">"ავტოსტერეო"</string>
+    <string name="menu_arrays_Surround" msgid="2101357483063576435">"მოცულობითი"</string>
+    <string name="menu_arrays_Undefined" msgid="4977177148723430553">"განუსაზღვრელი"</string>
+    <string name="menu_arrays_Antenna" msgid="792654887538581337">"ანტენა"</string>
+    <string name="menu_arrays_Cable" msgid="9203263115989080926">"კაბელი"</string>
+    <string name="menu_arrays_Mono" msgid="1872841660228144707">"მონო"</string>
+    <string name="menu_arrays_Dual1" msgid="1237203245379622776">"Dual1"</string>
+    <string name="menu_arrays_Dual2" msgid="767741546937732184">"Dual2"</string>
+    <string name="menu_arrays_Original_Audio" msgid="5680611572652053920">"საწყისი ხმა"</string>
+    <string name="menu_arrays_Original_Version" msgid="7669493811810041115">"ორიგინალი ვერსია"</string>
+    <string name="menu_arrays_Good" msgid="875594988593992607">"კარგი"</string>
+    <string name="menu_arrays_Poor" msgid="1871527522087522120">"ცუდი"</string>
+    <string name="menu_arrays_Analog_Digital" msgid="7801497378825097110">"ანალოგური/ციფრული"</string>
+    <string name="menu_arrays_Analog" msgid="3866596728065174354">"ანალოგური"</string>
+    <string name="menu_arrays_Digital" msgid="8926526950352798110">"ციფრული"</string>
+    <string name="menu_arrays_Channel_Info" msgid="4442342875896881705">"არხის ინფორმაცია"</string>
+    <string name="menu_arrays_Swap" msgid="8766910158959028063">"შენაცვლება"</string>
+    <string name="menu_arrays_poor" msgid="2357352005580864666">"სუსტი"</string>
+    <string name="menu_arrays_good" msgid="2283340712722771515">"კარგი"</string>
+    <string name="menu_arrays_None" msgid="3939586204187095405">"არცერთი"</string>
+    <string name="menu_arrays_Mute" msgid="7694795603142535821">"დადუმება"</string>
+    <string name="menu_arrays_Auto" msgid="6718568285833546090">"ავტომატური"</string>
+    <string name="menu_arrays_normal" msgid="597094537003544099">"ჩვეულებრივი"</string>
+    <string name="menu_arrays_Zoom" msgid="585012643680792280">"მასშტაბირება"</string>
+    <string name="menu_arrays_On_mute" msgid="8450245846110938402">"დადუმებულია"</string>
+    <string name="menu_arrays_Service_x" msgid="1993919359250833212">"სერვისი<xliff:g id="SERVICE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Language_x" msgid="566368717632187973">"ენა<xliff:g id="LANGUAGE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_As_Broadcaster" msgid="3890922072205931808">"როგორც მაუწყებელი"</string>
+    <string name="menu_arrays_Medium" msgid="966172060318708541">"საშუალო"</string>
+    <string name="menu_arrays_Small" msgid="6190182690420474185">"პატარა"</string>
+    <string name="menu_arrays_Large" msgid="6438453482331796882">"დიდი"</string>
+    <string name="menu_arrays_Style_x" msgid="3013547987820441012">"სტილი<xliff:g id="STYLE_X">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Black" msgid="7650695801370292338">"შავი"</string>
+    <string name="menu_arrays_White" msgid="893891783815283563">"თეთრი"</string>
+    <string name="menu_arrays_Green" msgid="7251521462222533405">"მწვანე"</string>
+    <string name="menu_arrays_Blue" msgid="4489389407640869527">"ლურჯი"</string>
+    <string name="menu_arrays_Red" msgid="1933455370143022832">"წითელი"</string>
+    <string name="menu_arrays_Cyan" msgid="590587736732468788">"ციანი"</string>
+    <string name="menu_arrays_Yellow" msgid="3350543070837348044">"ყვითელი"</string>
+    <string name="menu_arrays_Magenta" msgid="7514447619769965477">"მაჯენტა"</string>
+    <string name="menu_arrays_Solid" msgid="6891683596561584387">"მყარი"</string>
+    <string name="menu_arrays_Translucent" msgid="7348561646063373298">"სინათლის გამტარი"</string>
+    <string name="menu_arrays_Transparent" msgid="46136886913020453">"გამჭვირვალე"</string>
+    <string name="menu_arrays_Below_xx" msgid="5316206528757697812">"<xliff:g id="BELOW_XX">%1$d</xliff:g>-ის ქვემოთ"</string>
+    <string name="menu_arrays_General" msgid="2366515706387927382">"ზოგადი"</string>
+    <string name="menu_arrays_Parental_Guidance" msgid="3583103550639620032">"მშობლის ხელმძღვანელობით"</string>
+    <string name="menu_arrays_Parental_Guidance13" msgid="7832333703315486939">"მშობლის ხელმძღვანელობით — 13"</string>
+    <string name="menu_arrays_No_Children_Under16" msgid="3761088778488343013">"არ არის განკუთვნილი 16 წლამდე ბავშვებისთვის"</string>
+    <string name="menu_arrays_Mature18" msgid="5434190892591659150">"ზრდასრულთათვის — 18"</string>
+    <string name="menu_arrays_Restricted21" msgid="5314572088286729983">"შეზღუდული — 21"</string>
+    <string name="menu_arrays_Kid_3_5_years" msgid="3539750662826305136">"3-5 წლის ბავშვებისთვის"</string>
+    <string name="menu_arrays_Kid_6_12_years" msgid="4677503582394369759">"6-12 წლის ბავშვებისთვის"</string>
+    <string name="menu_arrays_Adult" msgid="5968738389591460509">"ზრდასრული"</string>
+    <string name="menu_arrays_No_Block" msgid="4677413236939830581">"დაუბლოკავი"</string>
+    <string name="menu_arrays_Block_R_and_above" msgid="3931509965632385919">"R და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Block_AV_and_above" msgid="4098581090645860027">"AV და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Block_MA_and_above" msgid="2902158154405770928">"MA და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Block_M_and_above" msgid="1587547949824334092">"M და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Block_PG_and_above" msgid="2329755086870199923">"PG და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Block_G_and_above" msgid="1010482734674538428">"G და უფრო მაღალი რეიტინგის დაბლოკვა"</string>
+    <string name="menu_arrays_Drugs" msgid="9017988031684735231">"ნარკოტიკები"</string>
+    <string name="menu_arrays_Violence" msgid="2700477239280676011">"ძალადობა"</string>
+    <string name="menu_arrays_Sex" msgid="9102359352375833921">"სექსი"</string>
+    <string name="menu_arrays_Violence_Drugs" msgid="3176289985356955366">"ძალადობა და ნარკოტიკები"</string>
+    <string name="menu_arrays_Sex_Drugs" msgid="8516289371524201010">"სექსი და ნარკოტიკები"</string>
+    <string name="menu_arrays_Violence_Sex" msgid="3260356191627313395">"ძალადობა და სექსი"</string>
+    <string name="menu_arrays_Violence_Sex_Drugs" msgid="7414018789604350251">"ძალადობა, სექსი და ნარკოტიკები"</string>
+    <string name="menu_arrays_Daily" msgid="2887502959851143306">"ყოველდღიურად"</string>
+    <string name="menu_arrays_Once" msgid="78172329685696222">"ერთხელ"</string>
+    <string name="menu_arrays_Level1.5" msgid="4991501223080491744">"დონე 1.5"</string>
+    <string name="menu_arrays_Level2.5" msgid="9174733134991326263">"დონე 2.5"</string>
+    <string name="menu_arrays_Minutes_xx" msgid="4833956775933039776">"<xliff:g id="MENU_XX_MINUTES">%1$d</xliff:g> წუთი"</string>
+    <string name="menu_arrays_Select_Mode" msgid="2790938579764517097">"რეჟიმის არჩევა"</string>
+    <string name="menu_arrays_Show_Channels" msgid="2560822427714396463">"არხების ჩვენება"</string>
+    <string name="menu_arrays_Last_Status" msgid="6538332406071163031">"ბოლო სტატუსი"</string>
+    <string name="menu_arrays_User_Select" msgid="7223702514123201590">"მომხმარებლის მიერ არჩეული"</string>
+    <string name="menu_arrays_Horizonal" msgid="42985913839454918">"ჰორიზონტალური"</string>
+    <string name="menu_arrays_Vertical" msgid="4770707067174121725">"ვერტიკალური"</string>
+    <string name="menu_arrays_Record" msgid="8172781096094246445">"ჩაწერა"</string>
+    <string name="menu_arrays_Reminder" msgid="5837609288498586246">"შეხსენება"</string>
+    <string name="menu_arrays_Week" msgid="8587984779955216982">"კვირა"</string>
+    <string name="menu_arrays_Full" msgid="5670561186156834834">"სრული"</string>
+    <string name="menu_arrays_Advance" msgid="8153584011983662479">"გაფართოებული"</string>
+    <string name="menu_arrays_Quick" msgid="4522212572776781883">"სწრაფი"</string>
+    <string name="menu_arrays_Country_Region_ID_x" msgid="994203875824149303">"ქვეყნის რეგიონის ID <xliff:g id="COUNTRY_REGION_ID">%1$d</xliff:g>"</string>
+    <string name="menu_arrays_Everyday" msgid="2121237939250683484">"ყოველდღე"</string>
+    <string name="menu_arrays_Sunday" msgid="6056429344349439537">"კვირა"</string>
+    <string name="menu_arrays_Monday" msgid="6089505777337669562">"ორშაბათი"</string>
+    <string name="menu_arrays_Tuesday" msgid="6626938724432544424">"სამშაბათი"</string>
+    <string name="menu_arrays_Wednesday" msgid="1140866814494390450">"ოთხშაბათი"</string>
+    <string name="menu_arrays_Thursday" msgid="1999854984006489035">"ხუთშაბათი"</string>
+    <string name="menu_arrays_Friday" msgid="1452726097579727890">"პარასკევი"</string>
+    <string name="menu_arrays_Saturday" msgid="6457750443619059503">"შაბათი"</string>
+    <string name="menu_arrays_Satellite" msgid="3014742644407817155">"სატელიტი"</string>
+    <string name="menu_arrays_All_channels" msgid="8294956944079962717">"ყველა არხი"</string>
+    <string name="menu_arrays_Family_Kids" msgid="4282409277333173747">"საოჯახო/საბავშვო"</string>
+    <string name="menu_arrays_Sports" msgid="1029187922022865730">"სპორტი"</string>
+    <string name="menu_arrays_Shopping" msgid="1395709079436543836">"საყიდლები"</string>
+    <string name="menu_arrays_Movies" msgid="4554329450078702658">"ფილმები"</string>
+    <string name="menu_arrays_Comedy" msgid="367778033888365230">"კომედია"</string>
+    <string name="menu_arrays_Travel" msgid="4428017033007530561">"მოგზაურობა"</string>
+    <string name="menu_arrays_Drama" msgid="6692493348087982008">"დრამა"</string>
+    <string name="menu_arrays_Education" msgid="6824372712457352356">"განათლება"</string>
+    <string name="menu_arrays_Animal_Wildlife" msgid="5931500471481039191">"ცხოველები/ველური ბუნება"</string>
+    <string name="menu_arrays_News" msgid="5951599407676855210">"სიახლეები"</string>
+    <string name="menu_arrays_Gaming" msgid="2723175717685708412">"ვიდეოთამაშები"</string>
+    <string name="menu_arrays_Arts" msgid="8639640177143632897">"ხელოვნება"</string>
+    <string name="menu_arrays_Entertainment" msgid="8501789414043300586">"გართობა"</string>
+    <string name="menu_arrays_Lifestyle" msgid="344628403976644794">"ცხოვრების სტილი"</string>
+    <string name="menu_arrays_Music" msgid="6280028735889729793">"მუსიკა"</string>
+    <string name="menu_arrays_Premier" msgid="1245737364617765732">"პრემიერა"</string>
+    <string name="menu_arrays_Tech_Science" msgid="7281119021136267294">"ტექნოლოგია/მეცნიერება"</string>
+    <string name="menu_arrays_Only_Encrypted_Channels" msgid="4367710654894958021">"მხოლოდ დაშიფრული არხები"</string>
+    <string name="menu_arrays_Only_Free_Channels" msgid="7444597831655990785">"მხოლოდ უფასო არხები"</string>
+    <string name="menu_arrays_Only_Digital_Channels" msgid="5948689983034815513">"მხოლოდ ციფრული არხები"</string>
+    <string name="menu_arrays_Only_Radio_Channels" msgid="3856332747833315514">"მხოლოდ რადიოარხები"</string>
+    <string name="menu_arrays_power_never" msgid="7727208149710895180">"არასოდეს"</string>
+    <string name="menu_arrays_power_x_hours" msgid="2838991471999484316">"<xliff:g id="POWER_X_HOURS">%1$d</xliff:g> საათი"</string>
+    <string name="menu_string_power_setting" msgid="2855368982497716492">"ავტომატური ძილი"</string>
+    <string name="menu_string_power_tips" msgid="1651628824563369102">"რჩევები ძილის შესახებ"</string>
+    <string name="menu_string_power_content" msgid="922025259667122726">"ტელევიზორი ხუთ წუთში დაიძინებს. გსურთ, დაანებოთ დაძინება?"</string>
+    <string name="menu_string_toast_scanning_background" msgid="8145876274007994574">"სკანირება მიმდინარეობს ფონურ რეჟიმში. გთხოვთ, ცადოთ მოგვიანებით"</string>
+    <string name="menu_string_postal_code_toast_less_than16" msgid="8068824565893800120">"„cwkey“ უნდა შეიცავდეს მინიმუმ 16 სიმბოლოს"</string>
+    <string name="menu_string_postal_code_toast_cannot_empty" msgid="692387196497397664">"ცარიელი არ უნდა იყოს!"</string>
+    <string name="menu_string_postal_code_toast_invalid_input" msgid="1333218593666594370">"შენატანი არასწორია!"</string>
+    <string name="menu_string_rrt5_none_title" msgid="2790323775706670191">"ტექსტი არ არის."</string>
+    <string name="menu_wrong_new_pin_notify" msgid="2428163831513361272">"„0000“ არასწორი პაროლია"</string>
+    <string name="menu_string_freeview_setting" msgid="1631822952530836203">"Freeview Play-ს პარამეტრები"</string>
+    <string name="menu_string_term_condition" msgid="7741932472480967423">"წესები და პირობები"</string>
+    <string name="menu_tv_manual_service_update" msgid="8701126040235187294">"სერვისის მექანიკური განახლება"</string>
+    <string name="options_item_sounds_style" msgid="122267496452408739">"ხმის სტილი"</string>
+    <string name="sound_category_title" msgid="1081306172806831092">"ხმა"</string>
+    <string name="device_picture" msgid="1347473641807661535">"სურათი"</string>
+    <string name="bisskey_savekey" msgid="1066739106235688236">"გასაღების შენახვა"</string>
+    <string name="bisskey_updatekey" msgid="7558012292134266265">"გასაღების განახლება"</string>
+    <string name="bisskey_deletekey" msgid="2301067526669124374">"გასაღების წაშლა"</string>
+    <string name="dvbs_conflict_diseqc_toast" msgid="9045990222417359716">"DiSEqC-ის ტიპი კონფლიქტში აღმოჩნდა, შეამოწმეთ DiSEqC-ის პარამეტრები."</string>
+    <string name="dvbs_sdx_select_satellite_tip" msgid="3586313354629667245">"აირჩიეთ სატელიტის სახელი და დააყენეთ DiSEqC პროტოკოლი."</string>
+    <string name="dvbs_sdx_select_satellite_warning" msgid="934739686877164305">"წინასწარ დაყენებულთა სიის ჩამოსატვირთად საჭიროა ქვემოთ ჩამოთვლილთაგან მინიმუმ ერთი სატელიტის არჩევა:\n\n\n    <xliff:g id="SATELLITE_NAME">%1$s</xliff:g>\n ასე რომ, წინასწარ დაყენებულთა სიის ჩამოტვირთვა ვერ მოხერხდა!"</string>
+    <string name="dvbs_storing_wait" msgid="5066779230374934082">"მოითმინეთ, მიმდინარეობს არხების შენახვა..."</string>
+</resources>

@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_back" msgid="3837780715001543416">"ପଛକୁ ଫେରନ୍ତୁ"</string>
+    <string name="setup_select" msgid="1270661539800592611">"ଚୟନ କରନ୍ତୁ"</string>
+    <string name="setup_next" msgid="4079616525492116810">"ପରବର୍ତ୍ତୀ"</string>
+    <string name="setup_exit" msgid="2146465055653514914">"ବାହାରି ଯାଆନ୍ତୁ"</string>
+    <string name="satellites" msgid="2437056584091944552">"ସେଟଲାଇଟ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_source_main_title" msgid="2932465973368848409">"ଇନ୍‍ପୁଟ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_source_sub_title" msgid="3984145309082960750">"ସବ୍"</string>
+    <string name="nav_source_dtv" msgid="5152302644958567371">"DTV"</string>
+    <string name="nav_source_atv" msgid="6199547169049414230">"ATV"</string>
+    <string name="nav_channel_sources_title_string" msgid="367408450916090783">"ଚ୍ୟାନେଲ୍ ଉତ୍ସଗୁଡ଼ିକ"</string>
+    <string name="nav_please_scan_channels" msgid="3487093583724429407">"ଦୟାକରି ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକୁ ସ୍କାନ୍ କରନ୍ତୁ!"</string>
+    <string name="nav_no_function" msgid="2648028768044488333">"କାମ କରୁନାହିଁ"</string>
+    <string name="nav_select_list" msgid="1027121931380049166">"ତାଲିକା ଚୟନ କରନ୍ତୁ"</string>
+    <string name="nav_select_more" msgid="3349417212025190988">"ଅଧିକ ଚୟନ କରନ୍ତୁ"</string>
+    <string name="nav_select_list_cn" msgid="8780703315157174233">"ଚୟନ କରନ୍ତୁ"</string>
+    <string name="nav_select_sort" msgid="6508271100062731920">"ସର୍ଟ୍ କରନ୍ତୁ"</string>
+    <string name="nav_select_sort_default" msgid="8581827442683448193">"ଡିଫଲ୍ଟ"</string>
+    <string name="nav_select_sort_nameup" msgid="5580908348787749506">"ପୂର୍ବ ନାମ"</string>
+    <string name="nav_select_sort_namedown" msgid="6921153400093046784">"ତଳ ନାମ"</string>
+    <string name="nav_select_sort_encrypted" msgid="1594866560728134004">"ଏନ୍‌କ୍ରିପ୍ଟ କରାଯାଇଛି"</string>
+    <string name="nav_select_find" msgid="1430232488103132351">"ଖୋଜନ୍ତୁ"</string>
+    <string name="nav_select_find_text" msgid="4496521336500791773">"ଦୟାକରି ଚ୍ୟାନେଲ୍ ସଂଖ୍ୟା କିମ୍ବା ଚ୍ୟାନେଲ୍ ନାମ ଇନ୍‌ପୁଟ୍ କରନ୍ତୁ।"</string>
+    <string name="nav_select_type_broadcast" msgid="2256433531995539017">"ପ୍ରସାରଣ"</string>
+    <string name="nav_select_type_categories" msgid="131884890129452289">"ବର୍ଗ"</string>
+    <string name="nav_select_type_packs" msgid="6781847657898029815">"ପ୍ୟାକ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_select_type_digital" msgid="7079139882636642651">"ଡିଜିଟାଲ୍"</string>
+    <string name="nav_select_type_no_channel" msgid="4606980815353766703">"ଏହି ପ୍ରକାରର କୌଣସି ଚ୍ୟାନେଲ୍ ନାହିଁ। ଦୟାକରି, ଅନ୍ୟ ପ୍ରକାରର ଚ୍ୟାନେଲ୍ ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="nav_select_type_radio" msgid="2544353653799094620">"ରେଡିଓ"</string>
+    <string name="nav_select_type_analogue" msgid="2592457661994643123">"ଆନାଲଗ୍"</string>
+    <string name="nav_select_type_free" msgid="4236873277834252882">"ନିଃଶୁଳ୍କ"</string>
+    <string name="nav_select_type_encrypted" msgid="3947438160597205615">"ଏନ୍‌କ୍ରିପ୍ଟ କରାଯାଇଛି"</string>
+    <string name="nav_select_type_network" msgid="7350628433970151756">"ନେଟ୍‌ୱାର୍କ"</string>
+    <string name="nav_select_type" msgid="9076713592287522086">"ପ୍ରକାର ବାଛନ୍ତୁ"</string>
+    <string name="nav_channel_list_loading" msgid="2611146848768461491">"ଲୋଡ୍ ହେଉଛି, ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ…"</string>
+    <string name="nav_page_up" msgid="3270051581100408370">"ଉପର ପୃଷ୍ଠା"</string>
+    <string name="nav_page_down" msgid="8785354636981485708">"ପରବର୍ତ୍ତୀ ପୃଷ୍ଠା"</string>
+    <string name="nav_fav_move_up" msgid="7635027935866366524">"ଉପରକୁ ନିଅନ୍ତୁ"</string>
+    <string name="nav_fav_move_down" msgid="5544785394685074068">"ତଳକୁ ନିଅନ୍ତୁ"</string>
+    <string name="nav_exit" msgid="2672205946282525690">"ପସନ୍ଦ ତାଲିକା"</string>
+    <string name="nav_delete" msgid="6481409432739745356">"ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+    <string name="nav_list_satellite" msgid="7097484280828194219">"ସାଟେଲାଇଟ୍ ତାଲିକା"</string>
+    <string name="nav_satellite_list" msgid="7295892735269658347">"ସାଟେଲାଇଟ୍ ଚୟନ କରନ୍ତୁ"</string>
+    <string name="nav_channel_list" msgid="1142928191994319781">"ଚ୍ୟାନେଲ୍ ତାଲିକା"</string>
+    <string name="nav_channel_new_channels" msgid="713004835192195038">"ନୂଆ ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ ମିଳିଛି ଏବଂ ଚ୍ୟାନେଲ୍ ତାଲିକାରେ ଯୋଗ କରାଯାଇଛି।"</string>
+    <string name="nav_channel_list_title_categories" msgid="9098272571468415489">"ବର୍ଗ -"</string>
+    <string name="nav_channel_list_title_packs" msgid="1217609978878169061">"ପ୍ୟାକ୍ -"</string>
+    <string name="nav_channel_selection" msgid="7081152459657498495">"ଚ୍ୟାନେଲ୍ ତାଲିକା ଚୟନ"</string>
+    <string name="nav_favourite_selection" msgid="759713397693032080">"ପସନ୍ଦିତା ତାଲିକା ଚୟନ"</string>
+    <string name="nav_channel_details" msgid="1545463507484207611">"ଚ୍ୟାନେଲ୍ ବିବରଣୀ"</string>
+    <string name="nav_volume_main" msgid="8985415486230287339">"ମାଷ୍ଟର୍ ଭଲ୍ୟୁମ୍"</string>
+    <string name="nav_parent_psw" msgid="46198784024271122">"ଆପଣଙ୍କର ପାସ୍‌ୱାର୍ଡ ଲେଖନ୍ତୁ"</string>
+    <string name="nav_parent_dvbs_hint" msgid="308348470614629015">"ଆପଣ ତିନି ଥର ଏକ ଭୁଲ୍ ପାସ୍‌ୱାର୍ଡ ଲେଖିଛନ୍ତି!\nଦୟାକରି 15 ମିନିଟ୍ ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ..."</string>
+    <string name="nav_parent_wrong_psw" msgid="1525620521477162152">"ଭୁଲ ପାସ୍‌ୱାର୍ଡ। ଦୟାକରି ପୁଣି ଲେଖନ୍ତୁ!"</string>
+    <string name="nav_channel_antenna" msgid="6714245276115596065">"ଆଣ୍ଟେନା"</string>
+    <string name="nav_channel_infoTitle" msgid="1636614751099482229">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ଟାଇଟେଲ୍ ନାହିଁ।)"</string>
+    <string name="nav_channel_infoNoProgram" msgid="8125356897518159307">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ବିବରଣୀ ନାହିଁ।)"</string>
+    <string name="nav_channel_infoNoChannelDetail" msgid="5877629862359097611">"(କୌଣସି ଚ୍ୟାନେଲ୍ ବିବରଣୀ ନାହିଁ।)"</string>
+    <string name="nav_no_signal" msgid="6367428274317270544">"କୌଣସି ସିଗ୍‌ନାଲ୍ ନାହିଁ!"</string>
+    <string name="nav_no_support" msgid="4211951000080501477">"ସମର୍ଥନ ନାହିଁ!"</string>
+    <string name="nav_channel_has_locked" msgid="4775598194894742710">"ଚ୍ୟାନେଲ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_input_has_locked" msgid="5259404886694911270">"ଇନ୍‌ପୁଟ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_program_has_locked" msgid="6948099854934642276">"ପ୍ରୋଗ୍ରାମ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_hidden_channel" msgid="1761740323940190763">"ଲୁକ୍କାୟିତ ଚ୍ୟାନେଲ୍"</string>
+    <string name="nav_channel_audio_scrambled" msgid="2971064824022070667">"ଅସ୍ପଷ୍ଟ ଅଡିଓ"</string>
+    <string name="nav_channel_video_scrambled" msgid="9177381028485366425">"ଅସ୍ପଷ୍ଟ ଭିଡିଓ"</string>
+    <string name="nav_sleep_label" msgid="1273142476991172762">"ସ୍ଲିପ୍:"</string>
+    <string name="nav_sleep_off" msgid="8552794208521851300">"ବନ୍ଦ ଅଛି"</string>
+    <string name="nav_sleep_minutes" msgid="3683886457066438960">"ମିନିଟ୍"</string>
+    <string name="nav_resolution_null" msgid="3552956286008541271">"କୌଣସି ଭିଡିଓ ନାହିଁ"</string>
+    <string name="nav_channel_retrieving" msgid="8707542275819348335">"ଡାଟା ପୁନରୁଦ୍ଧାର ହେଉଛି..."</string>
+    <string name="nav_unknown_audio" msgid="418747611250263057">"ଅଜଣା ଅଡିଓ"</string>
+    <string name="nav_unknown_stereo" msgid="6851427853792848474">"ଅଜଣା ଷ୍ଟେରୀଓ"</string>
+    <string name="nav_unknown_audio_sundry" msgid="1960427620589764744">"ଅଜଣା"</string>
+    <string name="nav_channel_no_audio" msgid="5292674760045443656">"ଅଡିଓ ନାହିଁ"</string>
+    <string name="nav_epg_type" msgid="8178656973753219626">"ପ୍ରକାର"</string>
+    <string name="nav_epg_sub_type" msgid="6465437649178270457">"ଉପ ପ୍ରକାର"</string>
+    <string name="nav_epg_zero_tip" msgid="4170843803038412946">"ବୁକ୍ ହୋଇଥିବା ତାଲିକା"</string>
+    <string name="nav_epg_book_list" msgid="2630159311350270597">"ବୁକ୍ ହୋଇଥିବା ଇଭେଣ୍ଟ ତାଲିକା"</string>
+    <string name="nav_epg_book_program_tip" msgid="7361331741956827556">"ଏହି ପ୍ରୋଗ୍ରାମ୍‌କୁ ବୁକ୍ କରିବେ?"</string>
+    <string name="nav_epg_unbook_program_tip" msgid="246000861326408008">"ଏହି ପ୍ରୋଗ୍ରାମ୍ ବୁକ୍ କରାଯାଇଛି, ବାତିଲ୍ କରିବେ?"</string>
+    <string name="nav_epg_book_program_coming_tip" msgid="591922857604718278">"ଏହା ଆସୁଅଛି, ଚ୍ୟାନେଲ୍ ପରିବର୍ତ୍ତନ କରନ୍ତୁ?"</string>
+    <string name="nav_epg_not_rated" msgid="6100488274899427539">"ମୂଲ୍ୟାଙ୍କିତ ହୋଇନାହିଁ"</string>
+    <string name="nav_epg_no_program_detail" msgid="2350918894053522934">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ବିବରଣୀ ନାହିଁ।)"</string>
+    <string name="nav_epg_no_program_data" msgid="8675888537206947431">"( କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ଡାଟା ନାହିଁ।)"</string>
+    <string name="nav_epg_no_program_title" msgid="3830058099413781902">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ଟାଇଟେଲ୍ ନାହିଁ।)"</string>
+    <string name="nav_epg_no_title" msgid="8227107983496133464">"(କୌଣସି ଟାଇଟେଲ୍ ନାହିଁ)"</string>
+    <string name="nav_epg_unlock" msgid="1246372268607241556">"ଅନ୍‌ଲକ୍ କରନ୍ତୁ"</string>
+    <string name="nav_epg_unschedule" msgid="2816528467979628243">"ଅଣସୂଚୀବଦ୍ଧ"</string>
+    <string name="nav_epg_schedule" msgid="1421720457481076348">"ସମୟ ସୂଚୀ"</string>
+    <string name="nav_epg_unclassified" msgid="5310604557008494360">"ଶ୍ରେଣୀଭୁକ୍ତ ହୋଇନାହିଁ"</string>
+    <string name="nav_epg_not_support" msgid="6264564394682202113">"ସମର୍ଥନ କରୁନାହିଁ"</string>
+    <string name="cplogo_bt_ok" msgid="7875576129200767006">"ଠିକ୍ ଅଛି"</string>
+    <string name="cplogo_bt_cancel" msgid="6981036414598823439">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="cplogo_bt_full_screen" msgid="6449338304259426080">"ପୂର୍ଣ୍ଣ ସ୍କ୍ରିନ"</string>
+    <string name="cplogo_bt_special_area" msgid="915184264716301392">"ସ୍ୱତନ୍ତ୍ର ଅଞ୍ଚଳ"</string>
+    <string name="cplogo_bt_no" msgid="4773541461478563031">"ନାହିଁ"</string>
+    <string name="cplogo_bt_adjust" msgid="2481650396767698912">"ଆଡ୍‌ଜଷ୍ଟ କରନ୍ତୁ"</string>
+    <string name="cplogo_msg_which_screen" msgid="1993311512365826243">"ଆପଣ ଏକ ସ୍ୱତନ୍ତ୍ର କ୍ଷେତ୍ର ବା ପୂର୍ଣ୍ଣ ସ୍କ୍ରିନ୍ କ୍ୟାପଚର୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="cplogo_msg_this_screen" msgid="7623959933620691099">"ଆପଣ ଏହି ସ୍କ୍ରିନ୍‍କୁ କ୍ୟାପ୍‍ଚର୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="cplogo_msg_select_position" msgid="1834995871503691155">"ଲୋଗୋ ସେଭ୍ କରିବାକୁ ଦୟାକରି ଏକ ସ୍ଥିତି ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="cplogo_msg_capturing" msgid="6731510295698263749">"କ୍ୟାପଚର୍ କରୁଛି..."</string>
+    <string name="cplogo_msg_res_success" msgid="1957282842405730989">"ସଫଳତାର ସହ କ୍ୟାପଚର୍ କରାଯାଇଛି"</string>
+    <string name="cplogo_msg_res_fail" msgid="7543396001845034459">"କ୍ୟାପଚର୍ ବିଫଳ ହୋଇଛି, ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="cplogo_capture_res_cancel" msgid="4877456366530455468">"ଏହି ପ୍ରକ୍ରିୟା ବାତିଲ୍ ହୋଇଯାଇଛି।"</string>
+    <string name="vga_no_sinal_info" msgid="6089616847361717375">"କୌଣସି ସିଗ୍‌ନାଲ୍ ନାହିଁ। ପାୱାର ବନ୍ଦ କରାଯିବ।"</string>
+    <string name="vga_no_sinal_info_part2" msgid="8789508510792267977">\n" ଜାରି ରଖିବାକୁ ଦୟାକରି ଯେ କୌଣସି କୀ ଦବାନ୍ତୁ।"</string>
+    <string name="epg_bottom_prev_day" msgid="6400043693394476392">"ପୂର୍ବ ଦିନ"</string>
+    <string name="epg_bottom_next_day" msgid="3569371225335446793">"ପରବର୍ତ୍ତୀ ଦିନ"</string>
+    <string name="epg_bottom_view_detail" msgid="8139815806235866958">"ବିବରଣୀ ଦେଖନ୍ତୁ"</string>
+    <string name="epg_bottom_type_filter" msgid="3310556571928273711">"ପ୍ରକାର ଫିଲ୍ଟର୍"</string>
+    <string name="epg_bottom_prev_page" msgid="1630450278083496915">"ପୂର୍ବବର୍ତ୍ତୀ ପୃଷ୍ଠା"</string>
+    <string name="epg_bottom_next_page" msgid="2541424065169620680">"ତଳ ପୃଷ୍ଠା"</string>
+    <string name="epg_bottom_ENTER" msgid="6821810428678641140">"ଲେଖନ୍ତୁ"</string>
+    <string name="epg_rating_unclassified" msgid="2896633488111871263">"ଶ୍ରେଣୀଭୁକ୍ତ ହୋଇନାହିଁ"</string>
+    <string name="epg_info_program_type" msgid="4158534457218991762">"କିଛି ନୁହେଁ"</string>
+    <string name="epg_password" msgid="8012355648918471162">"ପାସ୍‌ୱାର୍ଡ"</string>
+    <string name="epg_password_message" msgid="6211665596718748186">"ଭୁଲ ପାସ୍‌ୱାର୍ଡ"</string>
+    <string name="epg_retrieving_show" msgid="914621654709744814">"ଡାଟା ପୁନରୁଦ୍ଧାର ହେଉଛି..."</string>
+    <string name="nav_epg_January" msgid="6958561583226781835">"ଜାନୁଆରୀ"</string>
+    <string name="nav_epg_February" msgid="8254919892260259823">"ଫେବୃଆରୀ"</string>
+    <string name="nav_epg_March" msgid="7343064359703214822">"ମାର୍ଚ୍ଚ"</string>
+    <string name="nav_epg_April" msgid="8145344817948499664">"ଏପ୍ରିଲ"</string>
+    <string name="nav_epg_May" msgid="3565567303285876674">"ମଇ"</string>
+    <string name="nav_epg_June" msgid="8911826908826022098">"ଜୁନ୍"</string>
+    <string name="nav_epg_July" msgid="7142740960448747031">"ଜୁଲାଇ"</string>
+    <string name="nav_epg_August" msgid="326780788387758757">"ଅଗଷ୍ଟ"</string>
+    <string name="nav_epg_September" msgid="8307634148805832687">"ସେପ୍ଟେମ୍ବର"</string>
+    <string name="nav_epg_October" msgid="8150183876804566043">"ଅକ୍ଟୋବର"</string>
+    <string name="nav_epg_November" msgid="8640654708843667157">"ନଭେମ୍ବର୍"</string>
+    <string name="nav_epg_December" msgid="878290796792074056">"ଡିସେମ୍ଵର୍"</string>
+    <string name="nav_epg_Sunday" msgid="8808578073829723099">"ରବିବାର"</string>
+    <string name="nav_epg_Monday" msgid="969996435840031725">"ସୋମବାର"</string>
+    <string name="nav_epg_Tuesday" msgid="3646506390857345808">"ମଙ୍ଗଳବାର"</string>
+    <string name="nav_epg_Wednesday" msgid="7947487725306919118">"ବୁଧବାର"</string>
+    <string name="nav_epg_Thursday" msgid="5472944470032659615">"ଗୁରୁବାର"</string>
+    <string name="nav_epg_Friday" msgid="3825317046745111285">"ଶୁକ୍ରବାର"</string>
+    <string name="nav_epg_Saturday" msgid="2286230218393646059">"ଶନିବାର"</string>
+    <string name="nav_ginga_tv_title" msgid="1190205865791226140">"ଆପ୍ଲିକେସନ୍ ତାଲିକା"</string>
+    <string name="nav_select" msgid="990203763701782141">"ଚୟନ କରନ୍ତୁ"</string>
+    <string name="nav_ginga_tv_message" msgid="3599403232886227504">"କୌଣସି ଆପ୍ଲିକେସନ୍ ନାହିଁ!"</string>
+    <string name="nav_ginga_tv_for_infobar" msgid="1893172445136839503">"Ginga ଆପ୍ଲିକେସନ୍ ଲୋଡ୍ ହେଉଛି..."</string>
+    <string name="nav_ginga_tv_for_tips" msgid="2350058975169490403">"ଆପଣ CC ବନ୍ଦ କରି Ginga ଆପ୍ଲିକେସନ୍ ଚାଲୁ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="nav_upgrader_title" msgid="2584420305904044750">"ୱିଜାର୍ଡ ଅପ୍‌ଡେଟ୍ କରାଯାଉଛି"</string>
+    <string name="nav_upgrader_MoreInfo" msgid="7378640345883431032">"ଅଧିକ ସୂଚନା।"</string>
+    <string name="nav_upgrader_invalid" msgid="1502059087895454643">"ଅବୈଧ ଫାର୍ମୱେର୍ ଛବି ଫାଇଲ୍!"</string>
+    <string name="nav_upgrader_updating" msgid="9104450900608728584">"ଅପ୍‌ଡେଟ୍ କରାଯାଉଛି…"</string>
+    <string name="nav_upgrader_warnning" msgid="8436059139284528381">"ଦୟାକରି USB ଡୋଙ୍ଗଲ୍ ଅନ୍‌ପ୍ଲଗ୍ କରନ୍ତୁ ନାହିଁ ଏବଂ ଫାର୍ମୱେର୍ ଅପ୍‌ଡେଟ୍ ହେଉଥିବା ସମୟରେ ଟିଭି ବନ୍ଦ କରନ୍ତୁ!"</string>
+    <string name="nav_upgrader_validate" msgid="4761068359114556988">"ଫାର୍ମୱେର୍ ବୈଧକରଣ ହେଉଛି..."</string>
+    <string name="nav_upgrader_confirm" msgid="185592686475555093">"ଆପଣ ଫାର୍ମୱେର୍‌କୁ ଅପଡେଟ୍ କରିବାକୁ ଚାହୁଁଥିବା ନିଶ୍ଚିତ କି?"</string>
+    <string name="nav_upgrader_completed" msgid="1433605412771472680">"ଫାର୍ମୱେର୍ ସଫଳତାପୂର୍ବକ ଅପ୍‌ଡେଟ୍ କରାଯାଇଛି।\nଦୟାକରି ନୂଆ ଫାର୍ମୱେର୍ ସକ୍ରିୟ କରିବା ପାଇଁ ଟିଭି ରିଷ୍ଟାର୍ଟ କରନ୍ତୁ।"</string>
+    <string name="nav_upgrader_failed" msgid="2054272664938450834">"ଅପ୍‌ଡେଟ୍ ହେବାରେ ବିଫଳ।\nଦୟାକରି ଫାର୍ମୱେର୍‌କୁ ପୁଣି ଡାଉନ୍‌ଲୋଡ୍ କରିବାକୁ ଟିଭିକୁ ରିଷ୍ଟାର୍ଟ କରନ୍ତୁ।"</string>
+    <string name="nav_upgrader_retry" msgid="4322711666412270344">"ଅପ୍‌ଡେଟ୍ ହେବାରେ ବିଫଳ।\nପୁଣି ଚେଷ୍ଟା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="nav_upgrader_retry2" msgid="8339244791652128051">"ଅପ୍‌ଡେଟ୍ ବିଫଳ ହେଲା। ଦୟାକରି USB ଭର୍ତ୍ତି କରନ୍ତୁ।\n ପୁଣି ଚେଷ୍ଟା କରିବେ କି?"</string>
+    <string name="nav_upgrader_usb_space_not_enough" msgid="7664091580717615400">"ଆପଣଙ୍କ USB ଡୋଙ୍ଗଲ୍‌ରେ ଉପଲବ୍ଧ ସ୍ଥାନ ପର୍ଯ୍ୟାପ୍ତ ନୁହେଁ।"</string>
+    <string name="nav_upgrader_usb_not_ready" msgid="5391382330036796702">"USB ଡୋଙ୍ଗଲ୍ ପ୍ରସ୍ତୁତ ନୁହେଁ, ଦୟାକରି ଏହାକୁ ପ୍ଲଗ୍ କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="nav_upgrader_internal_err" msgid="4389691957216704028">"ଆଭ୍ୟନ୍ତରୀଣ ତ୍ରୁଟି।"</string>
+    <string name="nav_upgrader_not_avail_firmware" msgid="3579172277955128322">"କୌଣସି ଫାର୍ମୱେର୍ ସଂସ୍କରଣ ଉପଲବ୍ଧ ନାହିଁ।"</string>
+    <string name="nav_upgrader_decry_fail" msgid="6277453313226388182">"ଡିକ୍ରିପ୍ସନ୍ ବିଫଳ ହୋଇଛି।"</string>
+    <string name="nav_upgrader_firmware_invalid" msgid="217630650334359123">"ଫାର୍ମୱେର୍ ଅବୈଧ ଅଟେ।"</string>
+    <string name="nav_upgrader_no_update" msgid="7871307630536776066">"ଅପ୍‌ଡେଟ୍ କରିବା ପାଇଁ କୌଣସି ଫାର୍ମୱେର୍ ଉପଲବ୍ଧ ନାହିଁ।"</string>
+    <string name="nav_upgrader_check_fail" msgid="68677685977452446">"ନୂଆ ଫାର୍ମୱେର୍ ଯାଞ୍ଚ କରିବାରେ ବିଫଳ।"</string>
+    <string name="nav_upgrader_download_fail" msgid="2568138728137239753">"ନେଟ୍‌ୱାର୍କରୁ ଫାର୍ମୱେର୍ ଡାଉନ୍‌ଲୋଡ୍ ହେବାରେ ବିଫଳ।"</string>
+    <string name="nav_upgrader_usb_problem" msgid="8543029645051862073">"USB ଡୋଙ୍ଗଲ୍ ସହ କିଛି ସମସ୍ୟା ହୋଇଛି।"</string>
+    <string name="nav_upgrader_power" msgid="2148803173276888193">"ପାୱାର"</string>
+    <string name="nav_mheg5_tips" msgid="1488845112444335210">"ଡିଜିଟାଲ୍ ଟେକ୍ସଟ୍ ସକ୍ଷମ କରିବା ପୂର୍ବରୁ ସବ୍‌ଟାଇଟେଲ୍ ନିଶ୍ଚିତ ରୂପେ ବନ୍ଦ ହେବା ଉଚିତ। ଆଗକୁ ବଢ଼ିବା ପାଇଁ ରାଜି ଅଛନ୍ତି?"</string>
+    <string name="common_dialog_msg_yes" msgid="7210388111074762775">"ହଁ"</string>
+    <string name="common_dialog_msg_no" msgid="8611362945357749142">"ନାଁ"</string>
+    <string name="common_dialog_ews_service_content" msgid="2564241104151636624">"ଆପଣ EWS ସେବାକୁ ସ୍ୱିଚ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="common_dialog_special_service_content" msgid="4958454613374227587">"ଆପଣ ବିଶେଷ ସେବାକୁ ସ୍ୱିଚ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="commmon_dialog_book_reminder_content" msgid="4964477552557272993">"ଏହା ଆସୁଅଛି, ଆପଣ ଏହାକୁ ସ୍ୱିଚ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତ କି?"</string>
+    <string name="common_dialog_start_cc_stop_ginga" msgid="2444929547847632590">"ଆପଣ Ginga ଆପ୍ଲିକେସନ୍ ବନ୍ଦ କରି ସବ୍‌ଟାଇଟେଲ୍ ଖୋଲିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="nav_ttx_top_block" msgid="1849434056018291267">"ବ୍ଲକ୍ କରନ୍ତୁ"</string>
+    <string name="nav_ttx_top_group" msgid="9049629479556534806">"ଗୋଷ୍ଠୀ"</string>
+    <string name="nav_ttx_top_page" msgid="6221648624822109190">"ପୃଷ୍ଠା"</string>
+    <string name="nav_ttx_no_top" msgid="4965343578621302243">"ଉପରେ କିଛି ନାହିଁ"</string>
+    <string name="nav_ttx_favorite_list" msgid="7937093959037218994">"ପସନ୍ଦିତା ପୃଷ୍ଠା ତାଲିକା"</string>
+    <string name="nav_banner_not_rating" msgid="5924250989831727442">"ମୂଲ୍ୟାଙ୍କିତ ହୋଇନାହିଁ"</string>
+    <string name="cam_scan_warning" msgid="5146179543490482349">"CI Plus ନେଟ୍‌ୱାର୍କ ପରିବର୍ତ୍ତନ କରାଯାଇଛି। ଆପଣ ଅପ୍‌ଡେଟ୍ ହୋଇଥିବା ନେଟ୍‌ୱାର୍କ ପାଇଁ ସନ୍ଧାନ କରିପାରନ୍ତି!"</string>
+    <string name="cam_scan_urgent" msgid="4567776796906397627">"CI Plus ନେଟ୍‌ୱାର୍କ ଉପଲବ୍ଧ ନାହିଁ। ଆପଣ ଅପ୍‌ଡେଟ୍ ହୋଇଥିବା ନେଟ୍‌ୱାର୍କ ସନ୍ଧାନ କରିବା ଜରୁରୀ!"</string>
+    <string name="cam_scan_not_init" msgid="6043223513158402752">"CI Plus ନେଟ୍‌ୱାର୍କ ଆରମ୍ଭ ହେଲା ନାହିଁ। ଆପଣଙ୍କୁ ଅପ୍‌ଡେଟ୍ ହୋଇଥିବା ନେଟ୍‌ୱାର୍କ ପାଇଁ ସନ୍ଧାନ କରିବା ଆବଶ୍ୟକ!"</string>
+    <string name="cam_scan_schedule" msgid="5786350609197186292">"CI Plus ନେଟ୍‌ୱାର୍କ ସନ୍ଧାନ ପାଇଁ ସମୟ ନିର୍ଦ୍ଧାରିତ କରାଯାଇଛି। ଆପଣ ଅପ୍‌ଡେଟ୍ ହୋଇଥିବା ନେଟ୍‌ୱାର୍କ ପାଇଁ ସନ୍ଧାନ କରିପାରନ୍ତି!"</string>
+    <string name="setup_select_country" msgid="3792242598534721731">"ଦୟାକରି ଆପଣଙ୍କର ଦେଶ ଚୟନ କରନ୍ତୁ:"</string>
+    <string name="setup_country" msgid="629173256579318536">"ଦେଶ"</string>
+    <string name="setup_dvbc_setting" msgid="205937058253974527">"ଦୟାକରି କେବଲ୍ ସୂଚନା କନ୍‌ଫିଗର୍ କରନ୍ତୁ।"</string>
+    <string name="setup_timezone" msgid="8379334586479456426">"ସମୟ କ୍ଷେତ୍ର"</string>
+    <string name="setup_dvbc_config_scanmode" msgid="5698976511626122153">"ସ୍କାନ୍ ମୋଡ୍"</string>
+    <string name="setup_dvbc_config_frequency" msgid="4280149641479169806">"ଫ୍ରିକ୍ୱେନ୍ସୀ (KHz)"</string>
+    <string name="setup_dvbc_config_modulation" msgid="5423558599892759094">"ମୋଡ୍ୟୁଲେସନ୍"</string>
+    <string name="setup_dvbc_config_symbolrate" msgid="2667479134977248624">"ସାଙ୍କେତିକ ମୂଲ୍ୟ (Ksym/s)"</string>
+    <string name="setup_dvbc_config_networkid" msgid="3521583765915663578">"ନେଟ୍‍ୱାର୍କ ID"</string>
+    <string name="setup_set_postal_code_editview" msgid="8494012850018716458">"ପୋଷ୍ଟାଲ୍ କୋଡ୍"</string>
+    <string name="setup_set_password_titile1" msgid="2206368276427679430">"ନୂଆ ପାସ୍‌ୱାର୍ଡ"</string>
+    <string name="setup_set_password_titile2" msgid="747455523215475524">"ପାସ୍‌ୱାର୍ଡ ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+    <string name="setup_cable_select_operation" msgid="688699805047968989">"ଅପରେଟର୍ ଚୟନ କରନ୍ତୁ"</string>
+    <string name="setup_dvbs_statellite_type" msgid="5784290849900230632">"ସାଟେଲାଇଟ୍ ପ୍ରକାର"</string>
+    <string name="setup_dvbs_statellite_type_title" msgid="4321564817055396329">"ଦୟାକରି ସାଟେଲାଇଟ୍ ପ୍ରକାର ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_statellite_select_operator" msgid="3930677461028817109">"ଅପରେଟର୍ ଚୟନ କରନ୍ତୁ"</string>
+    <string name="setup_dvbs_statellite_select_operator_title" msgid="8612565925665677402">"ଆପଣ ନିମ୍ନୋକ୍ତ ତାଲିକାରୁ କେବଳ ଗୋଟିଏ ଅପରେଟର୍‍ ଚୟନ କରିପାରିବେ।"</string>
+    <string name="setup_cable_setting_title" msgid="3046886112072318375">"ଦୟାକରି କେବଲ୍ ସୂଚନା କନ୍‌ଫିଗର୍ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_config_info_title" msgid="7127970425088180426">"ଦୟାକରି ସ୍କାନ୍ ସୂଚନା କନ୍‌ଫିଗର୍ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_satellite_list_title" msgid="2800767936028832872">"ଦୟାକରି ଚୟନିତ ସାଟେଲାଇଟ୍‍କୁ ସ୍କାନ୍ କିମ୍ବା ସମ୍ପାଦନ କରିବା ପାଇଁ ସାଟେଲାଇଟ୍‍ଗୁଡ଼ିକ ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_config_setting_title" msgid="2064992804597231981">"ଦୟାକରି ଆଣ୍ଟେନା ପ୍ରକାର କନ୍‌ଫିଗ୍‌ରେସନ୍ ସେଟ୍ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_satellite_config" msgid="803120765751219932">"ଆଣ୍ଟେନା ସେଟ୍ ଅପ୍"</string>
+    <string name="setup_dvbs_satellite_config_title" msgid="7266127057913994977">"ଦୟାକରି ସାଟେଲାଇଟ୍‌ର ମାନଦଣ୍ଡ ସେଟ୍ କରନ୍ତୁ।"</string>
+    <string name="setup_dvbs_satellite_config_tp_title" msgid="2131317949979552719">"ଦୟାକରି ଟ୍ରାନ୍ସପଣ୍ଡର୍‌ର ମାନଦଣ୍ଡ ସେଟ୍ କରନ୍ତୁ।"</string>
+    <string name="setup_select_set" msgid="2441186944736538796">"ସେଟ୍ କରନ୍ତୁ"</string>
+    <string name="nav_oad_dialog_title" msgid="7886426790561725864">"ୱାୟାର୍‌ଲେସ୍ ମାଧ୍ୟମରେ ଡାଉନ୍‌ଲୋଡ୍ କରନ୍ତୁ"</string>
+    <string name="nav_oad_scanning" msgid="1604402042149950254">"ସ୍କାନ୍ କରାଯାଉଛି"</string>
+    <string name="nav_oad_scanning_result_fail" msgid="3646282039113187291">"ୱାୟାର୍‌ଲେସ୍ ମାଧ୍ୟମରେ ନୂଆ ସଫ୍ଟୱେୟାର୍ ଖୋଜିବାରେ ବିଫଳ ହେଲା।"</string>
+    <string name="nav_oad_programming" msgid="7797666180604743461">"ପ୍ରୋଗ୍ରାମିଂ"</string>
+    <string name="nav_oad_downloading" msgid="7704252632696691146">"ଡାଉନ୍‌ଲୋଡ୍ ହେଉଛି"</string>
+    <string name="nav_oad_downloading_info" msgid="8436439616432319259">"ଏହି ପ୍ରକ୍ରିୟା ପାଇଁ ହୁଏତ 25 ମିନିଟ୍ ଲାଗିପାରେ।"</string>
+    <string name="nav_oad_flash_confirm" msgid="9005641290426065580">"ସଫ୍ଟୱେୟାର୍ ସଫଳତାପୂର୍ବକ ଡାଉନ୍‌ଲୋଡ୍ କରାଯାଇଛି। ଆପଣ ଫ୍ଲାସିଂ ଆରମ୍ଭ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="nav_oad_flash_fail" msgid="5810878089947893577">"ପ୍ରୋଗ୍ରାମିଂ ବିଫଳ ହୋଇଛି। ପୁଣିଥରେ ଚେଷ୍ଟା କରିବେ?\n\nଦୟାକରି ସେବା କେନ୍ଦ୍ରକୁ କଲ୍ କରନ୍ତୁ।"</string>
+    <string name="nav_oad_restart_confirm" msgid="3572563769792982424">"ସଫ୍ଟୱେୟାର୍ ସଫଳତା ପୂର୍ବକ ଡାଉନ୍‌ଲୋଡ୍ ହେଇଛି! ବର୍ତ୍ତମାନ ଟିଭି ରିଷ୍ଟାର୍ଟ କରିବେ?"</string>
+    <string name="nav_oad_warning_msg_str" msgid="2980413146743195968">"ଚେତାବନୀ: ପ୍ରକ୍ରିୟା ଚାଲିଥିବା ସମୟରେ, ଦୟାକରି ଟିଭି ପାୱାର୍ କର୍ଡ ଅନ୍‌ପ୍ଲଗ୍ କରନ୍ତୁ ନାହିଁ ଏହାଦ୍ୱାରା ଟିଭି ଖରାପ ହୋଇପାରେ।"</string>
+    <string name="nav_oad_manual_download_confirm" msgid="2696288320604118343">"ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍‌। ସୁପାରିଶ କରାଯାଇଥିବା ଏକ ନୂଆ ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍‌ ଉପଲବ୍ଧ ଅଛି। ଅପ୍‌ଡେଟ୍ ହେବା ପାଇଁ କିଛି ସମୟ ଲାଗିପାରେ ଏବଂ ସ୍କ୍ରିନ୍‌ଟି କଳା ହୋଇଯାଇପାରେ। ଅପ୍‌ଡେଟ୍ ହେଉଥିବା ସମୟରେ ଟିଭି ବନ୍ଦ କରନ୍ତୁ ନାହିଁ। ଆପଣ ବର୍ତ୍ତମାନ ଅପ୍‌ଡେଟ୍ କରିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="nav_oad_manual_download_fail" msgid="6744258775934844120">"ସଫ୍ଟୱେୟାର୍ ଡାଉନ୍‌ଲୋଡ୍ କରିବାକୁ ଅକ୍ଷମ। ଆପଣ ପୁଣି ଚେଷ୍ଟା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="nav_oad_auto_download_confirm" msgid="575331343673401409">"ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍‌। ସୁପାରିଶ କରାଯାଇଥିବା ଏକ ନୂଆ ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍‌ ଉପଲବ୍ଧ ଅଛି। ଅପ୍‌ଡେଟ୍ ହେବା ପାଇଁ କିଛି ସମୟ ଲାଗିପାରେ ଏବଂ ସ୍କ୍ରିନ୍‌ଟି କଳା ହୋଇଯାଇପାରେ। ଅପ୍‌ଡେଟ୍ ହେଉଥିବା ସମୟରେ ଟିଭି ବନ୍ଦ କରନ୍ତୁ ନାହିଁ। ଆପଣ ବର୍ତ୍ତମାନ ଅପ୍‌ଡେଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି?ଏହା <xliff:g id="NAV_OAD_AUTO_DOWNLOAD">%s</xliff:g> ସେକେଣ୍ଡରେ ସ୍ୱଚାଳିତ ଭାବରେ ଆରମ୍ଭ ହେବ"</string>
+    <string name="nav_oad_schedule_oad_accept_schedule_confirm" msgid="3811421261290979294">"ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍‌। ସୁପାରିଶ କରାଯାଇଥିବା ଏକ ନୂଆ ସଫ୍ଟୱେୟାର୍ <xliff:g id="ACCEPT_SCHEDULE">%s</xliff:g>ରେ ଉପଲବ୍ଧ ହେବ। ଅପ୍‌ଡେଟ୍ ହେବା ପାଇଁ କିଛି ସମୟ ଲାଗିପାରେ ଏବଂ ସ୍କ୍ରିନ୍ କଳା ହୋଇଯାଇପାରେ। ଅପ୍‌ଡେଟ୍ ହେଉଥିବା ସମୟରେ ରିସିଭର୍ ବନ୍ଦ କରନ୍ତୁ ନାହିଁ। ଯଦି ଆପଣ ଏହି ଅପ୍‌ଡେଟ୍‌କୁ ଗ୍ରହଣ କରନ୍ତି, ତେବେ ଦୟାକରି ନିର୍ଦ୍ଧାରିତ ସମୟରେ ଟିଭିକୁ ଚାଲୁ କିମ୍ବା ଷ୍ଟାଣ୍ଡବାଏ ମୋଡ୍‌ରେ ରଖନ୍ତୁ। ଆପଣ ଏହି ଅପ୍‌ଡେଟ୍‌କୁ ଗ୍ରହଣ କରିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="nav_oad_schedule_oad_change_channel_confirm" msgid="5861191929380008667">"ସଫ୍ଟୱେୟାର୍ ଅପଡେଟ୍। ସୁପାରିଶ୍ କରାଯାଇଥିବା ଏକ ନୂଆ ସଫ୍ଟୱେୟାର୍ ଅପ୍‌ଡେଟ୍ ଅନ୍ୟ ଚ୍ୟାନେଲ୍‌ରେ ଥାଇପାରେ। ଯଦି ଆପଣ ଏହା ଡାଉନ୍‌ଲୋଡ୍ କରିବାକୁ ରାଜି ଅଛନ୍ତି, ତେବେ ଏହା ସ୍ୱଚାଳିତ ଭାବେ ଚ୍ୟାନେଲ୍ ପରିବର୍ତ୍ତନ କରିପାରେ। ଆପଣ ବର୍ତ୍ତମାନ ଏହା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି? ଏହା <xliff:g id="AUTOMATICALLY">%s</xliff:g> ସେକେଣ୍ଡରେ ସ୍ୱଚାଳିତ ଭାବରେ ଆରମ୍ଭ ହେବ"</string>
+    <string name="nav_oad_atuo_download_with_bgm" msgid="1437884667675036114">"ନୂଆ ସଫ୍ଟୱେୟାର୍ ଚିହ୍ନଟ କରାଯାଇଛି!\nଟିଭି ଷ୍ଟାଣ୍ଡବାଏ ମୋଡ୍‌ରେ ଥିବା ସମୟରେ ଆପଣ ସଫ୍ଟୱେୟାର୍ ସ୍ୱତଃ ଡାଉନ୍‌ଲୋଡ୍ କରିବାକୁ ରାଜି ଅଛନ୍ତି?"</string>
+    <string name="setup_language_english_value" msgid="7977082283099331083">"ପ୍ରୋଗ୍ରାମିଂ"</string>
+    <string name="setup_country_cty_1" msgid="6895556328920770170">"ଅଷ୍ଟ୍ରିଆ"</string>
+    <string name="setup_country_cty_2" msgid="2803937035365082471">"ବେଲଜିୟମ୍"</string>
+    <string name="setup_country_cty_3" msgid="6540541202129861400">"ସ୍ଵିଜର୍‌ଲାଣ୍ଡ"</string>
+    <string name="setup_country_cty_4" msgid="6081164770807313636">"ଚେକ୍ ରିପବ୍ଲିକ୍"</string>
+    <string name="setup_country_cty_5" msgid="5026555588176089149">"ଜର୍ମାନୀ"</string>
+    <string name="setup_country_cty_6" msgid="7104231423165151711">"ଡେନ୍‌ମାର୍କ"</string>
+    <string name="setup_country_cty_7" msgid="1418014150397903839">"ସ୍ପେନ୍"</string>
+    <string name="setup_country_cty_8" msgid="5994370917125174600">"ଫିନ୍‌ଲ୍ୟାଣ୍ଡ"</string>
+    <string name="setup_country_cty_9" msgid="922526384418070923">"ଫ୍ରାନ୍ସ"</string>
+    <string name="setup_country_cty_10" msgid="3056297609456613005">"ଯୁକ୍ତ ରାଜ୍ୟ"</string>
+    <string name="setup_country_cty_11" msgid="4886485417104780550">"ଇଟାଲୀ"</string>
+    <string name="setup_country_cty_12" msgid="2664156860205384207">"ଲକ୍ସେମ୍‌ବର୍ଗ"</string>
+    <string name="setup_country_cty_13" msgid="362195204633077934">"ନେଦରଲ୍ୟାଣ୍ଡ"</string>
+    <string name="setup_country_cty_14" msgid="4958582868096425639">"ନରୱେ"</string>
+    <string name="setup_country_cty_15" msgid="1646322127343084018">"ସ୍ୱିଡେନ୍"</string>
+    <string name="setup_country_cty_16" msgid="8041191922706061880">"ବୁଲ୍‌ଗେରିଆ"</string>
+    <string name="setup_country_cty_17" msgid="8287793660007172956">"କ୍ରୋଏସିଆ"</string>
+    <string name="setup_country_cty_18" msgid="3342594133100842340">"ଗ୍ରୀସ୍"</string>
+    <string name="setup_country_cty_19" msgid="6887153920694730657">"ହଙ୍ଗେରୀ"</string>
+    <string name="setup_country_cty_20" msgid="3927879336029866856">"ଆୟରଲ୍ୟାଣ୍ଡ"</string>
+    <string name="setup_country_cty_21" msgid="83779937097370574">"ପୋଲାଣ୍ଡ"</string>
+    <string name="setup_country_cty_22" msgid="413264530388355855">"ପର୍ତ୍ତୁଗାଲ୍"</string>
+    <string name="setup_country_cty_23" msgid="6819226363331994829">"ରୋମାନିଆ"</string>
+    <string name="setup_country_cty_24" msgid="5352514055951286995">"ଋଷିଆ"</string>
+    <string name="setup_country_cty_25" msgid="305619576638207540">"ସର୍ବିଆ"</string>
+    <string name="setup_country_cty_26" msgid="1534705148291674933">"ସ୍ଲୋଭାକିଆ"</string>
+    <string name="setup_country_cty_27" msgid="6357379183553936835">"ସ୍ଲୋଭେନିଆ"</string>
+    <string name="setup_country_cty_28" msgid="9100572966992266131">"ତୁର୍କୀ"</string>
+    <string name="setup_country_cty_29" msgid="5725492303681548415">"ଏଷ୍ଟୋନିଆ"</string>
+    <string name="setup_country_cty_30" msgid="6813760029259647258">"ଅଷ୍ଟ୍ରେଲିଆ"</string>
+    <string name="setup_country_cty_31" msgid="90824140511863915">"ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ"</string>
+    <string name="setup_country_cty_32" msgid="3334442635649234712">"ଇଣ୍ଡୋନେସିଆ"</string>
+    <string name="setup_set_timezone" msgid="4897012831013531040">"ଦୟାକରି ଆପଣଙ୍କ ଟାଇମ୍ ଜୋନ୍ ଚୟନ କରନ୍ତୁ:"</string>
+    <string name="setup_set_password_title" msgid="4717439873577912103">"ଦୟାକରି ପାସ୍‌ୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ। 0000 ଏକ ବୈଧ ପାସ୍‌ୱାର୍ଡ ନୁହେଁ"</string>
+    <string name="setup_set_postalcode" msgid="2109762842032636610">"ଦୟାକରି ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଲେଖନ୍ତୁ।"</string>
+    <string name="setup_set_password_success_msg" msgid="8378902213632723169">"ପାସ୍‍ୱାର୍ଡ ସଫଳତାର ସହ ସେଟ୍ ହୋଇଛି!"</string>
+    <string name="dvbt_inactivechannel_nw_chg" msgid="3618328259182471233">"ନେଟ୍‌ୱାର୍କ ପରିବର୍ତ୍ତନ ଯୋଗୁଁ କିଛି ଚ୍ୟାନେଲ୍ ନିଷ୍କ୍ରିୟ ହୁଏ। ଆପଣ ବର୍ତ୍ତମାନ ସେଗୁଡ଼ିକୁ କାଢ଼ିବାକୁ ଚାହୁଁଛନ୍ତି କି?"</string>
+    <string name="tnt_hd_nw_chg" msgid="9068822818375928920">"ଟିଭି ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ ପରିବର୍ତ୍ତନ ହୋଇଯାଇଛି, ଅପ୍‌ଡେଟ୍‍ଗୁଡ଼ିକ ସ୍କାନ୍ କରିବା ପାଇଁ \'ଠିକ୍ ଅଛି\' ଦବାନ୍ତୁ।"</string>
+    <string name="dvbs_antenna_setup" msgid="2972753815380328403">"ଆଣ୍ଟେନା ସେଟ୍ ଅପ୍"</string>
+    <string name="dvbs_satellite_setting" msgid="3053329371093705283">"ସାଟେଲାଇଟ୍"</string>
+    <string name="dvbs_satellite_name" msgid="1084080307775292449">"ସାଟେଲାଇଟ୍ ନାମ"</string>
+    <string name="dvbs_satellite_orbit" msgid="7359611960869875178">"ଅର୍ବିଟ୍ ସ୍ଥିତି"</string>
+    <string name="dvbs_diseqc12_motor_movementcontrol" msgid="137363920323826557">"ଗତିବିଧି ନିୟନ୍ତ୍ରଣ"</string>
+    <string name="dvbs_diseqc12_motor_disablelimits" msgid="1489559417633513786">"ସୀମା ଅକ୍ଷମ କରନ୍ତୁ"</string>
+    <string name="dvbs_diseqc12_motor_limiteast" msgid="6395392274966864246">"ପୂର୍ବ ସୀମା ସୀମିତ କରନ୍ତୁ"</string>
+    <string name="dvbs_diseqc12_motor_limitwest" msgid="8457578140107894074">"ପଶ୍ଚିମ ସୀମା ସୀମିତ କରନ୍ତୁ"</string>
+    <string name="dvbs_diseqc12_motor_storeposition" msgid="7831370800809423106">"ଷ୍ଟୋର୍‌ର ସ୍ଥିତି"</string>
+    <string name="dvbs_diseqc12_motor_gotoposition" msgid="4537336399129014090">"ଗୋଟୋ ସ୍ଥିତି"</string>
+    <string name="dvbs_diseqc12_motor_gotoreference" msgid="6254795571170735105">"ଗୋଟୋ ରେଫରେନ୍ସ"</string>
+    <string name="dvbs_diseqc12_movement_stepsize" msgid="8682323610592008764">"ଷ୍ଟେପ୍ ଆକାର"</string>
+    <string name="dvbs_diseqc12_movement_timeout" msgid="313118780591552706">"ସମୟ ସମାପ୍ତ"</string>
+    <string name="dvbs_diseqc12_movement_moveeast" msgid="2827351788964268809">"ପୂର୍ବକୁ ଯାଆନ୍ତୁ"</string>
+    <string name="dvbs_diseqc12_movement_movewest" msgid="7123211228805919889">"ପଶ୍ଚିମକୁ ଯାଆନ୍ତୁ"</string>
+    <string name="dvbs_diseqc12_movement_stopmovement" msgid="1462218797182659459">"ଗତିବିଧି ବନ୍ଦ କରନ୍ତୁ"</string>
+    <string name="dvbs_diseqc_input_0" msgid="2904564865763683800">"ଅକ୍ଷମ କରନ୍ତୁ"</string>
+    <string name="dvbs_tone_22khz" msgid="1373442618400041462">"ଟୋନ୍ 22KHz"</string>
+    <string name="dvbs_tone_22khz_off" msgid="3268883660443420418">"ବନ୍ଦ ଅଛି"</string>
+    <string name="dvbs_tone_22khz_on" msgid="6752287281718331623">"ଚାଲୁ ଅଛି"</string>
+    <string name="dvbs_tone_22khz_auto" msgid="2135233828771513065">"ସ୍ୱତଃ"</string>
+    <string name="dvbs_trasponder" msgid="1452034905307894504">"ଟ୍ରାନ୍ସପଣ୍ଡର୍"</string>
+    <string name="dvbs_tp_fre" msgid="29263512803296005">"ଫ୍ରିକ୍ୱେନ୍ସୀ"</string>
+    <string name="dvbs_tp_sys_rate" msgid="8005246419544394607">"ସାଙ୍କେତିକ ମୂଲ୍ୟ (Ksym/s)"</string>
+    <string name="dvbs_tp_pol" msgid="1197912184998798968">"ପୋଲରାଇଜେସନ୍"</string>
+    <string name="dvbs_tp_pol_0_unknown" msgid="5653469867422424846">"ଅଜଣା"</string>
+    <string name="dvbs_tp_pol_1_HORIZONTAL" msgid="2719356412874668259">"ହରିଜୋଣ୍ଟାଲ୍"</string>
+    <string name="dvbs_tp_pol_2_VERTICAL" msgid="4316294256100373911">"ଭର୍ଟିକାଲ୍"</string>
+    <string name="dvbs_tp_pol_3_LEFT" msgid="6229301100202150697">"ବାମ"</string>
+    <string name="dvbs_tp_pol_4_RIGHT" msgid="4289490618801741661">"ଡାହାଣ"</string>
+    <string name="dvbs_add_new_satl" msgid="7175024292677524576">"ନୂଆ ସାଟେଲାଇଟ୍‌ଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ"</string>
+    <string name="dvbs_add_new_tp" msgid="4087291986765580179">"ନୂଆ ଟ୍ରାନ୍ସପଣ୍ଡର୍‌ଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ"</string>
+    <string name="dvbs_satellite_tuning" msgid="8417770524403541865">"ସାଟେଲାଇଟ୍ ଟ୍ୟୁନିଂ"</string>
+    <string name="dvbs_satellite_channel" msgid="5074556275726412795">"ସ୍କାନ୍ ପ୍ରକାର"</string>
+    <string name="dvbs_satellite_channel_store_type" msgid="5716197702446157151">"ଷ୍ଟୋର୍ ପ୍ରକାର"</string>
+    <string name="dvbs_scan_mode" msgid="8283847435432638067">"ସ୍କାନ୍ ମୋଡ୍"</string>
+    <string name="dvbs_network_search" msgid="6032112355240733150">"ନେଟ୍‌ୱାର୍କ ସର୍ଚ୍ଚ"</string>
+    <string name="dvbs_satellite_search" msgid="2524642316348336755">"Search"</string>
+    <string name="dvbs_scan_mode_auto" msgid="6427513165971616257">"ସ୍ୱତଃ"</string>
+    <string name="dvbs_scan_mode_preset" msgid="4526803816932732504">"ପ୍ରିସେଟ୍"</string>
+    <string name="dvbs_channel_encrypted" msgid="7382339597398479690">"କେବଳ ଏନ୍‌କ୍ରିପ୍ଟ କରାଯାଇଥିବା ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="dvbs_channel_free" msgid="6736055147307084973">"କେବଳ ନିଶୁଳ୍କ ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="dvbs_channel_all" msgid="6553210874716752432">"ସମସ୍ତ"</string>
+    <string name="dvbs_channel_story_type_digital" msgid="5930404812310851470">"କେବଳ ଡିଜିଟାଲ୍ ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="dvbs_channel_story_type_radio" msgid="7336947157467722757">"କେବଳ ରେଡିଓ ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="dvbs_sat_no_satl" msgid="3184206254184333211">"(କୌଣସି ସାଟେଲାଇଟ୍ ନାହିଁ।)"</string>
+    <string name="dvbs_manual_tuning" msgid="6239879639460583996">"ସାଟେଲାଇଟ୍ ମାନୁଆଲ୍ ଟ୍ୟୁନିଂ"</string>
+    <string name="dvbs_sat_no_tp" msgid="4338485354553994282">"(କୌଣସି ଟ୍ରାନ୍ସପୋଣ୍ଡର୍ ନାହିଁ।)"</string>
+    <string name="dvbs_sat_name_empty_alarm" msgid="3047792918924070124">"ସାଟେଲାଇଟ୍ ନାମ ଖାଲି ଅଛି।\nଦୟାକରି ଏହାର ନାମ ଲେଖନ୍ତୁ!"</string>
+    <string name="dvbs_satellite_rescan" msgid="1127096646056480525">"ସାଟେଲାଇଟ୍ ରିସ୍କାନ୍"</string>
+    <string name="dvbs_satellite_add" msgid="562016984880548647">"ସାଟେଲାଇଟ୍ ଯୋଗ କରିବା"</string>
+    <string name="dvbs_satellite_update" msgid="8654948129962734041">"ସାଟେଲାଇଟ୍ ଅପଡେଟ୍"</string>
+    <string name="dvbs_satellite_status" msgid="7318477883891109028">"ସାଟେଲାଇଟ୍ ସ୍ଥିତି"</string>
+    <string name="dvbs_scan_mode_network" msgid="397846288165617698">"ନେଟ୍‌ୱାର୍କ"</string>
+    <string name="dvbs_scan_mode_full" msgid="5079949030817709762">"ସମ୍ପୁର୍ଣ୍ଣ"</string>
+    <string name="dvbs_scan_satellites" msgid="39135175175659536">"ସେଟଲାଇଟ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="dvbs_scan_positon" msgid="1931453765281387830">"ସ୍ଥିତି"</string>
+    <string name="dvbs_lnb_power" msgid="6030869505379137523">"LNB ପାୱାର"</string>
+    <string name="dvbs_antenna_type" msgid="4022715171586673363">"ଆଣ୍ଟେନା ପ୍ରକାର"</string>
+    <string name="dvbs_antenna_type_universal" msgid="1804642576387540677">"ୟୁନିଭର୍ସାଲ୍"</string>
+    <string name="dvbs_antenna_type_singlecable" msgid="1287040189459737002">"ସିଙ୍ଗଲ୍ କେବଲ୍"</string>
+    <string name="dvbs_user_band" msgid="7993112503468933797">"ଟ୍ୟୁନର୍"</string>
+    <string name="dvbs_sub_user_band" msgid="6055266277998312868">"ସବ୍ ଟ୍ୟୁନର୍"</string>
+    <string name="dvbs_user_band_item_id" msgid="3936352644748717288">"ଉପଯୋଗକର୍ତ୍ତା ବ୍ୟାଣ୍ଡ <xliff:g id="DVBS_USER_BAND_ID">%d</xliff:g>"</string>
+    <string name="dvbs_band_freq" msgid="7651396014614696697">"ବ୍ୟାଣ୍ଡ ଫ୍ରିକ୍ୟୁଏନ୍ସି"</string>
+<!--    <string name="dvbs_band_freq_user_define" msgid="8154341060255421574">"ଉପଯୋଗକର୍ତ୍ତାଙ୍କ ଦ୍ୱାରା ପରିଭାଷିତ"</string>-->
+    <string name="dvbs_position" msgid="4597539354587303004">"ସ୍ଥିତି"</string>
+    <string name="dvbs_cable" msgid="742279976036704869">"କେବଲ୍"</string>
+    <string name="dvbs_preferred_satellite" msgid="2318484385999187895">"ପସନ୍ଦ କରାଯାଇଥିବା ସାଟେଲାଇଟ୍"</string>
+    <string name="dvbs_general_satellite" msgid="4057062345858532690">"ସାଧାରଣ ସାଟେଲାଇଟ୍"</string>
+    <string name="lnb_universal" msgid="4767050238622861788">"ୟୁନିଭର୍ସାଲ୍"</string>
+    <string name="dvbs_tone_burst" msgid="2243245840655328045">"ଟୋନ୍ ବର୍ଷ୍ଟ"</string>
+    <string name="dvbs_tone_burst_disable" msgid="3874748353266460431">"ଅକ୍ଷମ କରନ୍ତୁ"</string>
+    <string name="dvbs_tone_burst_a" msgid="2720610846391022032">"ଟୋନ୍ ବର୍ଷ୍ଟ A"</string>
+    <string name="dvbs_tone_burst_b" msgid="178126213400576111">"ଟୋନ୍ ବର୍ଷ୍ଟ B"</string>
+    <string name="dvbs_sat_on" msgid="3030836158325577633">"ଚାଲୁ ଅଛି"</string>
+    <string name="dvbs_sat_off" msgid="6344968304652340601">"ବନ୍ଦ ଅଛି"</string>
+    <string name="nav_conflict_source_toast" msgid="5383639720278755347">"ଏହି ଉତ୍ସ <xliff:g id="CONFLICTS">%s</xliff:g> ଉତ୍ସ ସହ ଦ୍ୱନ୍ଦ କରିଥାଏ!"</string>
+    <string name="ews_status" msgid="451574410866097453">"ସ୍ଥିତି <xliff:g id="EWS_STATUS_EWS">%1$s</xliff:g>"</string>
+    <string name="source_setup" msgid="822349293465951769">"ଉତ୍ସ ସେଟ୍‌ଅପ୍"</string>
+    <string name="automatic_Channel_ordering" msgid="6822352280910575878">"ସ୍ୱଚାଳିତ ଚ୍ୟାନେଲ୍ କ୍ରମ ସର୍ଟ୍ କରନ୍ତୁ"</string>
+    <string name="mediaset_premium_ordering" msgid="8237027936565795122">"ପେ ଟିଭି ଅର୍ଡରିଂ"</string>
+    <string name="banner_no_program_title" msgid="2387680572414212216">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ଟାଇଟେଲ୍ ନାହିଁ।)"</string>
+    <string name="msg_no_setup_activity" msgid="1072183791129632173">"ଇନ୍‌ପୁଟ୍ ସ୍ୱତଃ-ସ୍କାନ୍ ସମର୍ଥନ କରୁ ନାହିଁ।"</string>
+    <string name="msg_unable_to_start_setup_activity" msgid="5981825030398555360">"\'<xliff:g id="TV_INPUT">%s</xliff:g>\' ପାଇଁ ସ୍ୱତଃ ସ୍କାନ୍ ଆରମ୍ଭ କରିବାକୁ ଅକ୍ଷମ ଅଟେ"</string>
+    <string name="str" msgid="4738306056683483195">"ପ୍ରିୟ<xliff:g id="FAV_INDEX">%d</xliff:g>"</string>
+    <string name="nav_channel_All" msgid="1888349023955299704">"ସମସ୍ତ"</string>
+    <string name="nav_channel_Radio" msgid="4411622601976729909">"ରେଡିଓ"</string>
+    <string name="nav_sleep__off" msgid="3566331474323594407">"ସ୍ଲିପ୍ ମୋଡ୍: ବନ୍ଦ ଅଛି"</string>
+    <string name="nav_sleep_min" msgid="7071964790067590983">"ସ୍ଲିପ୍: <xliff:g id="NAV_SLEEP_TIME">%d</xliff:g> ମିନିଟ୍"</string>
+    <string name="nav_zoom_x1" msgid="385809644281808411">"ଜୁମ୍ X 1"</string>
+    <string name="nav_zoom_x2" msgid="2720215545960741306">"ଜୁମ୍ X 2"</string>
+    <string name="nav_zoom_x1_2" msgid="6011779723156123987">"ଜୁମ୍ X 1/2"</string>
+    <string name="nav_Freeze_On" msgid="2487572919806462214">"ଫ୍ରିଜ୍: ଚାଲୁ ଅଛି"</string>
+    <string name="nav_Freeze_Off" msgid="259476765651855513">"ଫ୍ରିଜ୍: ବନ୍ଦ ଅଛି"</string>
+    <string name="nav_no_category" msgid="5703823134403932882">"କୌଣସି ବର୍ଗ ନାହିଁ"</string>
+    <string name="nav_MOVIE" msgid="8372923047639889285">"ମୁଭି/ଡ୍ରାମା"</string>
+    <string name="nav_NEWS" msgid="79298973506310292">"ସମାଚାର/ସାମ୍ପ୍ରତିକ ଘଟଣା"</string>
+    <string name="nav_SHOW" msgid="5994064519730822726">"ଶୋ/ଖେଳ ଶୋ"</string>
+    <string name="nav_SPORTS" msgid="4706156904091255021">"ଖେଳ"</string>
+    <string name="nav_Sports" msgid="3192435822872843947">"ସ୍ପୋର୍ଟସ୍ (ସାଧାରଣ)"</string>
+    <string name="nav_CHILDRENS" msgid="6383058919905217882">"ପିଲା/ ଯୁବପିଢ଼ିଙ୍କ ପାଇଁ ପ୍ରୋଗ୍ରାମ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_MUSIC" msgid="1808781462551154183">"ସଙ୍ଗୀତ/ବ୍ୟାଲେଟ୍/ନୃତ୍ୟ"</string>
+    <string name="nav_ARTS" msgid="76277791819234215">"କଳା/ସଂସ୍କୃତି (ବିନା ସଙ୍ଗୀତରେ)"</string>
+    <string name="nav_SOCIAL" msgid="38770600701306654">"ସାମାଜିକ/ରାଜନୈତିକ ସମସ୍ଯା/ଅର୍ଥନୀତି"</string>
+    <string name="nav_EDUCATION" msgid="938224962511736802">"ଶିକ୍ଷା/ବିଜ୍ଞାନ/ବାସ୍ତବିକ ବିଷୟ"</string>
+    <string name="nav_LEISURE" msgid="6265660683742541759">"ଅବକାଶ ରୁଚି"</string>
+    <string name="nav_SPECIAL" msgid="8320732507229913515">"ସ୍ୱତନ୍ତ୍ର ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ"</string>
+    <string name="nav_CHILDREN" msgid="8876419163301754170">"ପିଲା"</string>
+    <string name="nav_EROTIC" msgid="1304583066017461593">"ଯୌନ ଉଦ୍ଦୀପକ"</string>
+    <string name="nav_OTHER" msgid="2948113502898065100">"ଅନ୍ୟ"</string>
+    <string name="nav_ENTERTAINMENT" msgid="4605496354611843816">"ମନୋରଞ୍ଜନ"</string>
+    <string name="nav_CURRENT_AFFAIRS" msgid="1728721321904544994">"ବର୍ତ୍ତମାନର ଘଟଣାବଳୀ"</string>
+    <string name="nav_INFOTAINMENT" msgid="2818083324816896145">"ଇନ୍‌ଫୋଟେନମେଣ୍ଟ"</string>
+    <string name="nav_COMEDY" msgid="5844351978428938279">"କମେଡି"</string>
+    <string name="nav_DRAMA" msgid="1875946404286373763">"ଡ୍ରାମା"</string>
+    <string name="nav_DOCUMENTARY" msgid="7005982821525458545">"ଡକ୍ୟୁମେଣ୍ଟାରୀ"</string>
+    <string name="nav_NEWS_AND_FACTUAL" msgid="4069664565249248929">"ସମାଚାର ଏବଂ ବାସ୍ତବିକ"</string>
+    <string name="nav_SPORT" msgid="4833965674434744387">"ଖେଳ"</string>
+    <string name="nav_LIFESTYLE" msgid="4859934281880943797">"ଜୀବନଶୈଳୀ"</string>
+    <string name="nav_uk_NEWS" msgid="8189882236519482485">"ସମାଚାର ଏବଂ ତଥ୍ୟାତ୍ମକ"</string>
+    <string name="nav_not_supported" msgid="5561694487375138270">"ସମର୍ଥିତ ନୁହେଁ"</string>
+    <string name="nav_SERIES" msgid="4188569780353472703">"ସିରିଜ୍"</string>
+    <string name="nav_VARIETY" msgid="335916253460870247">"ବିଭିନ୍ନ"</string>
+    <string name="nav_INFORMATION" msgid="7646455434505072002">"ସୂଚନା"</string>
+    <string name="nav_COMICAL" msgid="344493986982126341">"କମିକାଲ୍"</string>
+    <string name="nav_Romance" msgid="4288777205288123674">"ରୋମାନ୍ସ"</string>
+    <string name="nav_Serious" msgid="5276406648850963863">"ଗମ୍ଭୀର/ଶାସ୍ତ୍ରୀୟ/ଧାର୍ମିକ/ଐତିହାସିକ ମୁଭି/ଡ୍ରାମା"</string>
+    <string name="nav_Serious_Music" msgid="6008559901931855472">"ଗମ୍ଭୀର ସଙ୍ଗୀତ/ଶାସ୍ତ୍ରୀୟ ସଙ୍ଗୀତ"</string>
+    <string name="nav_Adult_Movie" msgid="3331444442028338542">"ଆଡଲ୍ଟ ମୁଭି/ଡ୍ରାମା"</string>
+    <string name="nav_Current_Affairs" msgid="2306180072443523238">"ସମାଚାର/ବର୍ତ୍ତମାନର ଘଟଣା (ସାଧାରଣ)"</string>
+    <string name="nav_Weather_Report" msgid="4787310984803157387">"ସମାଚାର/ପାଣିପାଗ ରିପୋର୍ଟ"</string>
+    <string name="nav_News_Magazine" msgid="4271562254297752472">"ସମାଚାର ସମ୍ବନ୍ଧୀୟ ମ୍ୟାଗାଜିନ୍"</string>
+    <string name="nav_Documentary" msgid="2844670789033271646">"ଡକ୍ୟୁମେଣ୍ଟରୀ"</string>
+    <string name="nav_Discussion" msgid="7576113986215044245">"ଆଲୋଚନା/ସାକ୍ଷାତକାର/ବିତର୍କ"</string>
+    <string name="nav_News" msgid="3663290212801352195">"News"</string>
+    <string name="nav_Show" msgid="7044536302317720750">"ଶୋ/ଗେମ୍ ଶୋ (ସାଧାରଣ)"</string>
+    <string name="nav_Game_Show" msgid="8709132440378345463">"ଗେମ୍ ଶୋ/କ୍ୱିଜ୍/ପ୍ରତିଯୋଗିତା"</string>
+    <string name="nav_Variety_Show" msgid="6392866565801802457">"ବିଭିନ୍ନ ଶୋ"</string>
+    <string name="nav_Talk_Show" msgid="2702838823518690813">"ଟକ୍ ଶୋ"</string>
+    <string name="nav_Sports_Magazines" msgid="8476324860214116667">"ଖେଳ ସମ୍ବନ୍ଧୀୟ ମ୍ୟାଗାଜିନ୍"</string>
+    <string name="nav_Football" msgid="1765978463317525263">"ଫୁଟ୍‍ବଲ୍/ସକର୍"</string>
+    <string name="nav_Tennis" msgid="1887994633207213742">"ଟେନିସ୍/ସ୍କ୍ୱାଶ୍"</string>
+    <string name="nav_Team_Sports" msgid="8210098159890432892">"ଟିମ୍ ସ୍ପୋର୍ଟସ୍ (ଫୁଟ୍‌ବଲ୍ ବ୍ୟତୀତ)"</string>
+    <string name="nav_Athletics" msgid="1638796230059292318">"ଖେଳକୁଦ"</string>
+    <string name="nav_Motor_Sport" msgid="6070562989096653251">"ମୋଟର୍ ସ୍ପୋର୍ଟ"</string>
+    <string name="nav_Water_Sport" msgid="2935243954220193670">"ୱାଟର୍ ସ୍ପୋର୍ଟ"</string>
+    <string name="nav_Winter_Sport" msgid="1235064337232238883">"ଶୀତକାଳୀନ ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Equestrian" msgid="1196221104874175057">"ଅଶ୍ଵାରୋହଣ"</string>
+    <string name="nav_Martial_Sports" msgid="8460091950412007364">"ମାର୍ଶଲ୍ ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Children" msgid="873820541320552860">"ପିଲା/ଯୁବପିଢ଼ିଙ୍କ ପ୍ରୋଗ୍ରାମ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_Pre_school_children" msgid="7412140885112394816">"ପ୍ରିସ୍କୁଲ୍ ପିଲାମାନଙ୍କର ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_Entertainment_for_6_to_14" msgid="6579986337624167499">"6ରୁ 14 ବର୍ଷ ବୟସ୍କଙ୍କ ପାଇଁ ମନୋରଞ୍ଜନ ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_Entertainment_for_10_to_16" msgid="4596895874459228120">"10ରୁ 16 ବର୍ଷ ବୟସ୍କଙ୍କ ପାଇଁ ମନୋରଞ୍ଜନ ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_Informational" msgid="1676270512417122332">"ତଥ୍ୟମୂଳକ/ଶିକ୍ଷା ସମ୍ବନ୍ଧୀୟ/ସ୍କୁଲ୍ ପ୍ରୋଗ୍ରାମ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_Cartoons" msgid="3119574119243171205">"କାର୍ଟୁନ୍/ପପେଟ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_Music" msgid="7070642218067196085">"ସଙ୍ଗୀତ/ବାଲେଟ୍/ନୃତ୍ୟ (ସାଧାରଣ)"</string>
+    <string name="nav_Rock" msgid="5492160504993631426">"ରକ୍/ପପ୍"</string>
+    <string name="nav_Folk" msgid="5975600553529084616">"ଲୋକ/ପାରମ୍ପରିକ ସଙ୍ଗୀତ"</string>
+    <string name="nav_Jazz" msgid="1794190714262750095">"ଜାଜ୍"</string>
+    <string name="nav_Musical" msgid="4298905131042350427">"ସଙ୍ଗୀତ ସମ୍ବନ୍ଧିତ/ଅପେରା"</string>
+    <string name="nav_Ballet" msgid="4569418398390525032">"ବ୍ୟାଲେଟ୍"</string>
+    <string name="nav_Arts" msgid="3778760294295379300">"କଳା/ସଂସ୍କୃତି (ବିନା ସଙ୍ଗୀତରେ)"</string>
+    <string name="nav_Performing_Arts" msgid="3423846309658711747">"କଳା ପ୍ରଦର୍ଶନ"</string>
+    <string name="nav_Fine_Arts" msgid="5482394381748298762">"ଫାଇନ୍ ଆର୍ଟସ୍"</string>
+    <string name="nav_Religion" msgid="1281646817926297685">"ଧର୍ମ"</string>
+    <string name="nav_Popular_culture" msgid="3538911329306522366">"ଲୋକପ୍ରିୟ ସଂସ୍କୃତି/ପାରମ୍ପାରିକ କଳା"</string>
+    <string name="nav_Literature" msgid="4660226768709528314">"ସାହିତ୍ୟ"</string>
+    <string name="nav_Film" msgid="1204508655031614719">"ଫିଲ୍ମ/ସିନେମା"</string>
+    <string name="nav_Experimental" msgid="6437946401259902116">"ପରୀକ୍ଷାମୂଳକ ଫିଲ୍ମ/ଭିଡିଓ"</string>
+    <string name="nav_Broadcasting" msgid="1769647110854572386">"ବ୍ରଡ୍‌କାଷ୍ଟିଂ/ପ୍ରେସ୍"</string>
+    <string name="nav_Live_Broadcast" msgid="4429081938116334804">"ଲାଇଭ୍ ବ୍ରଡକାଷ୍ଟ୍"</string>
+    <string name="nav_New_Media" msgid="6618211849118048631">"ନୂଆ ମିଡିଆ"</string>
+    <string name="nav_Arts_magazines" msgid="2972164873743815729">"କଳା ସମ୍ବନ୍ଧୀୟ ମ୍ୟାଗାଜିନ୍‌ଗୁଡ଼ିକ"</string>
+    <string name="nav_Fashion" msgid="2050823462294515705">"ଫେସନ୍"</string>
+    <string name="nav_Reject" msgid="4374185644835531434">"ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ"</string>
+    <string name="nav_Social" msgid="8326463219159687252">"ସାମାଜିକ/ରାଜନୈତିକ ସମସ୍ୟା/ଅର୍ଥନୀତି (ସାଧାରଣ)"</string>
+    <string name="nav_Magazines" msgid="2682584552541018208">"ମ୍ୟାଗାଜିନ୍/ରିପୋର୍ଟ/ଡକ୍ୟୁମେଣ୍ଟାରୀ"</string>
+    <string name="nav_Economics" msgid="5439953435078101179">"ଅର୍ଥନୀତି/ସାମାଜିକ ପରାମର୍ଶ"</string>
+    <string name="nav_Remarkable_people" msgid="3742201560954935131">"ଅସାଧାରଣ ଲୋକ"</string>
+    <string name="nav_Education" msgid="5394706074492599081">"ଶିକ୍ଷା/ବିଜ୍ଞାନ/କାଳ୍ପନିକ ବିଷୟ (ସାଧାରଣ)"</string>
+    <string name="nav_Nature" msgid="4885492493461552592">"ପ୍ରକୃତି/ପଶୁ/ପରିବେଶ"</string>
+    <string name="nav_Technology" msgid="1095093673781711334">"ଟେକ୍ନୋଲୋଜି/ପ୍ରକୃତି ବିଜ୍ଞାନ"</string>
+    <string name="nav_Medicine" msgid="6843793782660520156">"ଭେଷଜ/ଶରୀର କ୍ରିୟା ବିଜ୍ଞାନ/ମନୋବିଜ୍ଞାନ"</string>
+    <string name="nav_Foreign_Countries" msgid="6375836042317483758">"ବିଦେଶ/ଅଭିଯାନ"</string>
+    <string name="nav_Social_sciences" msgid="2552058953348385271">"ସାମାଜିକ/ଆଧ୍ୟାତ୍ମିକ ବିଜ୍ଞାନ"</string>
+    <string name="nav_Further_Education" msgid="3652921897487755257">"ପରବର୍ତ୍ତୀ ଶିକ୍ଷା"</string>
+    <string name="nav_Languages" msgid="8979824056359689450">"ଭାଷାଗୁଡ଼ିକ"</string>
+    <string name="nav_Movie" msgid="373389300795401657">"ମୁଭି"</string>
+    <string name="nav_Leisure_Hobbies" msgid="2742977934574491795">"ଅବକାଶ ରୁଚି (ସାଧାରଣ)"</string>
+    <string name="nav_Tourism" msgid="2206534807802085595">"ପର୍ଯ୍ୟଟନ/ଭ୍ରମଣ"</string>
+    <string name="nav_Handicraft" msgid="5446091048096305473">"ହସ୍ତଶିଳ୍ପ"</string>
+    <string name="nav_Motoring" msgid="4160103961980735576">"ମୋଟରିଂ"</string>
+    <string name="nav_Fitness_and_Health" msgid="2432505034639236793">"ସୁସ୍ଥତା ଏବଂ ସ୍ୱାସ୍ଥ୍ୟ"</string>
+    <string name="nav_Advertisement" msgid="5363575588003558517">"ବିଜ୍ଞାପନ/ସପିଂ"</string>
+    <string name="nav_Gardening" msgid="1358278892867306976">"ବଗିଚାକାମ"</string>
+    <string name="nav_Original_language" msgid="2573570488640913389">"ମୂଳ ଭାଷା"</string>
+    <string name="nav_Black_and_White" msgid="123677481804570864">"କଳା ଓ ଧଳା"</string>
+    <string name="nav_Unpublished" msgid="3767225414701637677">"ଅପ୍ରକାଶିତ"</string>
+    <string name="nav_plano_stereoscopic" msgid="7900614697578947188">"ପ୍ଲାନୋ-ଷ୍ଟେରିଓସ୍କୋପିକ୍"</string>
+    <string name="nav_local_or_regional" msgid="2374763601211492934">"ସ୍ଥାନୀୟ କିମ୍ବା ଆଞ୍ଚଳିକ"</string>
+    <string name="nav_UNKNOW" msgid="2329192642842883800">"ଅଜଣା"</string>
+    <string name="nav_MONO" msgid="5964204903436155057">"ମୋନୋ"</string>
+    <string name="nav_STEREO" msgid="1173990767733612620">"ଷ୍ଟେରିଓ"</string>
+    <string name="nav_SAP" msgid="8659770437081469248">"SAP"</string>
+    <string name="nav_DUAL1" msgid="519339402026386669">"Dual1"</string>
+    <string name="nav_DUAL2" msgid="5675496762534505028">"Dual2"</string>
+    <string name="nav_NICAM_MONO" msgid="7769686848165289720">"Nicam Mono"</string>
+    <string name="nav_NICAM_STEREO" msgid="3856113660877677151">"Nicam Stereo"</string>
+    <string name="nav_NICAM_DUAL1" msgid="6525638479776627839">"Nicam Dual1"</string>
+    <string name="nav_NICAM_DUAL2" msgid="1754387769798722520">"Nicam Dual2"</string>
+    <string name="nav_FM_MONO" msgid="2543877636805414180">"FM ମୋନୋ"</string>
+    <string name="nav_FM_STEREO" msgid="7770673071379369067">"FM ଷ୍ଟେରିଓ"</string>
+    <string name="nav_Dual_Mono" msgid="3673009370247312330">"ଡୁଆଲ୍ ମୋନୋ"</string>
+    <string name="nav_Surround_2CH" msgid="8608301678331658729">"ପରିପାର୍ଶ୍ଵର 2ଟି ଚ୍ୟାନେଲ୍"</string>
+    <string name="nav_Surround" msgid="5461235279942804744">"ପରିପାର୍ଶ୍ୱ"</string>
+    <string name="nav_num_CH" msgid="3330063422869273430">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$s</xliff:g> ଚ୍ୟାନେଲ୍"</string>
+    <string name="nav_Sunday" msgid="1543041185005799709">"ରବିବାର"</string>
+    <string name="nav_Monday" msgid="6992612570374105204">"ସୋମବାର"</string>
+    <string name="nav_Tuesday" msgid="46359676068985925">"ମଙ୍ଗଳବାର"</string>
+    <string name="nav_Wednesday" msgid="7437812315228564561">"ବୁଧବାର"</string>
+    <string name="nav_Thursday" msgid="2086750884783388391">"ଗୁରୁବାର"</string>
+    <string name="nav_Friday" msgid="7464890933282521242">"ଶୁକ୍ରବାର"</string>
+    <string name="nav_Saturday" msgid="6454861943592948168">"ଶନିବାର"</string>
+    <string name="nav_Cancel" msgid="7617524187961590647">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="nav_Accept" msgid="7548118392838609215">"ସ୍ୱୀକାର କରନ୍ତୁ"</string>
+    <string name="nav_Remind_me_Later" msgid="984453100440930687">"ମୋତେ ପରେ ରିମାଇଣ୍ଡ କରନ୍ତୁ"</string>
+    <string name="nav_No_Signal" msgid="4425690584431331306">"କୌଣସି ସିଗ୍‌ନାଲ୍ ନାହିଁ!"</string>
+    <string name="nav_Please_Scan_Channels" msgid="6921350197405145179">"ଦୟାକରି ଚ୍ୟାନେଲ୍‌ଗୁଡ଼ିକୁ ସ୍କାନ୍ କରନ୍ତୁ!"</string>
+    <string name="nav_Retrieving_Data" msgid="7969007055616561943">"ଡାଟା ପୁନରୁଦ୍ଧାର ହେଉଛି"</string>
+    <string name="nav_Childrens" msgid="6831456170842790872">"ପିଲାମାନଙ୍କର"</string>
+    <string name="nav_Channel_Locked" msgid="2352759515560215768">"ଚ୍ୟାନେଲ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_Program_Locked" msgid="5136827293232303669">"ପ୍ରୋଗ୍ରାମ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_Input_Locked" msgid="4656472229392175517">"ଇନ୍‌ପୁଟ୍ ଲକ୍ କରାଯାଇଛି!"</string>
+    <string name="nav_No_program_title" msgid="1025175380273805238">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ଟାଇଟେଲ୍ ନାହିଁ।)"</string>
+    <string name="nav_Hidden_Channel" msgid="7840175771914493133">"ଲୁକ୍କାୟିତ ଚ୍ୟାନେଲ୍!"</string>
+    <string name="nav_Audio_Program" msgid="750651562397983758">"ଅଡିଓ ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_No_Audio_and_Video" msgid="5246878918070447382">"କୌଣସି ଅଡିଓ ଏବଂ ଭିଡିଓ ନାହିଁ"</string>
+    <string name="nav_No_program_details" msgid="6784347151583110026">"(କୌଣସି ପ୍ରୋଗ୍ରାମ୍ ବିବରଣୀ ନାହିଁ।)"</string>
+    <string name="nav_No_channel_details" msgid="2108452697412045355">"(କୌଣସି ଚ୍ୟାନେଲ୍ ବିବରଣୀ ନାହିଁ।)"</string>
+    <string name="nav_No_Audio_Stream" msgid="8708600459640992732">"କୌଣସି ଅଡିଓ ଷ୍ଟ୍ରିମ୍ ନାହିଁ"</string>
+    <string name="nav_No_Video_Stream" msgid="7517504210645255208">"କୌଣସି ଭିଡିଓ ଷ୍ଟ୍ରିମ୍ ନାହିଁ"</string>
+    <string name="nav_Please_Wait" msgid="1823765577040951588">"ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ..."</string>
+    <string name="nav_Video_not_Support" msgid="8818543693009711253">"ଭିଡିଓଟି ସମର୍ଥିତ ନୁହେଁ"</string>
+    <string name="nav_HD_Service" msgid="5014328749354031501">"ସପୋର୍ଟ କରୁନାହିଁ"</string>
+    <string name="nav_Non_Broadcasting" msgid="1925028466418229027">"ନନ୍-ବ୍ରଡକାଷ୍ଟିଂ"</string>
+    <string name="nav_No_Channel" msgid="8000498560272966399">"କୌଣସି ଚ୍ୟାନେଲ୍ ନାହିଁ"</string>
+    <string name="nav_This_content_is_blocked" msgid="7972345876792877737">"ଆପଣଙ୍କ ସେବା ପ୍ରଦାତାଙ୍କ ଦ୍ୱାରା ଏହି ବିଷୟବସ୍ତୁ ବ୍ଲକ୍ କରାଯାଇଛି।"</string>
+    <string name="nav_Scrambled" msgid="9151790137831251844">"ଅସ୍ପଷ୍ଟ"</string>
+    <string name="nav_Moving_Positioner" msgid="2192749429911603964">"ପୋଜିସନର୍ ଘୁଞ୍ଚୁଛି..."</string>
+    <string name="nav_Service_Not_Running" msgid="5008698094740226314">"ସେବା ଚାଲୁ ନାହିଁ"</string>
+    <string name="nav_Disable" msgid="4267005461999346240">"ଅକ୍ଷମ କରନ୍ତୁ"</string>
+    <string name="nav_Nonstop" msgid="6562125397170361637">"ଅବିରତ"</string>
+    <string name="nav_Step" msgid="1535888822361943521">"ଷ୍ଟେପ୍"</string>
+    <string name="nav_Timeout" msgid="2717698496855049019">"ସମୟ ସମାପ୍ତ"</string>
+    <string name="nav_Zoom" msgid="4784673586234419251">"ଜୁମ୍ କରନ୍ତୁ"</string>
+    <string name="msg_channel_added_one" msgid="8891453665943022634">"<xliff:g id="MSG_CHANNEL">%1$d</xliff:g> ଚ୍ୟାନେଲ୍ ଯୋଗ କରାଯାଇଛି"</string>
+    <string name="msg_no_channel_added_other" msgid="1293770946898508954">"<xliff:g id="MSG_NO_CHANNEL_ADDED">%1$d</xliff:g>ଟି ଚ୍ୟାନେଲ୍ ଯୋଗ କରାଯାଇଛି"</string>
+    <string name="msg_no_channel_added" msgid="6012765156842077538">"କୌଣସି ଚ୍ୟାନେଲ୍ ଯୋଗ କରାଯାଇନାହିଁ"</string>
+    <string name="dvr_devices_mount" msgid="1234820896587479766">"USB ଡିଭାଇସ୍ ସଂଯୋଗ ହୋଇଛି"</string>
+    <string name="vga_power_time" msgid="6443470680010207003">"0<xliff:g id="VGA_POWER_TIME_MIN">%1$d</xliff:g>:0<xliff:g id="VGA_POWER_TIME_SEC">%2$d</xliff:g>"</string>
+    <string name="vga_power_time_two" msgid="5994597112286876149">"0<xliff:g id="VGA_POWER_TIME_MIN_TWO">%1$d</xliff:g>:<xliff:g id="VGA_POWER_TIME_SEC_TWO">%2$d</xliff:g>"</string>
+    <string name="special_config_lable" msgid="2284363079428727321">"CH<xliff:g id="CONFIG_LABLE">%1$s</xliff:g>"</string>
+    <string name="license_info_dialog_sign" msgid="312621538618828980">"<xliff:g id="SIGN_ONE">%1$d</xliff:g>/<xliff:g id="SIGN_TWO">%2$d</xliff:g>"</string>
+    <string name="nav_percent_sign" msgid="1804434214124447939">"<xliff:g id="NAV_PERCENT_SIGN_VALUE">%1$d</xliff:g>%%"</string>
+    <string name="nav_NEWS_SA" msgid="588403828661392490">"ସମାଚାର, ରିପୋର୍ଟ"</string>
+    <string name="nav_News_sa" msgid="4078485895049636995">"ରେଗୁଲାର୍, ସାଧାରଣ"</string>
+    <string name="nav_Weather_Report_sa" msgid="2966360176726167336">"ପାଣିପାଗ ରିପୋର୍ଟ"</string>
+    <string name="nav_Special_program_sa" msgid="9047394715031764418">"ସ୍ପେସିଆଲ୍ ପ୍ରୋଗ୍ରାମ୍, ଡକ୍ୟୁମେଣ୍ଟାରୀ"</string>
+    <string name="nav_Politics_sa" msgid="8692797935325382999">"ରାଜନୀତି, ଜାତୀୟ ସଭା"</string>
+    <string name="nav_Economics_sa" msgid="3307470267321933669">"ଅର୍ଥନୀତି, ମାର୍କର୍ ରିପୋର୍ଟ"</string>
+    <string name="nav_Overseas_sa" msgid="3747956060154665943">"ଓଭରସିଜ୍, ଆନ୍ତର୍ଜାତୀୟ ରିପୋର୍ଟ"</string>
+    <string name="nav_News_analisis_sa" msgid="2709673854663011997">"ସମାଚାର ଆନାଲିସିସ୍"</string>
+    <string name="nav_Discussion_sa" msgid="5929362767175579586">"ଆଲୋଚନା, କନଫରେନ୍ସ"</string>
+    <string name="nav_Special_report_sa" msgid="516418317017980926">"ସ୍ପେସିଆଲ୍ ରିପୋର୍ଟ"</string>
+    <string name="nav_Local_program_sa" msgid="2184453960648947427">"ସ୍ଥାନୀୟ ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_Traffic_report_sa" msgid="4864896650781813095">"ଟ୍ରାଫିକ୍ ରିପୋର୍ଟ"</string>
+    <string name="nav_Others_sa" msgid="998409201479443361">"ଅନ୍ୟମାନେ"</string>
+    <string name="nav_SPORTS_SA" msgid="9144720611589594382">"ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Sports_news_sa" msgid="7684740721075142318">"ସ୍ପୋର୍ଟସ୍ ସମାଚାର"</string>
+    <string name="nav_Baseball_sa" msgid="6716071109682846442">"ବେସବଲ୍"</string>
+    <string name="nav_Soccer_sa" msgid="1312563792331939305">"ସକର୍"</string>
+    <string name="nav_Golf_sa" msgid="1253151215784285549">"ଗଲ୍ଫ"</string>
+    <string name="nav_Other_ball_sa" msgid="5932267196244939155">"ଅନ୍ୟ ବଲ୍ ଗେମ୍ସ"</string>
+    <string name="nav_Sumo_sa" msgid="40361118503172651">"ସୁମୋ, କମ୍ବାଟିଭ୍ ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Olympic_sa" msgid="6401967282343973836">"ଅଲିମ୍ପିକ୍, ଆନ୍ତର୍ଜାତୀୟ ଗେମ୍ସ"</string>
+    <string name="nav_Marathon_sa" msgid="7592732997388665678">"ମାରାଥନ, ଆଥଲେଟିକ୍ ସ୍ପୋର୍ଟସ୍, ସନ୍ତରଣ"</string>
+    <string name="nav_Motor_sa" msgid="5240740911241940133">"ମୋଟର୍ ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Marine_sa" msgid="7338901193038264886">"ମେରାଇନ୍ ସ୍ପୋର୍ଟସ୍, ୱିଣ୍ଟର ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Horse_race_sa" msgid="2646061752919784406">"ଘୋଡ଼ା ଦୌଡ଼, ସାର୍ବଜନୀନ ଦୌଡ଼"</string>
+    <string name="nav_INFORMATION_SA" msgid="5773850341168412017">"ସୂଚନା/ଟାବଲଏଡ୍ ଶୋ"</string>
+    <string name="nav_Gossip_sa" msgid="4113658340252435541">"ଗସିପ୍/ଟାବଲଏଡ୍ ଶୋ"</string>
+    <string name="nav_Fashion_sa" msgid="1080670509158220474">"ଫେସନ୍"</string>
+    <string name="nav_Living_sa" msgid="7775026060503448530">"ବସବାସ କରିବା, ଘର"</string>
+    <string name="nav_Health_sa" msgid="6203438185267447781">"ସ୍ୱାସ୍ଥ୍ୟ, ଡାକ୍ତରୀ ଚିକିତ୍ସା"</string>
+    <string name="nav_Shopping_sa" msgid="5359730743422967430">"ସପିଂ, ମେଲ୍-ଅର୍ଡର୍ ବିଜିନେସ୍"</string>
+    <string name="nav_Gourmet_sa" msgid="1897210291128847840">"ଗୁରମେଟ୍, ରୋଷେଇ"</string>
+    <string name="nav_Events_sa" msgid="5443791148920743588">"ଇଭେଣ୍ଟଗୁଡ଼ିକ"</string>
+    <string name="nav_Program_guide_sa" msgid="172370616761362438">"ପ୍ରୋଗ୍ରାମ୍ ଗାଇଡ୍, ସୂଚନା"</string>
+    <string name="nav_DRAMA_SA" msgid="9134229304370094253">"ଡ୍ରାମା"</string>
+    <string name="nav_Japanese_sa" msgid="1809142524497621993">"ଜାପାନିଜ ଡ୍ରାମା"</string>
+    <string name="nav_Overseas_dramas_sa" msgid="5788384233415248264">"ଓଭରସିଜ୍ ଡ୍ରାମା"</string>
+    <string name="nav_Period_sa" msgid="3768546977583292215">"ପିରିଅଡ୍ ଡ୍ରାମା"</string>
+    <string name="nav_MUSIC_SA" msgid="6627059359192965422">"ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_Rock_sa" msgid="5243261233617607998">"ଜାପାନିଜ ରକ୍, ପପ୍ ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_Overseas_rock_sa" msgid="468372470690578128">"ଓଭରସିଜ୍ ରକ୍, ପପ୍ ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_Classic_sa" msgid="2234409890948755317">"କ୍ଲାସିକ୍, ଅପେରା"</string>
+    <string name="nav_Jazz_sa" msgid="5565281119863947709">"ଜାଜ୍, ଫ୍ୟୁଜନ୍"</string>
+    <string name="nav_Popular_sa" msgid="7248744440286912124">"ଲୋକପ୍ରିୟ ଗୀତ, ଜାପାନିଜ ଲୋକପ୍ରିୟ ଗୀତ (ଏନକା ଗୀତ)"</string>
+    <string name="nav_Live_concert_sa" msgid="5914271084697251230">"ଲାଇଭ୍ କନସର୍ଟ୍"</string>
+    <string name="nav_Ranking_sa" msgid="1852915244795225252">"ରେଙ୍କିଂ, ଅନୁରୋଧ କରାଯାଇଥିବା ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_Karaoke_sa" msgid="7118383045713716846">"କାରାଓକେ, ସୌଖୀନ ଗୀତ ଗାଇବା ପ୍ରତିଯୋଗିତା"</string>
+    <string name="nav_Ballad_sa" msgid="5674152464877812744">"ଜାପାନିଜ ବାଲାଡ୍, ଜାପାନିଜ ପାରମ୍ପରିକ ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_Childrens_song_sa" msgid="5424477391960867406">"ପିଲାଙ୍କ ଗୀତ"</string>
+    <string name="nav_Folk_sa" msgid="4206693975914382487">"ଫୋକ୍ ମ୍ୟୁଜିକ୍, ୱାର୍ଲ୍ଡ ମ୍ୟୁଜିକ୍"</string>
+    <string name="nav_VARIETY_SA" msgid="665812415541556131">"ବିଭିନ୍ନ ଶୋ"</string>
+    <string name="nav_Quiz_sa" msgid="7889254320652743571">"କୁଇଜ୍"</string>
+    <string name="nav_Game_sa" msgid="8860523726680025850">"ଗେମ୍"</string>
+    <string name="nav_Talk_variety_sa" msgid="3146815438836614710">"ଟକ୍ ଶୋ\'ର ପ୍ରକାର"</string>
+    <string name="nav_Comedy_program_sa" msgid="9029624226612544774">"କମେଡି ପ୍ରୋଗ୍ରାମ୍"</string>
+    <string name="nav_Music_variety_sa" msgid="5960536243378369431">"ମ୍ୟୁଜିକର ବିଭିନ୍ନ ପ୍ରକାର"</string>
+    <string name="nav_Tour_sa" msgid="1064217920952534771">"ଯାତ୍ରାର ପ୍ରକାର"</string>
+    <string name="nav_Cocking_sa" msgid="6993507339935504263">"ବିଭିନ୍ନ ପ୍ରକାରର ରୋଷେଇ"</string>
+    <string name="nav_MOVIES_SA" msgid="109821876319564851">"ମୁଭି"</string>
+    <string name="nav_Overseas_movies_sa" msgid="1023323435201154306">"ଓଭରସିଜ୍ ମୁଭି"</string>
+    <string name="nav_Japanese_movies_sa" msgid="5407129016759357530">"ଜାପାନିଜ ମୁଭି"</string>
+    <string name="nav_Animation_movies_sa" msgid="4092498780895009315">"ଆନିମେସନ୍"</string>
+    <string name="nav_ANIMATION_SA" msgid="7109269795352673155">"ଆନିମେସନ୍/ସ୍ପେସିଆଲ୍ ଇଫେକ୍ଟ ମୁଭି"</string>
+    <string name="nav_Japanese_animation_sa" msgid="8140497578825267884">"ଜାପାନିଜ ଆନିମେସନ୍"</string>
+    <string name="nav_Overseas_animation_sa" msgid="908857413571897711">"ଓଭରସିଜ୍ ଆନିମେସନ୍"</string>
+    <string name="nav_Special_effects_sa" msgid="6195397241263387785">"ସ୍ପେସିଆଲ୍ ଇଫେକ୍ଟ"</string>
+    <string name="nav_DOCUMENTARY_SA" msgid="273709365086519291">"ଡକ୍ୟୁମେଣ୍ଟାରୀ/ସଂସ୍କୃତି"</string>
+    <string name="nav_Social_events_sa" msgid="6955041851599591609">"ସାମାଜିକ, ବର୍ତ୍ତମାନର ଇଭେଣ୍ଟଗୁଡ଼ିକ"</string>
+    <string name="nav_History_sa" msgid="5436756662158442209">"ଇତିହାସ, ଯାତ୍ରାର ରେକର୍ଡ"</string>
+    <string name="nav_Nature_sa" msgid="6134317789671534472">"ପ୍ରକୃତି, ଜୀବଜନ୍ତୁ, ପରିବେଶ"</string>
+    <string name="nav_Science_sa" msgid="6329251948867332296">"ମହାକାଶ, ବିଜ୍ଞାନ, ଡାକ୍ତରୀ ବିଜ୍ଞାନ"</string>
+    <string name="nav_Culture_sa" msgid="4447376466213581085">"ସଂସ୍କୃତି, ପାରମ୍ପରିକ ସଂସ୍କୃତି"</string>
+    <string name="nav_Literature_sa" msgid="8402565093184706475">"ସାହିତ୍ୟ, ସାହିତ୍ୟିକ କଳା"</string>
+    <string name="nav_Sports_sa" msgid="4655841880997766309">"ସ୍ପୋର୍ଟସ୍"</string>
+    <string name="nav_Total_documentary_sa" msgid="8359072777003907639">"ମୋଟ ଡକ୍ୟୁମେଣ୍ଟାରୀ"</string>
+    <string name="nav_Interviews_sa" msgid="6630052105744757311">"ସାକ୍ଷାତକାର, ଆଲୋଚନା"</string>
+    <string name="nav_THEATRE_SA" msgid="8974332067209571570">"ଥିଏଟର୍/ପବ୍ଲିକ୍ ପରଫରମାନ୍ସ"</string>
+    <string name="nav_Modern_drama_sa" msgid="521384632051767107">"ଆଧୁନିକ ଡ୍ରାମା, ପାଶ୍ଚାତ୍ୟ-ଶୈଳୀର ଡ୍ରାମା"</string>
+    <string name="nav_Musical_sa" msgid="3923446084419312125">"ମ୍ୟୁଜିକାଲ୍"</string>
+    <string name="nav_Dance_sa" msgid="1360518573780719910">"ନାଚ, ବାଲେଟ୍"</string>
+    <string name="nav_Comic_story_sa" msgid="1515257472064134851">"କମିକ୍ ଷ୍ଟୋରୀ, ମନୋରଞ୍ଜନ"</string>
+    <string name="nav_Kabuki_sa" msgid="6701718622445257554">"କାବୁକି, କ୍ଲାସିକାଲ୍ ଡ୍ରାମା"</string>
+    <string name="nav_HOBBY_SA" msgid="8223174910041052349">"ଅଭ୍ୟାସ/ଶିକ୍ଷା"</string>
+    <string name="nav_Outdoor_entertainment_sa" msgid="6015556343656852650">"ଭ୍ରମଣ, ମାଛ ଧରିବା, ଆଉଟଡୋର୍ ମନୋରଞ୍ଜନ"</string>
+    <string name="nav_Gardening_sa" msgid="1765059596896216380">"ବଗିଚାକାମ, ଗୃହପାଳିତ ପଶୁ, ହସ୍ତଶିଳ୍ପ"</string>
+    <string name="nav_Art_hobby_sa" msgid="6554614247798295199">"ମ୍ୟୁଜିକ୍, ଆର୍ଟ, ଇଣ୍ଡଷ୍ଟ୍ରିଆଲ୍ ଆର୍ଟ"</string>
+    <string name="nav_Japenese_chess_sa" msgid="5950908321643041601">"ଜାପାନିଜ ଚେସ୍ (ସୋଗି) ଏବଂ \"ଗୋ\""</string>
+    <string name="nav_Pinball_sa" msgid="2845711634208725361">"ମାହ-ଜୋଙ୍ଗ, ପିନବଲ୍ ଗେମ୍"</string>
+    <string name="nav_Cars_sa" msgid="2691198266609566393">"କାର, ମୋଟର୍ ବାଇକଗୁଡ଼ିକ"</string>
+    <string name="nav_Computer_games_sa" msgid="2740628597884358931">"କମ୍ପ୍ୟୁଟର, ଟିଭି ଗେମ୍"</string>
+    <string name="nav_Conversation_sa" msgid="1696469391180059577">"ବାର୍ତ୍ତାଳାପ, ଭାଷା"</string>
+    <string name="nav_Little_children_sa" msgid="8335075907050996501">"ଛୋଟ ପିଲା, ସ୍କୁଲ୍ ପିଲା"</string>
+    <string name="nav_Junior_high_school_sa" msgid="4946731424053160407">"ଜୁନିଅର୍ ହାଇ ସ୍କୁଲ୍ ଏବଂ ହାଇ ସ୍କୁଲ୍ ବିଦ୍ୟାର୍ଥୀ"</string>
+    <string name="nav_University_sa" msgid="7068372345809953307">"ବିଶ୍ୱବିଦ୍ୟାଳୟର ବିଦ୍ୟାର୍ଥୀ, ପରୀକ୍ଷା"</string>
+    <string name="nav_Lifelong_education_sa" msgid="7667815794777596798">"ଆଜୀବନ ଶିକ୍ଷା, ଯୋଗ୍ୟତା"</string>
+    <string name="nav_Educational_problem_sa" msgid="1192313608379234158">"ଶୈକ୍ଷିକ ସମସ୍ୟା"</string>
+    <string name="nav_WELFARE_SA" msgid="2784119023122415578">"କଲ୍ୟାଣ"</string>
+    <string name="nav_Old_aged_sa" msgid="88965773203853871">"ବୃଦ୍ଧ ବୟସର ବ୍ୟକ୍ତିମାନେ"</string>
+    <string name="nav_Handicapped_sa" msgid="584686890574365542">"ଭିନ୍ନକ୍ଷମ ବ୍ୟକ୍ତିମାନେ"</string>
+    <string name="nav_Social_welfare_sa" msgid="269526386269476136">"ସାମାଜିକ କଲ୍ୟାଣ"</string>
+    <string name="nav_Volunteers_sa" msgid="879615490910022244">"ସ୍ୱେଚ୍ଛାସେବୀମାନେ"</string>
+    <string name="nav_Sign_language_sa" msgid="4470690495472078506">"ସାଙ୍କେତିକ ଭାଷା"</string>
+    <string name="nav_Text_sa" msgid="5684928688361598169">"ଟେକ୍ସଟ୍ (ସବଟାଇଟେଲ୍)"</string>
+    <string name="nav_Explanation_sa" msgid="4244257989998469079">"ସାଉଣ୍ଡ ମଲ୍ଟିପ୍ଲେକ୍ସ ବ୍ରଡକାଷ୍ଟ ଉପରେ ବ୍ୟାଖ୍ୟା"</string>
+    <string name="nav_RESERVED_SA" msgid="5312180884586333534">"ରିଜର୍ଭ କରାଯାଇଛି"</string>
+    <string name="nav_Reserved_sa" msgid="4035149701030955594">"ରିଜର୍ଭ କରାଯାଇଛି"</string>
+    <string name="nav_FOR_EXTENSION_SA" msgid="1211905037639289115">"ଏକ୍ସଟେନସନ୍ ପାଇଁ"</string>
+    <string name="nav_Appendix_bs_sa" msgid="1231222501166526460">"BS/ଟେରେଷ୍ଟ୍ରିଆଲ ଡିଜିଟାଲ ବ୍ରଡକାଷ୍ଟ ପ୍ରୋଗ୍ରାମର ପରିଶିଷ୍ଟ ସୂଚନା"</string>
+    <string name="nav_Extension_cs_sa" msgid="6032109737121463545">"ବ୍ରଡବ୍ୟାଣ୍ଡ CS ଡିଜିଟାଲ ବ୍ରଡକାଷ୍ଟିଂ ପାଇଁ ଏକ୍ସଟେନସନ୍"</string>
+    <string name="nav_Extension_digital_sa" msgid="2472481098917054792">"ଡିଜିଟାଲ ସାଟେଲାଇଟ ସାଉଣ୍ଡ ବ୍ରଡକାଷ୍ଟିଂ ପାଇଁ ଏକ୍ସଟେନସନ"</string>
+    <string name="nav_Appendix_server_type_sa" msgid="517955942667234433">"ସର୍ଭର୍-ପ୍ରକାର ପ୍ରୋଗ୍ରାମ୍ ପାଇଁ ପରିଶିଷ୍ଟ ସୂଚନା"</string>
+    <string name="nav_OTHERS_SA" msgid="1470108166158892565">"ଅନ୍ୟମାନେ"</string>
+    <string name="str_uk_banner_indication_previous" msgid="8370264809404019282">"ପୂର୍ବବର୍ତ୍ତୀ"</string>
+    <string name="inputspanel_android_tv_home" msgid="2183428351070826605">"Android TV Home"</string>
+    <string name="epg_type_none" msgid="2513297384655608276">"କିଛି ନାହିଁ"</string>
+    <string name="twinkle_dialog_program_lock_value" msgid="503031018391687811">"ଏହି ପ୍ରୋଗ୍ରାମକୁ <xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$s</xliff:g>ରେ ମୂଲ୍ୟାଙ୍କନ କରାଯାଇଛି"</string>
+    <string name="twinkle_dialog_input_lock_title" msgid="3845747400702657207">"ଇନପୁଟ୍ ଲକ୍ କରାଯାଇଛି"</string>
+    <string name="twinkle_dialog_input_lock_msg" msgid="8635344987707182474">"ଆପଣଙ୍କ ଦ୍ୱାରା ନିର୍ଦ୍ଧାରଣ କରାଯାଇଥିବା ଇନପୁଟ୍ ସୋର୍ସ ଲକିଂ ଯୋଗୁଁ ଇନପୁଟ୍ ସୋର୍ସକୁ ଲକ୍ କରାଯାଇଛି। ଟିଭି ମେନୁ ମାଧ୍ୟମରେ ଏହାକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ। ସ୍କ୍ରିନ୍ ଅନଲକ୍ କରିବାକୁ ENTER ଦବାନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_no_signal_nontv_msg" msgid="4531475926203448815">"ଏକ୍ସଟର୍ନଲ୍ ଇନପୁଟ୍ ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା INPUT ବଟନ୍ ବ୍ୟବହାର କରି ଅନ୍ୟ ଏକ ଇନପୁଟ୍ ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_please_scan_channel_msg" msgid="2992915289324087677">"କୌଣସି ଚ୍ୟାନେଲ୍ ଇନଷ୍ଟଲ୍ କରାଯାଇନାହିଁ। ଦୟାକରି ଟିଭିର ମେନୁ ମାଧ୍ୟମରେ ଚ୍ୟାନେଲଗୁଡ଼ିକୁ ସ୍କାନ୍ କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_retrieving_data_msg" msgid="4875530805932004418">"ବିଷୟବସ୍ତୁ ଶୀଘ୍ର ଆସୁଅଛି। ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_hidden_channel_msg" msgid="532101319394127685">"ବର୍ତ୍ତମାନ ଏହି ଚ୍ୟାନେଲଟି ଉପଲବ୍ଧ ନାହିଁ। ଅଧିକ ସୂଚନା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_audio_program_msg" msgid="941689825014756320">"ଚ୍ୟାନେଲରେ କେବଳ ଅଡିଓ ପ୍ରୋଗ୍ରାମ୍ ଅଛି।"</string>
+    <string name="twinkle_dialog_no_audio_video_msg" msgid="7961373546782601065">"ଚ୍ୟାନେଲରେ ଭିଡିଓ ଏବଂ ଅଡିଓ ବିଷୟବସ୍ତୁ ନାହିଁ।"</string>
+    <string name="twinkle_dialog_please_wait_title" msgid="725264684329312017">"ଲୋଡ୍ ହେଉଛି"</string>
+    <string name="twinkle_dialog_please_wait_msg" msgid="1733617360069040358">"ଚ୍ୟାନେଲ୍ ଡାଟା ଲୋଡ୍ କରାଯାଉଛି। ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_video_not_support_msg" msgid="3558492969327887533">"ଟିଭିରେ ଭିଡିଓ ଫର୍ମାଟ୍ ସମର୍ଥିତ ନୁହେଁ।"</string>
+    <string name="twinkle_dialog_non_broadcasting_msg" msgid="2014818369272906387">"ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀଙ୍କ ଦ୍ୱାରା ଏହି ବିଷୟବସ୍ତୁକୁ ବନ୍ଦ କରାଯାଇଛି।"</string>
+    <string name="twinkle_dialog_no_channel_msg" msgid="1400369018648606465">"ବର୍ତ୍ତମାନର ଚ୍ୟାନେଲ୍ ତାଲିକାରେ କୌଣସି ଚ୍ୟାନେଲ୍ ନାହିଁ।"</string>
+    <string name="twinkle_dialog_this_content_is_blocked_by_your_service_provider_msg" msgid="4978261610177823681">"ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀଙ୍କ ଦ୍ୱାରା ଏହି ବିଷୟବସ୍ତୁକୁ ବ୍ଲକ୍ କରାଯାଇଛି।"</string>
+    <string name="twinkle_dialog_moving_positioner_title" msgid="4062732733050175180">"ପୋଜିସନରକୁ ମୁଭ୍ କରାଯାଉଛି"</string>
+    <string name="twinkle_dialog_moving_positioner_msg" msgid="5099635874438955411">"ସାଟେଲାଇଟର ଅବସ୍ଥିତି ନିର୍ଣ୍ଣୟ କରିବାକୁ ପୋଜିସନର୍ ଘୂରୁଛି। ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରନ୍ତୁ।"</string>
+    <string name="twinkle_dialog_nav_service_not_running_msg" msgid="3123649722702249119">"କୌଣସି ସକ୍ରିୟ ଚ୍ୟାନେଲ୍ ସେବା ନାହିଁ।"</string>
+    <string name="twinkle_dialog_program_lock_title_non_ziggo_title" msgid="2879944854782896595">"ପ୍ରୋଗ୍ରାମ୍ ଲକ୍ କରାଯାଇଛି"</string>
+    <string name="twinkle_dialog_please_scan_channels_title" msgid="5153495923123253058">"ଦୟାକରି ଚ୍ୟାନେଲଗୁଡ଼ିକୁ ସ୍କାନ୍ କରନ୍ତୁ"</string>
+    <string name="twinkle_dialog_please_scan_channels_msg" msgid="1894575205131528453">"ବିଷୟବସ୍ତୁ ଶୀଘ୍ର ଆସୁଅଛି। ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରନ୍ତୁ।"</string>
+    <string name="nav_uk_channellist_type_ipapp_ip_channel" msgid="4852246670688130011">"IP ଚ୍ୟାନେଲଗୁଡ଼ିକ"</string>
+    <string name="nav_uk_category_Lifestyle_Leisure_hobbies" msgid="4595599306746256896">"ଲାଇଫଷ୍ଟାଇଲ୍/ଅବକାଶ ଅଭ୍ୟାସ"</string>
+    <string name="italy_clarify_text" msgid="1043639557116394355">"ଚ୍ୟାନେଲ୍ ଅର୍ଡରିଂ ପଦ୍ଧତି ଚୟନ କରନ୍ତୁ। ସ୍ୱଚାଳିତ ଚ୍ୟାନେଲ୍ ଅର୍ଡରିଂ ଡିଫଲ୍ଟ ପଦ୍ଧତି ଅଟେ।\n        Pay TV ଅର୍ଡରିଂ Pay TV ଗ୍ରାହକଙ୍କ ପାଇଁ ସମର୍ପିତ ଏକ ସୁବିଧାଜନକ ଉପାୟରେ ଚ୍ୟାନେଲ୍ ନମ୍ବରଗୁଡ଼ିକର ଉପଯୋଗକର୍ତ୍ତା ପ୍ରେଜେଣ୍ଟେସନକୁ ସକ୍ଷମ କରେ।\n        ଯଦି Pay TV ଅର୍ଡରିଂ ଚ୍ୟାନେଲଗୁଡ଼ିକୁ ଇନଷ୍ଟଲ୍ କରିବାରେ ବିଫଳ ହୁଏ ତେବେ ସ୍ୱଚାଳିତ ଚ୍ୟାନେଲ୍ ଅର୍ଡରିଂ ବ୍ୟବହାର କରନ୍ତୁ।"</string>
+    <string name="banner_transponder_frequency" msgid="9163676286922283591">"<xliff:g id="BANNER_TRANSPONDER_FREQUENCY">%1$d</xliff:g> MHz"</string>
+    <string name="banner_transponder_sysbol_rate" msgid="5761345425754357247">"<xliff:g id="BANNER_TRANSPONDER_SYSBOL_RATE">%1$d</xliff:g> Ksym/s"</string>
+    <string name="hbbtv_close_dialog" msgid="2608187961502463042">"ବନ୍ଦ କରନ୍ତୁ"</string>
+    <string name="menu_setup_ci_pin_code_correct_tip" msgid="1196513370440084482">"ସଠିକ୍!"</string>
+    <string name="menu_setup_ci_pin_invalid_type_tip" msgid="1459027740499472507">"କିଛି ଅବୈଧ ପ୍ରକାର!"</string>
+    <string name="cannot_be_empty" msgid="7735928820185294839">"ଖାଲି କରାଯାଇପାରିବ ନାହିଁ!"</string>
+    <string name="atsc_start_on_screen" msgid="7555502536719724563">"କ୍ଲିନ୍ ସ୍କ୍ରିନ୍ ସେବା ଆରମ୍ଭ ହୋଇଛି, ସ୍କ୍ରିନ୍ କ୍ଲିନ୍ ହେବାର ସ୍ଥିତି <xliff:g id="ATSC_START_ON_SCREEN_DURATION">%1$d</xliff:g> ମିନିଟରେ ମିଳିବ"</string>
+    <string name="atsc_end_on_screen" msgid="3449389933072208075">"କ୍ଲିନ୍ ସ୍କ୍ରିନ୍ ସେବା ବନ୍ଦ ହୋଇଯାଇଛି।"</string>
+    <string name="confirm_rescan_dialog_title" msgid="6833020719645419850">"ଆପଣଙ୍କୁ ସ୍କାନ୍ କରିବାର ଆବଶ୍ୟକତା ଅଛି ବୋଲି ଆପଣ ନିଶ୍ଚିତ କି? ଇନଷ୍ଟଲ୍ କରାଯାଇଥିବା ସମସ୍ତ ଚ୍ୟାନେଲକୁ କାଢ଼ି ଦିଆଯିବ।"</string>
+    <string name="menu_arrays_Bahasa_Melayu" msgid="2908704526338195080">"Bahasa Melayu"</string>
+    <string name="menu_arrays_hun_Original_Audio" msgid="8074088613393007873">"ସ୍ଥାନୀୟ"</string>
+    <string name="menu_arrays_hun_Multiple_Languages" msgid="8307380298233816683">"ମୂଳ"</string>
+    <string name="menu_arrays_other" msgid="8700230837493236303">"ଅନ୍ୟ ଭାଷା"</string>
+</resources>

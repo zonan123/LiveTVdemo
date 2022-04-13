@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/dvr_record_bg_color"
+    android:orientation="vertical" >
+
+<ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:max="1000000"
+        android:progress="0"
+        android:progressDrawable="@drawable/progressbar_pvr_color"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dvr_3_dp" />
+
+    <RelativeLayout
+        android:id="@+id/pvr_working_dataitem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/dvr_30_dp"
+        android:layout_marginStart="@dimen/dvr_30_dp"
+        android:layout_marginTop="@dimen/dvr_17.5_dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!--
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        -->
+
+        <ImageView
+            android:id="@+id/pvr_working_rec"
+            android:layout_width="@dimen/dvr_22_dp"
+            android:layout_height="@dimen/dvr_22_dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginEnd="@dimen/dvr_10_dp"
+            android:src="@drawable/dvr_record_icon" >
+        </ImageView>
+
+        <TextView
+            android:id="@+id/pvr_working_rec_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/pvr_working_rec"
+            android:text="@string/pvr_tshift_working_rec_time"
+            android:textColor="@color/white"
+            android:textSize="@dimen/nav_tv_pwd_ts" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/pvr_working_rec_time_other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/pvr_working_rec_time"
+            android:textColor="@color/dvr_record_info_txt_color"
+            android:textSize="@dimen/nav_tv_pwd_ts" >
+        </TextView>
+
+        <ImageView
+            android:id="@+id/pvr_working_rec_video"
+            android:layout_width="@dimen/dvr_22_dp"
+            android:layout_height="@dimen/dvr_22_dp"
+            android:layout_marginEnd="@dimen/dvr_10_dp"
+            android:layout_marginStart="@dimen/dvr_30_dp"
+            android:layout_toEndOf="@+id/pvr_working_rec_time_other"
+            android:src="@drawable/dvr_record_video_icon" >
+        </ImageView>
+
+        <TextView
+            android:id="@+id/info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/pvr_working_rec_video"
+            android:layout_toStartOf="@+id/pvr_working_currenttime"
+            android:gravity="center"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:textColor="@color/dvr_record_info_txt_color"
+            android:textSize="@dimen/nav_tv_pwd_ts" />
+
+        <!--
+            <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pvr_working_rec" >
+        -->
+
+        <TextView
+            android:id="@+id/pvr_working_currenttime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="@dimen/dvr_10_dp"
+            android:text="@string/pvr_tshift_working_cur_time"
+            android:textColor="@color/white"
+            android:textSize="@dimen/nav_tv_pwd_ts" >
+        </TextView>
+        <!--
+         </RelativeLayout>
+         </RelativeLayout>
+        -->
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ews_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_new"
+    android:paddingEnd="15dp"
+    android:paddingStart="15dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/nav_ews_dialog_margin_top"
+        android:layout_marginStart="@dimen/nav_ews_dialog_margin_left"
+        android:layout_marginEnd="@dimen/nav_ews_dialog_margin_left"
+        android:layout_marginTop="@dimen/nav_ews_dialog_margin_top"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/disaster_logo"
+                android:layout_width="108dp"
+                android:layout_height="108dp"
+                android:layout_alignParentStart="true" />
+
+            <ImageView
+                android:id="@+id/disaster_authority"
+                android:layout_width="108dp"
+                android:layout_height="108dp"
+                android:layout_alignParentEnd="true" />
+
+            <LinearLayout
+                android:id="@+id/title_info_root_for_awas_siaga"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toStartOf="@id/disaster_authority"
+                android:layout_toEndOf="@id/disaster_logo"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/disaster_status"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="@dimen/nav_ews_textsize_large"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/disaster_area"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:ellipsize="marquee"
+                    android:focusable="false"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/nav_ews_textsize_normal"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/title_info_root_for_waspada"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_toStartOf="@id/disaster_authority"
+                android:layout_toEndOf="@id/disaster_logo"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/disaster_status_for_waspada"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="@dimen/nav_ews_textsize_large"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/disaster_area_for_waspada"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="2"
+                    android:singleLine="true"
+                    android:ellipsize="marquee"
+                    android:focusable="false"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
+                    android:gravity="center|start"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/nav_ews_textsize_normal"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ews_middle_lay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:text="@string/ews_bencana"
+                    style="@style/ews_item_title_textView" />
+
+                <TextView
+                    android:id="@+id/ews_bencana"
+                    style="@style/ews_item_content_textView" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/ews_item_title_textView"
+                    android:text="@string/ews_tanggal"/>
+
+                <TextView
+                    android:id="@+id/ews_tanggal"
+                    style="@style/ews_item_content_textView" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:text="@string/ews_posisi"
+                    style="@style/ews_item_title_textView" />
+
+                <TextView
+                    android:id="@+id/ews_posisi"
+                    style="@style/ews_item_content_textView" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:text="@string/ews_karakter"
+                    style="@style/ews_item_title_textView" />
+
+                <TextView
+                    android:id="@+id/ews_karakter"
+                    style="@style/ews_item_content_textView" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:text="@string/ews_pesan"
+                    style="@style/ews_item_title_textView" />
+
+                <TextView
+                    android:id="@+id/ews_pesan"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:focusable="false" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/nav_ews_textsize_normal"
+            android:layout_weight="5"
+            android:background="@drawable/ews_logo_shape" >
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fadingEdge="vertical"
+                android:scrollbars="vertical"
+                android:paddingEnd="5dp"
+                android:paddingStart="5dp"
+                android:verticalScrollbarPosition="right" >
+
+                <TextView
+                    android:id="@+id/infomation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/nav_ews_textsize_normal" />
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
